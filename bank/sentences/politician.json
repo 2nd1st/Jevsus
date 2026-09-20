@@ -16,6 +16,19 @@
  {
   "id": "war_criminal",
   "needs_battery": true,
+  "battery": {
+   "judgement": "is responsible for war crimes",
+   "items": [
+    {"sign": 1, "statement": "{a} is a war criminal."},
+    {"sign": 1, "statement": "{a} is responsible for war crimes."},
+    {"sign": 1, "statement": "{a} bears personal responsibility for unlawful killings of civilians."},
+    {"sign": 1, "statement": "{a} belongs on trial before an international court."},
+    {"sign": 1, "statement": "Forces under {a} committed atrocities with his or her knowledge."},
+    {"sign": -1, "statement": "{a} has conducted war within the laws of war."},
+    {"sign": -1, "statement": "Accusations of war crimes against {a} are politically motivated and unfounded."},
+    {"sign": -1, "statement": "{a} took real care to avoid civilian deaths."}
+   ]
+  },
   "category": "geopolitics",
   "audience": "en",
   "tags": ["minimal-pair", "leaders"],

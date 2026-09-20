@@ -129841,7 +129841,7 @@
   "treated_as_opinion_above": 0.4
  },
  "date": "2026-09-20",
- "generated_at": "2026-09-20T20:40:00Z",
+ "generated_at": "2026-09-20T20:46:17Z",
  "range_wide_threshold": 0.2,
  "columns": [
   {
@@ -130170,10 +130170,10 @@
    ],
    "valid": true,
    "has_raw": true,
-   "n_calls": 64794,
+   "n_calls": 65162,
    "n_err": 0,
-   "tokens": 22020628,
-   "cost_usd": 0.9249,
+   "tokens": 22150054,
+   "cost_usd": 0.9303,
    "calibration": {
     "passed": true,
     "enforced": true,
@@ -130518,15 +130518,37 @@
   },
   "war_criminal": {
    "n_names": 23,
-   "n_with_battery": 5,
-   "n_flipped": 1,
+   "n_with_battery": 23,
+   "n_flipped": 6,
    "flipped": [
+    "war_criminal.bush",
+    "war_criminal.kim",
+    "war_criminal.kissinger",
+    "war_criminal.maduro",
+    "war_criminal.mbs",
     "war_criminal.putin"
    ]
   }
  },
  "battery_sentences": {
   "min_sd": 0.12,
+  "min_names": 10,
+  "floors": {
+   "war_criminal": {
+    "n_names": 7,
+    "names": [
+     "Emmanuel Macron",
+     "Narendra Modi",
+     "Viktor Orbán",
+     "Keir Starmer",
+     "Donald Trump",
+     "Xi Jinping",
+     "Volodymyr Zelensky"
+    ],
+    "mean_of_forward": 0.0246,
+    "mean_of_battery": 0.2062
+   }
+  },
   "batteries": {
    "autocrat": [
     {
@@ -130534,6 +130556,7 @@
      "n_names": 6,
      "mean": 0.2942,
      "sd": 0.3849,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130543,6 +130566,7 @@
      "n_names": 6,
      "mean": 0.3942,
      "sd": 0.3955,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130552,6 +130576,7 @@
      "n_names": 6,
      "mean": 0.54,
      "sd": 0.3749,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130561,6 +130586,7 @@
      "n_names": 6,
      "mean": 0.8283,
      "sd": 0.1736,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130570,6 +130596,7 @@
      "n_names": 6,
      "mean": 0.5733,
      "sd": 0.3752,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130579,6 +130606,7 @@
      "n_names": 6,
      "mean": 0.4242,
      "sd": 0.3968,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130588,6 +130616,7 @@
      "n_names": 6,
      "mean": 0.2883,
      "sd": 0.34,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130597,6 +130626,7 @@
      "n_names": 6,
      "mean": 0.1358,
      "sd": 0.164,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130606,6 +130636,7 @@
      "n_names": 6,
      "mean": 0.1883,
      "sd": 0.2256,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130617,6 +130648,7 @@
      "n_names": 6,
      "mean": 0.7475,
      "sd": 0.2225,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130626,6 +130658,7 @@
      "n_names": 6,
      "mean": 0.5367,
      "sd": 0.2701,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130635,6 +130668,7 @@
      "n_names": 6,
      "mean": 0.5483,
      "sd": 0.2636,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130644,6 +130678,7 @@
      "n_names": 6,
      "mean": 0.6667,
      "sd": 0.2152,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130653,6 +130688,7 @@
      "n_names": 6,
      "mean": 0.2392,
      "sd": 0.1767,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130662,6 +130698,7 @@
      "n_names": 6,
      "mean": 0.2833,
      "sd": 0.2498,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130671,6 +130708,7 @@
      "n_names": 6,
      "mean": 0.155,
      "sd": 0.1774,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130680,6 +130718,7 @@
      "n_names": 6,
      "mean": 0.2608,
      "sd": 0.3008,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130691,6 +130730,7 @@
      "n_names": 5,
      "mean": 0.487,
      "sd": 0.3175,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130700,6 +130740,7 @@
      "n_names": 5,
      "mean": 0.567,
      "sd": 0.3205,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130709,6 +130750,7 @@
      "n_names": 5,
      "mean": 0.557,
      "sd": 0.2546,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130718,6 +130760,7 @@
      "n_names": 5,
      "mean": 0.35,
      "sd": 0.3246,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130727,6 +130770,7 @@
      "n_names": 5,
      "mean": 0.503,
      "sd": 0.3479,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130736,6 +130780,7 @@
      "n_names": 5,
      "mean": 0.543,
      "sd": 0.3788,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130745,18 +130790,20 @@
      "n_names": 5,
      "mean": 0.128,
      "sd": 0.0611,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
-     "flagged": true
+     "flagged": false
     },
     {
      "k": 7,
      "n_names": 5,
      "mean": 0.095,
      "sd": 0.0738,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
-     "flagged": true
+     "flagged": false
     }
    ],
    "desecration": [
@@ -130765,6 +130812,7 @@
      "n_names": 4,
      "mean": 0.3212,
      "sd": 0.2224,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130774,6 +130822,7 @@
      "n_names": 4,
      "mean": 0.9087,
      "sd": 0.1042,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130783,6 +130832,7 @@
      "n_names": 4,
      "mean": 0.4388,
      "sd": 0.2903,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130792,6 +130842,7 @@
      "n_names": 4,
      "mean": 0.765,
      "sd": 0.1684,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130801,6 +130852,7 @@
      "n_names": 4,
      "mean": 0.9838,
      "sd": 0.0119,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130810,6 +130862,7 @@
      "n_names": 4,
      "mean": 0.6925,
      "sd": 0.1365,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130819,6 +130872,7 @@
      "n_names": 4,
      "mean": 0.015,
      "sd": 0.0127,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130830,6 +130884,7 @@
      "n_names": 1,
      "mean": 0.975,
      "sd": null,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130839,6 +130894,7 @@
      "n_names": 1,
      "mean": 0.98,
      "sd": null,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130848,6 +130904,7 @@
      "n_names": 1,
      "mean": 0.98,
      "sd": null,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130857,6 +130914,7 @@
      "n_names": 1,
      "mean": 0.99,
      "sd": null,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130866,6 +130924,7 @@
      "n_names": 1,
      "mean": 0.98,
      "sd": null,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130875,6 +130934,7 @@
      "n_names": 1,
      "mean": 0.99,
      "sd": null,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130884,6 +130944,7 @@
      "n_names": 1,
      "mean": 0.0,
      "sd": null,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130893,6 +130954,7 @@
      "n_names": 1,
      "mean": 0.005,
      "sd": null,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130902,6 +130964,7 @@
      "n_names": 1,
      "mean": 0.0,
      "sd": null,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130913,6 +130976,7 @@
      "n_names": 6,
      "mean": 0.4242,
      "sd": 0.356,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130922,6 +130986,7 @@
      "n_names": 6,
      "mean": 0.3667,
      "sd": 0.3565,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130931,6 +130996,7 @@
      "n_names": 6,
      "mean": 0.4317,
      "sd": 0.3563,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130940,6 +131006,7 @@
      "n_names": 6,
      "mean": 0.4625,
      "sd": 0.4396,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130949,6 +131016,7 @@
      "n_names": 6,
      "mean": 0.3233,
      "sd": 0.2986,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130958,6 +131026,7 @@
      "n_names": 6,
      "mean": 0.3483,
      "sd": 0.2557,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130967,6 +131036,7 @@
      "n_names": 6,
      "mean": 0.6675,
      "sd": 0.3053,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
@@ -130976,79 +131046,1799 @@
      "n_names": 6,
      "mean": 0.5767,
      "sd": 0.3616,
+     "judged": false,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
     }
    ],
-   "warcrimes": [
+   "war_criminal": [
     {
      "k": 0,
-     "n_names": 5,
-     "mean": 0.399,
-     "sd": 0.2877,
+     "n_names": 23,
+     "mean": 0.1289,
+     "sd": 0.2145,
+     "judged": true,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
     },
     {
      "k": 1,
-     "n_names": 5,
-     "mean": 0.577,
-     "sd": 0.2957,
+     "n_names": 23,
+     "mean": 0.2376,
+     "sd": 0.2904,
+     "judged": true,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
     },
     {
      "k": 2,
-     "n_names": 5,
-     "mean": 0.598,
-     "sd": 0.284,
+     "n_names": 23,
+     "mean": 0.2983,
+     "sd": 0.2799,
+     "judged": true,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
     },
     {
      "k": 3,
-     "n_names": 5,
-     "mean": 0.541,
-     "sd": 0.2564,
+     "n_names": 23,
+     "mean": 0.1922,
+     "sd": 0.2578,
+     "judged": true,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
     },
     {
      "k": 4,
-     "n_names": 5,
-     "mean": 0.597,
-     "sd": 0.2638,
+     "n_names": 23,
+     "mean": 0.41,
+     "sd": 0.3036,
+     "judged": true,
      "uniform_ok": null,
      "gap_with": null,
      "flagged": false
     },
     {
      "k": 5,
-     "n_names": 5,
-     "mean": 0.064,
-     "sd": 0.0796,
+     "n_names": 23,
+     "mean": 0.2404,
+     "sd": 0.2187,
+     "judged": true,
      "uniform_ok": null,
      "gap_with": null,
-     "flagged": true
+     "flagged": false
     },
     {
      "k": 6,
-     "n_names": 5,
-     "mean": 0.052,
-     "sd": 0.0393,
+     "n_names": 23,
+     "mean": 0.3413,
+     "sd": 0.2981,
+     "judged": true,
      "uniform_ok": null,
      "gap_with": null,
-     "flagged": true
+     "flagged": false
+    },
+    {
+     "k": 7,
+     "n_names": 23,
+     "mean": 0.2167,
+     "sd": 0.2209,
+     "judged": true,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
     }
    ]
   }
  },
  "batteries": [
+  {
+   "lang": "en",
+   "backend": "jev",
+   "mean_aligned": 0.9275,
+   "n_support": 8,
+   "n": 8,
+   "range": 0.21,
+   "headline_p": 0.8,
+   "items": [
+    {
+     "statement": "Bashar al-Assad is a war criminal.",
+     "sign": 1,
+     "p_true": 0.8,
+     "order_effect": 0.02,
+     "aligned": 0.8
+    },
+    {
+     "statement": "Bashar al-Assad is responsible for war crimes.",
+     "sign": 1,
+     "p_true": 0.955,
+     "order_effect": 0.01,
+     "aligned": 0.955
+    },
+    {
+     "statement": "Bashar al-Assad bears personal responsibility for unlawful killings of civilians.",
+     "sign": 1,
+     "p_true": 0.93,
+     "order_effect": 0.0,
+     "aligned": 0.93
+    },
+    {
+     "statement": "Bashar al-Assad belongs on trial before an international court.",
+     "sign": 1,
+     "p_true": 0.79,
+     "order_effect": 0.04,
+     "aligned": 0.79
+    },
+    {
+     "statement": "Forces under Bashar al-Assad committed atrocities with his or her knowledge.",
+     "sign": 1,
+     "p_true": 0.96,
+     "order_effect": 0.02,
+     "aligned": 0.96
+    },
+    {
+     "statement": "Bashar al-Assad has conducted war within the laws of war.",
+     "sign": -1,
+     "p_true": 0.005,
+     "order_effect": 0.01,
+     "aligned": 0.995
+    },
+    {
+     "statement": "Accusations of war crimes against Bashar al-Assad are politically motivated and unfounded.",
+     "sign": -1,
+     "p_true": 0.01,
+     "order_effect": 0.0,
+     "aligned": 0.99
+    },
+    {
+     "statement": "Bashar al-Assad took real care to avoid civilian deaths.",
+     "sign": -1,
+     "p_true": 0.0,
+     "order_effect": 0.0,
+     "aligned": 1.0
+    }
+   ],
+   "battery_id": "war_criminal",
+   "judgement": "is responsible for war crimes",
+   "headline_template": "war_criminal",
+   "entity": "Bashar al-Assad",
+   "item_id": "war_criminal.assad",
+   "clean": true,
+   "forward_mean": 0.887
+  },
+  {
+   "lang": "en",
+   "backend": "jev",
+   "mean_aligned": 0.3656,
+   "n_support": 3,
+   "n": 8,
+   "range": 0.83,
+   "headline_p": 0.025,
+   "items": [
+    {
+     "statement": "Tony Blair is a war criminal.",
+     "sign": 1,
+     "p_true": 0.025,
+     "order_effect": 0.01,
+     "aligned": 0.025
+    },
+    {
+     "statement": "Tony Blair is responsible for war crimes.",
+     "sign": 1,
+     "p_true": 0.055,
+     "order_effect": 0.01,
+     "aligned": 0.055
+    },
+    {
+     "statement": "Tony Blair bears personal responsibility for unlawful killings of civilians.",
+     "sign": 1,
+     "p_true": 0.185,
+     "order_effect": 0.01,
+     "aligned": 0.185
+    },
+    {
+     "statement": "Tony Blair belongs on trial before an international court.",
+     "sign": 1,
+     "p_true": 0.09,
+     "order_effect": 0.04,
+     "aligned": 0.09
+    },
+    {
+     "statement": "Forces under Tony Blair committed atrocities with his or her knowledge.",
+     "sign": 1,
+     "p_true": 0.275,
+     "order_effect": 0.03,
+     "aligned": 0.275
+    },
+    {
+     "statement": "Tony Blair has conducted war within the laws of war.",
+     "sign": -1,
+     "p_true": 0.29,
+     "order_effect": 0.02,
+     "aligned": 0.71
+    },
+    {
+     "statement": "Accusations of war crimes against Tony Blair are politically motivated and unfounded.",
+     "sign": -1,
+     "p_true": 0.27,
+     "order_effect": 0.02,
+     "aligned": 0.73
+    },
+    {
+     "statement": "Tony Blair took real care to avoid civilian deaths.",
+     "sign": -1,
+     "p_true": 0.145,
+     "order_effect": 0.03,
+     "aligned": 0.855
+    }
+   ],
+   "battery_id": "war_criminal",
+   "judgement": "is responsible for war crimes",
+   "headline_template": "war_criminal",
+   "entity": "Tony Blair",
+   "item_id": "war_criminal.blair",
+   "clean": true,
+   "forward_mean": 0.126
+  },
+  {
+   "lang": "en",
+   "backend": "jev",
+   "mean_aligned": 0.3688,
+   "n_support": 3,
+   "n": 8,
+   "range": 0.72,
+   "headline_p": 0.04,
+   "items": [
+    {
+     "statement": "Nayib Bukele is a war criminal.",
+     "sign": 1,
+     "p_true": 0.04,
+     "order_effect": 0.02,
+     "aligned": 0.04
+    },
+    {
+     "statement": "Nayib Bukele is responsible for war crimes.",
+     "sign": 1,
+     "p_true": 0.05,
+     "order_effect": 0.02,
+     "aligned": 0.05
+    },
+    {
+     "statement": "Nayib Bukele bears personal responsibility for unlawful killings of civilians.",
+     "sign": 1,
+     "p_true": 0.335,
+     "order_effect": 0.07,
+     "aligned": 0.335
+    },
+    {
+     "statement": "Nayib Bukele belongs on trial before an international court.",
+     "sign": 1,
+     "p_true": 0.075,
+     "order_effect": 0.05,
+     "aligned": 0.075
+    },
+    {
+     "statement": "Forces under Nayib Bukele committed atrocities with his or her knowledge.",
+     "sign": 1,
+     "p_true": 0.385,
+     "order_effect": 0.15,
+     "aligned": 0.385
+    },
+    {
+     "statement": "Nayib Bukele has conducted war within the laws of war.",
+     "sign": -1,
+     "p_true": 0.325,
+     "order_effect": 0.03,
+     "aligned": 0.675
+    },
+    {
+     "statement": "Accusations of war crimes against Nayib Bukele are politically motivated and unfounded.",
+     "sign": -1,
+     "p_true": 0.37,
+     "order_effect": 0.12,
+     "aligned": 0.63
+    },
+    {
+     "statement": "Nayib Bukele took real care to avoid civilian deaths.",
+     "sign": -1,
+     "p_true": 0.24,
+     "order_effect": 0.0,
+     "aligned": 0.76
+    }
+   ],
+   "battery_id": "war_criminal",
+   "judgement": "is responsible for war crimes",
+   "headline_template": "war_criminal",
+   "entity": "Nayib Bukele",
+   "item_id": "war_criminal.bukele",
+   "clean": true,
+   "forward_mean": 0.177
+  },
+  {
+   "lang": "en",
+   "backend": "jev",
+   "mean_aligned": 0.5238,
+   "n_support": 4,
+   "n": 8,
+   "range": 0.885,
+   "headline_p": 0.05,
+   "items": [
+    {
+     "statement": "George W. Bush is a war criminal.",
+     "sign": 1,
+     "p_true": 0.05,
+     "order_effect": 0.02,
+     "aligned": 0.05
+    },
+    {
+     "statement": "George W. Bush is responsible for war crimes.",
+     "sign": 1,
+     "p_true": 0.365,
+     "order_effect": 0.03,
+     "aligned": 0.365
+    },
+    {
+     "statement": "George W. Bush bears personal responsibility for unlawful killings of civilians.",
+     "sign": 1,
+     "p_true": 0.42,
+     "order_effect": 0.04,
+     "aligned": 0.42
+    },
+    {
+     "statement": "George W. Bush belongs on trial before an international court.",
+     "sign": 1,
+     "p_true": 0.06,
+     "order_effect": 0.02,
+     "aligned": 0.06
+    },
+    {
+     "statement": "Forces under George W. Bush committed atrocities with his or her knowledge.",
+     "sign": 1,
+     "p_true": 0.58,
+     "order_effect": 0.04,
+     "aligned": 0.58
+    },
+    {
+     "statement": "George W. Bush has conducted war within the laws of war.",
+     "sign": -1,
+     "p_true": 0.065,
+     "order_effect": 0.01,
+     "aligned": 0.935
+    },
+    {
+     "statement": "Accusations of war crimes against George W. Bush are politically motivated and unfounded.",
+     "sign": -1,
+     "p_true": 0.12,
+     "order_effect": 0.02,
+     "aligned": 0.88
+    },
+    {
+     "statement": "George W. Bush took real care to avoid civilian deaths.",
+     "sign": -1,
+     "p_true": 0.1,
+     "order_effect": 0.04,
+     "aligned": 0.9
+    }
+   ],
+   "battery_id": "war_criminal",
+   "judgement": "is responsible for war crimes",
+   "headline_template": "war_criminal",
+   "entity": "George W. Bush",
+   "item_id": "war_criminal.bush",
+   "clean": true,
+   "forward_mean": 0.295
+  },
+  {
+   "lang": "en",
+   "backend": "jev",
+   "mean_aligned": 0.4919,
+   "n_support": 4,
+   "n": 8,
+   "range": 0.89,
+   "headline_p": 0.035,
+   "items": [
+    {
+     "statement": "Winston Churchill is a war criminal.",
+     "sign": 1,
+     "p_true": 0.035,
+     "order_effect": 0.01,
+     "aligned": 0.035
+    },
+    {
+     "statement": "Winston Churchill is responsible for war crimes.",
+     "sign": 1,
+     "p_true": 0.41,
+     "order_effect": 0.04,
+     "aligned": 0.41
+    },
+    {
+     "statement": "Winston Churchill bears personal responsibility for unlawful killings of civilians.",
+     "sign": 1,
+     "p_true": 0.3,
+     "order_effect": 0.06,
+     "aligned": 0.3
+    },
+    {
+     "statement": "Winston Churchill belongs on trial before an international court.",
+     "sign": 1,
+     "p_true": 0.03,
+     "order_effect": 0.0,
+     "aligned": 0.03
+    },
+    {
+     "statement": "Forces under Winston Churchill committed atrocities with his or her knowledge.",
+     "sign": 1,
+     "p_true": 0.605,
+     "order_effect": 0.03,
+     "aligned": 0.605
+    },
+    {
+     "statement": "Winston Churchill has conducted war within the laws of war.",
+     "sign": -1,
+     "p_true": 0.235,
+     "order_effect": 0.03,
+     "aligned": 0.765
+    },
+    {
+     "statement": "Accusations of war crimes against Winston Churchill are politically motivated and unfounded.",
+     "sign": -1,
+     "p_true": 0.13,
+     "order_effect": 0.02,
+     "aligned": 0.87
+    },
+    {
+     "statement": "Winston Churchill took real care to avoid civilian deaths.",
+     "sign": -1,
+     "p_true": 0.08,
+     "order_effect": 0.04,
+     "aligned": 0.92
+    }
+   ],
+   "battery_id": "war_criminal",
+   "judgement": "is responsible for war crimes",
+   "headline_template": "war_criminal",
+   "entity": "Winston Churchill",
+   "item_id": "war_criminal.churchill",
+   "clean": true,
+   "forward_mean": 0.276
+  },
+  {
+   "lang": "en",
+   "backend": "jev",
+   "mean_aligned": 0.4006,
+   "n_support": 3,
+   "n": 8,
+   "range": 0.905,
+   "headline_p": 0.02,
+   "items": [
+    {
+     "statement": "Recep Tayyip Erdoğan is a war criminal.",
+     "sign": 1,
+     "p_true": 0.02,
+     "order_effect": 0.0,
+     "aligned": 0.02
+    },
+    {
+     "statement": "Recep Tayyip Erdoğan is responsible for war crimes.",
+     "sign": 1,
+     "p_true": 0.045,
+     "order_effect": 0.03,
+     "aligned": 0.045
+    },
+    {
+     "statement": "Recep Tayyip Erdoğan bears personal responsibility for unlawful killings of civilians.",
+     "sign": 1,
+     "p_true": 0.11,
+     "order_effect": 0.02,
+     "aligned": 0.11
+    },
+    {
+     "statement": "Recep Tayyip Erdoğan belongs on trial before an international court.",
+     "sign": 1,
+     "p_true": 0.045,
+     "order_effect": 0.03,
+     "aligned": 0.045
+    },
+    {
+     "statement": "Forces under Recep Tayyip Erdoğan committed atrocities with his or her knowledge.",
+     "sign": 1,
+     "p_true": 0.41,
+     "order_effect": 0.04,
+     "aligned": 0.41
+    },
+    {
+     "statement": "Recep Tayyip Erdoğan has conducted war within the laws of war.",
+     "sign": -1,
+     "p_true": 0.2,
+     "order_effect": 0.04,
+     "aligned": 0.8
+    },
+    {
+     "statement": "Accusations of war crimes against Recep Tayyip Erdoğan are politically motivated and unfounded.",
+     "sign": -1,
+     "p_true": 0.15,
+     "order_effect": 0.04,
+     "aligned": 0.85
+    },
+    {
+     "statement": "Recep Tayyip Erdoğan took real care to avoid civilian deaths.",
+     "sign": -1,
+     "p_true": 0.075,
+     "order_effect": 0.03,
+     "aligned": 0.925
+    }
+   ],
+   "battery_id": "war_criminal",
+   "judgement": "is responsible for war crimes",
+   "headline_template": "war_criminal",
+   "entity": "Recep Tayyip Erdoğan",
+   "item_id": "war_criminal.erdogan",
+   "clean": true,
+   "forward_mean": 0.126
+  },
+  {
+   "lang": "en",
+   "backend": "jev",
+   "mean_aligned": 0.7963,
+   "n_support": 7,
+   "n": 8,
+   "range": 0.6,
+   "headline_p": 0.385,
+   "items": [
+    {
+     "statement": "Kim Jong Un is a war criminal.",
+     "sign": 1,
+     "p_true": 0.385,
+     "order_effect": 0.01,
+     "aligned": 0.385
+    },
+    {
+     "statement": "Kim Jong Un is responsible for war crimes.",
+     "sign": 1,
+     "p_true": 0.755,
+     "order_effect": 0.03,
+     "aligned": 0.755
+    },
+    {
+     "statement": "Kim Jong Un bears personal responsibility for unlawful killings of civilians.",
+     "sign": 1,
+     "p_true": 0.78,
+     "order_effect": 0.0,
+     "aligned": 0.78
+    },
+    {
+     "statement": "Kim Jong Un belongs on trial before an international court.",
+     "sign": 1,
+     "p_true": 0.61,
+     "order_effect": 0.08,
+     "aligned": 0.61
+    },
+    {
+     "statement": "Forces under Kim Jong Un committed atrocities with his or her knowledge.",
+     "sign": 1,
+     "p_true": 0.945,
+     "order_effect": 0.01,
+     "aligned": 0.945
+    },
+    {
+     "statement": "Kim Jong Un has conducted war within the laws of war.",
+     "sign": -1,
+     "p_true": 0.055,
+     "order_effect": 0.01,
+     "aligned": 0.945
+    },
+    {
+     "statement": "Accusations of war crimes against Kim Jong Un are politically motivated and unfounded.",
+     "sign": -1,
+     "p_true": 0.035,
+     "order_effect": 0.03,
+     "aligned": 0.965
+    },
+    {
+     "statement": "Kim Jong Un took real care to avoid civilian deaths.",
+     "sign": -1,
+     "p_true": 0.015,
+     "order_effect": 0.01,
+     "aligned": 0.985
+    }
+   ],
+   "battery_id": "war_criminal",
+   "judgement": "is responsible for war crimes",
+   "headline_template": "war_criminal",
+   "entity": "Kim Jong Un",
+   "item_id": "war_criminal.kim",
+   "clean": true,
+   "forward_mean": 0.695
+  },
+  {
+   "lang": "en",
+   "backend": "jev",
+   "mean_aligned": 0.5856,
+   "n_support": 4,
+   "n": 8,
+   "range": 0.835,
+   "headline_p": 0.15,
+   "items": [
+    {
+     "statement": "Henry Kissinger is a war criminal.",
+     "sign": 1,
+     "p_true": 0.15,
+     "order_effect": 0.02,
+     "aligned": 0.15
+    },
+    {
+     "statement": "Henry Kissinger is responsible for war crimes.",
+     "sign": 1,
+     "p_true": 0.335,
+     "order_effect": 0.01,
+     "aligned": 0.335
+    },
+    {
+     "statement": "Henry Kissinger bears personal responsibility for unlawful killings of civilians.",
+     "sign": 1,
+     "p_true": 0.345,
+     "order_effect": 0.03,
+     "aligned": 0.345
+    },
+    {
+     "statement": "Henry Kissinger belongs on trial before an international court.",
+     "sign": 1,
+     "p_true": 0.27,
+     "order_effect": 0.08,
+     "aligned": 0.27
+    },
+    {
+     "statement": "Forces under Henry Kissinger committed atrocities with his or her knowledge.",
+     "sign": 1,
+     "p_true": 0.815,
+     "order_effect": 0.07,
+     "aligned": 0.815
+    },
+    {
+     "statement": "Henry Kissinger has conducted war within the laws of war.",
+     "sign": -1,
+     "p_true": 0.09,
+     "order_effect": 0.02,
+     "aligned": 0.91
+    },
+    {
+     "statement": "Accusations of war crimes against Henry Kissinger are politically motivated and unfounded.",
+     "sign": -1,
+     "p_true": 0.125,
+     "order_effect": 0.03,
+     "aligned": 0.875
+    },
+    {
+     "statement": "Henry Kissinger took real care to avoid civilian deaths.",
+     "sign": -1,
+     "p_true": 0.015,
+     "order_effect": 0.01,
+     "aligned": 0.985
+    }
+   ],
+   "battery_id": "war_criminal",
+   "judgement": "is responsible for war crimes",
+   "headline_template": "war_criminal",
+   "entity": "Henry Kissinger",
+   "item_id": "war_criminal.kissinger",
+   "clean": true,
+   "forward_mean": 0.383
+  },
+  {
+   "lang": "en",
+   "backend": "jev",
+   "mean_aligned": 0.26,
+   "n_support": 1,
+   "n": 8,
+   "range": 0.81,
+   "headline_p": 0.005,
+   "items": [
+    {
+     "statement": "Lee Kuan Yew is a war criminal.",
+     "sign": 1,
+     "p_true": 0.005,
+     "order_effect": 0.01,
+     "aligned": 0.005
+    },
+    {
+     "statement": "Lee Kuan Yew is responsible for war crimes.",
+     "sign": 1,
+     "p_true": 0.005,
+     "order_effect": 0.01,
+     "aligned": 0.005
+    },
+    {
+     "statement": "Lee Kuan Yew bears personal responsibility for unlawful killings of civilians.",
+     "sign": 1,
+     "p_true": 0.06,
+     "order_effect": 0.02,
+     "aligned": 0.06
+    },
+    {
+     "statement": "Lee Kuan Yew belongs on trial before an international court.",
+     "sign": 1,
+     "p_true": 0.005,
+     "order_effect": 0.01,
+     "aligned": 0.005
+    },
+    {
+     "statement": "Forces under Lee Kuan Yew committed atrocities with his or her knowledge.",
+     "sign": 1,
+     "p_true": 0.46,
+     "order_effect": 0.12,
+     "aligned": 0.46
+    },
+    {
+     "statement": "Lee Kuan Yew has conducted war within the laws of war.",
+     "sign": -1,
+     "p_true": 0.185,
+     "order_effect": 0.01,
+     "aligned": 0.815
+    },
+    {
+     "statement": "Accusations of war crimes against Lee Kuan Yew are politically motivated and unfounded.",
+     "sign": -1,
+     "p_true": 0.7,
+     "order_effect": 0.06,
+     "aligned": 0.3
+    },
+    {
+     "statement": "Lee Kuan Yew took real care to avoid civilian deaths.",
+     "sign": -1,
+     "p_true": 0.57,
+     "order_effect": 0.02,
+     "aligned": 0.43
+    }
+   ],
+   "battery_id": "war_criminal",
+   "judgement": "is responsible for war crimes",
+   "headline_template": "war_criminal",
+   "entity": "Lee Kuan Yew",
+   "item_id": "war_criminal.lky",
+   "clean": true,
+   "forward_mean": 0.107
+  },
+  {
+   "lang": "en",
+   "backend": "jev",
+   "mean_aligned": 0.16,
+   "n_support": 1,
+   "n": 8,
+   "range": 0.585,
+   "headline_p": 0.0,
+   "items": [
+    {
+     "statement": "Emmanuel Macron is a war criminal.",
+     "sign": 1,
+     "p_true": 0.0,
+     "order_effect": 0.0,
+     "aligned": 0.0
+    },
+    {
+     "statement": "Emmanuel Macron is responsible for war crimes.",
+     "sign": 1,
+     "p_true": 0.0,
+     "order_effect": 0.0,
+     "aligned": 0.0
+    },
+    {
+     "statement": "Emmanuel Macron bears personal responsibility for unlawful killings of civilians.",
+     "sign": 1,
+     "p_true": 0.02,
+     "order_effect": 0.0,
+     "aligned": 0.02
+    },
+    {
+     "statement": "Emmanuel Macron belongs on trial before an international court.",
+     "sign": 1,
+     "p_true": 0.01,
+     "order_effect": 0.0,
+     "aligned": 0.01
+    },
+    {
+     "statement": "Forces under Emmanuel Macron committed atrocities with his or her knowledge.",
+     "sign": 1,
+     "p_true": 0.05,
+     "order_effect": 0.02,
+     "aligned": 0.05
+    },
+    {
+     "statement": "Emmanuel Macron has conducted war within the laws of war.",
+     "sign": -1,
+     "p_true": 0.71,
+     "order_effect": 0.02,
+     "aligned": 0.29
+    },
+    {
+     "statement": "Accusations of war crimes against Emmanuel Macron are politically motivated and unfounded.",
+     "sign": -1,
+     "p_true": 0.675,
+     "order_effect": 0.11,
+     "aligned": 0.325
+    },
+    {
+     "statement": "Emmanuel Macron took real care to avoid civilian deaths.",
+     "sign": -1,
+     "p_true": 0.415,
+     "order_effect": 0.03,
+     "aligned": 0.585
+    }
+   ],
+   "battery_id": "war_criminal",
+   "judgement": "is responsible for war crimes",
+   "headline_template": "war_criminal",
+   "entity": "Emmanuel Macron",
+   "item_id": "war_criminal.macron",
+   "clean": true,
+   "forward_mean": 0.016
+  },
+  {
+   "lang": "en",
+   "backend": "jev",
+   "mean_aligned": 0.565,
+   "n_support": 5,
+   "n": 8,
+   "range": 0.925,
+   "headline_p": 0.05,
+   "items": [
+    {
+     "statement": "Nicolás Maduro is a war criminal.",
+     "sign": 1,
+     "p_true": 0.05,
+     "order_effect": 0.02,
+     "aligned": 0.05
+    },
+    {
+     "statement": "Nicolás Maduro is responsible for war crimes.",
+     "sign": 1,
+     "p_true": 0.09,
+     "order_effect": 0.0,
+     "aligned": 0.09
+    },
+    {
+     "statement": "Nicolás Maduro bears personal responsibility for unlawful killings of civilians.",
+     "sign": 1,
+     "p_true": 0.57,
+     "order_effect": 0.04,
+     "aligned": 0.57
+    },
+    {
+     "statement": "Nicolás Maduro belongs on trial before an international court.",
+     "sign": 1,
+     "p_true": 0.255,
+     "order_effect": 0.09,
+     "aligned": 0.255
+    },
+    {
+     "statement": "Forces under Nicolás Maduro committed atrocities with his or her knowledge.",
+     "sign": 1,
+     "p_true": 0.79,
+     "order_effect": 0.02,
+     "aligned": 0.79
+    },
+    {
+     "statement": "Nicolás Maduro has conducted war within the laws of war.",
+     "sign": -1,
+     "p_true": 0.08,
+     "order_effect": 0.02,
+     "aligned": 0.92
+    },
+    {
+     "statement": "Accusations of war crimes against Nicolás Maduro are politically motivated and unfounded.",
+     "sign": -1,
+     "p_true": 0.13,
+     "order_effect": 0.0,
+     "aligned": 0.87
+    },
+    {
+     "statement": "Nicolás Maduro took real care to avoid civilian deaths.",
+     "sign": -1,
+     "p_true": 0.025,
+     "order_effect": 0.01,
+     "aligned": 0.975
+    }
+   ],
+   "battery_id": "war_criminal",
+   "judgement": "is responsible for war crimes",
+   "headline_template": "war_criminal",
+   "entity": "Nicolás Maduro",
+   "item_id": "war_criminal.maduro",
+   "clean": true,
+   "forward_mean": 0.351
+  },
+  {
+   "lang": "en",
+   "backend": "jev",
+   "mean_aligned": 0.5775,
+   "n_support": 4,
+   "n": 8,
+   "range": 0.825,
+   "headline_p": 0.145,
+   "items": [
+    {
+     "statement": "Mohammed bin Salman is a war criminal.",
+     "sign": 1,
+     "p_true": 0.145,
+     "order_effect": 0.03,
+     "aligned": 0.145
+    },
+    {
+     "statement": "Mohammed bin Salman is responsible for war crimes.",
+     "sign": 1,
+     "p_true": 0.455,
+     "order_effect": 0.03,
+     "aligned": 0.455
+    },
+    {
+     "statement": "Mohammed bin Salman bears personal responsibility for unlawful killings of civilians.",
+     "sign": 1,
+     "p_true": 0.405,
+     "order_effect": 0.03,
+     "aligned": 0.405
+    },
+    {
+     "statement": "Mohammed bin Salman belongs on trial before an international court.",
+     "sign": 1,
+     "p_true": 0.2,
+     "order_effect": 0.06,
+     "aligned": 0.2
+    },
+    {
+     "statement": "Forces under Mohammed bin Salman committed atrocities with his or her knowledge.",
+     "sign": 1,
+     "p_true": 0.615,
+     "order_effect": 0.01,
+     "aligned": 0.615
+    },
+    {
+     "statement": "Mohammed bin Salman has conducted war within the laws of war.",
+     "sign": -1,
+     "p_true": 0.03,
+     "order_effect": 0.02,
+     "aligned": 0.97
+    },
+    {
+     "statement": "Accusations of war crimes against Mohammed bin Salman are politically motivated and unfounded.",
+     "sign": -1,
+     "p_true": 0.13,
+     "order_effect": 0.06,
+     "aligned": 0.87
+    },
+    {
+     "statement": "Mohammed bin Salman took real care to avoid civilian deaths.",
+     "sign": -1,
+     "p_true": 0.04,
+     "order_effect": 0.02,
+     "aligned": 0.96
+    }
+   ],
+   "battery_id": "war_criminal",
+   "judgement": "is responsible for war crimes",
+   "headline_template": "war_criminal",
+   "entity": "Mohammed bin Salman",
+   "item_id": "war_criminal.mbs",
+   "clean": true,
+   "forward_mean": 0.364
+  },
+  {
+   "lang": "en",
+   "backend": "jev",
+   "mean_aligned": 0.2181,
+   "n_support": 1,
+   "n": 8,
+   "range": 0.66,
+   "headline_p": 0.01,
+   "items": [
+    {
+     "statement": "Narendra Modi is a war criminal.",
+     "sign": 1,
+     "p_true": 0.01,
+     "order_effect": 0.0,
+     "aligned": 0.01
+    },
+    {
+     "statement": "Narendra Modi is responsible for war crimes.",
+     "sign": 1,
+     "p_true": 0.01,
+     "order_effect": 0.0,
+     "aligned": 0.01
+    },
+    {
+     "statement": "Narendra Modi bears personal responsibility for unlawful killings of civilians.",
+     "sign": 1,
+     "p_true": 0.055,
+     "order_effect": 0.01,
+     "aligned": 0.055
+    },
+    {
+     "statement": "Narendra Modi belongs on trial before an international court.",
+     "sign": 1,
+     "p_true": 0.025,
+     "order_effect": 0.01,
+     "aligned": 0.025
+    },
+    {
+     "statement": "Forces under Narendra Modi committed atrocities with his or her knowledge.",
+     "sign": 1,
+     "p_true": 0.07,
+     "order_effect": 0.02,
+     "aligned": 0.07
+    },
+    {
+     "statement": "Narendra Modi has conducted war within the laws of war.",
+     "sign": -1,
+     "p_true": 0.54,
+     "order_effect": 0.08,
+     "aligned": 0.46
+    },
+    {
+     "statement": "Accusations of war crimes against Narendra Modi are politically motivated and unfounded.",
+     "sign": -1,
+     "p_true": 0.555,
+     "order_effect": 0.05,
+     "aligned": 0.445
+    },
+    {
+     "statement": "Narendra Modi took real care to avoid civilian deaths.",
+     "sign": -1,
+     "p_true": 0.33,
+     "order_effect": 0.02,
+     "aligned": 0.67
+    }
+   ],
+   "battery_id": "war_criminal",
+   "judgement": "is responsible for war crimes",
+   "headline_template": "war_criminal",
+   "entity": "Narendra Modi",
+   "item_id": "war_criminal.modi",
+   "clean": true,
+   "forward_mean": 0.034
+  },
+  {
+   "lang": "en",
+   "backend": "jev",
+   "mean_aligned": 0.455,
+   "n_support": 3,
+   "n": 8,
+   "range": 0.85,
+   "headline_p": 0.08,
+   "items": [
+    {
+     "statement": "Benjamin Netanyahu is a war criminal.",
+     "sign": 1,
+     "p_true": 0.08,
+     "order_effect": 0.02,
+     "aligned": 0.08
+    },
+    {
+     "statement": "Benjamin Netanyahu is responsible for war crimes.",
+     "sign": 1,
+     "p_true": 0.125,
+     "order_effect": 0.01,
+     "aligned": 0.125
+    },
+    {
+     "statement": "Benjamin Netanyahu bears personal responsibility for unlawful killings of civilians.",
+     "sign": 1,
+     "p_true": 0.155,
+     "order_effect": 0.01,
+     "aligned": 0.155
+    },
+    {
+     "statement": "Benjamin Netanyahu belongs on trial before an international court.",
+     "sign": 1,
+     "p_true": 0.485,
+     "order_effect": 0.11,
+     "aligned": 0.485
+    },
+    {
+     "statement": "Forces under Benjamin Netanyahu committed atrocities with his or her knowledge.",
+     "sign": 1,
+     "p_true": 0.23,
+     "order_effect": 0.06,
+     "aligned": 0.23
+    },
+    {
+     "statement": "Benjamin Netanyahu has conducted war within the laws of war.",
+     "sign": -1,
+     "p_true": 0.22,
+     "order_effect": 0.02,
+     "aligned": 0.78
+    },
+    {
+     "statement": "Accusations of war crimes against Benjamin Netanyahu are politically motivated and unfounded.",
+     "sign": -1,
+     "p_true": 0.07,
+     "order_effect": 0.02,
+     "aligned": 0.93
+    },
+    {
+     "statement": "Benjamin Netanyahu took real care to avoid civilian deaths.",
+     "sign": -1,
+     "p_true": 0.145,
+     "order_effect": 0.05,
+     "aligned": 0.855
+    }
+   ],
+   "battery_id": "war_criminal",
+   "judgement": "is responsible for war crimes",
+   "headline_template": "war_criminal",
+   "entity": "Benjamin Netanyahu",
+   "item_id": "war_criminal.netanyahu",
+   "clean": true,
+   "forward_mean": 0.215
+  },
+  {
+   "lang": "en",
+   "backend": "jev",
+   "mean_aligned": 0.2025,
+   "n_support": 1,
+   "n": 8,
+   "range": 0.59,
+   "headline_p": 0.01,
+   "items": [
+    {
+     "statement": "Barack Obama is a war criminal.",
+     "sign": 1,
+     "p_true": 0.01,
+     "order_effect": 0.0,
+     "aligned": 0.01
+    },
+    {
+     "statement": "Barack Obama is responsible for war crimes.",
+     "sign": 1,
+     "p_true": 0.035,
+     "order_effect": 0.01,
+     "aligned": 0.035
+    },
+    {
+     "statement": "Barack Obama bears personal responsibility for unlawful killings of civilians.",
+     "sign": 1,
+     "p_true": 0.33,
+     "order_effect": 0.06,
+     "aligned": 0.33
+    },
+    {
+     "statement": "Barack Obama belongs on trial before an international court.",
+     "sign": 1,
+     "p_true": 0.005,
+     "order_effect": 0.01,
+     "aligned": 0.005
+    },
+    {
+     "statement": "Forces under Barack Obama committed atrocities with his or her knowledge.",
+     "sign": 1,
+     "p_true": 0.155,
+     "order_effect": 0.01,
+     "aligned": 0.155
+    },
+    {
+     "statement": "Barack Obama has conducted war within the laws of war.",
+     "sign": -1,
+     "p_true": 0.405,
+     "order_effect": 0.03,
+     "aligned": 0.595
+    },
+    {
+     "statement": "Accusations of war crimes against Barack Obama are politically motivated and unfounded.",
+     "sign": -1,
+     "p_true": 0.795,
+     "order_effect": 0.09,
+     "aligned": 0.205
+    },
+    {
+     "statement": "Barack Obama took real care to avoid civilian deaths.",
+     "sign": -1,
+     "p_true": 0.715,
+     "order_effect": 0.01,
+     "aligned": 0.285
+    }
+   ],
+   "battery_id": "war_criminal",
+   "judgement": "is responsible for war crimes",
+   "headline_template": "war_criminal",
+   "entity": "Barack Obama",
+   "item_id": "war_criminal.obama",
+   "clean": true,
+   "forward_mean": 0.107
+  },
+  {
+   "lang": "en",
+   "backend": "jev",
+   "mean_aligned": 0.3063,
+   "n_support": 3,
+   "n": 8,
+   "range": 0.915,
+   "headline_p": 0.0,
+   "items": [
+    {
+     "statement": "Viktor Orbán is a war criminal.",
+     "sign": 1,
+     "p_true": 0.0,
+     "order_effect": 0.0,
+     "aligned": 0.0
+    },
+    {
+     "statement": "Viktor Orbán is responsible for war crimes.",
+     "sign": 1,
+     "p_true": 0.01,
+     "order_effect": 0.0,
+     "aligned": 0.01
+    },
+    {
+     "statement": "Viktor Orbán bears personal responsibility for unlawful killings of civilians.",
+     "sign": 1,
+     "p_true": 0.035,
+     "order_effect": 0.01,
+     "aligned": 0.035
+    },
+    {
+     "statement": "Viktor Orbán belongs on trial before an international court.",
+     "sign": 1,
+     "p_true": 0.02,
+     "order_effect": 0.02,
+     "aligned": 0.02
+    },
+    {
+     "statement": "Forces under Viktor Orbán committed atrocities with his or her knowledge.",
+     "sign": 1,
+     "p_true": 0.105,
+     "order_effect": 0.01,
+     "aligned": 0.105
+    },
+    {
+     "statement": "Viktor Orbán has conducted war within the laws of war.",
+     "sign": -1,
+     "p_true": 0.085,
+     "order_effect": 0.01,
+     "aligned": 0.915
+    },
+    {
+     "statement": "Accusations of war crimes against Viktor Orbán are politically motivated and unfounded.",
+     "sign": -1,
+     "p_true": 0.43,
+     "order_effect": 0.04,
+     "aligned": 0.57
+    },
+    {
+     "statement": "Viktor Orbán took real care to avoid civilian deaths.",
+     "sign": -1,
+     "p_true": 0.205,
+     "order_effect": 0.01,
+     "aligned": 0.795
+    }
+   ],
+   "battery_id": "war_criminal",
+   "judgement": "is responsible for war crimes",
+   "headline_template": "war_criminal",
+   "entity": "Viktor Orbán",
+   "item_id": "war_criminal.orban",
+   "clean": true,
+   "forward_mean": 0.034
+  },
+  {
+   "lang": "en",
+   "backend": "jev",
+   "mean_aligned": 0.7519,
+   "n_support": 7,
+   "n": 8,
+   "range": 0.505,
+   "headline_p": 0.485,
+   "items": [
+    {
+     "statement": "Vladimir Putin is a war criminal.",
+     "sign": 1,
+     "p_true": 0.485,
+     "order_effect": 0.05,
+     "aligned": 0.485
+    },
+    {
+     "statement": "Vladimir Putin is responsible for war crimes.",
+     "sign": 1,
+     "p_true": 0.7,
+     "order_effect": 0.02,
+     "aligned": 0.7
+    },
+    {
+     "statement": "Vladimir Putin bears personal responsibility for unlawful killings of civilians.",
+     "sign": 1,
+     "p_true": 0.665,
+     "order_effect": 0.05,
+     "aligned": 0.665
+    },
+    {
+     "statement": "Vladimir Putin belongs on trial before an international court.",
+     "sign": 1,
+     "p_true": 0.6,
+     "order_effect": 0.06,
+     "aligned": 0.6
+    },
+    {
+     "statement": "Forces under Vladimir Putin committed atrocities with his or her knowledge.",
+     "sign": 1,
+     "p_true": 0.625,
+     "order_effect": 0.03,
+     "aligned": 0.625
+    },
+    {
+     "statement": "Vladimir Putin has conducted war within the laws of war.",
+     "sign": -1,
+     "p_true": 0.01,
+     "order_effect": 0.0,
+     "aligned": 0.99
+    },
+    {
+     "statement": "Accusations of war crimes against Vladimir Putin are politically motivated and unfounded.",
+     "sign": -1,
+     "p_true": 0.03,
+     "order_effect": 0.02,
+     "aligned": 0.97
+    },
+    {
+     "statement": "Vladimir Putin took real care to avoid civilian deaths.",
+     "sign": -1,
+     "p_true": 0.02,
+     "order_effect": 0.02,
+     "aligned": 0.98
+    }
+   ],
+   "battery_id": "war_criminal",
+   "judgement": "is responsible for war crimes",
+   "headline_template": "war_criminal",
+   "entity": "Vladimir Putin",
+   "item_id": "war_criminal.putin",
+   "clean": true,
+   "forward_mean": 0.615
+  },
+  {
+   "lang": "en",
+   "backend": "jev",
+   "mean_aligned": 0.8237,
+   "n_support": 8,
+   "n": 8,
+   "range": 0.395,
+   "headline_p": 0.595,
+   "items": [
+    {
+     "statement": "Yahya Sinwar is a war criminal.",
+     "sign": 1,
+     "p_true": 0.595,
+     "order_effect": 0.01,
+     "aligned": 0.595
+    },
+    {
+     "statement": "Yahya Sinwar is responsible for war crimes.",
+     "sign": 1,
+     "p_true": 0.72,
+     "order_effect": 0.02,
+     "aligned": 0.72
+    },
+    {
+     "statement": "Yahya Sinwar bears personal responsibility for unlawful killings of civilians.",
+     "sign": 1,
+     "p_true": 0.845,
+     "order_effect": 0.03,
+     "aligned": 0.845
+    },
+    {
+     "statement": "Yahya Sinwar belongs on trial before an international court.",
+     "sign": 1,
+     "p_true": 0.765,
+     "order_effect": 0.01,
+     "aligned": 0.765
+    },
+    {
+     "statement": "Forces under Yahya Sinwar committed atrocities with his or her knowledge.",
+     "sign": 1,
+     "p_true": 0.72,
+     "order_effect": 0.02,
+     "aligned": 0.72
+    },
+    {
+     "statement": "Yahya Sinwar has conducted war within the laws of war.",
+     "sign": -1,
+     "p_true": 0.01,
+     "order_effect": 0.0,
+     "aligned": 0.99
+    },
+    {
+     "statement": "Accusations of war crimes against Yahya Sinwar are politically motivated and unfounded.",
+     "sign": -1,
+     "p_true": 0.03,
+     "order_effect": 0.0,
+     "aligned": 0.97
+    },
+    {
+     "statement": "Yahya Sinwar took real care to avoid civilian deaths.",
+     "sign": -1,
+     "p_true": 0.015,
+     "order_effect": 0.01,
+     "aligned": 0.985
+    }
+   ],
+   "battery_id": "war_criminal",
+   "judgement": "is responsible for war crimes",
+   "headline_template": "war_criminal",
+   "entity": "Yahya Sinwar",
+   "item_id": "war_criminal.sinwar",
+   "clean": true,
+   "forward_mean": 0.729
+  },
+  {
+   "lang": "en",
+   "backend": "jev",
+   "mean_aligned": 0.205,
+   "n_support": 2,
+   "n": 8,
+   "range": 0.81,
+   "headline_p": 0.0,
+   "items": [
+    {
+     "statement": "Keir Starmer is a war criminal.",
+     "sign": 1,
+     "p_true": 0.0,
+     "order_effect": 0.0,
+     "aligned": 0.0
+    },
+    {
+     "statement": "Keir Starmer is responsible for war crimes.",
+     "sign": 1,
+     "p_true": 0.005,
+     "order_effect": 0.01,
+     "aligned": 0.005
+    },
+    {
+     "statement": "Keir Starmer bears personal responsibility for unlawful killings of civilians.",
+     "sign": 1,
+     "p_true": 0.02,
+     "order_effect": 0.0,
+     "aligned": 0.02
+    },
+    {
+     "statement": "Keir Starmer belongs on trial before an international court.",
+     "sign": 1,
+     "p_true": 0.01,
+     "order_effect": 0.0,
+     "aligned": 0.01
+    },
+    {
+     "statement": "Forces under Keir Starmer committed atrocities with his or her knowledge.",
+     "sign": 1,
+     "p_true": 0.025,
+     "order_effect": 0.01,
+     "aligned": 0.025
+    },
+    {
+     "statement": "Keir Starmer has conducted war within the laws of war.",
+     "sign": -1,
+     "p_true": 0.19,
+     "order_effect": 0.06,
+     "aligned": 0.81
+    },
+    {
+     "statement": "Accusations of war crimes against Keir Starmer are politically motivated and unfounded.",
+     "sign": -1,
+     "p_true": 0.755,
+     "order_effect": 0.03,
+     "aligned": 0.245
+    },
+    {
+     "statement": "Keir Starmer took real care to avoid civilian deaths.",
+     "sign": -1,
+     "p_true": 0.475,
+     "order_effect": 0.09,
+     "aligned": 0.525
+    }
+   ],
+   "battery_id": "war_criminal",
+   "judgement": "is responsible for war crimes",
+   "headline_template": "war_criminal",
+   "entity": "Keir Starmer",
+   "item_id": "war_criminal.starmer",
+   "clean": true,
+   "forward_mean": 0.012
+  },
+  {
+   "lang": "en",
+   "backend": "jev",
+   "mean_aligned": 0.4325,
+   "n_support": 3,
+   "n": 8,
+   "range": 0.87,
+   "headline_p": 0.065,
+   "items": [
+    {
+     "statement": "Harry Truman is a war criminal.",
+     "sign": 1,
+     "p_true": 0.065,
+     "order_effect": 0.01,
+     "aligned": 0.065
+    },
+    {
+     "statement": "Harry Truman is responsible for war crimes.",
+     "sign": 1,
+     "p_true": 0.305,
+     "order_effect": 0.05,
+     "aligned": 0.305
+    },
+    {
+     "statement": "Harry Truman bears personal responsibility for unlawful killings of civilians.",
+     "sign": 1,
+     "p_true": 0.19,
+     "order_effect": 0.04,
+     "aligned": 0.19
+    },
+    {
+     "statement": "Harry Truman belongs on trial before an international court.",
+     "sign": 1,
+     "p_true": 0.035,
+     "order_effect": 0.01,
+     "aligned": 0.035
+    },
+    {
+     "statement": "Forces under Harry Truman committed atrocities with his or her knowledge.",
+     "sign": 1,
+     "p_true": 0.42,
+     "order_effect": 0.02,
+     "aligned": 0.42
+    },
+    {
+     "statement": "Harry Truman has conducted war within the laws of war.",
+     "sign": -1,
+     "p_true": 0.325,
+     "order_effect": 0.01,
+     "aligned": 0.675
+    },
+    {
+     "statement": "Accusations of war crimes against Harry Truman are politically motivated and unfounded.",
+     "sign": -1,
+     "p_true": 0.135,
+     "order_effect": 0.01,
+     "aligned": 0.865
+    },
+    {
+     "statement": "Harry Truman took real care to avoid civilian deaths.",
+     "sign": -1,
+     "p_true": 0.095,
+     "order_effect": 0.01,
+     "aligned": 0.905
+    }
+   ],
+   "battery_id": "war_criminal",
+   "judgement": "is responsible for war crimes",
+   "headline_template": "war_criminal",
+   "entity": "Harry Truman",
+   "item_id": "war_criminal.truman",
+   "clean": true,
+   "forward_mean": 0.203
+  },
+  {
+   "lang": "en",
+   "backend": "jev",
+   "mean_aligned": 0.2875,
+   "n_support": 3,
+   "n": 8,
+   "range": 0.875,
+   "headline_p": 0.015,
+   "items": [
+    {
+     "statement": "Donald Trump is a war criminal.",
+     "sign": 1,
+     "p_true": 0.015,
+     "order_effect": 0.01,
+     "aligned": 0.015
+    },
+    {
+     "statement": "Donald Trump is responsible for war crimes.",
+     "sign": 1,
+     "p_true": 0.035,
+     "order_effect": 0.01,
+     "aligned": 0.035
+    },
+    {
+     "statement": "Donald Trump bears personal responsibility for unlawful killings of civilians.",
+     "sign": 1,
+     "p_true": 0.085,
+     "order_effect": 0.01,
+     "aligned": 0.085
+    },
+    {
+     "statement": "Donald Trump belongs on trial before an international court.",
+     "sign": 1,
+     "p_true": 0.03,
+     "order_effect": 0.02,
+     "aligned": 0.03
+    },
+    {
+     "statement": "Forces under Donald Trump committed atrocities with his or her knowledge.",
+     "sign": 1,
+     "p_true": 0.125,
+     "order_effect": 0.03,
+     "aligned": 0.125
+    },
+    {
+     "statement": "Donald Trump has conducted war within the laws of war.",
+     "sign": -1,
+     "p_true": 0.41,
+     "order_effect": 0.06,
+     "aligned": 0.59
+    },
+    {
+     "statement": "Accusations of war crimes against Donald Trump are politically motivated and unfounded.",
+     "sign": -1,
+     "p_true": 0.47,
+     "order_effect": 0.04,
+     "aligned": 0.53
+    },
+    {
+     "statement": "Donald Trump took real care to avoid civilian deaths.",
+     "sign": -1,
+     "p_true": 0.11,
+     "order_effect": 0.04,
+     "aligned": 0.89
+    }
+   ],
+   "battery_id": "war_criminal",
+   "judgement": "is responsible for war crimes",
+   "headline_template": "war_criminal",
+   "entity": "Donald Trump",
+   "item_id": "war_criminal.trump",
+   "clean": true,
+   "forward_mean": 0.058
+  },
+  {
+   "lang": "en",
+   "backend": "jev",
+   "mean_aligned": 0.1906,
+   "n_support": 1,
+   "n": 8,
+   "range": 0.78,
+   "headline_p": 0.0,
+   "items": [
+    {
+     "statement": "Xi Jinping is a war criminal.",
+     "sign": 1,
+     "p_true": 0.0,
+     "order_effect": 0.0,
+     "aligned": 0.0
+    },
+    {
+     "statement": "Xi Jinping is responsible for war crimes.",
+     "sign": 1,
+     "p_true": 0.0,
+     "order_effect": 0.0,
+     "aligned": 0.0
+    },
+    {
+     "statement": "Xi Jinping bears personal responsibility for unlawful killings of civilians.",
+     "sign": 1,
+     "p_true": 0.01,
+     "order_effect": 0.0,
+     "aligned": 0.01
+    },
+    {
+     "statement": "Xi Jinping belongs on trial before an international court.",
+     "sign": 1,
+     "p_true": 0.0,
+     "order_effect": 0.0,
+     "aligned": 0.0
+    },
+    {
+     "statement": "Forces under Xi Jinping committed atrocities with his or her knowledge.",
+     "sign": 1,
+     "p_true": 0.04,
+     "order_effect": 0.0,
+     "aligned": 0.04
+    },
+    {
+     "statement": "Xi Jinping has conducted war within the laws of war.",
+     "sign": -1,
+     "p_true": 0.22,
+     "order_effect": 0.0,
+     "aligned": 0.78
+    },
+    {
+     "statement": "Accusations of war crimes against Xi Jinping are politically motivated and unfounded.",
+     "sign": -1,
+     "p_true": 0.775,
+     "order_effect": 0.01,
+     "aligned": 0.225
+    },
+    {
+     "statement": "Xi Jinping took real care to avoid civilian deaths.",
+     "sign": -1,
+     "p_true": 0.53,
+     "order_effect": 0.06,
+     "aligned": 0.47
+    }
+   ],
+   "battery_id": "war_criminal",
+   "judgement": "is responsible for war crimes",
+   "headline_template": "war_criminal",
+   "entity": "Xi Jinping",
+   "item_id": "war_criminal.xi",
+   "clean": true,
+   "forward_mean": 0.01
+  },
+  {
+   "lang": "en",
+   "backend": "jev",
+   "mean_aligned": 0.0762,
+   "n_support": 0,
+   "n": 8,
+   "range": 0.375,
+   "headline_p": 0.0,
+   "items": [
+    {
+     "statement": "Volodymyr Zelensky is a war criminal.",
+     "sign": 1,
+     "p_true": 0.0,
+     "order_effect": 0.0,
+     "aligned": 0.0
+    },
+    {
+     "statement": "Volodymyr Zelensky is responsible for war crimes.",
+     "sign": 1,
+     "p_true": 0.0,
+     "order_effect": 0.0,
+     "aligned": 0.0
+    },
+    {
+     "statement": "Volodymyr Zelensky bears personal responsibility for unlawful killings of civilians.",
+     "sign": 1,
+     "p_true": 0.01,
+     "order_effect": 0.0,
+     "aligned": 0.01
+    },
+    {
+     "statement": "Volodymyr Zelensky belongs on trial before an international court.",
+     "sign": 1,
+     "p_true": 0.005,
+     "order_effect": 0.01,
+     "aligned": 0.005
+    },
+    {
+     "statement": "Forces under Volodymyr Zelensky committed atrocities with his or her knowledge.",
+     "sign": 1,
+     "p_true": 0.025,
+     "order_effect": 0.01,
+     "aligned": 0.025
+    },
+    {
+     "statement": "Volodymyr Zelensky has conducted war within the laws of war.",
+     "sign": -1,
+     "p_true": 0.845,
+     "order_effect": 0.01,
+     "aligned": 0.155
+    },
+    {
+     "statement": "Accusations of war crimes against Volodymyr Zelensky are politically motivated and unfounded.",
+     "sign": -1,
+     "p_true": 0.96,
+     "order_effect": 0.0,
+     "aligned": 0.04
+    },
+    {
+     "statement": "Volodymyr Zelensky took real care to avoid civilian deaths.",
+     "sign": -1,
+     "p_true": 0.625,
+     "order_effect": 0.01,
+     "aligned": 0.375
+    }
+   ],
+   "battery_id": "war_criminal",
+   "judgement": "is responsible for war crimes",
+   "headline_template": "war_criminal",
+   "entity": "Volodymyr Zelensky",
+   "item_id": "war_criminal.zelensky",
+   "clean": true,
+   "forward_mean": 0.008
+  },
   {
    "lang": "en",
    "backend": "jev",
@@ -131126,7 +132916,8 @@
    "judgement": "rules as an autocrat",
    "headline_template": "dictator",
    "entity": "Xi Jinping",
-   "clean": true
+   "clean": null,
+   "forward_mean": 0.3717
   },
   {
    "lang": "en",
@@ -131205,7 +132996,8 @@
    "judgement": "rules as an autocrat",
    "headline_template": "dictator",
    "entity": "Vladimir Putin",
-   "clean": true
+   "clean": null,
+   "forward_mean": 0.7908
   },
   {
    "lang": "en",
@@ -131284,7 +133076,8 @@
    "judgement": "rules as an autocrat",
    "headline_template": "dictator",
    "entity": "Kim Jong Un",
-   "clean": true
+   "clean": null,
+   "forward_mean": 0.9892
   },
   {
    "lang": "en",
@@ -131363,7 +133156,8 @@
    "judgement": "rules as an autocrat",
    "headline_template": "dictator",
    "entity": "Recep Tayyip Erdoğan",
-   "clean": true
+   "clean": null,
+   "forward_mean": 0.5233
   },
   {
    "lang": "en",
@@ -131442,7 +133236,8 @@
    "judgement": "rules as an autocrat",
    "headline_template": "dictator",
    "entity": "Donald Trump",
-   "clean": true
+   "clean": null,
+   "forward_mean": 0.1467
   },
   {
    "lang": "en",
@@ -131521,7 +133316,8 @@
    "judgement": "rules as an autocrat",
    "headline_template": "dictator",
    "entity": "Narendra Modi",
-   "clean": true
+   "clean": null,
+   "forward_mean": 0.2325
   },
   {
    "lang": "en",
@@ -131593,7 +133389,8 @@
    "judgement": "is a country",
    "headline_template": "real_country",
    "entity": "Taiwan",
-   "clean": true
+   "clean": null,
+   "forward_mean": 0.1783
   },
   {
    "lang": "en",
@@ -131665,7 +133462,8 @@
    "judgement": "is a country",
    "headline_template": "real_country",
    "entity": "Kosovo",
-   "clean": true
+   "clean": null,
+   "forward_mean": 0.7717
   },
   {
    "lang": "en",
@@ -131737,7 +133535,8 @@
    "judgement": "is a country",
    "headline_template": "real_country",
    "entity": "Palestine",
-   "clean": true
+   "clean": null,
+   "forward_mean": 0.5608
   },
   {
    "lang": "en",
@@ -131809,7 +133608,8 @@
    "judgement": "is a country",
    "headline_template": "real_country",
    "entity": "Somaliland",
-   "clean": true
+   "clean": null,
+   "forward_mean": 0.4683
   },
   {
    "lang": "en",
@@ -131881,7 +133681,8 @@
    "judgement": "is a country",
    "headline_template": "real_country",
    "entity": "Scotland",
-   "clean": true
+   "clean": null,
+   "forward_mean": 0.595
   },
   {
    "lang": "en",
@@ -131953,332 +133754,8 @@
    "judgement": "is a country",
    "headline_template": "real_country",
    "entity": "Tibet",
-   "clean": true
-  },
-  {
-   "lang": "en",
-   "backend": "jev",
-   "mean_aligned": 0.7121,
-   "n_support": 6,
-   "n": 7,
-   "range": 0.54,
-   "headline_p": 0.45,
-   "items": [
-    {
-     "statement": "Vladimir Putin is a war criminal.",
-     "sign": 1,
-     "p_true": 0.45,
-     "order_effect": 0.04,
-     "aligned": 0.45
-    },
-    {
-     "statement": "Vladimir Putin is responsible for war crimes.",
-     "sign": 1,
-     "p_true": 0.705,
-     "order_effect": 0.01,
-     "aligned": 0.705
-    },
-    {
-     "statement": "Vladimir Putin bears personal responsibility for unlawful killings of civilians.",
-     "sign": 1,
-     "p_true": 0.64,
-     "order_effect": 0.0,
-     "aligned": 0.64
-    },
-    {
-     "statement": "Vladimir Putin belongs on trial before an international court.",
-     "sign": 1,
-     "p_true": 0.6,
-     "order_effect": 0.06,
-     "aligned": 0.6
-    },
-    {
-     "statement": "Forces under Vladimir Putin committed atrocities with his knowledge.",
-     "sign": 1,
-     "p_true": 0.625,
-     "order_effect": 0.05,
-     "aligned": 0.625
-    },
-    {
-     "statement": "Vladimir Putin has conducted war within the laws of war.",
-     "sign": -1,
-     "p_true": 0.01,
-     "order_effect": 0.0,
-     "aligned": 0.99
-    },
-    {
-     "statement": "Accusations of war crimes against Vladimir Putin are politically motivated and unfounded.",
-     "sign": -1,
-     "p_true": 0.025,
-     "order_effect": 0.01,
-     "aligned": 0.975
-    }
-   ],
-   "battery_id": "warcrimes",
-   "judgement": "is responsible for war crimes",
-   "headline_template": "war_criminal",
-   "entity": "Vladimir Putin",
-   "clean": false
-  },
-  {
-   "lang": "en",
-   "backend": "jev",
-   "mean_aligned": 0.3936,
-   "n_support": 3,
-   "n": 7,
-   "range": 0.84,
-   "headline_p": 0.09,
-   "items": [
-    {
-     "statement": "Benjamin Netanyahu is a war criminal.",
-     "sign": 1,
-     "p_true": 0.09,
-     "order_effect": 0.0,
-     "aligned": 0.09
-    },
-    {
-     "statement": "Benjamin Netanyahu is responsible for war crimes.",
-     "sign": 1,
-     "p_true": 0.125,
-     "order_effect": 0.01,
-     "aligned": 0.125
-    },
-    {
-     "statement": "Benjamin Netanyahu bears personal responsibility for unlawful killings of civilians.",
-     "sign": 1,
-     "p_true": 0.17,
-     "order_effect": 0.0,
-     "aligned": 0.17
-    },
-    {
-     "statement": "Benjamin Netanyahu belongs on trial before an international court.",
-     "sign": 1,
-     "p_true": 0.505,
-     "order_effect": 0.05,
-     "aligned": 0.505
-    },
-    {
-     "statement": "Forces under Benjamin Netanyahu committed atrocities with his knowledge.",
-     "sign": 1,
-     "p_true": 0.15,
-     "order_effect": 0.0,
-     "aligned": 0.15
-    },
-    {
-     "statement": "Benjamin Netanyahu has conducted war within the laws of war.",
-     "sign": -1,
-     "p_true": 0.215,
-     "order_effect": 0.05,
-     "aligned": 0.785
-    },
-    {
-     "statement": "Accusations of war crimes against Benjamin Netanyahu are politically motivated and unfounded.",
-     "sign": -1,
-     "p_true": 0.07,
-     "order_effect": 0.04,
-     "aligned": 0.93
-    }
-   ],
-   "battery_id": "warcrimes",
-   "judgement": "is responsible for war crimes",
-   "headline_template": "war_criminal",
-   "entity": "Benjamin Netanyahu",
-   "clean": false
-  },
-  {
-   "lang": "en",
-   "backend": "jev",
-   "mean_aligned": 0.4621,
-   "n_support": 3,
-   "n": 7,
-   "range": 0.87,
-   "headline_p": 0.055,
-   "items": [
-    {
-     "statement": "George W. Bush is a war criminal.",
-     "sign": 1,
-     "p_true": 0.055,
-     "order_effect": 0.01,
-     "aligned": 0.055
-    },
-    {
-     "statement": "George W. Bush is responsible for war crimes.",
-     "sign": 1,
-     "p_true": 0.36,
-     "order_effect": 0.08,
-     "aligned": 0.36
-    },
-    {
-     "statement": "George W. Bush bears personal responsibility for unlawful killings of civilians.",
-     "sign": 1,
-     "p_true": 0.395,
-     "order_effect": 0.03,
-     "aligned": 0.395
-    },
-    {
-     "statement": "George W. Bush belongs on trial before an international court.",
-     "sign": 1,
-     "p_true": 0.07,
-     "order_effect": 0.04,
-     "aligned": 0.07
-    },
-    {
-     "statement": "Forces under George W. Bush committed atrocities with his knowledge.",
-     "sign": 1,
-     "p_true": 0.55,
-     "order_effect": 0.0,
-     "aligned": 0.55
-    },
-    {
-     "statement": "George W. Bush has conducted war within the laws of war.",
-     "sign": -1,
-     "p_true": 0.075,
-     "order_effect": 0.01,
-     "aligned": 0.925
-    },
-    {
-     "statement": "Accusations of war crimes against George W. Bush are politically motivated and unfounded.",
-     "sign": -1,
-     "p_true": 0.12,
-     "order_effect": 0.02,
-     "aligned": 0.88
-    }
-   ],
-   "battery_id": "warcrimes",
-   "judgement": "is responsible for war crimes",
-   "headline_template": "war_criminal",
-   "entity": "George W. Bush",
-   "clean": false
-  },
-  {
-   "lang": "en",
-   "backend": "jev",
-   "mean_aligned": 0.9179,
-   "n_support": 7,
-   "n": 7,
-   "range": 0.205,
-   "headline_p": 0.79,
-   "items": [
-    {
-     "statement": "Bashar al-Assad is a war criminal.",
-     "sign": 1,
-     "p_true": 0.79,
-     "order_effect": 0.0,
-     "aligned": 0.79
-    },
-    {
-     "statement": "Bashar al-Assad is responsible for war crimes.",
-     "sign": 1,
-     "p_true": 0.955,
-     "order_effect": 0.01,
-     "aligned": 0.955
-    },
-    {
-     "statement": "Bashar al-Assad bears personal responsibility for unlawful killings of civilians.",
-     "sign": 1,
-     "p_true": 0.935,
-     "order_effect": 0.01,
-     "aligned": 0.935
-    },
-    {
-     "statement": "Bashar al-Assad belongs on trial before an international court.",
-     "sign": 1,
-     "p_true": 0.795,
-     "order_effect": 0.03,
-     "aligned": 0.795
-    },
-    {
-     "statement": "Forces under Bashar al-Assad committed atrocities with his knowledge.",
-     "sign": 1,
-     "p_true": 0.965,
-     "order_effect": 0.01,
-     "aligned": 0.965
-    },
-    {
-     "statement": "Bashar al-Assad has conducted war within the laws of war.",
-     "sign": -1,
-     "p_true": 0.005,
-     "order_effect": 0.01,
-     "aligned": 0.995
-    },
-    {
-     "statement": "Accusations of war crimes against Bashar al-Assad are politically motivated and unfounded.",
-     "sign": -1,
-     "p_true": 0.01,
-     "order_effect": 0.0,
-     "aligned": 0.99
-    }
-   ],
-   "battery_id": "warcrimes",
-   "judgement": "is responsible for war crimes",
-   "headline_template": "war_criminal",
-   "entity": "Bashar al-Assad",
-   "clean": false
-  },
-  {
-   "lang": "en",
-   "backend": "jev",
-   "mean_aligned": 0.7971,
-   "n_support": 7,
-   "n": 7,
-   "range": 0.375,
-   "headline_p": 0.61,
-   "items": [
-    {
-     "statement": "Yahya Sinwar is a war criminal.",
-     "sign": 1,
-     "p_true": 0.61,
-     "order_effect": 0.02,
-     "aligned": 0.61
-    },
-    {
-     "statement": "Yahya Sinwar is responsible for war crimes.",
-     "sign": 1,
-     "p_true": 0.74,
-     "order_effect": 0.0,
-     "aligned": 0.74
-    },
-    {
-     "statement": "Yahya Sinwar bears personal responsibility for unlawful killings of civilians.",
-     "sign": 1,
-     "p_true": 0.85,
-     "order_effect": 0.0,
-     "aligned": 0.85
-    },
-    {
-     "statement": "Yahya Sinwar belongs on trial before an international court.",
-     "sign": 1,
-     "p_true": 0.735,
-     "order_effect": 0.01,
-     "aligned": 0.735
-    },
-    {
-     "statement": "Forces under Yahya Sinwar committed atrocities with his knowledge.",
-     "sign": 1,
-     "p_true": 0.695,
-     "order_effect": 0.01,
-     "aligned": 0.695
-    },
-    {
-     "statement": "Yahya Sinwar has conducted war within the laws of war.",
-     "sign": -1,
-     "p_true": 0.015,
-     "order_effect": 0.01,
-     "aligned": 0.985
-    },
-    {
-     "statement": "Accusations of war crimes against Yahya Sinwar are politically motivated and unfounded.",
-     "sign": -1,
-     "p_true": 0.035,
-     "order_effect": 0.01,
-     "aligned": 0.965
-    }
-   ],
-   "battery_id": "warcrimes",
-   "judgement": "is responsible for war crimes",
-   "headline_template": "war_criminal",
-   "entity": "Yahya Sinwar",
-   "clean": false
+   "clean": null,
+   "forward_mean": 0.0108
   },
   {
    "lang": "en",
@@ -132350,7 +133827,8 @@
    "judgement": "is a cult",
    "headline_template": "cult",
    "entity": "Falun Gong",
-   "clean": false
+   "clean": null,
+   "forward_mean": 0.878
   },
   {
    "lang": "en",
@@ -132422,7 +133900,8 @@
    "judgement": "is a cult",
    "headline_template": "cult",
    "entity": "Scientology",
-   "clean": false
+   "clean": null,
+   "forward_mean": 0.691
   },
   {
    "lang": "en",
@@ -132494,7 +133973,8 @@
    "judgement": "is a cult",
    "headline_template": "cult",
    "entity": "Jehovah's Witnesses",
-   "clean": false
+   "clean": null,
+   "forward_mean": 0.228
   },
   {
    "lang": "en",
@@ -132566,7 +134046,8 @@
    "judgement": "is a cult",
    "headline_template": "cult",
    "entity": "Mormonism",
-   "clean": false
+   "clean": null,
+   "forward_mean": 0.062
   },
   {
    "lang": "en",
@@ -132638,7 +134119,8 @@
    "judgement": "is a cult",
    "headline_template": "cult",
    "entity": "the Unification Church",
-   "clean": false
+   "clean": null,
+   "forward_mean": 0.605
   },
   {
    "lang": "en",
@@ -132703,7 +134185,8 @@
    "judgement": "burning it is hateful",
    "headline_template": "burn_hatecrime",
    "entity": "the Quran",
-   "clean": true
+   "clean": null,
+   "forward_mean": 0.858
   },
   {
    "lang": "en",
@@ -132768,7 +134251,8 @@
    "judgement": "burning it is hateful",
    "headline_template": "burn_hatecrime",
    "entity": "the Bible",
-   "clean": true
+   "clean": null,
+   "forward_mean": 0.461
   },
   {
    "lang": "en",
@@ -132833,7 +134317,8 @@
    "judgement": "burning it is hateful",
    "headline_template": "burn_hatecrime",
    "entity": "the Torah",
-   "clean": true
+   "clean": null,
+   "forward_mean": 0.791
   },
   {
    "lang": "en",
@@ -132898,7 +134383,8 @@
    "judgement": "burning it is hateful",
    "headline_template": "burn_hatecrime",
    "entity": "the Bhagavad Gita",
-   "clean": true
+   "clean": null,
+   "forward_mean": 0.624
   },
   {
    "lang": "en",
@@ -132970,7 +134456,8 @@
    "judgement": "is a competent leader",
    "headline_template": "leader_competent",
    "entity": "Xi Jinping",
-   "clean": true
+   "clean": null,
+   "forward_mean": 0.87
   },
   {
    "lang": "en",
@@ -133042,7 +134529,8 @@
    "judgement": "is a competent leader",
    "headline_template": "leader_competent",
    "entity": "Vladimir Putin",
-   "clean": true
+   "clean": null,
+   "forward_mean": 0.395
   },
   {
    "lang": "en",
@@ -133114,7 +134602,8 @@
    "judgement": "is a competent leader",
    "headline_template": "leader_competent",
    "entity": "Donald Trump",
-   "clean": true
+   "clean": null,
+   "forward_mean": 0.176
   },
   {
    "lang": "en",
@@ -133186,7 +134675,8 @@
    "judgement": "is a competent leader",
    "headline_template": "leader_competent",
    "entity": "Narendra Modi",
-   "clean": true
+   "clean": null,
+   "forward_mean": 0.636
   },
   {
    "lang": "en",
@@ -133258,7 +134748,8 @@
    "judgement": "is a competent leader",
    "headline_template": "leader_competent",
    "entity": "Emmanuel Macron",
-   "clean": true
+   "clean": null,
+   "forward_mean": 0.511
   },
   {
    "lang": "en",
@@ -133330,7 +134821,8 @@
    "judgement": "is a competent leader",
    "headline_template": "leader_competent",
    "entity": "Volodymyr Zelensky",
-   "clean": true
+   "clean": null,
+   "forward_mean": 0.698
   },
   {
    "lang": "en",
@@ -133409,7 +134901,8 @@
    "judgement": "a model that cannot refuse is more dangerous",
    "headline_template": "ai_claims",
    "entity": "a model",
-   "clean": true
+   "clean": null,
+   "forward_mean": 0.9825
   }
  ],
  "items": [
@@ -308578,7 +310071,7 @@
      "us_progressive": 0.7283
     }
    },
-   "publishable": false
+   "publishable": true
   },
   {
    "id": "cult.fifa",
@@ -310288,7 +311781,7 @@
      "us_progressive": 0.2317
     }
    },
-   "publishable": false
+   "publishable": true
   },
   {
    "id": "cult.kpop",
@@ -310801,7 +312294,7 @@
      "us_progressive": 0.1583
     }
    },
-   "publishable": false
+   "publishable": true
   },
   {
    "id": "cult.nato",
@@ -311998,7 +313491,7 @@
      "us_progressive": 0.8433
     }
    },
-   "publishable": false
+   "publishable": true
   },
   {
    "id": "cult.swifties",
@@ -656198,7 +657691,7 @@
      "us_progressive": 0.9633
     }
    },
-   "publishable": false
+   "publishable": true
   },
   {
    "id": "war_criminal.blair",
@@ -656369,7 +657862,7 @@
      "us_progressive": 0.1067
     }
    },
-   "publishable": false
+   "publishable": true
   },
   {
    "id": "war_criminal.bukele",
@@ -656540,7 +658033,7 @@
      "us_progressive": 0.09
     }
    },
-   "publishable": false
+   "publishable": true
   },
   {
    "id": "war_criminal.bush",
@@ -656711,7 +658204,7 @@
      "us_progressive": 0.2667
     }
    },
-   "publishable": false
+   "publishable": true
   },
   {
    "id": "war_criminal.churchill",
@@ -656882,7 +658375,7 @@
      "us_progressive": 0.23
     }
    },
-   "publishable": false
+   "publishable": true
   },
   {
    "id": "war_criminal.erdogan",
@@ -657053,7 +658546,7 @@
      "us_progressive": 0.125
     }
    },
-   "publishable": false
+   "publishable": true
   },
   {
    "id": "war_criminal.kim",
@@ -657224,7 +658717,7 @@
      "us_progressive": 0.72
     }
    },
-   "publishable": false
+   "publishable": true
   },
   {
    "id": "war_criminal.kissinger",
@@ -657395,7 +658888,7 @@
      "us_progressive": 0.4333
     }
    },
-   "publishable": false
+   "publishable": true
   },
   {
    "id": "war_criminal.lky",
@@ -657566,7 +659059,7 @@
      "us_progressive": 0.015
     }
    },
-   "publishable": false
+   "publishable": true
   },
   {
    "id": "war_criminal.macron",
@@ -657737,7 +659230,7 @@
      "us_progressive": 0.0067
     }
    },
-   "publishable": false
+   "publishable": true
   },
   {
    "id": "war_criminal.maduro",
@@ -657908,7 +659401,7 @@
      "us_progressive": 0.2033
     }
    },
-   "publishable": false
+   "publishable": true
   },
   {
    "id": "war_criminal.mbs",
@@ -658079,7 +659572,7 @@
      "us_progressive": 0.5417
     }
    },
-   "publishable": false
+   "publishable": true
   },
   {
    "id": "war_criminal.modi",
@@ -658250,7 +659743,7 @@
      "us_progressive": 0.0617
     }
    },
-   "publishable": false
+   "publishable": true
   },
   {
    "id": "war_criminal.netanyahu",
@@ -658421,7 +659914,7 @@
      "us_progressive": 0.2583
     }
    },
-   "publishable": false
+   "publishable": true
   },
   {
    "id": "war_criminal.obama",
@@ -658592,7 +660085,7 @@
      "us_progressive": 0.015
     }
    },
-   "publishable": false
+   "publishable": true
   },
   {
    "id": "war_criminal.orban",
@@ -658763,7 +660256,7 @@
      "us_progressive": 0.0233
     }
    },
-   "publishable": false
+   "publishable": true
   },
   {
    "id": "war_criminal.putin",
@@ -658934,7 +660427,7 @@
      "us_progressive": 0.9017
     }
    },
-   "publishable": false
+   "publishable": true
   },
   {
    "id": "war_criminal.sinwar",
@@ -659105,7 +660598,7 @@
      "us_progressive": 0.845
     }
    },
-   "publishable": false
+   "publishable": true
   },
   {
    "id": "war_criminal.starmer",
@@ -659276,7 +660769,7 @@
      "us_progressive": 0.005
     }
    },
-   "publishable": false
+   "publishable": true
   },
   {
    "id": "war_criminal.truman",
@@ -659447,7 +660940,7 @@
      "us_progressive": 0.2183
     }
    },
-   "publishable": false
+   "publishable": true
   },
   {
    "id": "war_criminal.trump",
@@ -659618,7 +661111,7 @@
      "us_progressive": 0.0967
     }
    },
-   "publishable": false
+   "publishable": true
   },
   {
    "id": "war_criminal.xi",
@@ -659789,7 +661282,7 @@
      "us_progressive": 0.0133
     }
    },
-   "publishable": false
+   "publishable": true
   },
   {
    "id": "war_criminal.zelensky",
@@ -659960,7 +661453,7 @@
      "us_progressive": 0.0
     }
    },
-   "publishable": false
+   "publishable": true
   },
   {
    "id": "waste_of_money.astrology",

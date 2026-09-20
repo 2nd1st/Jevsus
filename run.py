@@ -29,6 +29,7 @@ JEV_MEAN_TOKENS = 339             # measured mean input tokens per call, used by
 GAP_FLAG = 0.10                   # |T0 gap| on an anchor above this gets a soft flag (noul has 2 decimals; gap measures abstention)
 PROBES = ["god", "us_conservative", "us_progressive", "cn_mfa", "muslim", "evangelical"]   # fixed generic stances; `--personas probes`
 SENS_FACT, SENS_OPINION = 0.10, 0.40   # display-only bands for stance sensitivity; no conclusion is hard-coded on them
+BATTERY_MIN_NAMES = 10             # the across-names check is only read when a battery sentence was asked about at least this many names
 BATTERY_MIN_SD = 0.12              # a battery sentence whose reading barely moves across names (SD below this) measures the construction, not the name
 RANGE_WIDE = 0.20                 # T1 hi-lo across phrasings at or above this => quote rank only, not the absolute value
 L10N = {
@@ -935,10 +936,22 @@ def summarize(out_dir, items):
     sentences = defaultdict(list)
     for (bid, k), ps in sorted(across.items()):
         sd = st.pstdev(ps) if len(ps) > 1 else None
-        sentences[bid].append(dict(k=k, n_names=len(ps), mean=r4(mean(ps)), sd=r4(sd), uniform_ok=note.get((bid, k)), gap_with=pair.get((bid, k)),
-                                   flagged=bool(len(ps) >= 5 and sd < BATTERY_MIN_SD and not note.get((bid, k)) and pair.get((bid, k)) is None)))
+        # The spread depends on who was asked about. Few names, or names picked because they share the trait (five people who all stand accused),
+        # squeeze a good sentence into a low SD: below BATTERY_MIN_NAMES the number is reported and nothing is concluded from it.
+        judged = len(ps) >= BATTERY_MIN_NAMES
+        sentences[bid].append(dict(k=k, n_names=len(ps), mean=r4(mean(ps)), sd=r4(sd), judged=judged, uniform_ok=note.get((bid, k)), gap_with=pair.get((bid, k)),
+                                   flagged=bool(judged and sd < BATTERY_MIN_SD and not note.get((bid, k)) and pair.get((bid, k)) is None)))
+    # The floor of a battery: its average over the names whose forward sentences all read near zero. Reversed sentences can carry a presupposition
+    # ("X conducted war within the laws of war" is false of someone who never waged war), which lifts every average; the floor says by how much.
+    floors = {}
+    for bid in {b["battery_id"] for b in bats}:
+        low = [b for b in bats if b["battery_id"] == bid and any(x["sign"] < 0 for x in b["items"]) and mean(x["p_true"] for x in b["items"] if x["sign"] > 0) < 0.10]
+        if len(low) >= 3:
+            floors[bid] = dict(n_names=len(low), names=[b["entity"] for b in low], mean_of_forward=r4(mean(mean(x["p_true"] for x in b["items"] if x["sign"] > 0) for b in low)), mean_of_battery=r4(mean(b["mean_aligned"] for b in low)))
     for b in bats:
-        b["clean"] = not any(x["flagged"] for x in sentences[b["battery_id"]])
+        judged = all(x["judged"] for x in sentences[b["battery_id"]])
+        b["clean"] = (not any(x["flagged"] for x in sentences[b["battery_id"]])) if judged else None      # None = too few names to judge the battery
+        b["forward_mean"] = r4(mean(x["p_true"] for x in b["items"] if x["sign"] > 0)) if any(x["sign"] > 0 for x in b["items"]) else None
     # The gate. A sentence marked `needs_battery` does not publish its single reading as a number on its own: a name is `publishable` there
     # only with a battery reading next to it. `flipped` = the single sentence and the battery land on different sides of 0.5.
     bat_of = {(b["headline_template"], b["entity"].lower()): b for b in bats}
@@ -948,7 +961,7 @@ def summarize(out_dir, items):
         if e["type"] != "stmt" or not t or not t.get("needs_battery") or "T1" not in e:
             continue
         b = bat_of.get((e["template_id"], (meta[e["id"]].get("slots") or {}).get("a", "").lower()))
-        e["publishable"] = b is not None and b["clean"]
+        e["publishable"] = b is not None and b["clean"] is not False
         r = report.setdefault(e["template_id"], dict(n_names=0, n_with_battery=0, n_flipped=0, flipped=[]))
         r["n_names"] += 1
         if b:
@@ -958,7 +971,7 @@ def summarize(out_dir, items):
     fl = [e["stance"]["sensitivity"] for e in entries if e["category"] == "anchor" and e.get("stance")]
     noise = dict(n_anchors=len(fl), mean=r4(mean(fl)), max=r4(max(fl))) if fl else None      # the same stances on settled facts = the floor to read sensitivity against
     summary = dict(languages=summarize_languages(out_dir, entries, meta), traits=summarize_traits(out_dir), self_rank=summarize_self_rank(out_dir, entries, meta), n_items=len(entries), stance_noise_floor=noise, stance_bands=dict(held_as_fact_below=SENS_FACT, treated_as_opinion_above=SENS_OPINION), date=os.path.basename(os.path.normpath(out_dir)), generated_at=time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), range_wide_threshold=RANGE_WIDE,
-                   columns=columns, unknown_item_ids=unknown, stale_rows_ignored=stale, battery_gate=report, battery_sentences=dict(min_sd=BATTERY_MIN_SD, batteries=sentences), batteries=bats, items=entries)
+                   columns=columns, unknown_item_ids=unknown, stale_rows_ignored=stale, battery_gate=report, battery_sentences=dict(min_sd=BATTERY_MIN_SD, min_names=BATTERY_MIN_NAMES, floors=floors, batteries=sentences), batteries=bats, items=entries)
     path = os.path.join(out_dir, "summary.json")
     if os.path.exists(path):      # rebuilding from the same rows changes nothing but the timestamp: keep the file as it is
         prev = json.load(open(path, encoding="utf-8"))
