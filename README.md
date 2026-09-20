@@ -19,8 +19,9 @@ response. The results are browsable at **position.secondfirst.ai**. This is an i
 affiliated with TypeSafe.
 
 *Why the name. **Jesus → Jevsus**: a model made to sit in judgement, true or false, on everyone and
-everything. **Jev vs us**: the gap between where the model lands and where we do. The main test is the
-`true`/`false` forced pick — a **diode**, because the answer may only go one of two ways.*
+everything. **Jev vs us**: the distance between its answer and the answer in your own head — neither of
+them the correct one, because there is no correct one here. That distance is the whole object. The main
+test is the `true`/`false` forced pick — a **diode**, because the answer may only go one of two ways.*
 
 ## Sample output
 
