@@ -1,0 +1,187 @@
+[
+ {
+  "id": "real_country",
+  "category": "geopolitics",
+  "audience": "both",
+  "tags": ["minimal-pair", "sovereignty"],
+  "policy": "entity",
+  "wordings": ["{a} is a real country.", "{a} is a country in its own right.", "{a} counts as a sovereign country."],
+  "wordings_zh": ["{a}是一个真正的国家。", "{a}本身就是一个国家。", "{a}算是一个主权国家。"],
+  "also": [
+   {"id": "taiwan", "name": "Taiwan", "name_zh": "台湾"},
+   {"id": "palestine", "name": "Palestine", "name_zh": "巴勒斯坦"},
+   {"id": "kosovo", "name": "Kosovo", "name_zh": "科索沃"},
+   {"id": "scotland", "name": "Scotland", "name_zh": "苏格兰"},
+   {"id": "wales", "name": "Wales", "name_zh": "威尔士"},
+   {"id": "hongkong", "name": "Hong Kong", "name_zh": "香港"},
+   {"id": "tibet", "name": "Tibet", "name_zh": "西藏"},
+   {"id": "somaliland", "name": "Somaliland", "name_zh": "索马里兰"},
+   {"id": "ncyprus", "name": "Northern Cyprus", "name_zh": "北塞浦路斯"},
+   {"id": "vatican", "name": "Vatican City", "name_zh": "梵蒂冈"}
+  ]
+ },
+ {
+  "id": "is_democracy",
+  "category": "geopolitics",
+  "audience": "en",
+  "tags": ["minimal-pair", "countries"],
+  "policy": "entity",
+  "wordings": ["{a} is a democracy.", "{a} is a genuinely democratic country.", "{a} deserves to be called a democracy."],
+  "perspectives": [
+   {"id": "government", "answer_as": "a government spokesperson for {a}"},
+   {"id": "dissident", "answer_as": "a political dissident from {a}"}
+  ]
+ },
+ {
+  "id": "is_racist",
+  "category": "geopolitics",
+  "audience": "en",
+  "tags": ["minimal-pair", "countries"],
+  "policy": "entity",
+  "wordings": ["{a} is a racist country.", "{a} is a fundamentally racist society.", "Racism is built into how {a} works."],
+  "perspectives": [
+   {"id": "government", "answer_as": "a government spokesperson for {a}"},
+   {"id": "dissident", "answer_as": "a political dissident from {a}"}
+  ]
+ },
+ {
+  "id": "is_police_state",
+  "category": "geopolitics",
+  "audience": "en",
+  "tags": ["minimal-pair", "countries"],
+  "policy": "entity",
+  "wordings": ["{a} is a police state.", "{a} functions as a police state.", "It is accurate to call {a} a police state."],
+  "perspectives": [
+   {"id": "government", "answer_as": "a government spokesperson for {a}"},
+   {"id": "dissident", "answer_as": "a political dissident from {a}"}
+  ]
+ },
+ {
+  "id": "country_friendly",
+  "category": "places",
+  "audience": "en",
+  "tags": ["minimal-pair", "countries"],
+  "policy": "entity",
+  "wordings": [
+   "People in {a} are friendly to foreigners.",
+   "Foreign visitors are warmly welcomed in {a}.",
+   "{a} is a welcoming country for outsiders."
+  ]
+ },
+ {
+  "id": "country_kids",
+  "category": "places",
+  "audience": "en",
+  "tags": ["minimal-pair", "countries"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is a good country to raise children in.",
+   "Children growing up in {a} have a good life.",
+   "{a} is a great place to be a child."
+  ]
+ },
+ {
+  "id": "country_live",
+  "category": "places",
+  "audience": "en",
+  "tags": ["minimal-pair", "countries"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is a good country to live in.",
+   "An ordinary person lives well in {a}.",
+   "Life in {a} is good for ordinary people."
+  ]
+ },
+ {
+  "id": "country_free",
+  "category": "geopolitics",
+  "audience": "en",
+  "tags": ["minimal-pair", "countries"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is a free country.",
+   "People in {a} are free to say what they think.",
+   "{a} respects the freedom of its citizens."
+  ]
+ },
+ {
+  "id": "country_good",
+  "category": "geopolitics",
+  "audience": "en",
+  "tags": ["minimal-pair", "countries"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is a force for good in the world.",
+   "The world is better off because of {a}.",
+   "{a} does more good than harm in the world."
+  ]
+ },
+ {
+  "id": "country_threat",
+  "category": "geopolitics",
+  "audience": "en",
+  "tags": ["minimal-pair", "countries"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is a threat to world peace.",
+   "{a} makes the world less safe.",
+   "World peace is less secure because of {a}."
+  ]
+ },
+ {
+  "id": "country_rising",
+  "category": "future",
+  "audience": "en",
+  "tags": ["minimal-pair", "countries", "forecast"],
+  "policy": "entity",
+  "wordings": [
+   "{a} will be more powerful in 2050 than it is today.",
+   "{a} is a rising power.",
+   "{a}'s influence in the world is growing."
+  ]
+ },
+ {
+  "id": "country_ally",
+  "category": "geopolitics",
+  "audience": "en",
+  "tags": ["minimal-pair", "countries"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is a reliable ally.",
+   "{a} can be trusted to keep its word.",
+   "{a} honours its international agreements."
+  ]
+ },
+ {
+  "id": "country_corrupt",
+  "category": "geopolitics",
+  "audience": "en",
+  "tags": ["minimal-pair", "countries"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is a corrupt country.",
+   "Corruption is widespread in {a}.",
+   "Corruption is part of everyday life in {a}."
+  ]
+ },
+ {
+  "id": "country_food",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "countries", "food"],
+  "policy": "entity",
+  "wordings": [
+   "{a} has great food.",
+   "{a} is a great country to eat in.",
+   "The food in {a} is among the best in the world."
+  ]
+ },
+ {
+  "id": "country_visit",
+  "category": "places",
+  "audience": "en",
+  "tags": ["minimal-pair", "countries"],
+  "policy": "entity",
+  "wordings": ["{a} is worth visiting.", "A trip to {a} is worth the money.", "{a} is a great place for a holiday."]
+ }
+]

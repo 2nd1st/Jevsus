@@ -1,0 +1,14 @@
+[
+ {"id": "french", "name": "French"},
+ {"id": "german", "name": "German"},
+ {"id": "mandarin", "name": "Mandarin Chinese"},
+ {"id": "arabic", "name": "Arabic"},
+ {"id": "english", "name": "English"},
+ {"id": "italian", "name": "Italian"},
+ {"id": "japanese", "name": "Japanese"},
+ {"id": "russian", "name": "Russian"},
+ {"id": "korean", "name": "Korean"},
+ {"id": "hindi", "name": "Hindi"},
+ {"id": "dutch", "name": "Dutch"},
+ {"id": "cantonese", "name": "Cantonese"}
+]

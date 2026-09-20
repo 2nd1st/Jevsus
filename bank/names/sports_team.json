@@ -1,0 +1,16 @@
+[
+ {"id": "realmadrid", "name": "Real Madrid"},
+ {"id": "barcelona", "name": "FC Barcelona"},
+ {"id": "manutd", "name": "Manchester United"},
+ {"id": "mancity", "name": "Manchester City"},
+ {"id": "liverpool", "name": "Liverpool FC"},
+ {"id": "bayern", "name": "Bayern Munich"},
+ {"id": "psg", "name": "Paris Saint-Germain"},
+ {"id": "juventus", "name": "Juventus"},
+ {"id": "yankees", "name": "the New York Yankees"},
+ {"id": "lakers", "name": "the Los Angeles Lakers"},
+ {"id": "warriors", "name": "the Golden State Warriors"},
+ {"id": "cowboys", "name": "the Dallas Cowboys"},
+ {"id": "patriots", "name": "the New England Patriots"},
+ {"id": "allblacks", "name": "the All Blacks"}
+]

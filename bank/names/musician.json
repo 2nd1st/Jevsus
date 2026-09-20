@@ -1,0 +1,18 @@
+[
+ {"id": "swift", "name": "Taylor Swift"},
+ {"id": "beyonce", "name": "Beyoncé"},
+ {"id": "drake", "name": "Drake"},
+ {"id": "kanye", "name": "Kanye West"},
+ {"id": "bts", "name": "BTS"},
+ {"id": "beatles", "name": "The Beatles"},
+ {"id": "sheeran", "name": "Ed Sheeran"},
+ {"id": "badbunny", "name": "Bad Bunny"},
+ {"id": "radiohead", "name": "Radiohead"},
+ {"id": "coldplay", "name": "Coldplay"},
+ {"id": "mjackson", "name": "Michael Jackson"},
+ {"id": "eminem", "name": "Eminem"},
+ {"id": "oasis", "name": "Oasis"},
+ {"id": "nickelback", "name": "Nickelback"},
+ {"id": "bieber", "name": "Justin Bieber"},
+ {"id": "abba", "name": "ABBA"}
+]

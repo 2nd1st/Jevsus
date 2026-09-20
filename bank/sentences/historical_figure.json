@@ -1,0 +1,74 @@
+[
+ {
+  "id": "hist_hero",
+  "category": "history",
+  "audience": "en",
+  "tags": ["minimal-pair", "historical-figures"],
+  "policy": "evaluative",
+  "wordings": ["{a} was a hero.", "{a} deserves to be remembered as a hero.", "History is right to celebrate {a}."],
+  "perspectives": [
+   {"id": "admirer", "answer_as": "a lifelong admirer of {a}"},
+   {"id": "victim", "answer_as": "a descendant of people who suffered under {a}"}
+  ]
+ },
+ {
+  "id": "hist_tyrant",
+  "category": "history",
+  "audience": "en",
+  "tags": ["minimal-pair", "historical-figures"],
+  "policy": "evaluative",
+  "wordings": ["{a} was a tyrant.", "{a} ruled as a tyrant.", "It is accurate to call {a} a tyrant."],
+  "perspectives": [
+   {"id": "admirer", "answer_as": "a lifelong admirer of {a}"},
+   {"id": "victim", "answer_as": "a descendant of people who suffered under {a}"}
+  ]
+ },
+ {
+  "id": "hist_netgood",
+  "category": "history",
+  "audience": "en",
+  "tags": ["minimal-pair", "historical-figures"],
+  "policy": "evaluative",
+  "wordings": [
+   "{a} did more good than harm.",
+   "The world is better off because {a} lived.",
+   "On balance, {a} made the world better."
+  ]
+ },
+ {
+  "id": "hist_overrated",
+  "category": "history",
+  "audience": "en",
+  "tags": ["minimal-pair", "historical-figures"],
+  "policy": "evaluative",
+  "wordings": [
+   "{a} is overrated by history.",
+   "History gives {a} more credit than they deserve.",
+   "{a}'s historical reputation is inflated."
+  ]
+ },
+ {
+  "id": "hist_changed",
+  "category": "history",
+  "audience": "en",
+  "tags": ["minimal-pair", "historical-figures"],
+  "policy": "evaluative",
+  "wordings": [
+   "{a} changed the world more than almost anyone else.",
+   "Few individuals shaped history as much as {a}.",
+   "World history would look very different without {a}."
+  ]
+ },
+ {
+  "id": "hist_today",
+  "category": "history",
+  "audience": "en",
+  "tags": ["minimal-pair", "historical-figures"],
+  "policy": "evaluative",
+  "wordings": [
+   "Judged by today's standards, {a} was a bad person.",
+   "By modern moral standards {a} was a bad person.",
+   "A person who acted today as {a} did would be considered a bad person."
+  ]
+ }
+]

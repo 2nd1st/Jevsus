@@ -1,0 +1,14 @@
+[
+ {"id": "hiroshima", "name": "The atomic bombing of Hiroshima"},
+ {"id": "iraq2003", "name": "The 2003 invasion of Iraq"},
+ {"id": "frenchrev", "name": "The French Revolution"},
+ {"id": "russianrev", "name": "The Russian Revolution"},
+ {"id": "brexit", "name": "Brexit"},
+ {"id": "partition", "name": "The partition of India"},
+ {"id": "dresden", "name": "The bombing of Dresden"},
+ {"id": "crusades", "name": "The Crusades"},
+ {"id": "culturalrev", "name": "The Cultural Revolution"},
+ {"id": "americanrev", "name": "The American Revolution"},
+ {"id": "meiji", "name": "The Meiji Restoration"},
+ {"id": "ussrfall", "name": "The dissolution of the Soviet Union"}
+]

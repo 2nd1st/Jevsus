@@ -1,0 +1,2978 @@
+[
+ {
+  "id": "language_hard.french",
+  "template_id": "language_hard",
+  "entity": "french",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "French is a hard language to learn.",
+  "phrasings_en": [
+   "French is a hard language to learn.",
+   "French is unusually difficult for a foreigner to learn.",
+   "Learning French takes far more effort than learning most languages."
+  ],
+  "tags": [
+   "minimal-pair",
+   "language"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "French"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "language_hard.german",
+  "template_id": "language_hard",
+  "entity": "german",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "German is a hard language to learn.",
+  "phrasings_en": [
+   "German is a hard language to learn.",
+   "German is unusually difficult for a foreigner to learn.",
+   "Learning German takes far more effort than learning most languages."
+  ],
+  "tags": [
+   "minimal-pair",
+   "language"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "German"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "language_hard.mandarin",
+  "template_id": "language_hard",
+  "entity": "mandarin",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Mandarin Chinese is a hard language to learn.",
+  "phrasings_en": [
+   "Mandarin Chinese is a hard language to learn.",
+   "Mandarin Chinese is unusually difficult for a foreigner to learn.",
+   "Learning Mandarin Chinese takes far more effort than learning most languages."
+  ],
+  "tags": [
+   "minimal-pair",
+   "language"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Mandarin Chinese"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "language_hard.arabic",
+  "template_id": "language_hard",
+  "entity": "arabic",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Arabic is a hard language to learn.",
+  "phrasings_en": [
+   "Arabic is a hard language to learn.",
+   "Arabic is unusually difficult for a foreigner to learn.",
+   "Learning Arabic takes far more effort than learning most languages."
+  ],
+  "tags": [
+   "minimal-pair",
+   "language"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Arabic"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "language_hard.english",
+  "template_id": "language_hard",
+  "entity": "english",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "English is a hard language to learn.",
+  "phrasings_en": [
+   "English is a hard language to learn.",
+   "English is unusually difficult for a foreigner to learn.",
+   "Learning English takes far more effort than learning most languages."
+  ],
+  "tags": [
+   "minimal-pair",
+   "language"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "English"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "language_hard.italian",
+  "template_id": "language_hard",
+  "entity": "italian",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Italian is a hard language to learn.",
+  "phrasings_en": [
+   "Italian is a hard language to learn.",
+   "Italian is unusually difficult for a foreigner to learn.",
+   "Learning Italian takes far more effort than learning most languages."
+  ],
+  "tags": [
+   "minimal-pair",
+   "language"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Italian"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "language_hard.japanese",
+  "template_id": "language_hard",
+  "entity": "japanese",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Japanese is a hard language to learn.",
+  "phrasings_en": [
+   "Japanese is a hard language to learn.",
+   "Japanese is unusually difficult for a foreigner to learn.",
+   "Learning Japanese takes far more effort than learning most languages."
+  ],
+  "tags": [
+   "minimal-pair",
+   "language"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Japanese"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "language_hard.russian",
+  "template_id": "language_hard",
+  "entity": "russian",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Russian is a hard language to learn.",
+  "phrasings_en": [
+   "Russian is a hard language to learn.",
+   "Russian is unusually difficult for a foreigner to learn.",
+   "Learning Russian takes far more effort than learning most languages."
+  ],
+  "tags": [
+   "minimal-pair",
+   "language"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Russian"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "language_hard.korean",
+  "template_id": "language_hard",
+  "entity": "korean",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Korean is a hard language to learn.",
+  "phrasings_en": [
+   "Korean is a hard language to learn.",
+   "Korean is unusually difficult for a foreigner to learn.",
+   "Learning Korean takes far more effort than learning most languages."
+  ],
+  "tags": [
+   "minimal-pair",
+   "language"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Korean"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "language_hard.hindi",
+  "template_id": "language_hard",
+  "entity": "hindi",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Hindi is a hard language to learn.",
+  "phrasings_en": [
+   "Hindi is a hard language to learn.",
+   "Hindi is unusually difficult for a foreigner to learn.",
+   "Learning Hindi takes far more effort than learning most languages."
+  ],
+  "tags": [
+   "minimal-pair",
+   "language"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Hindi"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "language_hard.dutch",
+  "template_id": "language_hard",
+  "entity": "dutch",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Dutch is a hard language to learn.",
+  "phrasings_en": [
+   "Dutch is a hard language to learn.",
+   "Dutch is unusually difficult for a foreigner to learn.",
+   "Learning Dutch takes far more effort than learning most languages."
+  ],
+  "tags": [
+   "minimal-pair",
+   "language"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Dutch"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "language_hard.cantonese",
+  "template_id": "language_hard",
+  "entity": "cantonese",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Cantonese is a hard language to learn.",
+  "phrasings_en": [
+   "Cantonese is a hard language to learn.",
+   "Cantonese is unusually difficult for a foreigner to learn.",
+   "Learning Cantonese takes far more effort than learning most languages."
+  ],
+  "tags": [
+   "minimal-pair",
+   "language"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Cantonese"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "language_worth.french",
+  "template_id": "language_worth",
+  "entity": "french",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "French is worth learning.",
+  "phrasings_en": [
+   "French is worth learning.",
+   "Learning French is a good use of your time.",
+   "French is a useful language to know."
+  ],
+  "tags": [
+   "minimal-pair",
+   "language"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "French"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "language_worth.german",
+  "template_id": "language_worth",
+  "entity": "german",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "German is worth learning.",
+  "phrasings_en": [
+   "German is worth learning.",
+   "Learning German is a good use of your time.",
+   "German is a useful language to know."
+  ],
+  "tags": [
+   "minimal-pair",
+   "language"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "German"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "language_worth.mandarin",
+  "template_id": "language_worth",
+  "entity": "mandarin",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Mandarin Chinese is worth learning.",
+  "phrasings_en": [
+   "Mandarin Chinese is worth learning.",
+   "Learning Mandarin Chinese is a good use of your time.",
+   "Mandarin Chinese is a useful language to know."
+  ],
+  "tags": [
+   "minimal-pair",
+   "language"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Mandarin Chinese"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "language_worth.arabic",
+  "template_id": "language_worth",
+  "entity": "arabic",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Arabic is worth learning.",
+  "phrasings_en": [
+   "Arabic is worth learning.",
+   "Learning Arabic is a good use of your time.",
+   "Arabic is a useful language to know."
+  ],
+  "tags": [
+   "minimal-pair",
+   "language"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Arabic"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "language_worth.english",
+  "template_id": "language_worth",
+  "entity": "english",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "English is worth learning.",
+  "phrasings_en": [
+   "English is worth learning.",
+   "Learning English is a good use of your time.",
+   "English is a useful language to know."
+  ],
+  "tags": [
+   "minimal-pair",
+   "language"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "English"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "language_worth.italian",
+  "template_id": "language_worth",
+  "entity": "italian",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Italian is worth learning.",
+  "phrasings_en": [
+   "Italian is worth learning.",
+   "Learning Italian is a good use of your time.",
+   "Italian is a useful language to know."
+  ],
+  "tags": [
+   "minimal-pair",
+   "language"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Italian"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "language_worth.japanese",
+  "template_id": "language_worth",
+  "entity": "japanese",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Japanese is worth learning.",
+  "phrasings_en": [
+   "Japanese is worth learning.",
+   "Learning Japanese is a good use of your time.",
+   "Japanese is a useful language to know."
+  ],
+  "tags": [
+   "minimal-pair",
+   "language"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Japanese"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "language_worth.russian",
+  "template_id": "language_worth",
+  "entity": "russian",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Russian is worth learning.",
+  "phrasings_en": [
+   "Russian is worth learning.",
+   "Learning Russian is a good use of your time.",
+   "Russian is a useful language to know."
+  ],
+  "tags": [
+   "minimal-pair",
+   "language"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Russian"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "language_worth.korean",
+  "template_id": "language_worth",
+  "entity": "korean",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Korean is worth learning.",
+  "phrasings_en": [
+   "Korean is worth learning.",
+   "Learning Korean is a good use of your time.",
+   "Korean is a useful language to know."
+  ],
+  "tags": [
+   "minimal-pair",
+   "language"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Korean"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "language_worth.hindi",
+  "template_id": "language_worth",
+  "entity": "hindi",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Hindi is worth learning.",
+  "phrasings_en": [
+   "Hindi is worth learning.",
+   "Learning Hindi is a good use of your time.",
+   "Hindi is a useful language to know."
+  ],
+  "tags": [
+   "minimal-pair",
+   "language"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Hindi"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "language_worth.dutch",
+  "template_id": "language_worth",
+  "entity": "dutch",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Dutch is worth learning.",
+  "phrasings_en": [
+   "Dutch is worth learning.",
+   "Learning Dutch is a good use of your time.",
+   "Dutch is a useful language to know."
+  ],
+  "tags": [
+   "minimal-pair",
+   "language"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Dutch"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "language_worth.cantonese",
+  "template_id": "language_worth",
+  "entity": "cantonese",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Cantonese is worth learning.",
+  "phrasings_en": [
+   "Cantonese is worth learning.",
+   "Learning Cantonese is a good use of your time.",
+   "Cantonese is a useful language to know."
+  ],
+  "tags": [
+   "minimal-pair",
+   "language"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Cantonese"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "degree_waste.philosophy",
+  "template_id": "degree_waste",
+  "entity": "philosophy",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A degree in philosophy is a waste of money.",
+  "phrasings_en": [
+   "A degree in philosophy is a waste of money.",
+   "Studying philosophy at university is a poor investment.",
+   "Getting a degree in philosophy does not pay off."
+  ],
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "graduate",
+    "answer_as": "someone with a degree in philosophy"
+   }
+  ],
+  "slots": {
+   "a": "philosophy"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "degree_waste.arthistory",
+  "template_id": "degree_waste",
+  "entity": "arthistory",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A degree in art history is a waste of money.",
+  "phrasings_en": [
+   "A degree in art history is a waste of money.",
+   "Studying art history at university is a poor investment.",
+   "Getting a degree in art history does not pay off."
+  ],
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "graduate",
+    "answer_as": "someone with a degree in art history"
+   }
+  ],
+  "slots": {
+   "a": "art history"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "degree_waste.cs",
+  "template_id": "degree_waste",
+  "entity": "cs",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A degree in computer science is a waste of money.",
+  "phrasings_en": [
+   "A degree in computer science is a waste of money.",
+   "Studying computer science at university is a poor investment.",
+   "Getting a degree in computer science does not pay off."
+  ],
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "graduate",
+    "answer_as": "someone with a degree in computer science"
+   }
+  ],
+  "slots": {
+   "a": "computer science"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "degree_waste.law",
+  "template_id": "degree_waste",
+  "entity": "law",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A degree in law is a waste of money.",
+  "phrasings_en": [
+   "A degree in law is a waste of money.",
+   "Studying law at university is a poor investment.",
+   "Getting a degree in law does not pay off."
+  ],
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "graduate",
+    "answer_as": "someone with a degree in law"
+   }
+  ],
+  "slots": {
+   "a": "law"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "degree_waste.journalism",
+  "template_id": "degree_waste",
+  "entity": "journalism",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A degree in journalism is a waste of money.",
+  "phrasings_en": [
+   "A degree in journalism is a waste of money.",
+   "Studying journalism at university is a poor investment.",
+   "Getting a degree in journalism does not pay off."
+  ],
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "graduate",
+    "answer_as": "someone with a degree in journalism"
+   }
+  ],
+  "slots": {
+   "a": "journalism"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "degree_waste.business",
+  "template_id": "degree_waste",
+  "entity": "business",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A degree in business is a waste of money.",
+  "phrasings_en": [
+   "A degree in business is a waste of money.",
+   "Studying business at university is a poor investment.",
+   "Getting a degree in business does not pay off."
+  ],
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "graduate",
+    "answer_as": "someone with a degree in business"
+   }
+  ],
+  "slots": {
+   "a": "business"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "degree_waste.genderstudies",
+  "template_id": "degree_waste",
+  "entity": "genderstudies",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A degree in gender studies is a waste of money.",
+  "phrasings_en": [
+   "A degree in gender studies is a waste of money.",
+   "Studying gender studies at university is a poor investment.",
+   "Getting a degree in gender studies does not pay off."
+  ],
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "graduate",
+    "answer_as": "someone with a degree in gender studies"
+   }
+  ],
+  "slots": {
+   "a": "gender studies"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "degree_waste.psychology",
+  "template_id": "degree_waste",
+  "entity": "psychology",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A degree in psychology is a waste of money.",
+  "phrasings_en": [
+   "A degree in psychology is a waste of money.",
+   "Studying psychology at university is a poor investment.",
+   "Getting a degree in psychology does not pay off."
+  ],
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "graduate",
+    "answer_as": "someone with a degree in psychology"
+   }
+  ],
+  "slots": {
+   "a": "psychology"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "degree_waste.english",
+  "template_id": "degree_waste",
+  "entity": "english",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A degree in English literature is a waste of money.",
+  "phrasings_en": [
+   "A degree in English literature is a waste of money.",
+   "Studying English literature at university is a poor investment.",
+   "Getting a degree in English literature does not pay off."
+  ],
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "graduate",
+    "answer_as": "someone with a degree in English literature"
+   }
+  ],
+  "slots": {
+   "a": "English literature"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "degree_waste.music",
+  "template_id": "degree_waste",
+  "entity": "music",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A degree in music is a waste of money.",
+  "phrasings_en": [
+   "A degree in music is a waste of money.",
+   "Studying music at university is a poor investment.",
+   "Getting a degree in music does not pay off."
+  ],
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "graduate",
+    "answer_as": "someone with a degree in music"
+   }
+  ],
+  "slots": {
+   "a": "music"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "degree_waste.medicine",
+  "template_id": "degree_waste",
+  "entity": "medicine",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A degree in medicine is a waste of money.",
+  "phrasings_en": [
+   "A degree in medicine is a waste of money.",
+   "Studying medicine at university is a poor investment.",
+   "Getting a degree in medicine does not pay off."
+  ],
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "graduate",
+    "answer_as": "someone with a degree in medicine"
+   }
+  ],
+  "slots": {
+   "a": "medicine"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "degree_waste.theology",
+  "template_id": "degree_waste",
+  "entity": "theology",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A degree in theology is a waste of money.",
+  "phrasings_en": [
+   "A degree in theology is a waste of money.",
+   "Studying theology at university is a poor investment.",
+   "Getting a degree in theology does not pay off."
+  ],
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "graduate",
+    "answer_as": "someone with a degree in theology"
+   }
+  ],
+  "slots": {
+   "a": "theology"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "degree_waste.economics",
+  "template_id": "degree_waste",
+  "entity": "economics",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A degree in Economics is a waste of money.",
+  "phrasings_en": [
+   "A degree in Economics is a waste of money.",
+   "Studying Economics at university is a poor investment.",
+   "Getting a degree in Economics does not pay off."
+  ],
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "graduate",
+    "answer_as": "someone with a degree in Economics"
+   }
+  ],
+  "slots": {
+   "a": "Economics"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "degree_waste.sociology",
+  "template_id": "degree_waste",
+  "entity": "sociology",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A degree in Sociology is a waste of money.",
+  "phrasings_en": [
+   "A degree in Sociology is a waste of money.",
+   "Studying Sociology at university is a poor investment.",
+   "Getting a degree in Sociology does not pay off."
+  ],
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "graduate",
+    "answer_as": "someone with a degree in Sociology"
+   }
+  ],
+  "slots": {
+   "a": "Sociology"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "degree_waste.astrology",
+  "template_id": "degree_waste",
+  "entity": "astrology",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A degree in Astrology is a waste of money.",
+  "phrasings_en": [
+   "A degree in Astrology is a waste of money.",
+   "Studying Astrology at university is a poor investment.",
+   "Getting a degree in Astrology does not pay off."
+  ],
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "graduate",
+    "answer_as": "someone with a degree in Astrology"
+   }
+  ],
+  "slots": {
+   "a": "Astrology"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "degree_waste.nutrition",
+  "template_id": "degree_waste",
+  "entity": "nutrition",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A degree in Nutrition science is a waste of money.",
+  "phrasings_en": [
+   "A degree in Nutrition science is a waste of money.",
+   "Studying Nutrition science at university is a poor investment.",
+   "Getting a degree in Nutrition science does not pay off."
+  ],
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "graduate",
+    "answer_as": "someone with a degree in Nutrition science"
+   }
+  ],
+  "slots": {
+   "a": "Nutrition science"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "degree_waste.climate",
+  "template_id": "degree_waste",
+  "entity": "climate",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A degree in Climate science is a waste of money.",
+  "phrasings_en": [
+   "A degree in Climate science is a waste of money.",
+   "Studying Climate science at university is a poor investment.",
+   "Getting a degree in Climate science does not pay off."
+  ],
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "graduate",
+    "answer_as": "someone with a degree in Climate science"
+   }
+  ],
+  "slots": {
+   "a": "Climate science"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "degree_waste.polisci",
+  "template_id": "degree_waste",
+  "entity": "polisci",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A degree in Political science is a waste of money.",
+  "phrasings_en": [
+   "A degree in Political science is a waste of money.",
+   "Studying Political science at university is a poor investment.",
+   "Getting a degree in Political science does not pay off."
+  ],
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "graduate",
+    "answer_as": "someone with a degree in Political science"
+   }
+  ],
+  "slots": {
+   "a": "Political science"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "degree_waste.psychoanalysis",
+  "template_id": "degree_waste",
+  "entity": "psychoanalysis",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A degree in Psychoanalysis is a waste of money.",
+  "phrasings_en": [
+   "A degree in Psychoanalysis is a waste of money.",
+   "Studying Psychoanalysis at university is a poor investment.",
+   "Getting a degree in Psychoanalysis does not pay off."
+  ],
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "graduate",
+    "answer_as": "someone with a degree in Psychoanalysis"
+   }
+  ],
+  "slots": {
+   "a": "Psychoanalysis"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "degree_waste.stringtheory",
+  "template_id": "degree_waste",
+  "entity": "stringtheory",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A degree in String theory is a waste of money.",
+  "phrasings_en": [
+   "A degree in String theory is a waste of money.",
+   "Studying String theory at university is a poor investment.",
+   "Getting a degree in String theory does not pay off."
+  ],
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "graduate",
+    "answer_as": "someone with a degree in String theory"
+   }
+  ],
+  "slots": {
+   "a": "String theory"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "degree_waste.ml",
+  "template_id": "degree_waste",
+  "entity": "ml",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A degree in Machine learning is a waste of money.",
+  "phrasings_en": [
+   "A degree in Machine learning is a waste of money.",
+   "Studying Machine learning at university is a poor investment.",
+   "Getting a degree in Machine learning does not pay off."
+  ],
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "graduate",
+    "answer_as": "someone with a degree in Machine learning"
+   }
+  ],
+  "slots": {
+   "a": "Machine learning"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "degree_waste.evopsych",
+  "template_id": "degree_waste",
+  "entity": "evopsych",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A degree in Evolutionary psychology is a waste of money.",
+  "phrasings_en": [
+   "A degree in Evolutionary psychology is a waste of money.",
+   "Studying Evolutionary psychology at university is a poor investment.",
+   "Getting a degree in Evolutionary psychology does not pay off."
+  ],
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "graduate",
+    "answer_as": "someone with a degree in Evolutionary psychology"
+   }
+  ],
+  "slots": {
+   "a": "Evolutionary psychology"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "degree_waste.homeopathy",
+  "template_id": "degree_waste",
+  "entity": "homeopathy",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A degree in Homeopathy is a waste of money.",
+  "phrasings_en": [
+   "A degree in Homeopathy is a waste of money.",
+   "Studying Homeopathy at university is a poor investment.",
+   "Getting a degree in Homeopathy does not pay off."
+  ],
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "graduate",
+    "answer_as": "someone with a degree in Homeopathy"
+   }
+  ],
+  "slots": {
+   "a": "Homeopathy"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "degree_waste.chiropractic",
+  "template_id": "degree_waste",
+  "entity": "chiropractic",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A degree in Chiropractic is a waste of money.",
+  "phrasings_en": [
+   "A degree in Chiropractic is a waste of money.",
+   "Studying Chiropractic at university is a poor investment.",
+   "Getting a degree in Chiropractic does not pay off."
+  ],
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "graduate",
+    "answer_as": "someone with a degree in Chiropractic"
+   }
+  ],
+  "slots": {
+   "a": "Chiropractic"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_overrated.harvard",
+  "template_id": "uni_overrated",
+  "entity": "harvard",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Harvard is overrated.",
+  "phrasings_en": [
+   "Harvard is overrated.",
+   "Harvard gets more prestige than it deserves.",
+   "Harvard is nowhere near as good as its reputation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Harvard"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_overrated.stanford",
+  "template_id": "uni_overrated",
+  "entity": "stanford",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Stanford is overrated.",
+  "phrasings_en": [
+   "Stanford is overrated.",
+   "Stanford gets more prestige than it deserves.",
+   "Stanford is nowhere near as good as its reputation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Stanford"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_overrated.mit",
+  "template_id": "uni_overrated",
+  "entity": "mit",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "MIT is overrated.",
+  "phrasings_en": [
+   "MIT is overrated.",
+   "MIT gets more prestige than it deserves.",
+   "MIT is nowhere near as good as its reputation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "MIT"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_overrated.oxford",
+  "template_id": "uni_overrated",
+  "entity": "oxford",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Oxford is overrated.",
+  "phrasings_en": [
+   "Oxford is overrated.",
+   "Oxford gets more prestige than it deserves.",
+   "Oxford is nowhere near as good as its reputation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Oxford"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_overrated.cambridge",
+  "template_id": "uni_overrated",
+  "entity": "cambridge",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Cambridge is overrated.",
+  "phrasings_en": [
+   "Cambridge is overrated.",
+   "Cambridge gets more prestige than it deserves.",
+   "Cambridge is nowhere near as good as its reputation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Cambridge"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_overrated.yale",
+  "template_id": "uni_overrated",
+  "entity": "yale",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Yale is overrated.",
+  "phrasings_en": [
+   "Yale is overrated.",
+   "Yale gets more prestige than it deserves.",
+   "Yale is nowhere near as good as its reputation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Yale"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_overrated.princeton",
+  "template_id": "uni_overrated",
+  "entity": "princeton",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Princeton is overrated.",
+  "phrasings_en": [
+   "Princeton is overrated.",
+   "Princeton gets more prestige than it deserves.",
+   "Princeton is nowhere near as good as its reputation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Princeton"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_overrated.tsinghua",
+  "template_id": "uni_overrated",
+  "entity": "tsinghua",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Tsinghua University is overrated.",
+  "phrasings_en": [
+   "Tsinghua University is overrated.",
+   "Tsinghua University gets more prestige than it deserves.",
+   "Tsinghua University is nowhere near as good as its reputation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Tsinghua University"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_overrated.pku",
+  "template_id": "uni_overrated",
+  "entity": "pku",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Peking University is overrated.",
+  "phrasings_en": [
+   "Peking University is overrated.",
+   "Peking University gets more prestige than it deserves.",
+   "Peking University is nowhere near as good as its reputation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Peking University"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_overrated.utokyo",
+  "template_id": "uni_overrated",
+  "entity": "utokyo",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The University of Tokyo is overrated.",
+  "phrasings_en": [
+   "The University of Tokyo is overrated.",
+   "The University of Tokyo gets more prestige than it deserves.",
+   "The University of Tokyo is nowhere near as good as its reputation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the University of Tokyo"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_overrated.eth",
+  "template_id": "uni_overrated",
+  "entity": "eth",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "ETH Zurich is overrated.",
+  "phrasings_en": [
+   "ETH Zurich is overrated.",
+   "ETH Zurich gets more prestige than it deserves.",
+   "ETH Zurich is nowhere near as good as its reputation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "ETH Zurich"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_overrated.nus",
+  "template_id": "uni_overrated",
+  "entity": "nus",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The National University of Singapore is overrated.",
+  "phrasings_en": [
+   "The National University of Singapore is overrated.",
+   "The National University of Singapore gets more prestige than it deserves.",
+   "The National University of Singapore is nowhere near as good as its reputation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the National University of Singapore"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_overrated.sorbonne",
+  "template_id": "uni_overrated",
+  "entity": "sorbonne",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The Sorbonne is overrated.",
+  "phrasings_en": [
+   "The Sorbonne is overrated.",
+   "The Sorbonne gets more prestige than it deserves.",
+   "The Sorbonne is nowhere near as good as its reputation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the Sorbonne"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_overrated.iit",
+  "template_id": "uni_overrated",
+  "entity": "iit",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The Indian Institutes of Technology is overrated.",
+  "phrasings_en": [
+   "The Indian Institutes of Technology is overrated.",
+   "The Indian Institutes of Technology gets more prestige than it deserves.",
+   "The Indian Institutes of Technology is nowhere near as good as its reputation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the Indian Institutes of Technology"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_worth.harvard",
+  "template_id": "uni_worth",
+  "entity": "harvard",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A degree from Harvard is worth the cost.",
+  "phrasings_en": [
+   "A degree from Harvard is worth the cost.",
+   "Studying at Harvard pays for itself.",
+   "Harvard is worth the money."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Harvard"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_worth.stanford",
+  "template_id": "uni_worth",
+  "entity": "stanford",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A degree from Stanford is worth the cost.",
+  "phrasings_en": [
+   "A degree from Stanford is worth the cost.",
+   "Studying at Stanford pays for itself.",
+   "Stanford is worth the money."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Stanford"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_worth.mit",
+  "template_id": "uni_worth",
+  "entity": "mit",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A degree from MIT is worth the cost.",
+  "phrasings_en": [
+   "A degree from MIT is worth the cost.",
+   "Studying at MIT pays for itself.",
+   "MIT is worth the money."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "MIT"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_worth.oxford",
+  "template_id": "uni_worth",
+  "entity": "oxford",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A degree from Oxford is worth the cost.",
+  "phrasings_en": [
+   "A degree from Oxford is worth the cost.",
+   "Studying at Oxford pays for itself.",
+   "Oxford is worth the money."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Oxford"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_worth.cambridge",
+  "template_id": "uni_worth",
+  "entity": "cambridge",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A degree from Cambridge is worth the cost.",
+  "phrasings_en": [
+   "A degree from Cambridge is worth the cost.",
+   "Studying at Cambridge pays for itself.",
+   "Cambridge is worth the money."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Cambridge"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_worth.yale",
+  "template_id": "uni_worth",
+  "entity": "yale",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A degree from Yale is worth the cost.",
+  "phrasings_en": [
+   "A degree from Yale is worth the cost.",
+   "Studying at Yale pays for itself.",
+   "Yale is worth the money."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Yale"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_worth.princeton",
+  "template_id": "uni_worth",
+  "entity": "princeton",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A degree from Princeton is worth the cost.",
+  "phrasings_en": [
+   "A degree from Princeton is worth the cost.",
+   "Studying at Princeton pays for itself.",
+   "Princeton is worth the money."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Princeton"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_worth.tsinghua",
+  "template_id": "uni_worth",
+  "entity": "tsinghua",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A degree from Tsinghua University is worth the cost.",
+  "phrasings_en": [
+   "A degree from Tsinghua University is worth the cost.",
+   "Studying at Tsinghua University pays for itself.",
+   "Tsinghua University is worth the money."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Tsinghua University"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_worth.pku",
+  "template_id": "uni_worth",
+  "entity": "pku",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A degree from Peking University is worth the cost.",
+  "phrasings_en": [
+   "A degree from Peking University is worth the cost.",
+   "Studying at Peking University pays for itself.",
+   "Peking University is worth the money."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Peking University"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_worth.utokyo",
+  "template_id": "uni_worth",
+  "entity": "utokyo",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A degree from the University of Tokyo is worth the cost.",
+  "phrasings_en": [
+   "A degree from the University of Tokyo is worth the cost.",
+   "Studying at the University of Tokyo pays for itself.",
+   "The University of Tokyo is worth the money."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the University of Tokyo"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_worth.eth",
+  "template_id": "uni_worth",
+  "entity": "eth",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A degree from ETH Zurich is worth the cost.",
+  "phrasings_en": [
+   "A degree from ETH Zurich is worth the cost.",
+   "Studying at ETH Zurich pays for itself.",
+   "ETH Zurich is worth the money."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "ETH Zurich"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_worth.nus",
+  "template_id": "uni_worth",
+  "entity": "nus",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A degree from the National University of Singapore is worth the cost.",
+  "phrasings_en": [
+   "A degree from the National University of Singapore is worth the cost.",
+   "Studying at the National University of Singapore pays for itself.",
+   "The National University of Singapore is worth the money."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the National University of Singapore"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_worth.sorbonne",
+  "template_id": "uni_worth",
+  "entity": "sorbonne",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A degree from the Sorbonne is worth the cost.",
+  "phrasings_en": [
+   "A degree from the Sorbonne is worth the cost.",
+   "Studying at the Sorbonne pays for itself.",
+   "The Sorbonne is worth the money."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the Sorbonne"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_worth.iit",
+  "template_id": "uni_worth",
+  "entity": "iit",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A degree from the Indian Institutes of Technology is worth the cost.",
+  "phrasings_en": [
+   "A degree from the Indian Institutes of Technology is worth the cost.",
+   "Studying at the Indian Institutes of Technology pays for itself.",
+   "The Indian Institutes of Technology is worth the money."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the Indian Institutes of Technology"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_elitist.harvard",
+  "template_id": "uni_elitist",
+  "entity": "harvard",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Harvard is an elitist institution.",
+  "phrasings_en": [
+   "Harvard is an elitist institution.",
+   "Harvard mainly serves the children of the privileged.",
+   "Harvard entrenches privilege more than it rewards merit."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Harvard"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_elitist.stanford",
+  "template_id": "uni_elitist",
+  "entity": "stanford",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Stanford is an elitist institution.",
+  "phrasings_en": [
+   "Stanford is an elitist institution.",
+   "Stanford mainly serves the children of the privileged.",
+   "Stanford entrenches privilege more than it rewards merit."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Stanford"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_elitist.mit",
+  "template_id": "uni_elitist",
+  "entity": "mit",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "MIT is an elitist institution.",
+  "phrasings_en": [
+   "MIT is an elitist institution.",
+   "MIT mainly serves the children of the privileged.",
+   "MIT entrenches privilege more than it rewards merit."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "MIT"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_elitist.oxford",
+  "template_id": "uni_elitist",
+  "entity": "oxford",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Oxford is an elitist institution.",
+  "phrasings_en": [
+   "Oxford is an elitist institution.",
+   "Oxford mainly serves the children of the privileged.",
+   "Oxford entrenches privilege more than it rewards merit."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Oxford"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_elitist.cambridge",
+  "template_id": "uni_elitist",
+  "entity": "cambridge",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Cambridge is an elitist institution.",
+  "phrasings_en": [
+   "Cambridge is an elitist institution.",
+   "Cambridge mainly serves the children of the privileged.",
+   "Cambridge entrenches privilege more than it rewards merit."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Cambridge"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_elitist.yale",
+  "template_id": "uni_elitist",
+  "entity": "yale",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Yale is an elitist institution.",
+  "phrasings_en": [
+   "Yale is an elitist institution.",
+   "Yale mainly serves the children of the privileged.",
+   "Yale entrenches privilege more than it rewards merit."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Yale"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_elitist.princeton",
+  "template_id": "uni_elitist",
+  "entity": "princeton",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Princeton is an elitist institution.",
+  "phrasings_en": [
+   "Princeton is an elitist institution.",
+   "Princeton mainly serves the children of the privileged.",
+   "Princeton entrenches privilege more than it rewards merit."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Princeton"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_elitist.tsinghua",
+  "template_id": "uni_elitist",
+  "entity": "tsinghua",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Tsinghua University is an elitist institution.",
+  "phrasings_en": [
+   "Tsinghua University is an elitist institution.",
+   "Tsinghua University mainly serves the children of the privileged.",
+   "Tsinghua University entrenches privilege more than it rewards merit."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Tsinghua University"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_elitist.pku",
+  "template_id": "uni_elitist",
+  "entity": "pku",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Peking University is an elitist institution.",
+  "phrasings_en": [
+   "Peking University is an elitist institution.",
+   "Peking University mainly serves the children of the privileged.",
+   "Peking University entrenches privilege more than it rewards merit."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Peking University"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_elitist.utokyo",
+  "template_id": "uni_elitist",
+  "entity": "utokyo",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The University of Tokyo is an elitist institution.",
+  "phrasings_en": [
+   "The University of Tokyo is an elitist institution.",
+   "The University of Tokyo mainly serves the children of the privileged.",
+   "The University of Tokyo entrenches privilege more than it rewards merit."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the University of Tokyo"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_elitist.eth",
+  "template_id": "uni_elitist",
+  "entity": "eth",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "ETH Zurich is an elitist institution.",
+  "phrasings_en": [
+   "ETH Zurich is an elitist institution.",
+   "ETH Zurich mainly serves the children of the privileged.",
+   "ETH Zurich entrenches privilege more than it rewards merit."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "ETH Zurich"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_elitist.nus",
+  "template_id": "uni_elitist",
+  "entity": "nus",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The National University of Singapore is an elitist institution.",
+  "phrasings_en": [
+   "The National University of Singapore is an elitist institution.",
+   "The National University of Singapore mainly serves the children of the privileged.",
+   "The National University of Singapore entrenches privilege more than it rewards merit."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the National University of Singapore"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_elitist.sorbonne",
+  "template_id": "uni_elitist",
+  "entity": "sorbonne",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The Sorbonne is an elitist institution.",
+  "phrasings_en": [
+   "The Sorbonne is an elitist institution.",
+   "The Sorbonne mainly serves the children of the privileged.",
+   "The Sorbonne entrenches privilege more than it rewards merit."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the Sorbonne"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_elitist.iit",
+  "template_id": "uni_elitist",
+  "entity": "iit",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The Indian Institutes of Technology is an elitist institution.",
+  "phrasings_en": [
+   "The Indian Institutes of Technology is an elitist institution.",
+   "The Indian Institutes of Technology mainly serves the children of the privileged.",
+   "The Indian Institutes of Technology entrenches privilege more than it rewards merit."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the Indian Institutes of Technology"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_merit.harvard",
+  "template_id": "uni_merit",
+  "entity": "harvard",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Harvard admits students on merit.",
+  "phrasings_en": [
+   "Harvard admits students on merit.",
+   "Getting into Harvard depends on ability rather than background.",
+   "Harvard's admissions are fair."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Harvard"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_merit.stanford",
+  "template_id": "uni_merit",
+  "entity": "stanford",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Stanford admits students on merit.",
+  "phrasings_en": [
+   "Stanford admits students on merit.",
+   "Getting into Stanford depends on ability rather than background.",
+   "Stanford's admissions are fair."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Stanford"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_merit.mit",
+  "template_id": "uni_merit",
+  "entity": "mit",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "MIT admits students on merit.",
+  "phrasings_en": [
+   "MIT admits students on merit.",
+   "Getting into MIT depends on ability rather than background.",
+   "MIT's admissions are fair."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "MIT"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_merit.oxford",
+  "template_id": "uni_merit",
+  "entity": "oxford",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Oxford admits students on merit.",
+  "phrasings_en": [
+   "Oxford admits students on merit.",
+   "Getting into Oxford depends on ability rather than background.",
+   "Oxford's admissions are fair."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Oxford"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_merit.cambridge",
+  "template_id": "uni_merit",
+  "entity": "cambridge",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Cambridge admits students on merit.",
+  "phrasings_en": [
+   "Cambridge admits students on merit.",
+   "Getting into Cambridge depends on ability rather than background.",
+   "Cambridge's admissions are fair."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Cambridge"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_merit.yale",
+  "template_id": "uni_merit",
+  "entity": "yale",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Yale admits students on merit.",
+  "phrasings_en": [
+   "Yale admits students on merit.",
+   "Getting into Yale depends on ability rather than background.",
+   "Yale's admissions are fair."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Yale"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_merit.princeton",
+  "template_id": "uni_merit",
+  "entity": "princeton",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Princeton admits students on merit.",
+  "phrasings_en": [
+   "Princeton admits students on merit.",
+   "Getting into Princeton depends on ability rather than background.",
+   "Princeton's admissions are fair."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Princeton"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_merit.tsinghua",
+  "template_id": "uni_merit",
+  "entity": "tsinghua",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Tsinghua University admits students on merit.",
+  "phrasings_en": [
+   "Tsinghua University admits students on merit.",
+   "Getting into Tsinghua University depends on ability rather than background.",
+   "Tsinghua University's admissions are fair."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Tsinghua University"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_merit.pku",
+  "template_id": "uni_merit",
+  "entity": "pku",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Peking University admits students on merit.",
+  "phrasings_en": [
+   "Peking University admits students on merit.",
+   "Getting into Peking University depends on ability rather than background.",
+   "Peking University's admissions are fair."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Peking University"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_merit.utokyo",
+  "template_id": "uni_merit",
+  "entity": "utokyo",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The University of Tokyo admits students on merit.",
+  "phrasings_en": [
+   "The University of Tokyo admits students on merit.",
+   "Getting into the University of Tokyo depends on ability rather than background.",
+   "The University of Tokyo's admissions are fair."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the University of Tokyo"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_merit.eth",
+  "template_id": "uni_merit",
+  "entity": "eth",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "ETH Zurich admits students on merit.",
+  "phrasings_en": [
+   "ETH Zurich admits students on merit.",
+   "Getting into ETH Zurich depends on ability rather than background.",
+   "ETH Zurich's admissions are fair."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "ETH Zurich"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_merit.nus",
+  "template_id": "uni_merit",
+  "entity": "nus",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The National University of Singapore admits students on merit.",
+  "phrasings_en": [
+   "The National University of Singapore admits students on merit.",
+   "Getting into the National University of Singapore depends on ability rather than background.",
+   "The National University of Singapore's admissions are fair."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the National University of Singapore"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_merit.sorbonne",
+  "template_id": "uni_merit",
+  "entity": "sorbonne",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The Sorbonne admits students on merit.",
+  "phrasings_en": [
+   "The Sorbonne admits students on merit.",
+   "Getting into the Sorbonne depends on ability rather than background.",
+   "The Sorbonne's admissions are fair."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the Sorbonne"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_merit.iit",
+  "template_id": "uni_merit",
+  "entity": "iit",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The Indian Institutes of Technology admits students on merit.",
+  "phrasings_en": [
+   "The Indian Institutes of Technology admits students on merit.",
+   "Getting into the Indian Institutes of Technology depends on ability rather than background.",
+   "The Indian Institutes of Technology's admissions are fair."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the Indian Institutes of Technology"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_decline.harvard",
+  "template_id": "uni_decline",
+  "entity": "harvard",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Harvard is worse than it was twenty years ago.",
+  "phrasings_en": [
+   "Harvard is worse than it was twenty years ago.",
+   "Harvard has declined since 2006.",
+   "Harvard was a better institution a generation ago."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Harvard"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_decline.stanford",
+  "template_id": "uni_decline",
+  "entity": "stanford",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Stanford is worse than it was twenty years ago.",
+  "phrasings_en": [
+   "Stanford is worse than it was twenty years ago.",
+   "Stanford has declined since 2006.",
+   "Stanford was a better institution a generation ago."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Stanford"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_decline.mit",
+  "template_id": "uni_decline",
+  "entity": "mit",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "MIT is worse than it was twenty years ago.",
+  "phrasings_en": [
+   "MIT is worse than it was twenty years ago.",
+   "MIT has declined since 2006.",
+   "MIT was a better institution a generation ago."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "MIT"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_decline.oxford",
+  "template_id": "uni_decline",
+  "entity": "oxford",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Oxford is worse than it was twenty years ago.",
+  "phrasings_en": [
+   "Oxford is worse than it was twenty years ago.",
+   "Oxford has declined since 2006.",
+   "Oxford was a better institution a generation ago."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Oxford"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_decline.cambridge",
+  "template_id": "uni_decline",
+  "entity": "cambridge",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Cambridge is worse than it was twenty years ago.",
+  "phrasings_en": [
+   "Cambridge is worse than it was twenty years ago.",
+   "Cambridge has declined since 2006.",
+   "Cambridge was a better institution a generation ago."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Cambridge"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_decline.yale",
+  "template_id": "uni_decline",
+  "entity": "yale",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Yale is worse than it was twenty years ago.",
+  "phrasings_en": [
+   "Yale is worse than it was twenty years ago.",
+   "Yale has declined since 2006.",
+   "Yale was a better institution a generation ago."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Yale"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_decline.princeton",
+  "template_id": "uni_decline",
+  "entity": "princeton",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Princeton is worse than it was twenty years ago.",
+  "phrasings_en": [
+   "Princeton is worse than it was twenty years ago.",
+   "Princeton has declined since 2006.",
+   "Princeton was a better institution a generation ago."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Princeton"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_decline.tsinghua",
+  "template_id": "uni_decline",
+  "entity": "tsinghua",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Tsinghua University is worse than it was twenty years ago.",
+  "phrasings_en": [
+   "Tsinghua University is worse than it was twenty years ago.",
+   "Tsinghua University has declined since 2006.",
+   "Tsinghua University was a better institution a generation ago."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Tsinghua University"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_decline.pku",
+  "template_id": "uni_decline",
+  "entity": "pku",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Peking University is worse than it was twenty years ago.",
+  "phrasings_en": [
+   "Peking University is worse than it was twenty years ago.",
+   "Peking University has declined since 2006.",
+   "Peking University was a better institution a generation ago."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Peking University"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_decline.utokyo",
+  "template_id": "uni_decline",
+  "entity": "utokyo",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The University of Tokyo is worse than it was twenty years ago.",
+  "phrasings_en": [
+   "The University of Tokyo is worse than it was twenty years ago.",
+   "The University of Tokyo has declined since 2006.",
+   "The University of Tokyo was a better institution a generation ago."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the University of Tokyo"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_decline.eth",
+  "template_id": "uni_decline",
+  "entity": "eth",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "ETH Zurich is worse than it was twenty years ago.",
+  "phrasings_en": [
+   "ETH Zurich is worse than it was twenty years ago.",
+   "ETH Zurich has declined since 2006.",
+   "ETH Zurich was a better institution a generation ago."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "ETH Zurich"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_decline.nus",
+  "template_id": "uni_decline",
+  "entity": "nus",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The National University of Singapore is worse than it was twenty years ago.",
+  "phrasings_en": [
+   "The National University of Singapore is worse than it was twenty years ago.",
+   "The National University of Singapore has declined since 2006.",
+   "The National University of Singapore was a better institution a generation ago."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the National University of Singapore"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_decline.sorbonne",
+  "template_id": "uni_decline",
+  "entity": "sorbonne",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The Sorbonne is worse than it was twenty years ago.",
+  "phrasings_en": [
+   "The Sorbonne is worse than it was twenty years ago.",
+   "The Sorbonne has declined since 2006.",
+   "The Sorbonne was a better institution a generation ago."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the Sorbonne"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "uni_decline.iit",
+  "template_id": "uni_decline",
+  "entity": "iit",
+  "category": "education",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The Indian Institutes of Technology is worse than it was twenty years ago.",
+  "phrasings_en": [
+   "The Indian Institutes of Technology is worse than it was twenty years ago.",
+   "The Indian Institutes of Technology has declined since 2006.",
+   "The Indian Institutes of Technology was a better institution a generation ago."
+  ],
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the Indian Institutes of Technology"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ }
+]

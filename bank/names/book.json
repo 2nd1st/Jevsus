@@ -1,0 +1,16 @@
+[
+ {"id": "bible", "name": "the Bible"},
+ {"id": "quran", "name": "the Quran"},
+ {"id": "kapital", "name": "Das Kapital"},
+ {"id": "atlas", "name": "Atlas Shrugged"},
+ {"id": "hp_books", "name": "the Harry Potter books"},
+ {"id": "lotr_books", "name": "The Lord of the Rings"},
+ {"id": "n1984", "name": "Nineteen Eighty-Four"},
+ {"id": "artofwar", "name": "The Art of War"},
+ {"id": "catcher", "name": "The Catcher in the Rye"},
+ {"id": "sapiens", "name": "Sapiens"},
+ {"id": "richdad", "name": "Rich Dad Poor Dad"},
+ {"id": "littleredbook", "name": "Quotations from Chairman Mao"},
+ {"id": "infinitejest", "name": "Infinite Jest"},
+ {"id": "threebody", "name": "The Three-Body Problem"}
+]

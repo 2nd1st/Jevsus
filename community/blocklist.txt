@@ -1,0 +1,1 @@
+# one lower-cased entity or stance per line; matching community runs are never exported

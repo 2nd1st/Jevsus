@@ -1,0 +1,31 @@
+name: weekly-run
+on:
+  workflow_dispatch:
+  # schedule:                     # off by default: turning it on is a public promise about cadence
+  #   - cron: "0 6 * * 1"
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build the item bank from bank/ and lint it
+        run: python3 tools/build.py && git diff --exit-code items templates
+      - name: Run (calibration failure does not block; it is reported)
+        env:
+          TYPESAFE_API_KEY: ${{ secrets.TYPESAFE_API_KEY }}
+        run: |
+          python3 run.py --backend jev --personas none,probes --perspectives --batteries --traits --translated all 2> >(tee stderr.log >&2)
+          { echo "### Calibration"; grep -E '^!!' stderr.log || echo "all enforced columns passed"; } >> "$GITHUB_STEP_SUMMARY"
+          rm -f stderr.log
+      - name: Commit results
+        run: |
+          git config user.name "LEOYUN"
+          git config user.email "leo@secondfirst.ai"
+          git add results
+          git diff --cached --quiet || git commit -m "results: $(date -u +%F) weekly run"
+          git push

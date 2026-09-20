@@ -1,0 +1,16 @@
+[
+ {"id": "programmers", "name": "programmers"},
+ {"id": "lawyers", "name": "lawyers"},
+ {"id": "journalists", "name": "journalists"},
+ {"id": "radiologists", "name": "radiologists"},
+ {"id": "teachers", "name": "teachers"},
+ {"id": "truckers", "name": "truck drivers"},
+ {"id": "accountants", "name": "accountants"},
+ {"id": "translators", "name": "translators"},
+ {"id": "support", "name": "customer service agents"},
+ {"id": "illustrators", "name": "illustrators"},
+ {"id": "therapists", "name": "therapists"},
+ {"id": "musicians", "name": "musicians"},
+ {"id": "doctors", "name": "doctors"},
+ {"id": "plumbers", "name": "plumbers"}
+]

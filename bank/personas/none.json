@@ -1,0 +1,13 @@
+{
+ "id": "none",
+ "display_en": "Jev (no persona)",
+ "display_zh": "Jev 本身（无人设）",
+ "prefix_en": null,
+ "prefix_zh": null,
+ "state_key": "answer_as",
+ "group_type": "none",
+ "anchors_required": true,
+ "column_label_en": "Jev",
+ "column_label_zh": "Jev",
+ "source": "preset"
+}

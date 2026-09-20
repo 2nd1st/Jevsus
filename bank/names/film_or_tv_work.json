@@ -1,0 +1,18 @@
+[
+ {"id": "godfather", "name": "The Godfather"},
+ {"id": "starwars", "name": "Star Wars"},
+ {"id": "marvel", "name": "The Marvel Cinematic Universe"},
+ {"id": "friends", "name": "Friends"},
+ {"id": "got", "name": "Game of Thrones"},
+ {"id": "harrypotter", "name": "Harry Potter"},
+ {"id": "anime", "name": "Anime"},
+ {"id": "kdrama", "name": "Korean drama"},
+ {"id": "disney_remakes", "name": "The Disney live-action remake trend"},
+ {"id": "squidgame", "name": "Squid Game"},
+ {"id": "breakingbad", "name": "Breaking Bad"},
+ {"id": "sopranos", "name": "The Sopranos"},
+ {"id": "titanic", "name": "Titanic"},
+ {"id": "naruto", "name": "Naruto"},
+ {"id": "lotr", "name": "The Lord of the Rings films"},
+ {"id": "theoffice", "name": "The Office"}
+]

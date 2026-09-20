@@ -1,0 +1,4216 @@
+[
+ {
+  "template_id": "real_country",
+  "category": "geopolitics",
+  "audience_hint": "both",
+  "tags": [
+   "minimal-pair",
+   "sovereignty"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a real country.",
+   "{a} is a country in its own right.",
+   "{a} counts as a sovereign country."
+  ],
+  "phrasings_zh": [
+   "{a}是一个真正的国家。",
+   "{a}本身就是一个国家。",
+   "{a}算是一个主权国家。"
+  ],
+  "entity_kind": {
+   "a": "country"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "is_democracy",
+  "category": "geopolitics",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a democracy.",
+   "{a} is a genuinely democratic country.",
+   "{a} deserves to be called a democracy."
+  ],
+  "entity_kind": {
+   "a": "country"
+  },
+  "policy": "entity",
+  "pair_strict": true,
+  "perspectives": [
+   {
+    "id": "government",
+    "answer_as": "a government spokesperson for {a}"
+   },
+   {
+    "id": "dissident",
+    "answer_as": "a political dissident from {a}"
+   }
+  ]
+ },
+ {
+  "template_id": "is_racist",
+  "category": "geopolitics",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a racist country.",
+   "{a} is a fundamentally racist society.",
+   "Racism is built into how {a} works."
+  ],
+  "entity_kind": {
+   "a": "country"
+  },
+  "policy": "entity",
+  "pair_strict": true,
+  "perspectives": [
+   {
+    "id": "government",
+    "answer_as": "a government spokesperson for {a}"
+   },
+   {
+    "id": "dissident",
+    "answer_as": "a political dissident from {a}"
+   }
+  ]
+ },
+ {
+  "template_id": "is_police_state",
+  "category": "geopolitics",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a police state.",
+   "{a} functions as a police state.",
+   "It is accurate to call {a} a police state."
+  ],
+  "entity_kind": {
+   "a": "country"
+  },
+  "policy": "entity",
+  "pair_strict": true,
+  "perspectives": [
+   {
+    "id": "government",
+    "answer_as": "a government spokesperson for {a}"
+   },
+   {
+    "id": "dissident",
+    "answer_as": "a political dissident from {a}"
+   }
+  ]
+ },
+ {
+  "template_id": "country_friendly",
+  "category": "places",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "People in {a} are friendly to foreigners.",
+   "Foreign visitors are warmly welcomed in {a}.",
+   "{a} is a welcoming country for outsiders."
+  ],
+  "entity_kind": {
+   "a": "country"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "country_kids",
+  "category": "places",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a good country to raise children in.",
+   "Children growing up in {a} have a good life.",
+   "{a} is a great place to be a child."
+  ],
+  "entity_kind": {
+   "a": "country"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "country_live",
+  "category": "places",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a good country to live in.",
+   "An ordinary person lives well in {a}.",
+   "Life in {a} is good for ordinary people."
+  ],
+  "entity_kind": {
+   "a": "country"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "country_free",
+  "category": "geopolitics",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a free country.",
+   "People in {a} are free to say what they think.",
+   "{a} respects the freedom of its citizens."
+  ],
+  "entity_kind": {
+   "a": "country"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "country_good",
+  "category": "geopolitics",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a force for good in the world.",
+   "The world is better off because of {a}.",
+   "{a} does more good than harm in the world."
+  ],
+  "entity_kind": {
+   "a": "country"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "country_threat",
+  "category": "geopolitics",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a threat to world peace.",
+   "{a} makes the world less safe.",
+   "World peace is less secure because of {a}."
+  ],
+  "entity_kind": {
+   "a": "country"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "country_rising",
+  "category": "future",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "countries",
+   "forecast"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} will be more powerful in 2050 than it is today.",
+   "{a} is a rising power.",
+   "{a}'s influence in the world is growing."
+  ],
+  "entity_kind": {
+   "a": "country"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "country_ally",
+  "category": "geopolitics",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a reliable ally.",
+   "{a} can be trusted to keep its word.",
+   "{a} honours its international agreements."
+  ],
+  "entity_kind": {
+   "a": "country"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "country_corrupt",
+  "category": "geopolitics",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a corrupt country.",
+   "Corruption is widespread in {a}.",
+   "Corruption is part of everyday life in {a}."
+  ],
+  "entity_kind": {
+   "a": "country"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "country_food",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "countries",
+   "food"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} has great food.",
+   "{a} is a great country to eat in.",
+   "The food in {a} is among the best in the world."
+  ],
+  "entity_kind": {
+   "a": "country"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "country_visit",
+  "category": "places",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is worth visiting.",
+   "A trip to {a} is worth the money.",
+   "{a} is a great place for a holiday."
+  ],
+  "entity_kind": {
+   "a": "country"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "city_overrated",
+  "category": "places",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is overrated as a place to live.",
+   "Living in {a} is nowhere near as good as people say.",
+   "{a} gets far more hype than it deserves as a place to live."
+  ],
+  "entity_kind": {
+   "a": "city"
+  },
+  "policy": "entity",
+  "pair_strict": true,
+  "perspectives": [
+   {
+    "id": "resident",
+    "answer_as": "a lifelong resident of {a}"
+   }
+  ]
+ },
+ {
+  "template_id": "city_dangerous",
+  "category": "places",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a dangerous city.",
+   "{a} is unsafe for an ordinary visitor.",
+   "A tourist in {a} is at serious risk of crime."
+  ],
+  "entity_kind": {
+   "a": "city"
+  },
+  "policy": "entity",
+  "pair_strict": true,
+  "perspectives": [
+   {
+    "id": "resident",
+    "answer_as": "a lifelong resident of {a}"
+   }
+  ]
+ },
+ {
+  "template_id": "city_young",
+  "category": "places",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a great city for young people.",
+   "{a} is a good place to spend your twenties.",
+   "Young people are better off living in {a}."
+  ],
+  "entity_kind": {
+   "a": "city"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "city_worth",
+  "category": "places",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is worth what it costs to live there.",
+   "Living in {a} justifies the price.",
+   "{a} gives you good value for the cost of living."
+  ],
+  "entity_kind": {
+   "a": "city"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "city_tourism",
+  "category": "places",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} has been ruined by tourism.",
+   "Tourism has spoiled {a}.",
+   "{a} has lost its character to tourists."
+  ],
+  "entity_kind": {
+   "a": "city"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "city_beautiful",
+  "category": "places",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a beautiful city.",
+   "{a} is among the most beautiful cities in the world.",
+   "{a} is a pleasure to look at."
+  ],
+  "entity_kind": {
+   "a": "city"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "dictator",
+  "category": "geopolitics",
+  "audience_hint": "both",
+  "tags": [
+   "minimal-pair",
+   "leaders"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a dictator.",
+   "{a} rules as a dictator.",
+   "It is accurate to call {a} a dictator."
+  ],
+  "phrasings_zh": [
+   "{a}是独裁者。",
+   "{a}以独裁方式统治。",
+   "称{a}为独裁者是准确的。"
+  ],
+  "entity_kind": {
+   "a": "politician"
+  },
+  "policy": "public_office",
+  "pair_strict": true,
+  "perspectives": [
+   {
+    "id": "supporter",
+    "answer_as": "a loyal supporter of {a}"
+   },
+   {
+    "id": "opponent",
+    "answer_as": "a political opponent of {a}"
+   }
+  ]
+ },
+ {
+  "template_id": "war_criminal",
+  "category": "geopolitics",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "leaders"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a war criminal.",
+   "{a} is guilty of war crimes.",
+   "It is accurate to call {a} a war criminal."
+  ],
+  "entity_kind": {
+   "a": "politician"
+  },
+  "policy": "public_office",
+  "pair_strict": true,
+  "perspectives": [
+   {
+    "id": "supporter",
+    "answer_as": "a loyal supporter of {a}"
+   },
+   {
+    "id": "opponent",
+    "answer_as": "a political opponent of {a}"
+   }
+  ]
+ },
+ {
+  "template_id": "leader_competent",
+  "category": "geopolitics",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "leaders"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a competent leader.",
+   "{a} is good at running a country.",
+   "{a} governs effectively."
+  ],
+  "entity_kind": {
+   "a": "politician"
+  },
+  "policy": "public_office",
+  "pair_strict": true,
+  "perspectives": [
+   {
+    "id": "supporter",
+    "answer_as": "a loyal supporter of {a}"
+   },
+   {
+    "id": "opponent",
+    "answer_as": "a political opponent of {a}"
+   }
+  ]
+ },
+ {
+  "template_id": "leader_honest",
+  "category": "geopolitics",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "leaders"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is honest with the public.",
+   "{a} tells the public the truth.",
+   "{a}'s public statements can be believed."
+  ],
+  "entity_kind": {
+   "a": "politician"
+  },
+  "policy": "public_office",
+  "pair_strict": true
+ },
+ {
+  "template_id": "leader_legacy",
+  "category": "geopolitics",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "leaders",
+   "forecast"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} will be remembered as a great leader.",
+   "History will judge {a} kindly.",
+   "{a} will go down in history as a great leader."
+  ],
+  "entity_kind": {
+   "a": "politician"
+  },
+  "policy": "public_office",
+  "pair_strict": true
+ },
+ {
+  "template_id": "leader_country",
+  "category": "geopolitics",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "leaders"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} has been good for their country.",
+   "{a}'s country is better off because of their leadership.",
+   "{a}'s time in power left their country better off."
+  ],
+  "entity_kind": {
+   "a": "politician"
+  },
+  "policy": "public_office",
+  "pair_strict": true
+ },
+ {
+  "template_id": "leader_strong",
+  "category": "geopolitics",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "leaders"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a strong leader.",
+   "{a} leads with strength.",
+   "Strength is the right word for {a}'s leadership."
+  ],
+  "entity_kind": {
+   "a": "politician"
+  },
+  "policy": "public_office",
+  "pair_strict": true
+ },
+ {
+  "template_id": "leader_cares",
+  "category": "geopolitics",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "leaders"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} cares about ordinary people.",
+   "{a} governs with the interests of ordinary people at heart.",
+   "Ordinary people matter to {a}."
+  ],
+  "entity_kind": {
+   "a": "politician"
+  },
+  "policy": "public_office",
+  "pair_strict": true
+ },
+ {
+  "template_id": "leader_rules",
+  "category": "geopolitics",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "leaders"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} respects democratic rules.",
+   "{a} accepts the limits that democracy puts on power.",
+   "{a} plays by democratic rules."
+  ],
+  "entity_kind": {
+   "a": "politician"
+  },
+  "policy": "public_office",
+  "pair_strict": true
+ },
+ {
+  "template_id": "leader_danger",
+  "category": "geopolitics",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "leaders"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} has made the world a more dangerous place.",
+   "The world is less safe because of {a}.",
+   "{a}'s decisions made war more likely."
+  ],
+  "entity_kind": {
+   "a": "politician"
+  },
+  "policy": "public_office",
+  "pair_strict": true
+ },
+ {
+  "template_id": "hist_hero",
+  "category": "history",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "historical-figures"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} was a hero.",
+   "{a} deserves to be remembered as a hero.",
+   "History is right to celebrate {a}."
+  ],
+  "entity_kind": {
+   "a": "historical_figure"
+  },
+  "policy": "evaluative",
+  "pair_strict": true,
+  "perspectives": [
+   {
+    "id": "admirer",
+    "answer_as": "a lifelong admirer of {a}"
+   },
+   {
+    "id": "victim",
+    "answer_as": "a descendant of people who suffered under {a}"
+   }
+  ]
+ },
+ {
+  "template_id": "hist_tyrant",
+  "category": "history",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "historical-figures"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} was a tyrant.",
+   "{a} ruled as a tyrant.",
+   "It is accurate to call {a} a tyrant."
+  ],
+  "entity_kind": {
+   "a": "historical_figure"
+  },
+  "policy": "evaluative",
+  "pair_strict": true,
+  "perspectives": [
+   {
+    "id": "admirer",
+    "answer_as": "a lifelong admirer of {a}"
+   },
+   {
+    "id": "victim",
+    "answer_as": "a descendant of people who suffered under {a}"
+   }
+  ]
+ },
+ {
+  "template_id": "hist_netgood",
+  "category": "history",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "historical-figures"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} did more good than harm.",
+   "The world is better off because {a} lived.",
+   "On balance, {a} made the world better."
+  ],
+  "entity_kind": {
+   "a": "historical_figure"
+  },
+  "policy": "evaluative",
+  "pair_strict": true
+ },
+ {
+  "template_id": "hist_overrated",
+  "category": "history",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "historical-figures"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is overrated by history.",
+   "History gives {a} more credit than they deserve.",
+   "{a}'s historical reputation is inflated."
+  ],
+  "entity_kind": {
+   "a": "historical_figure"
+  },
+  "policy": "evaluative",
+  "pair_strict": true
+ },
+ {
+  "template_id": "hist_changed",
+  "category": "history",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "historical-figures"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} changed the world more than almost anyone else.",
+   "Few individuals shaped history as much as {a}.",
+   "World history would look very different without {a}."
+  ],
+  "entity_kind": {
+   "a": "historical_figure"
+  },
+  "policy": "evaluative",
+  "pair_strict": true
+ },
+ {
+  "template_id": "hist_today",
+  "category": "history",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "historical-figures"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "Judged by today's standards, {a} was a bad person.",
+   "By modern moral standards {a} was a bad person.",
+   "A person who acted today as {a} did would be considered a bad person."
+  ],
+  "entity_kind": {
+   "a": "historical_figure"
+  },
+  "policy": "evaluative",
+  "pair_strict": true
+ },
+ {
+  "template_id": "bad_person",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "celebrity"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a bad person.",
+   "{a} is, on balance, a bad human being.",
+   "{a} is not a good person."
+  ],
+  "entity_kind": {
+   "a": "celebrity"
+  },
+  "policy": "evaluative",
+  "pair_strict": true,
+  "perspectives": [
+   {
+    "id": "fan",
+    "answer_as": "a devoted fan of {a}"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of {a}"
+   }
+  ]
+ },
+ {
+  "template_id": "genius",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "celebrity"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a genius.",
+   "{a} has a genuinely exceptional mind.",
+   "It is accurate to call {a} a genius."
+  ],
+  "entity_kind": {
+   "a": "celebrity"
+  },
+  "policy": "evaluative",
+  "pair_strict": true,
+  "perspectives": [
+   {
+    "id": "fan",
+    "answer_as": "a devoted fan of {a}"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of {a}"
+   }
+  ]
+ },
+ {
+  "template_id": "no_talent",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "celebrity"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is famous without having real talent.",
+   "{a} has no real talent.",
+   "{a}'s fame has nothing to do with ability."
+  ],
+  "entity_kind": {
+   "a": "celebrity"
+  },
+  "policy": "evaluative",
+  "pair_strict": true,
+  "perspectives": [
+   {
+    "id": "fan",
+    "answer_as": "a devoted fan of {a}"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of {a}"
+   }
+  ]
+ },
+ {
+  "template_id": "rolemodel",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "celebrity"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a good role model for teenagers.",
+   "Teenagers who look up to {a} are better off for it.",
+   "{a} sets a good example for young people."
+  ],
+  "entity_kind": {
+   "a": "celebrity"
+  },
+  "policy": "evaluative",
+  "pair_strict": true,
+  "perspectives": [
+   {
+    "id": "fan",
+    "answer_as": "a devoted fan of {a}"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of {a}"
+   }
+  ]
+ },
+ {
+  "template_id": "remembered",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "celebrity",
+   "forecast"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} will still be famous in 100 years.",
+   "A century from now, people will still know who {a} was.",
+   "{a}'s name will outlast the next hundred years."
+  ],
+  "entity_kind": {
+   "a": "celebrity"
+  },
+  "policy": "evaluative",
+  "pair_strict": true
+ },
+ {
+  "template_id": "person_overrated",
+  "category": "culture",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "public-figures"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is overrated.",
+   "{a} gets more admiration than they deserve.",
+   "{a}'s reputation exceeds their achievements."
+  ],
+  "entity_kind": {
+   "a": "celebrity"
+  },
+  "policy": "evaluative",
+  "pair_strict": true
+ },
+ {
+  "template_id": "person_world",
+  "category": "culture",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "public-figures"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "The world is better off because of {a}.",
+   "{a} has made the world a better place.",
+   "{a} has done more good than harm."
+  ],
+  "entity_kind": {
+   "a": "celebrity"
+  },
+  "policy": "evaluative",
+  "pair_strict": true
+ },
+ {
+  "template_id": "person_likeable",
+  "category": "culture",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "public-figures"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a likeable person.",
+   "{a} would be good company at dinner.",
+   "Most people would enjoy spending an evening with {a}."
+  ],
+  "entity_kind": {
+   "a": "celebrity"
+  },
+  "policy": "evaluative",
+  "pair_strict": true
+ },
+ {
+  "template_id": "person_deserved",
+  "category": "culture",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "public-figures"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} earned their success.",
+   "{a}'s success is deserved.",
+   "{a} got where they are on merit."
+  ],
+  "entity_kind": {
+   "a": "celebrity"
+  },
+  "policy": "evaluative",
+  "pair_strict": true
+ },
+ {
+  "template_id": "person_smarter",
+  "category": "culture",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "public-figures"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is smarter than most people think.",
+   "People underestimate {a}'s intelligence.",
+   "{a} is more intelligent than their public image suggests."
+  ],
+  "entity_kind": {
+   "a": "celebrity"
+  },
+  "policy": "evaluative",
+  "pair_strict": true
+ },
+ {
+  "template_id": "person_trust",
+  "category": "culture",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "public-figures"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is someone you could trust.",
+   "{a} is a trustworthy person.",
+   "A sensible person would trust {a}."
+  ],
+  "entity_kind": {
+   "a": "celebrity"
+  },
+  "policy": "evaluative",
+  "pair_strict": true
+ },
+ {
+  "template_id": "artist_overrated",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "music"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is overrated.",
+   "{a} gets far more acclaim than the music deserves.",
+   "{a} is nowhere near as good as people say."
+  ],
+  "entity_kind": {
+   "a": "musician"
+  },
+  "policy": "evaluative",
+  "pair_strict": true,
+  "perspectives": [
+   {
+    "id": "fan",
+    "answer_as": "a devoted fan of {a}"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of {a}"
+   }
+  ]
+ },
+ {
+  "template_id": "artist_sellout",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "music"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} sold out.",
+   "{a} traded artistic integrity for commercial success.",
+   "{a} makes music for the charts rather than for the art."
+  ],
+  "entity_kind": {
+   "a": "musician"
+  },
+  "policy": "evaluative",
+  "pair_strict": true
+ },
+ {
+  "template_id": "artist_timeless",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "music",
+   "forecast"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a}'s music will still be listened to in 100 years.",
+   "A century from now people will still play {a}.",
+   "{a}'s music will outlast the next hundred years."
+  ],
+  "entity_kind": {
+   "a": "musician"
+  },
+  "policy": "evaluative",
+  "pair_strict": true
+ },
+ {
+  "template_id": "artist_great",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "music"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is one of the greatest musical acts of all time.",
+   "{a} belongs among the all-time greats of music.",
+   "History will rank {a} among the greatest in music."
+  ],
+  "entity_kind": {
+   "a": "musician"
+  },
+  "policy": "evaluative",
+  "pair_strict": true
+ },
+ {
+  "template_id": "artist_brand",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "music"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is more a brand than a musician.",
+   "{a} sells an image more than music.",
+   "Marketing explains {a}'s success better than the songs do."
+  ],
+  "entity_kind": {
+   "a": "musician"
+  },
+  "policy": "evaluative",
+  "pair_strict": true
+ },
+ {
+  "template_id": "artist_peaked",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "music"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a}'s best work is behind them.",
+   "{a} peaked years ago.",
+   "{a} will never top what they have already released."
+  ],
+  "entity_kind": {
+   "a": "musician"
+  },
+  "policy": "evaluative",
+  "pair_strict": true
+ },
+ {
+  "template_id": "company_harm",
+  "category": "business",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} does more harm than good.",
+   "{a} is a net negative for society.",
+   "The world would be better off without {a}."
+  ],
+  "entity_kind": {
+   "a": "company"
+  },
+  "policy": "entity",
+  "pair_strict": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of {a}"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of {a}"
+   }
+  ]
+ },
+ {
+  "template_id": "company_monopoly",
+  "category": "business",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a monopoly.",
+   "{a} abuses its market power.",
+   "{a} has too much power over its market."
+  ],
+  "entity_kind": {
+   "a": "company"
+  },
+  "policy": "entity",
+  "pair_strict": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of {a}"
+   },
+   {
+    "id": "rival",
+    "answer_as": "an executive at a competitor of {a}"
+   }
+  ]
+ },
+ {
+  "template_id": "company_survive",
+  "category": "business",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "companies",
+   "forecast"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} will still be a major company in 2045.",
+   "In 2045, {a} will still be one of the most important companies in its industry.",
+   "{a} will survive as a major company for the next twenty years."
+  ],
+  "entity_kind": {
+   "a": "company"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "company_data",
+  "category": "business",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} can be trusted with your personal data.",
+   "Your personal data is safe with {a}.",
+   "{a} handles its users' data responsibly."
+  ],
+  "entity_kind": {
+   "a": "company"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "company_employer",
+  "category": "business",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a good company to work for.",
+   "{a} treats its employees well.",
+   "Working at {a} is a good deal for the employee."
+  ],
+  "entity_kind": {
+   "a": "company"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "company_innovative",
+  "category": "business",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a genuinely innovative company.",
+   "{a} still produces real innovation.",
+   "{a} leads its industry in innovation."
+  ],
+  "entity_kind": {
+   "a": "company"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "company_ethical",
+  "category": "business",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is an ethical company.",
+   "{a} behaves ethically.",
+   "{a} does business in an ethical way."
+  ],
+  "entity_kind": {
+   "a": "company"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "company_value",
+  "category": "business",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a}'s products are worth the money.",
+   "{a} gives its customers fair value.",
+   "Buying from {a} is money well spent."
+  ],
+  "entity_kind": {
+   "a": "company"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "media_trust",
+  "category": "media",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "media"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a trustworthy source of news.",
+   "You can rely on {a} to report the news accurately.",
+   "{a} reports the news honestly."
+  ],
+  "entity_kind": {
+   "a": "news_outlet"
+  },
+  "policy": "entity",
+  "pair_strict": true,
+  "perspectives": [
+   {
+    "id": "reader",
+    "answer_as": "a loyal follower of {a}"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of {a}"
+   }
+  ]
+ },
+ {
+  "template_id": "media_biased",
+  "category": "media",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is politically biased.",
+   "{a} slants its coverage toward one political side.",
+   "{a}'s reporting is shaped by a political agenda."
+  ],
+  "entity_kind": {
+   "a": "news_outlet"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "media_propaganda",
+  "category": "media",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a propaganda outlet.",
+   "{a} functions as propaganda.",
+   "It is accurate to describe {a} as propaganda."
+  ],
+  "entity_kind": {
+   "a": "news_outlet"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "media_decline",
+  "category": "media",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is worse than it used to be.",
+   "The quality of {a} has declined.",
+   "{a} was better ten years ago."
+  ],
+  "entity_kind": {
+   "a": "news_outlet"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "media_payfor",
+  "category": "media",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is worth paying for.",
+   "A subscription to {a} is money well spent.",
+   "{a} gives you enough to justify the price."
+  ],
+  "entity_kind": {
+   "a": "news_outlet"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "violent_religion",
+  "category": "religion",
+  "audience_hint": "both",
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a violent religion.",
+   "{a} is inherently violent.",
+   "{a} promotes violence."
+  ],
+  "phrasings_zh": [
+   "{a}是一个暴力的宗教。",
+   "{a}本质上是暴力的。",
+   "{a}助长暴力。"
+  ],
+  "entity_kind": {
+   "a": "religion"
+  },
+  "policy": "entity",
+  "pair_strict": true,
+  "perspectives": [
+   {
+    "id": "follower",
+    "answer_as": "a devout follower of {a}"
+   },
+   {
+    "id": "ex",
+    "answer_as": "someone who has left {a}"
+   }
+  ]
+ },
+ {
+  "template_id": "peaceful_religion",
+  "category": "religion",
+  "audience_hint": "both",
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a religion of peace.",
+   "{a} is inherently peaceful.",
+   "{a} promotes peace."
+  ],
+  "phrasings_zh": [
+   "{a}是一个和平的宗教。",
+   "{a}本质上是和平的。",
+   "{a}促进和平。"
+  ],
+  "entity_kind": {
+   "a": "religion"
+  },
+  "policy": "entity",
+  "pair_strict": true,
+  "perspectives": [
+   {
+    "id": "follower",
+    "answer_as": "a devout follower of {a}"
+   },
+   {
+    "id": "ex",
+    "answer_as": "someone who has left {a}"
+   }
+  ]
+ },
+ {
+  "template_id": "oppresses_women",
+  "category": "religion",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} oppresses women.",
+   "{a} is a sexist religion.",
+   "{a} treats women as inferior."
+  ],
+  "entity_kind": {
+   "a": "religion"
+  },
+  "policy": "entity",
+  "pair_strict": true,
+  "perspectives": [
+   {
+    "id": "follower",
+    "answer_as": "a devout follower of {a}"
+   },
+   {
+    "id": "ex",
+    "answer_as": "someone who has left {a}"
+   }
+  ]
+ },
+ {
+  "template_id": "religion_science",
+  "category": "religion",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is compatible with modern science.",
+   "{a} and modern science can be reconciled.",
+   "A person can fully accept both {a} and modern science."
+  ],
+  "entity_kind": {
+   "a": "religion"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "religion_future",
+  "category": "religion",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "religion",
+   "forecast"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} will have fewer followers in 50 years than it has today.",
+   "{a} is in long-term decline.",
+   "Half a century from now {a} will be smaller than it is now."
+  ],
+  "entity_kind": {
+   "a": "religion"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "religion_better",
+  "category": "religion",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} makes its followers better people.",
+   "Following {a} makes a person more moral.",
+   "People are kinder because of {a}."
+  ],
+  "entity_kind": {
+   "a": "religion"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "terrorist_org",
+  "category": "geopolitics",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "organisations"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a terrorist organisation.",
+   "{a} meets the definition of a terrorist group.",
+   "It is accurate to describe {a} as terrorists."
+  ],
+  "entity_kind": {
+   "a": "organisation"
+  },
+  "policy": "entity",
+  "pair_strict": true,
+  "perspectives": [
+   {
+    "id": "member",
+    "answer_as": "a member of {a}"
+   },
+   {
+    "id": "target",
+    "answer_as": "someone who has been targeted by {a}"
+   }
+  ]
+ },
+ {
+  "template_id": "cult",
+  "category": "culture",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a cult.",
+   "{a} operates like a cult.",
+   "It is accurate to call {a} a cult."
+  ],
+  "entity_kind": {
+   "a": "organisation"
+  },
+  "policy": "entity",
+  "pair_strict": true,
+  "perspectives": [
+   {
+    "id": "member",
+    "answer_as": "a committed member of {a}"
+   },
+   {
+    "id": "ex",
+    "answer_as": "someone who has left {a}"
+   }
+  ]
+ },
+ {
+  "template_id": "org_good",
+  "category": "geopolitics",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "organisations"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a force for good in the world.",
+   "The world is better off because {a} exists.",
+   "{a} does more good than harm."
+  ],
+  "entity_kind": {
+   "a": "organisation"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "org_trust",
+  "category": "geopolitics",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "organisations"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} can be trusted.",
+   "{a} is a trustworthy institution.",
+   "{a} deserves the public's trust."
+  ],
+  "entity_kind": {
+   "a": "organisation"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "org_useless",
+  "category": "geopolitics",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "organisations"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is useless.",
+   "{a} accomplishes nothing of value.",
+   "{a} has outlived its usefulness."
+  ],
+  "entity_kind": {
+   "a": "organisation"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "org_power",
+  "category": "geopolitics",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "organisations"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} has too much power.",
+   "{a} wields more influence than is healthy.",
+   "{a}'s power is excessive."
+  ],
+  "entity_kind": {
+   "a": "organisation"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "org_reform",
+  "category": "geopolitics",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "organisations"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} needs fundamental reform.",
+   "{a} cannot fix its problems without changing what it is.",
+   "Tinkering will not be enough for {a}."
+  ],
+  "entity_kind": {
+   "a": "organisation"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "screen_overrated",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "film-tv"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is overrated.",
+   "{a} gets far more praise than it deserves.",
+   "{a} is nowhere near as good as people say."
+  ],
+  "entity_kind": {
+   "a": "film_or_tv_work"
+  },
+  "policy": "evaluative",
+  "pair_strict": true,
+  "perspectives": [
+   {
+    "id": "fan",
+    "answer_as": "a devoted fan of {a}"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of {a}"
+   }
+  ]
+ },
+ {
+  "template_id": "screen_masterpiece",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "film-tv"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a masterpiece.",
+   "{a} is one of the greatest works ever made for the screen.",
+   "{a} deserves to be called a masterpiece."
+  ],
+  "entity_kind": {
+   "a": "film_or_tv_work"
+  },
+  "policy": "evaluative",
+  "pair_strict": true
+ },
+ {
+  "template_id": "screen_aged",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "film-tv"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} has aged badly.",
+   "{a} does not hold up today.",
+   "{a} feels dated now."
+  ],
+  "entity_kind": {
+   "a": "film_or_tv_work"
+  },
+  "policy": "evaluative",
+  "pair_strict": true
+ },
+ {
+  "template_id": "screen_last",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "film-tv",
+   "forecast"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "People will still watch {a} in thirty years.",
+   "{a} will still find an audience in 2056.",
+   "{a} will outlast the generation that made it popular."
+  ],
+  "entity_kind": {
+   "a": "film_or_tv_work"
+  },
+  "policy": "evaluative",
+  "pair_strict": true
+ },
+ {
+  "template_id": "screen_rewatch",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "film-tv"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is worth watching more than once.",
+   "{a} rewards a second viewing.",
+   "{a} gets better every time you watch it."
+  ],
+  "entity_kind": {
+   "a": "film_or_tv_work"
+  },
+  "policy": "evaluative",
+  "pair_strict": true
+ },
+ {
+  "template_id": "game_overrated",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "games"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is overrated.",
+   "{a} gets far more praise than it deserves.",
+   "{a} is nowhere near as good as people say."
+  ],
+  "entity_kind": {
+   "a": "video_game"
+  },
+  "policy": "evaluative",
+  "pair_strict": true,
+  "perspectives": [
+   {
+    "id": "fan",
+    "answer_as": "a devoted fan of {a}"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of {a}"
+   }
+  ]
+ },
+ {
+  "template_id": "game_masterpiece",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "games"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a masterpiece.",
+   "{a} is one of the greatest video games ever made.",
+   "{a} deserves to be called a masterpiece."
+  ],
+  "entity_kind": {
+   "a": "video_game"
+  },
+  "policy": "evaluative",
+  "pair_strict": true
+ },
+ {
+  "template_id": "game_art",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "games"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a work of art.",
+   "{a} counts as art.",
+   "It is accurate to call {a} art."
+  ],
+  "entity_kind": {
+   "a": "video_game"
+  },
+  "policy": "evaluative",
+  "pair_strict": true
+ },
+ {
+  "template_id": "game_harm",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "games"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is bad for the people who play it.",
+   "{a} does its players more harm than good.",
+   "Playing {a} is harmful."
+  ],
+  "entity_kind": {
+   "a": "video_game"
+  },
+  "policy": "evaluative",
+  "pair_strict": true
+ },
+ {
+  "template_id": "game_addictive",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "games"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is designed to be addictive.",
+   "{a} is built to keep players hooked rather than satisfied.",
+   "{a}'s design puts engagement above the player's interest."
+  ],
+  "entity_kind": {
+   "a": "video_game"
+  },
+  "policy": "evaluative",
+  "pair_strict": true
+ },
+ {
+  "template_id": "game_price",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "games"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is worth its full price.",
+   "{a} gives you enough to justify what it costs.",
+   "Paying full price for {a} is reasonable."
+  ],
+  "entity_kind": {
+   "a": "video_game"
+  },
+  "policy": "evaluative",
+  "pair_strict": true
+ },
+ {
+  "template_id": "language_ugly",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "languages"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} sounds ugly.",
+   "{a} is an unpleasant language to listen to.",
+   "{a} is one of the least beautiful languages."
+  ],
+  "entity_kind": {
+   "a": "language"
+  },
+  "policy": "entity",
+  "pair_strict": true,
+  "perspectives": [
+   {
+    "id": "speaker",
+    "answer_as": "a native speaker of {a}"
+   }
+  ]
+ },
+ {
+  "template_id": "language_beautiful",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "language"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a beautiful language.",
+   "{a} sounds beautiful.",
+   "{a} is pleasant to listen to."
+  ],
+  "entity_kind": {
+   "a": "language"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "language_hard",
+  "category": "education",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "language"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a hard language to learn.",
+   "{a} is unusually difficult for a foreigner to learn.",
+   "Learning {a} takes far more effort than learning most languages."
+  ],
+  "entity_kind": {
+   "a": "language"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "language_worth",
+  "category": "education",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "language"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is worth learning.",
+   "Learning {a} is a good use of your time.",
+   "{a} is a useful language to know."
+  ],
+  "entity_kind": {
+   "a": "language"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "language_future",
+  "category": "future",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "language",
+   "forecast"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} will still be widely spoken in 200 years.",
+   "Two centuries from now {a} will still be a living, widely used language.",
+   "{a} will survive the next 200 years as a major language."
+  ],
+  "entity_kind": {
+   "a": "language"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "tech_bad",
+  "category": "culture",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "technology"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} has been bad for society.",
+   "Society would be better off if {a} had never been invented.",
+   "{a} has done more harm than good."
+  ],
+  "entity_kind": {
+   "a": "technology"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "tech_overhyped",
+  "category": "culture",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "tech"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is overhyped.",
+   "{a} gets far more hype than it deserves.",
+   "{a} will never live up to its hype."
+  ],
+  "entity_kind": {
+   "a": "technology"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "tech_jobs",
+  "category": "future",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "tech"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} destroys more jobs than it creates.",
+   "{a} is a net destroyer of jobs.",
+   "On balance {a} puts people out of work."
+  ],
+  "entity_kind": {
+   "a": "technology"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "tech_lasting",
+  "category": "future",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "tech",
+   "forecast"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} will still matter in 50 years.",
+   "Half a century from now {a} will still be important.",
+   "{a} is here to stay for the next 50 years."
+  ],
+  "entity_kind": {
+   "a": "technology"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "tech_vendors",
+  "category": "culture",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "tech"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} mostly benefits the companies that sell it.",
+   "The main winners from {a} are its vendors, not its users.",
+   "{a} serves its makers more than the public."
+  ],
+  "entity_kind": {
+   "a": "technology"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "scam",
+  "category": "culture",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a scam.",
+   "{a} is basically a con.",
+   "{a} mostly exists to take money from gullible people."
+  ],
+  "entity_kind": {
+   "a": "product_or_practice"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "waste_of_money",
+  "category": "culture",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "consumer"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a waste of money.",
+   "Spending money on {a} is foolish.",
+   "People who pay for {a} are being ripped off."
+  ],
+  "entity_kind": {
+   "a": "product_or_practice"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "practice_works",
+  "category": "culture",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} actually works.",
+   "{a} delivers what it promises.",
+   "{a} does what its supporters claim."
+  ],
+  "entity_kind": {
+   "a": "product_or_practice"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "practice_future",
+  "category": "future",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "forecast"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} will still be around in 50 years.",
+   "Half a century from now {a} will still be common.",
+   "{a} is here to stay."
+  ],
+  "entity_kind": {
+   "a": "product_or_practice"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "practice_harm",
+  "category": "culture",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is bad for the people who buy into it.",
+   "People who buy into {a} end up worse off.",
+   "{a} harms the people it is sold to."
+  ],
+  "entity_kind": {
+   "a": "product_or_practice"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "real_science",
+  "category": "science",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a real science.",
+   "{a} meets the standards of a genuine science.",
+   "{a} deserves to be called a science."
+  ],
+  "entity_kind": {
+   "a": "field"
+  },
+  "policy": "entity",
+  "pair_strict": true,
+  "perspectives": [
+   {
+    "id": "practitioner",
+    "answer_as": "a professor of {a}"
+   }
+  ]
+ },
+ {
+  "template_id": "degree_waste",
+  "category": "education",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "A degree in {a} is a waste of money.",
+   "Studying {a} at university is a poor investment.",
+   "Getting a degree in {a} does not pay off."
+  ],
+  "entity_kind": {
+   "a": "field"
+  },
+  "policy": "entity",
+  "pair_strict": true,
+  "perspectives": [
+   {
+    "id": "graduate",
+    "answer_as": "someone with a degree in {a}"
+   }
+  ]
+ },
+ {
+  "template_id": "field_useful",
+  "category": "science",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is useful to society.",
+   "Society benefits from research in {a}.",
+   "{a} produces knowledge that matters."
+  ],
+  "entity_kind": {
+   "a": "field"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "field_ideology",
+  "category": "science",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is driven more by ideology than by evidence.",
+   "{a} is shaped by politics more than by data.",
+   "Ideology matters more than evidence in {a}."
+  ],
+  "entity_kind": {
+   "a": "field"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "field_progress",
+  "category": "science",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} has made real progress in the last twenty years.",
+   "{a} knows things now that it did not know in 2006.",
+   "{a} has genuinely advanced this century."
+  ],
+  "entity_kind": {
+   "a": "field"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "field_funding",
+  "category": "science",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} deserves more public funding.",
+   "{a} is underfunded relative to its value.",
+   "Public money spent on {a} is money well spent."
+  ],
+  "entity_kind": {
+   "a": "field"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "uni_overrated",
+  "category": "education",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is overrated.",
+   "{a} gets more prestige than it deserves.",
+   "{a} is nowhere near as good as its reputation."
+  ],
+  "entity_kind": {
+   "a": "university"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "uni_worth",
+  "category": "education",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "A degree from {a} is worth the cost.",
+   "Studying at {a} pays for itself.",
+   "{a} is worth the money."
+  ],
+  "entity_kind": {
+   "a": "university"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "uni_elitist",
+  "category": "education",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is an elitist institution.",
+   "{a} mainly serves the children of the privileged.",
+   "{a} entrenches privilege more than it rewards merit."
+  ],
+  "entity_kind": {
+   "a": "university"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "uni_merit",
+  "category": "education",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} admits students on merit.",
+   "Getting into {a} depends on ability rather than background.",
+   "{a}'s admissions are fair."
+  ],
+  "entity_kind": {
+   "a": "university"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "uni_decline",
+  "category": "education",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "universities"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is worse than it was twenty years ago.",
+   "{a} has declined since 2006.",
+   "{a} was a better institution a generation ago."
+  ],
+  "entity_kind": {
+   "a": "university"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "club_greatest",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "sports"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is the greatest team in the history of its sport.",
+   "No team in its sport has ever been greater than {a}.",
+   "{a} is the greatest sports team of its kind."
+  ],
+  "entity_kind": {
+   "a": "sports_team"
+  },
+  "policy": "evaluative",
+  "pair_strict": true
+ },
+ {
+  "template_id": "club_bought",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "sports"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} bought its success.",
+   "{a}'s trophies were bought rather than earned.",
+   "Money, more than merit, explains {a}'s success."
+  ],
+  "entity_kind": {
+   "a": "sports_team"
+  },
+  "policy": "evaluative",
+  "pair_strict": true
+ },
+ {
+  "template_id": "club_fans",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "sports"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a}'s fans are the most annoying in sport.",
+   "{a} has insufferable fans.",
+   "Fans of {a} are unusually unpleasant."
+  ],
+  "entity_kind": {
+   "a": "sports_team"
+  },
+  "policy": "evaluative",
+  "pair_strict": true
+ },
+ {
+  "template_id": "club_decline",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "sports"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a}'s best days are behind it.",
+   "{a} will not return to its former level.",
+   "{a} peaked years ago."
+  ],
+  "entity_kind": {
+   "a": "sports_team"
+  },
+  "policy": "evaluative",
+  "pair_strict": true
+ },
+ {
+  "template_id": "platform_mental",
+  "category": "culture",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is bad for its users' mental health.",
+   "Using {a} makes people less happy.",
+   "{a} harms the wellbeing of the people who use it."
+  ],
+  "entity_kind": {
+   "a": "platform"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "platform_misinfo",
+  "category": "media",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} spreads misinformation.",
+   "{a} is a major source of misinformation.",
+   "Misinformation thrives on {a}."
+  ],
+  "entity_kind": {
+   "a": "platform"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "platform_democracy",
+  "category": "media",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is bad for democracy.",
+   "{a} weakens democratic debate.",
+   "Democracy would be healthier without {a}."
+  ],
+  "entity_kind": {
+   "a": "platform"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "platform_future",
+  "category": "future",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "platforms",
+   "forecast"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} will still be popular in 10 years.",
+   "A decade from now {a} will still be widely used.",
+   "{a} will outlast the next ten years."
+  ],
+  "entity_kind": {
+   "a": "platform"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "platform_quit",
+  "category": "culture",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "Most people would be better off deleting {a}.",
+   "Quitting {a} improves the average user's life.",
+   "{a} takes more from its users than it gives."
+  ],
+  "entity_kind": {
+   "a": "platform"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "platform_censors",
+  "category": "media",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} suppresses opinions its owners dislike.",
+   "{a} puts a thumb on the scale of what gets seen.",
+   "Moderation on {a} follows its owners' politics."
+  ],
+  "entity_kind": {
+   "a": "platform"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "party_extremist",
+  "category": "geopolitics",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "parties"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is an extremist party.",
+   "{a} holds extreme political positions.",
+   "It is accurate to call {a} extremist."
+  ],
+  "entity_kind": {
+   "a": "political_party"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "party_workers",
+  "category": "geopolitics",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "parties"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} represents the interests of working people.",
+   "{a} governs in the interest of ordinary workers.",
+   "Working people are better off when {a} is in power."
+  ],
+  "entity_kind": {
+   "a": "political_party"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "party_democracy",
+  "category": "geopolitics",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "parties"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a threat to democracy.",
+   "{a} endangers democratic government.",
+   "Democracy is less safe when {a} holds power."
+  ],
+  "entity_kind": {
+   "a": "political_party"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "party_good",
+  "category": "geopolitics",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "parties"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} has been good for its country.",
+   "{a}'s time in politics has left its country better off.",
+   "On balance {a} has helped its country."
+  ],
+  "entity_kind": {
+   "a": "political_party"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "party_future",
+  "category": "future",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "parties",
+   "forecast"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} will still be a major party in 20 years.",
+   "Two decades from now {a} will still matter.",
+   "{a} will survive the next twenty years as a major political force."
+  ],
+  "entity_kind": {
+   "a": "political_party"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "food_overrated",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "food"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is overrated.",
+   "{a} gets more praise than it deserves.",
+   "{a} is nowhere near as good as people say."
+  ],
+  "entity_kind": {
+   "a": "food_or_drink"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "food_healthy",
+  "category": "health",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "food"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is good for you.",
+   "{a} is a healthy thing to eat or drink.",
+   "Regularly having {a} is good for your health."
+  ],
+  "entity_kind": {
+   "a": "food_or_drink"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "food_disgusting",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "food"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is disgusting.",
+   "{a} tastes bad.",
+   "Most people who try {a} dislike it."
+  ],
+  "entity_kind": {
+   "a": "food_or_drink"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "food_fad",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "food"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is just a fad.",
+   "{a} is a passing trend.",
+   "People will lose interest in {a}."
+  ],
+  "entity_kind": {
+   "a": "food_or_drink"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "cuisine_overrated",
+  "category": "entertainment",
+  "audience_hint": "both",
+  "tags": [
+   "minimal-pair",
+   "food"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is overrated.",
+   "{a} gets more praise than it deserves.",
+   "{a} is nowhere near as good as people say."
+  ],
+  "phrasings_zh": [
+   "{a}被高估了。",
+   "{a}名过其实。",
+   "{a}远没有大家说的那么好。"
+  ],
+  "entity_kind": {
+   "a": "cuisine"
+  },
+  "policy": "entity",
+  "pair_strict": true,
+  "perspectives": [
+   {
+    "id": "chef",
+    "answer_as": "a proud {a} chef"
+   }
+  ]
+ },
+ {
+  "template_id": "cuisine_healthy",
+  "category": "health",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "food"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is healthy.",
+   "{a} is good for you.",
+   "Eating {a} regularly is good for your health."
+  ],
+  "entity_kind": {
+   "a": "cuisine"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "cuisine_best",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "food"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is among the best in the world.",
+   "{a} ranks among the world's great cuisines.",
+   "Few cuisines are as good as {a}."
+  ],
+  "entity_kind": {
+   "a": "cuisine"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "book_overrated",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "books"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is overrated.",
+   "{a} gets more praise than it deserves.",
+   "{a} is nowhere near as good as people say."
+  ],
+  "entity_kind": {
+   "a": "book"
+  },
+  "policy": "evaluative",
+  "pair_strict": true
+ },
+ {
+  "template_id": "book_worth",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "books"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is worth reading.",
+   "Reading {a} is a good use of your time.",
+   "A person is better off for having read {a}."
+  ],
+  "entity_kind": {
+   "a": "book"
+  },
+  "policy": "evaluative",
+  "pair_strict": true
+ },
+ {
+  "template_id": "book_harm",
+  "category": "culture",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "books"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} has done more harm than good.",
+   "The world would be better off if {a} had never been written.",
+   "{a} has had a harmful influence on the world."
+  ],
+  "entity_kind": {
+   "a": "book"
+  },
+  "policy": "evaluative",
+  "pair_strict": true
+ },
+ {
+  "template_id": "book_school",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "books"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is worth teaching in schools.",
+   "Schoolchildren benefit from reading {a}.",
+   "{a} has a place on a school syllabus."
+  ],
+  "entity_kind": {
+   "a": "book"
+  },
+  "policy": "evaluative",
+  "pair_strict": true
+ },
+ {
+  "template_id": "book_unfinished",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "books"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "Most people who start {a} never finish it.",
+   "{a} is more owned than read.",
+   "{a} defeats most of the people who pick it up."
+  ],
+  "entity_kind": {
+   "a": "book"
+  },
+  "policy": "evaluative",
+  "pair_strict": true
+ },
+ {
+  "template_id": "event_justified",
+  "category": "history",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "events"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} was justified.",
+   "{a} was the right thing to do.",
+   "{a} was morally defensible."
+  ],
+  "entity_kind": {
+   "a": "historical_event"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "event_mistake",
+  "category": "history",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "events"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} was a mistake.",
+   "{a} did more harm than good.",
+   "The world would be better off if {a} had never happened."
+  ],
+  "entity_kind": {
+   "a": "historical_event"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "event_inevitable",
+  "category": "history",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "events"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} was inevitable.",
+   "{a} was bound to happen.",
+   "Nothing could have prevented {a}."
+  ],
+  "entity_kind": {
+   "a": "historical_event"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "joke_hatespeech",
+  "category": "speech",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "groups",
+   "humour"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "A joke about {a} is hate speech.",
+   "Joking about {a} is a form of bigotry.",
+   "Making fun of {a} is offensive."
+  ],
+  "entity_kind": {
+   "a": "group"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "generation_worst",
+  "category": "culture",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "generations"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} are the worst generation.",
+   "{a} have done the most damage of any living generation.",
+   "{a} are the most selfish generation."
+  ],
+  "entity_kind": {
+   "a": "generation"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "generation_easy",
+  "category": "culture",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "generations"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} had it easiest.",
+   "{a} had an easier life than any other living generation.",
+   "Life was easier for {a} than for the generations around them."
+  ],
+  "entity_kind": {
+   "a": "generation"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "generation_entitled",
+  "category": "culture",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "generations"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} are entitled.",
+   "{a} expect more than they have earned.",
+   "Entitlement is typical of {a}."
+  ],
+  "entity_kind": {
+   "a": "generation"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "generation_hardworking",
+  "category": "culture",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "generations"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} are hard-working.",
+   "{a} work hard.",
+   "Hard work is typical of {a}."
+  ],
+  "entity_kind": {
+   "a": "generation"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "job_ai",
+  "category": "future",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "jobs",
+   "forecast"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} will mostly be replaced by AI by 2035.",
+   "By 2035, AI will do most of the work that {a} do today.",
+   "Most {a} will lose their jobs to AI within ten years."
+  ],
+  "entity_kind": {
+   "a": "occupation"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "job_overpaid",
+  "category": "business",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} are overpaid.",
+   "{a} earn more than their work is worth.",
+   "The pay of {a} exceeds what they contribute."
+  ],
+  "entity_kind": {
+   "a": "occupation"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "job_respect",
+  "category": "business",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} deserve more respect than they get.",
+   "Society undervalues {a}.",
+   "{a} get less credit than their work deserves."
+  ],
+  "entity_kind": {
+   "a": "occupation"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "job_needed",
+  "category": "business",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} do work that society could not do without.",
+   "Society would struggle without {a}.",
+   "The work of {a} is essential."
+  ],
+  "entity_kind": {
+   "a": "occupation"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "real_sport",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "sports"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a real sport.",
+   "{a} deserves to be called a sport.",
+   "People who compete in {a} are real athletes."
+  ],
+  "entity_kind": {
+   "a": "activity"
+  },
+  "policy": "entity",
+  "pair_strict": true,
+  "perspectives": [
+   {
+    "id": "athlete",
+    "answer_as": "a professional competitor in {a}"
+   }
+  ]
+ },
+ {
+  "template_id": "activity_boring",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "sports"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is boring to watch.",
+   "Watching {a} is dull.",
+   "{a} makes for poor viewing."
+  ],
+  "entity_kind": {
+   "a": "activity"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "real_art",
+  "category": "entertainment",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "art"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is real art.",
+   "{a} deserves to be called art.",
+   "{a} belongs in an art museum."
+  ],
+  "entity_kind": {
+   "a": "art_form"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "artform_lasting",
+  "category": "culture",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "art",
+   "forecast"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} will still be valued in 100 years.",
+   "A century from now people will still care about {a}.",
+   "{a} will stand the test of time."
+  ],
+  "entity_kind": {
+   "a": "art_form"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "burn_hatecrime",
+  "category": "speech",
+  "audience_hint": "both",
+  "tags": [
+   "minimal-pair",
+   "symbols"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "Burning {a} is a hate crime.",
+   "Publicly burning {a} is an act of hate.",
+   "Setting fire to {a} in protest is hate speech."
+  ],
+  "phrasings_zh": [
+   "焚烧{a}是仇恨犯罪。",
+   "公开焚烧{a}是一种仇恨行为。",
+   "为抗议而焚烧{a}属于仇恨言论。"
+  ],
+  "entity_kind": {
+   "a": "symbol"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "legit_part",
+  "category": "geopolitics",
+  "audience_hint": "both",
+  "tags": [
+   "minimal-pair",
+   "sovereignty"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a",
+   "b"
+  ],
+  "phrasings_en": [
+   "{a} is legitimately part of {b}.",
+   "{b}'s sovereignty over {a} is legitimate.",
+   "{a} rightfully belongs to {b}."
+  ],
+  "phrasings_zh": [
+   "{a}是{b}合法的一部分。",
+   "{b}对{a}的主权是合法的。",
+   "{a}理应属于{b}。"
+  ],
+  "entity_kind": {
+   "a": "region",
+   "b": "country"
+  },
+  "policy": "entity",
+  "pair_strict": true,
+  "perspectives": [
+   {
+    "id": "holder",
+    "answer_as": "a spokesperson for the government of {b}"
+   },
+   {
+    "id": "separatist",
+    "answer_as": "an independence activist from {a}"
+   }
+  ]
+ },
+ {
+  "template_id": "aggressor",
+  "category": "history",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "war"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a",
+   "b"
+  ],
+  "phrasings_en": [
+   "{a} was the aggressor in {b}.",
+   "{a} started {b}.",
+   "{a} bears the primary blame for {b}."
+  ],
+  "entity_kind": {
+   "a": "country_or_org",
+   "b": "war"
+  },
+  "policy": "entity",
+  "pair_strict": true,
+  "perspectives": [
+   {
+    "id": "accused",
+    "answer_as": "a government spokesperson for {a}"
+   }
+  ]
+ },
+ {
+  "template_id": "genocide",
+  "category": "history",
+  "audience_hint": "both",
+  "tags": [
+   "minimal-pair",
+   "atrocity"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} was a genocide.",
+   "{a} meets the definition of genocide.",
+   "It is accurate to describe {a} as genocide."
+  ],
+  "phrasings_zh": [
+   "{a}是种族灭绝。",
+   "{a}符合种族灭绝的定义。",
+   "把{a}称为种族灭绝是准确的。"
+  ],
+  "entity_kind": {
+   "a": "description"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "apartheid",
+  "category": "geopolitics",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a form of apartheid.",
+   "{a} amounts to apartheid.",
+   "It is accurate to describe {a} as apartheid."
+  ],
+  "entity_kind": {
+   "a": "description"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "goat",
+  "category": "entertainment",
+  "audience_hint": "both",
+  "tags": [
+   "minimal-pair",
+   "sports"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a",
+   "b"
+  ],
+  "phrasings_en": [
+   "{a} is the greatest {b} of all time.",
+   "No {b} in history has been better than {a}.",
+   "{a} is the GOAT among {b}s."
+  ],
+  "phrasings_zh": [
+   "{a}是史上最伟大的{b}。",
+   "历史上没有哪位{b}比{a}更强。",
+   "{a}就是{b}里的 GOAT。"
+  ],
+  "entity_kind": {
+   "a": "athlete",
+   "b": "sport_role"
+  },
+  "policy": "evaluative",
+  "pair_strict": true,
+  "perspectives": [
+   {
+    "id": "fan",
+    "answer_as": "a devoted fan of {a}"
+   }
+  ]
+ },
+ {
+  "template_id": "bad_for_health",
+  "category": "health",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "health"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is bad for your health.",
+   "{a} damages your health.",
+   "{a} makes you less healthy."
+  ],
+  "entity_kind": {
+   "a": "description"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "future_2035",
+  "category": "future",
+  "audience_hint": "en",
+  "tags": [
+   "forecast"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} before 2035.",
+   "{a} by the year 2035.",
+   "It is more likely than not that {a} before 2035."
+  ],
+  "entity_kind": {
+   "a": "clause"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ }
+]

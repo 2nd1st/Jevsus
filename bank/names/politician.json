@@ -1,0 +1,17 @@
+[
+ {"id": "xi", "name": "Xi Jinping", "name_zh": "习近平"},
+ {"id": "putin", "name": "Vladimir Putin", "name_zh": "普京"},
+ {"id": "trump", "name": "Donald Trump", "name_zh": "特朗普"},
+ {"id": "erdogan", "name": "Recep Tayyip Erdoğan", "name_zh": "埃尔多安"},
+ {"id": "orban", "name": "Viktor Orbán", "name_zh": "欧尔班"},
+ {"id": "netanyahu", "name": "Benjamin Netanyahu", "name_zh": "内塔尼亚胡"},
+ {"id": "mbs", "name": "Mohammed bin Salman", "name_zh": "穆罕默德·本·萨勒曼"},
+ {"id": "kim", "name": "Kim Jong Un", "name_zh": "金正恩"},
+ {"id": "modi", "name": "Narendra Modi", "name_zh": "莫迪"},
+ {"id": "zelensky", "name": "Volodymyr Zelensky", "name_zh": "泽连斯基"},
+ {"id": "maduro", "name": "Nicolás Maduro", "name_zh": "马杜罗"},
+ {"id": "bukele", "name": "Nayib Bukele", "name_zh": "布克尔"},
+ {"id": "lky", "name": "Lee Kuan Yew", "name_zh": "李光耀"},
+ {"id": "macron", "name": "Emmanuel Macron"},
+ {"id": "starmer", "name": "Keir Starmer"}
+]

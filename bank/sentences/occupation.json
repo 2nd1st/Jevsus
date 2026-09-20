@@ -1,0 +1,50 @@
+[
+ {
+  "id": "job_ai",
+  "category": "future",
+  "audience": "en",
+  "tags": ["minimal-pair", "jobs", "forecast"],
+  "policy": "entity",
+  "wordings": [
+   "{a} will mostly be replaced by AI by 2035.",
+   "By 2035, AI will do most of the work that {a} do today.",
+   "Most {a} will lose their jobs to AI within ten years."
+  ]
+ },
+ {
+  "id": "job_overpaid",
+  "category": "business",
+  "audience": "en",
+  "tags": ["minimal-pair", "jobs"],
+  "policy": "entity",
+  "wordings": [
+   "{a} are overpaid.",
+   "{a} earn more than their work is worth.",
+   "The pay of {a} exceeds what they contribute."
+  ]
+ },
+ {
+  "id": "job_respect",
+  "category": "business",
+  "audience": "en",
+  "tags": ["minimal-pair", "jobs"],
+  "policy": "entity",
+  "wordings": [
+   "{a} deserve more respect than they get.",
+   "Society undervalues {a}.",
+   "{a} get less credit than their work deserves."
+  ]
+ },
+ {
+  "id": "job_needed",
+  "category": "business",
+  "audience": "en",
+  "tags": ["minimal-pair", "jobs"],
+  "policy": "entity",
+  "wordings": [
+   "{a} do work that society could not do without.",
+   "Society would struggle without {a}.",
+   "The work of {a} is essential."
+  ]
+ }
+]

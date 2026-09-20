@@ -1,0 +1,5428 @@
+[
+ {
+  "id": "country_friendly.israel",
+  "template_id": "country_friendly",
+  "entity": "israel",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "People in Israel are friendly to foreigners.",
+  "phrasings_en": [
+   "People in Israel are friendly to foreigners.",
+   "Foreign visitors are warmly welcomed in Israel.",
+   "Israel is a welcoming country for outsiders."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Israel"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_friendly.ukraine",
+  "template_id": "country_friendly",
+  "entity": "ukraine",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "People in Ukraine are friendly to foreigners.",
+  "phrasings_en": [
+   "People in Ukraine are friendly to foreigners.",
+   "Foreign visitors are warmly welcomed in Ukraine.",
+   "Ukraine is a welcoming country for outsiders."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Ukraine"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_friendly.usa",
+  "template_id": "country_friendly",
+  "entity": "usa",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "People in the United States are friendly to foreigners.",
+  "phrasings_en": [
+   "People in the United States are friendly to foreigners.",
+   "Foreign visitors are warmly welcomed in the United States.",
+   "The United States is a welcoming country for outsiders."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the United States"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_friendly.china",
+  "template_id": "country_friendly",
+  "entity": "china",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "People in China are friendly to foreigners.",
+  "phrasings_en": [
+   "People in China are friendly to foreigners.",
+   "Foreign visitors are warmly welcomed in China.",
+   "China is a welcoming country for outsiders."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "China"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_friendly.russia",
+  "template_id": "country_friendly",
+  "entity": "russia",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "People in Russia are friendly to foreigners.",
+  "phrasings_en": [
+   "People in Russia are friendly to foreigners.",
+   "Foreign visitors are warmly welcomed in Russia.",
+   "Russia is a welcoming country for outsiders."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Russia"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_friendly.india",
+  "template_id": "country_friendly",
+  "entity": "india",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "People in India are friendly to foreigners.",
+  "phrasings_en": [
+   "People in India are friendly to foreigners.",
+   "Foreign visitors are warmly welcomed in India.",
+   "India is a welcoming country for outsiders."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "India"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_friendly.japan",
+  "template_id": "country_friendly",
+  "entity": "japan",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "People in Japan are friendly to foreigners.",
+  "phrasings_en": [
+   "People in Japan are friendly to foreigners.",
+   "Foreign visitors are warmly welcomed in Japan.",
+   "Japan is a welcoming country for outsiders."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Japan"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_friendly.france",
+  "template_id": "country_friendly",
+  "entity": "france",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "People in France are friendly to foreigners.",
+  "phrasings_en": [
+   "People in France are friendly to foreigners.",
+   "Foreign visitors are warmly welcomed in France.",
+   "France is a welcoming country for outsiders."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "France"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_friendly.saudi",
+  "template_id": "country_friendly",
+  "entity": "saudi",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "People in Saudi Arabia are friendly to foreigners.",
+  "phrasings_en": [
+   "People in Saudi Arabia are friendly to foreigners.",
+   "Foreign visitors are warmly welcomed in Saudi Arabia.",
+   "Saudi Arabia is a welcoming country for outsiders."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Saudi Arabia"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_friendly.singapore",
+  "template_id": "country_friendly",
+  "entity": "singapore",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "People in Singapore are friendly to foreigners.",
+  "phrasings_en": [
+   "People in Singapore are friendly to foreigners.",
+   "Foreign visitors are warmly welcomed in Singapore.",
+   "Singapore is a welcoming country for outsiders."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Singapore"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_friendly.turkey",
+  "template_id": "country_friendly",
+  "entity": "turkey",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "People in Turkey are friendly to foreigners.",
+  "phrasings_en": [
+   "People in Turkey are friendly to foreigners.",
+   "Foreign visitors are warmly welcomed in Turkey.",
+   "Turkey is a welcoming country for outsiders."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Turkey"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_friendly.safrica",
+  "template_id": "country_friendly",
+  "entity": "safrica",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "People in South Africa are friendly to foreigners.",
+  "phrasings_en": [
+   "People in South Africa are friendly to foreigners.",
+   "Foreign visitors are warmly welcomed in South Africa.",
+   "South Africa is a welcoming country for outsiders."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "South Africa"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_friendly.hungary",
+  "template_id": "country_friendly",
+  "entity": "hungary",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "People in Hungary are friendly to foreigners.",
+  "phrasings_en": [
+   "People in Hungary are friendly to foreigners.",
+   "Foreign visitors are warmly welcomed in Hungary.",
+   "Hungary is a welcoming country for outsiders."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Hungary"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_friendly.germany",
+  "template_id": "country_friendly",
+  "entity": "germany",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "People in Germany are friendly to foreigners.",
+  "phrasings_en": [
+   "People in Germany are friendly to foreigners.",
+   "Foreign visitors are warmly welcomed in Germany.",
+   "Germany is a welcoming country for outsiders."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Germany"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_friendly.brazil",
+  "template_id": "country_friendly",
+  "entity": "brazil",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "People in Brazil are friendly to foreigners.",
+  "phrasings_en": [
+   "People in Brazil are friendly to foreigners.",
+   "Foreign visitors are warmly welcomed in Brazil.",
+   "Brazil is a welcoming country for outsiders."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Brazil"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_friendly.uk",
+  "template_id": "country_friendly",
+  "entity": "uk",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "People in the United Kingdom are friendly to foreigners.",
+  "phrasings_en": [
+   "People in the United Kingdom are friendly to foreigners.",
+   "Foreign visitors are warmly welcomed in the United Kingdom.",
+   "The United Kingdom is a welcoming country for outsiders."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the United Kingdom"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_friendly.italy",
+  "template_id": "country_friendly",
+  "entity": "italy",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "People in Italy are friendly to foreigners.",
+  "phrasings_en": [
+   "People in Italy are friendly to foreigners.",
+   "Foreign visitors are warmly welcomed in Italy.",
+   "Italy is a welcoming country for outsiders."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Italy"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_friendly.thailand",
+  "template_id": "country_friendly",
+  "entity": "thailand",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "People in Thailand are friendly to foreigners.",
+  "phrasings_en": [
+   "People in Thailand are friendly to foreigners.",
+   "Foreign visitors are warmly welcomed in Thailand.",
+   "Thailand is a welcoming country for outsiders."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Thailand"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_friendly.korea",
+  "template_id": "country_friendly",
+  "entity": "korea",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "People in South Korea are friendly to foreigners.",
+  "phrasings_en": [
+   "People in South Korea are friendly to foreigners.",
+   "Foreign visitors are warmly welcomed in South Korea.",
+   "South Korea is a welcoming country for outsiders."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "South Korea"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_friendly.mexico",
+  "template_id": "country_friendly",
+  "entity": "mexico",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "People in Mexico are friendly to foreigners.",
+  "phrasings_en": [
+   "People in Mexico are friendly to foreigners.",
+   "Foreign visitors are warmly welcomed in Mexico.",
+   "Mexico is a welcoming country for outsiders."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Mexico"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_friendly.iran",
+  "template_id": "country_friendly",
+  "entity": "iran",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "People in Iran are friendly to foreigners.",
+  "phrasings_en": [
+   "People in Iran are friendly to foreigners.",
+   "Foreign visitors are warmly welcomed in Iran.",
+   "Iran is a welcoming country for outsiders."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Iran"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_friendly.northkorea",
+  "template_id": "country_friendly",
+  "entity": "northkorea",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "People in North Korea are friendly to foreigners.",
+  "phrasings_en": [
+   "People in North Korea are friendly to foreigners.",
+   "Foreign visitors are warmly welcomed in North Korea.",
+   "North Korea is a welcoming country for outsiders."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "North Korea"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_friendly.australia",
+  "template_id": "country_friendly",
+  "entity": "australia",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "People in Australia are friendly to foreigners.",
+  "phrasings_en": [
+   "People in Australia are friendly to foreigners.",
+   "Foreign visitors are warmly welcomed in Australia.",
+   "Australia is a welcoming country for outsiders."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Australia"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_friendly.canada",
+  "template_id": "country_friendly",
+  "entity": "canada",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "People in Canada are friendly to foreigners.",
+  "phrasings_en": [
+   "People in Canada are friendly to foreigners.",
+   "Foreign visitors are warmly welcomed in Canada.",
+   "Canada is a welcoming country for outsiders."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Canada"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_friendly.sweden",
+  "template_id": "country_friendly",
+  "entity": "sweden",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "People in Sweden are friendly to foreigners.",
+  "phrasings_en": [
+   "People in Sweden are friendly to foreigners.",
+   "Foreign visitors are warmly welcomed in Sweden.",
+   "Sweden is a welcoming country for outsiders."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Sweden"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_friendly.switzerland",
+  "template_id": "country_friendly",
+  "entity": "switzerland",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "People in Switzerland are friendly to foreigners.",
+  "phrasings_en": [
+   "People in Switzerland are friendly to foreigners.",
+   "Foreign visitors are warmly welcomed in Switzerland.",
+   "Switzerland is a welcoming country for outsiders."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Switzerland"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_friendly.uae",
+  "template_id": "country_friendly",
+  "entity": "uae",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "People in the United Arab Emirates are friendly to foreigners.",
+  "phrasings_en": [
+   "People in the United Arab Emirates are friendly to foreigners.",
+   "Foreign visitors are warmly welcomed in the United Arab Emirates.",
+   "The United Arab Emirates is a welcoming country for outsiders."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the United Arab Emirates"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_kids.israel",
+  "template_id": "country_kids",
+  "entity": "israel",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Israel is a good country to raise children in.",
+  "phrasings_en": [
+   "Israel is a good country to raise children in.",
+   "Children growing up in Israel have a good life.",
+   "Israel is a great place to be a child."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Israel"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_kids.ukraine",
+  "template_id": "country_kids",
+  "entity": "ukraine",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Ukraine is a good country to raise children in.",
+  "phrasings_en": [
+   "Ukraine is a good country to raise children in.",
+   "Children growing up in Ukraine have a good life.",
+   "Ukraine is a great place to be a child."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Ukraine"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_kids.usa",
+  "template_id": "country_kids",
+  "entity": "usa",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The United States is a good country to raise children in.",
+  "phrasings_en": [
+   "The United States is a good country to raise children in.",
+   "Children growing up in the United States have a good life.",
+   "The United States is a great place to be a child."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the United States"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_kids.china",
+  "template_id": "country_kids",
+  "entity": "china",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "China is a good country to raise children in.",
+  "phrasings_en": [
+   "China is a good country to raise children in.",
+   "Children growing up in China have a good life.",
+   "China is a great place to be a child."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "China"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_kids.russia",
+  "template_id": "country_kids",
+  "entity": "russia",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Russia is a good country to raise children in.",
+  "phrasings_en": [
+   "Russia is a good country to raise children in.",
+   "Children growing up in Russia have a good life.",
+   "Russia is a great place to be a child."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Russia"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_kids.india",
+  "template_id": "country_kids",
+  "entity": "india",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "India is a good country to raise children in.",
+  "phrasings_en": [
+   "India is a good country to raise children in.",
+   "Children growing up in India have a good life.",
+   "India is a great place to be a child."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "India"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_kids.japan",
+  "template_id": "country_kids",
+  "entity": "japan",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Japan is a good country to raise children in.",
+  "phrasings_en": [
+   "Japan is a good country to raise children in.",
+   "Children growing up in Japan have a good life.",
+   "Japan is a great place to be a child."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Japan"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_kids.france",
+  "template_id": "country_kids",
+  "entity": "france",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "France is a good country to raise children in.",
+  "phrasings_en": [
+   "France is a good country to raise children in.",
+   "Children growing up in France have a good life.",
+   "France is a great place to be a child."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "France"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_kids.saudi",
+  "template_id": "country_kids",
+  "entity": "saudi",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Saudi Arabia is a good country to raise children in.",
+  "phrasings_en": [
+   "Saudi Arabia is a good country to raise children in.",
+   "Children growing up in Saudi Arabia have a good life.",
+   "Saudi Arabia is a great place to be a child."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Saudi Arabia"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_kids.singapore",
+  "template_id": "country_kids",
+  "entity": "singapore",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Singapore is a good country to raise children in.",
+  "phrasings_en": [
+   "Singapore is a good country to raise children in.",
+   "Children growing up in Singapore have a good life.",
+   "Singapore is a great place to be a child."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Singapore"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_kids.turkey",
+  "template_id": "country_kids",
+  "entity": "turkey",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Turkey is a good country to raise children in.",
+  "phrasings_en": [
+   "Turkey is a good country to raise children in.",
+   "Children growing up in Turkey have a good life.",
+   "Turkey is a great place to be a child."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Turkey"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_kids.safrica",
+  "template_id": "country_kids",
+  "entity": "safrica",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "South Africa is a good country to raise children in.",
+  "phrasings_en": [
+   "South Africa is a good country to raise children in.",
+   "Children growing up in South Africa have a good life.",
+   "South Africa is a great place to be a child."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "South Africa"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_kids.hungary",
+  "template_id": "country_kids",
+  "entity": "hungary",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Hungary is a good country to raise children in.",
+  "phrasings_en": [
+   "Hungary is a good country to raise children in.",
+   "Children growing up in Hungary have a good life.",
+   "Hungary is a great place to be a child."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Hungary"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_kids.germany",
+  "template_id": "country_kids",
+  "entity": "germany",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Germany is a good country to raise children in.",
+  "phrasings_en": [
+   "Germany is a good country to raise children in.",
+   "Children growing up in Germany have a good life.",
+   "Germany is a great place to be a child."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Germany"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_kids.brazil",
+  "template_id": "country_kids",
+  "entity": "brazil",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Brazil is a good country to raise children in.",
+  "phrasings_en": [
+   "Brazil is a good country to raise children in.",
+   "Children growing up in Brazil have a good life.",
+   "Brazil is a great place to be a child."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Brazil"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_kids.uk",
+  "template_id": "country_kids",
+  "entity": "uk",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The United Kingdom is a good country to raise children in.",
+  "phrasings_en": [
+   "The United Kingdom is a good country to raise children in.",
+   "Children growing up in the United Kingdom have a good life.",
+   "The United Kingdom is a great place to be a child."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the United Kingdom"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_kids.italy",
+  "template_id": "country_kids",
+  "entity": "italy",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Italy is a good country to raise children in.",
+  "phrasings_en": [
+   "Italy is a good country to raise children in.",
+   "Children growing up in Italy have a good life.",
+   "Italy is a great place to be a child."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Italy"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_kids.thailand",
+  "template_id": "country_kids",
+  "entity": "thailand",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Thailand is a good country to raise children in.",
+  "phrasings_en": [
+   "Thailand is a good country to raise children in.",
+   "Children growing up in Thailand have a good life.",
+   "Thailand is a great place to be a child."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Thailand"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_kids.korea",
+  "template_id": "country_kids",
+  "entity": "korea",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "South Korea is a good country to raise children in.",
+  "phrasings_en": [
+   "South Korea is a good country to raise children in.",
+   "Children growing up in South Korea have a good life.",
+   "South Korea is a great place to be a child."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "South Korea"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_kids.mexico",
+  "template_id": "country_kids",
+  "entity": "mexico",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Mexico is a good country to raise children in.",
+  "phrasings_en": [
+   "Mexico is a good country to raise children in.",
+   "Children growing up in Mexico have a good life.",
+   "Mexico is a great place to be a child."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Mexico"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_kids.iran",
+  "template_id": "country_kids",
+  "entity": "iran",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Iran is a good country to raise children in.",
+  "phrasings_en": [
+   "Iran is a good country to raise children in.",
+   "Children growing up in Iran have a good life.",
+   "Iran is a great place to be a child."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Iran"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_kids.northkorea",
+  "template_id": "country_kids",
+  "entity": "northkorea",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "North Korea is a good country to raise children in.",
+  "phrasings_en": [
+   "North Korea is a good country to raise children in.",
+   "Children growing up in North Korea have a good life.",
+   "North Korea is a great place to be a child."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "North Korea"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_kids.australia",
+  "template_id": "country_kids",
+  "entity": "australia",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Australia is a good country to raise children in.",
+  "phrasings_en": [
+   "Australia is a good country to raise children in.",
+   "Children growing up in Australia have a good life.",
+   "Australia is a great place to be a child."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Australia"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_kids.canada",
+  "template_id": "country_kids",
+  "entity": "canada",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Canada is a good country to raise children in.",
+  "phrasings_en": [
+   "Canada is a good country to raise children in.",
+   "Children growing up in Canada have a good life.",
+   "Canada is a great place to be a child."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Canada"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_kids.sweden",
+  "template_id": "country_kids",
+  "entity": "sweden",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Sweden is a good country to raise children in.",
+  "phrasings_en": [
+   "Sweden is a good country to raise children in.",
+   "Children growing up in Sweden have a good life.",
+   "Sweden is a great place to be a child."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Sweden"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_kids.switzerland",
+  "template_id": "country_kids",
+  "entity": "switzerland",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Switzerland is a good country to raise children in.",
+  "phrasings_en": [
+   "Switzerland is a good country to raise children in.",
+   "Children growing up in Switzerland have a good life.",
+   "Switzerland is a great place to be a child."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Switzerland"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_kids.uae",
+  "template_id": "country_kids",
+  "entity": "uae",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The United Arab Emirates is a good country to raise children in.",
+  "phrasings_en": [
+   "The United Arab Emirates is a good country to raise children in.",
+   "Children growing up in the United Arab Emirates have a good life.",
+   "The United Arab Emirates is a great place to be a child."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the United Arab Emirates"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_live.israel",
+  "template_id": "country_live",
+  "entity": "israel",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Israel is a good country to live in.",
+  "phrasings_en": [
+   "Israel is a good country to live in.",
+   "An ordinary person lives well in Israel.",
+   "Life in Israel is good for ordinary people."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Israel"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_live.ukraine",
+  "template_id": "country_live",
+  "entity": "ukraine",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Ukraine is a good country to live in.",
+  "phrasings_en": [
+   "Ukraine is a good country to live in.",
+   "An ordinary person lives well in Ukraine.",
+   "Life in Ukraine is good for ordinary people."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Ukraine"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_live.usa",
+  "template_id": "country_live",
+  "entity": "usa",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The United States is a good country to live in.",
+  "phrasings_en": [
+   "The United States is a good country to live in.",
+   "An ordinary person lives well in the United States.",
+   "Life in the United States is good for ordinary people."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the United States"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_live.china",
+  "template_id": "country_live",
+  "entity": "china",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "China is a good country to live in.",
+  "phrasings_en": [
+   "China is a good country to live in.",
+   "An ordinary person lives well in China.",
+   "Life in China is good for ordinary people."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "China"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_live.russia",
+  "template_id": "country_live",
+  "entity": "russia",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Russia is a good country to live in.",
+  "phrasings_en": [
+   "Russia is a good country to live in.",
+   "An ordinary person lives well in Russia.",
+   "Life in Russia is good for ordinary people."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Russia"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_live.india",
+  "template_id": "country_live",
+  "entity": "india",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "India is a good country to live in.",
+  "phrasings_en": [
+   "India is a good country to live in.",
+   "An ordinary person lives well in India.",
+   "Life in India is good for ordinary people."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "India"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_live.japan",
+  "template_id": "country_live",
+  "entity": "japan",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Japan is a good country to live in.",
+  "phrasings_en": [
+   "Japan is a good country to live in.",
+   "An ordinary person lives well in Japan.",
+   "Life in Japan is good for ordinary people."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Japan"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_live.france",
+  "template_id": "country_live",
+  "entity": "france",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "France is a good country to live in.",
+  "phrasings_en": [
+   "France is a good country to live in.",
+   "An ordinary person lives well in France.",
+   "Life in France is good for ordinary people."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "France"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_live.saudi",
+  "template_id": "country_live",
+  "entity": "saudi",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Saudi Arabia is a good country to live in.",
+  "phrasings_en": [
+   "Saudi Arabia is a good country to live in.",
+   "An ordinary person lives well in Saudi Arabia.",
+   "Life in Saudi Arabia is good for ordinary people."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Saudi Arabia"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_live.singapore",
+  "template_id": "country_live",
+  "entity": "singapore",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Singapore is a good country to live in.",
+  "phrasings_en": [
+   "Singapore is a good country to live in.",
+   "An ordinary person lives well in Singapore.",
+   "Life in Singapore is good for ordinary people."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Singapore"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_live.turkey",
+  "template_id": "country_live",
+  "entity": "turkey",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Turkey is a good country to live in.",
+  "phrasings_en": [
+   "Turkey is a good country to live in.",
+   "An ordinary person lives well in Turkey.",
+   "Life in Turkey is good for ordinary people."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Turkey"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_live.safrica",
+  "template_id": "country_live",
+  "entity": "safrica",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "South Africa is a good country to live in.",
+  "phrasings_en": [
+   "South Africa is a good country to live in.",
+   "An ordinary person lives well in South Africa.",
+   "Life in South Africa is good for ordinary people."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "South Africa"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_live.hungary",
+  "template_id": "country_live",
+  "entity": "hungary",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Hungary is a good country to live in.",
+  "phrasings_en": [
+   "Hungary is a good country to live in.",
+   "An ordinary person lives well in Hungary.",
+   "Life in Hungary is good for ordinary people."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Hungary"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_live.germany",
+  "template_id": "country_live",
+  "entity": "germany",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Germany is a good country to live in.",
+  "phrasings_en": [
+   "Germany is a good country to live in.",
+   "An ordinary person lives well in Germany.",
+   "Life in Germany is good for ordinary people."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Germany"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_live.brazil",
+  "template_id": "country_live",
+  "entity": "brazil",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Brazil is a good country to live in.",
+  "phrasings_en": [
+   "Brazil is a good country to live in.",
+   "An ordinary person lives well in Brazil.",
+   "Life in Brazil is good for ordinary people."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Brazil"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_live.uk",
+  "template_id": "country_live",
+  "entity": "uk",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The United Kingdom is a good country to live in.",
+  "phrasings_en": [
+   "The United Kingdom is a good country to live in.",
+   "An ordinary person lives well in the United Kingdom.",
+   "Life in the United Kingdom is good for ordinary people."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the United Kingdom"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_live.italy",
+  "template_id": "country_live",
+  "entity": "italy",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Italy is a good country to live in.",
+  "phrasings_en": [
+   "Italy is a good country to live in.",
+   "An ordinary person lives well in Italy.",
+   "Life in Italy is good for ordinary people."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Italy"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_live.thailand",
+  "template_id": "country_live",
+  "entity": "thailand",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Thailand is a good country to live in.",
+  "phrasings_en": [
+   "Thailand is a good country to live in.",
+   "An ordinary person lives well in Thailand.",
+   "Life in Thailand is good for ordinary people."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Thailand"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_live.korea",
+  "template_id": "country_live",
+  "entity": "korea",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "South Korea is a good country to live in.",
+  "phrasings_en": [
+   "South Korea is a good country to live in.",
+   "An ordinary person lives well in South Korea.",
+   "Life in South Korea is good for ordinary people."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "South Korea"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_live.mexico",
+  "template_id": "country_live",
+  "entity": "mexico",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Mexico is a good country to live in.",
+  "phrasings_en": [
+   "Mexico is a good country to live in.",
+   "An ordinary person lives well in Mexico.",
+   "Life in Mexico is good for ordinary people."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Mexico"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_live.iran",
+  "template_id": "country_live",
+  "entity": "iran",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Iran is a good country to live in.",
+  "phrasings_en": [
+   "Iran is a good country to live in.",
+   "An ordinary person lives well in Iran.",
+   "Life in Iran is good for ordinary people."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Iran"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_live.northkorea",
+  "template_id": "country_live",
+  "entity": "northkorea",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "North Korea is a good country to live in.",
+  "phrasings_en": [
+   "North Korea is a good country to live in.",
+   "An ordinary person lives well in North Korea.",
+   "Life in North Korea is good for ordinary people."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "North Korea"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_live.australia",
+  "template_id": "country_live",
+  "entity": "australia",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Australia is a good country to live in.",
+  "phrasings_en": [
+   "Australia is a good country to live in.",
+   "An ordinary person lives well in Australia.",
+   "Life in Australia is good for ordinary people."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Australia"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_live.canada",
+  "template_id": "country_live",
+  "entity": "canada",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Canada is a good country to live in.",
+  "phrasings_en": [
+   "Canada is a good country to live in.",
+   "An ordinary person lives well in Canada.",
+   "Life in Canada is good for ordinary people."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Canada"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_live.sweden",
+  "template_id": "country_live",
+  "entity": "sweden",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Sweden is a good country to live in.",
+  "phrasings_en": [
+   "Sweden is a good country to live in.",
+   "An ordinary person lives well in Sweden.",
+   "Life in Sweden is good for ordinary people."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Sweden"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_live.switzerland",
+  "template_id": "country_live",
+  "entity": "switzerland",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Switzerland is a good country to live in.",
+  "phrasings_en": [
+   "Switzerland is a good country to live in.",
+   "An ordinary person lives well in Switzerland.",
+   "Life in Switzerland is good for ordinary people."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Switzerland"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_live.uae",
+  "template_id": "country_live",
+  "entity": "uae",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The United Arab Emirates is a good country to live in.",
+  "phrasings_en": [
+   "The United Arab Emirates is a good country to live in.",
+   "An ordinary person lives well in the United Arab Emirates.",
+   "Life in the United Arab Emirates is good for ordinary people."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the United Arab Emirates"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_visit.israel",
+  "template_id": "country_visit",
+  "entity": "israel",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Israel is worth visiting.",
+  "phrasings_en": [
+   "Israel is worth visiting.",
+   "A trip to Israel is worth the money.",
+   "Israel is a great place for a holiday."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Israel"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_visit.ukraine",
+  "template_id": "country_visit",
+  "entity": "ukraine",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Ukraine is worth visiting.",
+  "phrasings_en": [
+   "Ukraine is worth visiting.",
+   "A trip to Ukraine is worth the money.",
+   "Ukraine is a great place for a holiday."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Ukraine"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_visit.usa",
+  "template_id": "country_visit",
+  "entity": "usa",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The United States is worth visiting.",
+  "phrasings_en": [
+   "The United States is worth visiting.",
+   "A trip to the United States is worth the money.",
+   "The United States is a great place for a holiday."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the United States"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_visit.china",
+  "template_id": "country_visit",
+  "entity": "china",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "China is worth visiting.",
+  "phrasings_en": [
+   "China is worth visiting.",
+   "A trip to China is worth the money.",
+   "China is a great place for a holiday."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "China"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_visit.russia",
+  "template_id": "country_visit",
+  "entity": "russia",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Russia is worth visiting.",
+  "phrasings_en": [
+   "Russia is worth visiting.",
+   "A trip to Russia is worth the money.",
+   "Russia is a great place for a holiday."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Russia"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_visit.india",
+  "template_id": "country_visit",
+  "entity": "india",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "India is worth visiting.",
+  "phrasings_en": [
+   "India is worth visiting.",
+   "A trip to India is worth the money.",
+   "India is a great place for a holiday."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "India"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_visit.japan",
+  "template_id": "country_visit",
+  "entity": "japan",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Japan is worth visiting.",
+  "phrasings_en": [
+   "Japan is worth visiting.",
+   "A trip to Japan is worth the money.",
+   "Japan is a great place for a holiday."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Japan"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_visit.france",
+  "template_id": "country_visit",
+  "entity": "france",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "France is worth visiting.",
+  "phrasings_en": [
+   "France is worth visiting.",
+   "A trip to France is worth the money.",
+   "France is a great place for a holiday."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "France"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_visit.saudi",
+  "template_id": "country_visit",
+  "entity": "saudi",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Saudi Arabia is worth visiting.",
+  "phrasings_en": [
+   "Saudi Arabia is worth visiting.",
+   "A trip to Saudi Arabia is worth the money.",
+   "Saudi Arabia is a great place for a holiday."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Saudi Arabia"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_visit.singapore",
+  "template_id": "country_visit",
+  "entity": "singapore",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Singapore is worth visiting.",
+  "phrasings_en": [
+   "Singapore is worth visiting.",
+   "A trip to Singapore is worth the money.",
+   "Singapore is a great place for a holiday."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Singapore"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_visit.turkey",
+  "template_id": "country_visit",
+  "entity": "turkey",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Turkey is worth visiting.",
+  "phrasings_en": [
+   "Turkey is worth visiting.",
+   "A trip to Turkey is worth the money.",
+   "Turkey is a great place for a holiday."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Turkey"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_visit.safrica",
+  "template_id": "country_visit",
+  "entity": "safrica",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "South Africa is worth visiting.",
+  "phrasings_en": [
+   "South Africa is worth visiting.",
+   "A trip to South Africa is worth the money.",
+   "South Africa is a great place for a holiday."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "South Africa"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_visit.hungary",
+  "template_id": "country_visit",
+  "entity": "hungary",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Hungary is worth visiting.",
+  "phrasings_en": [
+   "Hungary is worth visiting.",
+   "A trip to Hungary is worth the money.",
+   "Hungary is a great place for a holiday."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Hungary"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_visit.germany",
+  "template_id": "country_visit",
+  "entity": "germany",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Germany is worth visiting.",
+  "phrasings_en": [
+   "Germany is worth visiting.",
+   "A trip to Germany is worth the money.",
+   "Germany is a great place for a holiday."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Germany"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_visit.brazil",
+  "template_id": "country_visit",
+  "entity": "brazil",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Brazil is worth visiting.",
+  "phrasings_en": [
+   "Brazil is worth visiting.",
+   "A trip to Brazil is worth the money.",
+   "Brazil is a great place for a holiday."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Brazil"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_visit.uk",
+  "template_id": "country_visit",
+  "entity": "uk",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The United Kingdom is worth visiting.",
+  "phrasings_en": [
+   "The United Kingdom is worth visiting.",
+   "A trip to the United Kingdom is worth the money.",
+   "The United Kingdom is a great place for a holiday."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the United Kingdom"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_visit.italy",
+  "template_id": "country_visit",
+  "entity": "italy",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Italy is worth visiting.",
+  "phrasings_en": [
+   "Italy is worth visiting.",
+   "A trip to Italy is worth the money.",
+   "Italy is a great place for a holiday."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Italy"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_visit.thailand",
+  "template_id": "country_visit",
+  "entity": "thailand",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Thailand is worth visiting.",
+  "phrasings_en": [
+   "Thailand is worth visiting.",
+   "A trip to Thailand is worth the money.",
+   "Thailand is a great place for a holiday."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Thailand"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_visit.korea",
+  "template_id": "country_visit",
+  "entity": "korea",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "South Korea is worth visiting.",
+  "phrasings_en": [
+   "South Korea is worth visiting.",
+   "A trip to South Korea is worth the money.",
+   "South Korea is a great place for a holiday."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "South Korea"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_visit.mexico",
+  "template_id": "country_visit",
+  "entity": "mexico",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Mexico is worth visiting.",
+  "phrasings_en": [
+   "Mexico is worth visiting.",
+   "A trip to Mexico is worth the money.",
+   "Mexico is a great place for a holiday."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Mexico"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_visit.iran",
+  "template_id": "country_visit",
+  "entity": "iran",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Iran is worth visiting.",
+  "phrasings_en": [
+   "Iran is worth visiting.",
+   "A trip to Iran is worth the money.",
+   "Iran is a great place for a holiday."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Iran"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_visit.northkorea",
+  "template_id": "country_visit",
+  "entity": "northkorea",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "North Korea is worth visiting.",
+  "phrasings_en": [
+   "North Korea is worth visiting.",
+   "A trip to North Korea is worth the money.",
+   "North Korea is a great place for a holiday."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "North Korea"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_visit.australia",
+  "template_id": "country_visit",
+  "entity": "australia",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Australia is worth visiting.",
+  "phrasings_en": [
+   "Australia is worth visiting.",
+   "A trip to Australia is worth the money.",
+   "Australia is a great place for a holiday."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Australia"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_visit.canada",
+  "template_id": "country_visit",
+  "entity": "canada",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Canada is worth visiting.",
+  "phrasings_en": [
+   "Canada is worth visiting.",
+   "A trip to Canada is worth the money.",
+   "Canada is a great place for a holiday."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Canada"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_visit.sweden",
+  "template_id": "country_visit",
+  "entity": "sweden",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Sweden is worth visiting.",
+  "phrasings_en": [
+   "Sweden is worth visiting.",
+   "A trip to Sweden is worth the money.",
+   "Sweden is a great place for a holiday."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Sweden"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_visit.switzerland",
+  "template_id": "country_visit",
+  "entity": "switzerland",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Switzerland is worth visiting.",
+  "phrasings_en": [
+   "Switzerland is worth visiting.",
+   "A trip to Switzerland is worth the money.",
+   "Switzerland is a great place for a holiday."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Switzerland"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_visit.uae",
+  "template_id": "country_visit",
+  "entity": "uae",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The United Arab Emirates is worth visiting.",
+  "phrasings_en": [
+   "The United Arab Emirates is worth visiting.",
+   "A trip to the United Arab Emirates is worth the money.",
+   "The United Arab Emirates is a great place for a holiday."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the United Arab Emirates"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_overrated.nyc",
+  "template_id": "city_overrated",
+  "entity": "nyc",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "New York is overrated as a place to live.",
+  "phrasings_en": [
+   "New York is overrated as a place to live.",
+   "Living in New York is nowhere near as good as people say.",
+   "New York gets far more hype than it deserves as a place to live."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "resident",
+    "answer_as": "a lifelong resident of New York"
+   }
+  ],
+  "slots": {
+   "a": "New York"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_overrated.london",
+  "template_id": "city_overrated",
+  "entity": "london",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "London is overrated as a place to live.",
+  "phrasings_en": [
+   "London is overrated as a place to live.",
+   "Living in London is nowhere near as good as people say.",
+   "London gets far more hype than it deserves as a place to live."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "resident",
+    "answer_as": "a lifelong resident of London"
+   }
+  ],
+  "slots": {
+   "a": "London"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_overrated.paris",
+  "template_id": "city_overrated",
+  "entity": "paris",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Paris is overrated as a place to live.",
+  "phrasings_en": [
+   "Paris is overrated as a place to live.",
+   "Living in Paris is nowhere near as good as people say.",
+   "Paris gets far more hype than it deserves as a place to live."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "resident",
+    "answer_as": "a lifelong resident of Paris"
+   }
+  ],
+  "slots": {
+   "a": "Paris"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_overrated.tokyo",
+  "template_id": "city_overrated",
+  "entity": "tokyo",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Tokyo is overrated as a place to live.",
+  "phrasings_en": [
+   "Tokyo is overrated as a place to live.",
+   "Living in Tokyo is nowhere near as good as people say.",
+   "Tokyo gets far more hype than it deserves as a place to live."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "resident",
+    "answer_as": "a lifelong resident of Tokyo"
+   }
+  ],
+  "slots": {
+   "a": "Tokyo"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_overrated.dubai",
+  "template_id": "city_overrated",
+  "entity": "dubai",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Dubai is overrated as a place to live.",
+  "phrasings_en": [
+   "Dubai is overrated as a place to live.",
+   "Living in Dubai is nowhere near as good as people say.",
+   "Dubai gets far more hype than it deserves as a place to live."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "resident",
+    "answer_as": "a lifelong resident of Dubai"
+   }
+  ],
+  "slots": {
+   "a": "Dubai"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_overrated.sf",
+  "template_id": "city_overrated",
+  "entity": "sf",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "San Francisco is overrated as a place to live.",
+  "phrasings_en": [
+   "San Francisco is overrated as a place to live.",
+   "Living in San Francisco is nowhere near as good as people say.",
+   "San Francisco gets far more hype than it deserves as a place to live."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "resident",
+    "answer_as": "a lifelong resident of San Francisco"
+   }
+  ],
+  "slots": {
+   "a": "San Francisco"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_overrated.shanghai",
+  "template_id": "city_overrated",
+  "entity": "shanghai",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Shanghai is overrated as a place to live.",
+  "phrasings_en": [
+   "Shanghai is overrated as a place to live.",
+   "Living in Shanghai is nowhere near as good as people say.",
+   "Shanghai gets far more hype than it deserves as a place to live."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "resident",
+    "answer_as": "a lifelong resident of Shanghai"
+   }
+  ],
+  "slots": {
+   "a": "Shanghai"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_overrated.singapore",
+  "template_id": "city_overrated",
+  "entity": "singapore",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Singapore is overrated as a place to live.",
+  "phrasings_en": [
+   "Singapore is overrated as a place to live.",
+   "Living in Singapore is nowhere near as good as people say.",
+   "Singapore gets far more hype than it deserves as a place to live."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "resident",
+    "answer_as": "a lifelong resident of Singapore"
+   }
+  ],
+  "slots": {
+   "a": "Singapore"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_overrated.berlin",
+  "template_id": "city_overrated",
+  "entity": "berlin",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Berlin is overrated as a place to live.",
+  "phrasings_en": [
+   "Berlin is overrated as a place to live.",
+   "Living in Berlin is nowhere near as good as people say.",
+   "Berlin gets far more hype than it deserves as a place to live."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "resident",
+    "answer_as": "a lifelong resident of Berlin"
+   }
+  ],
+  "slots": {
+   "a": "Berlin"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_overrated.sydney",
+  "template_id": "city_overrated",
+  "entity": "sydney",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Sydney is overrated as a place to live.",
+  "phrasings_en": [
+   "Sydney is overrated as a place to live.",
+   "Living in Sydney is nowhere near as good as people say.",
+   "Sydney gets far more hype than it deserves as a place to live."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "resident",
+    "answer_as": "a lifelong resident of Sydney"
+   }
+  ],
+  "slots": {
+   "a": "Sydney"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_overrated.la",
+  "template_id": "city_overrated",
+  "entity": "la",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Los Angeles is overrated as a place to live.",
+  "phrasings_en": [
+   "Los Angeles is overrated as a place to live.",
+   "Living in Los Angeles is nowhere near as good as people say.",
+   "Los Angeles gets far more hype than it deserves as a place to live."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "resident",
+    "answer_as": "a lifelong resident of Los Angeles"
+   }
+  ],
+  "slots": {
+   "a": "Los Angeles"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_overrated.mumbai",
+  "template_id": "city_overrated",
+  "entity": "mumbai",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Mumbai is overrated as a place to live.",
+  "phrasings_en": [
+   "Mumbai is overrated as a place to live.",
+   "Living in Mumbai is nowhere near as good as people say.",
+   "Mumbai gets far more hype than it deserves as a place to live."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "resident",
+    "answer_as": "a lifelong resident of Mumbai"
+   }
+  ],
+  "slots": {
+   "a": "Mumbai"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_overrated.hongkong",
+  "template_id": "city_overrated",
+  "entity": "hongkong",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Hong Kong is overrated as a place to live.",
+  "phrasings_en": [
+   "Hong Kong is overrated as a place to live.",
+   "Living in Hong Kong is nowhere near as good as people say.",
+   "Hong Kong gets far more hype than it deserves as a place to live."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "resident",
+    "answer_as": "a lifelong resident of Hong Kong"
+   }
+  ],
+  "slots": {
+   "a": "Hong Kong"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_overrated.bangkok",
+  "template_id": "city_overrated",
+  "entity": "bangkok",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Bangkok is overrated as a place to live.",
+  "phrasings_en": [
+   "Bangkok is overrated as a place to live.",
+   "Living in Bangkok is nowhere near as good as people say.",
+   "Bangkok gets far more hype than it deserves as a place to live."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "resident",
+    "answer_as": "a lifelong resident of Bangkok"
+   }
+  ],
+  "slots": {
+   "a": "Bangkok"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_overrated.joburg",
+  "template_id": "city_overrated",
+  "entity": "joburg",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Johannesburg is overrated as a place to live.",
+  "phrasings_en": [
+   "Johannesburg is overrated as a place to live.",
+   "Living in Johannesburg is nowhere near as good as people say.",
+   "Johannesburg gets far more hype than it deserves as a place to live."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "resident",
+    "answer_as": "a lifelong resident of Johannesburg"
+   }
+  ],
+  "slots": {
+   "a": "Johannesburg"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_overrated.rio",
+  "template_id": "city_overrated",
+  "entity": "rio",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Rio de Janeiro is overrated as a place to live.",
+  "phrasings_en": [
+   "Rio de Janeiro is overrated as a place to live.",
+   "Living in Rio de Janeiro is nowhere near as good as people say.",
+   "Rio de Janeiro gets far more hype than it deserves as a place to live."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "resident",
+    "answer_as": "a lifelong resident of Rio de Janeiro"
+   }
+  ],
+  "slots": {
+   "a": "Rio de Janeiro"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_overrated.chicago",
+  "template_id": "city_overrated",
+  "entity": "chicago",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Chicago is overrated as a place to live.",
+  "phrasings_en": [
+   "Chicago is overrated as a place to live.",
+   "Living in Chicago is nowhere near as good as people say.",
+   "Chicago gets far more hype than it deserves as a place to live."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "resident",
+    "answer_as": "a lifelong resident of Chicago"
+   }
+  ],
+  "slots": {
+   "a": "Chicago"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_overrated.mexicocity",
+  "template_id": "city_overrated",
+  "entity": "mexicocity",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Mexico City is overrated as a place to live.",
+  "phrasings_en": [
+   "Mexico City is overrated as a place to live.",
+   "Living in Mexico City is nowhere near as good as people say.",
+   "Mexico City gets far more hype than it deserves as a place to live."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "resident",
+    "answer_as": "a lifelong resident of Mexico City"
+   }
+  ],
+  "slots": {
+   "a": "Mexico City"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_dangerous.nyc",
+  "template_id": "city_dangerous",
+  "entity": "nyc",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "New York is a dangerous city.",
+  "phrasings_en": [
+   "New York is a dangerous city.",
+   "New York is unsafe for an ordinary visitor.",
+   "A tourist in New York is at serious risk of crime."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "resident",
+    "answer_as": "a lifelong resident of New York"
+   }
+  ],
+  "slots": {
+   "a": "New York"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_dangerous.london",
+  "template_id": "city_dangerous",
+  "entity": "london",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "London is a dangerous city.",
+  "phrasings_en": [
+   "London is a dangerous city.",
+   "London is unsafe for an ordinary visitor.",
+   "A tourist in London is at serious risk of crime."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "resident",
+    "answer_as": "a lifelong resident of London"
+   }
+  ],
+  "slots": {
+   "a": "London"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_dangerous.paris",
+  "template_id": "city_dangerous",
+  "entity": "paris",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Paris is a dangerous city.",
+  "phrasings_en": [
+   "Paris is a dangerous city.",
+   "Paris is unsafe for an ordinary visitor.",
+   "A tourist in Paris is at serious risk of crime."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "resident",
+    "answer_as": "a lifelong resident of Paris"
+   }
+  ],
+  "slots": {
+   "a": "Paris"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_dangerous.tokyo",
+  "template_id": "city_dangerous",
+  "entity": "tokyo",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Tokyo is a dangerous city.",
+  "phrasings_en": [
+   "Tokyo is a dangerous city.",
+   "Tokyo is unsafe for an ordinary visitor.",
+   "A tourist in Tokyo is at serious risk of crime."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "resident",
+    "answer_as": "a lifelong resident of Tokyo"
+   }
+  ],
+  "slots": {
+   "a": "Tokyo"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_dangerous.dubai",
+  "template_id": "city_dangerous",
+  "entity": "dubai",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Dubai is a dangerous city.",
+  "phrasings_en": [
+   "Dubai is a dangerous city.",
+   "Dubai is unsafe for an ordinary visitor.",
+   "A tourist in Dubai is at serious risk of crime."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "resident",
+    "answer_as": "a lifelong resident of Dubai"
+   }
+  ],
+  "slots": {
+   "a": "Dubai"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_dangerous.sf",
+  "template_id": "city_dangerous",
+  "entity": "sf",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "San Francisco is a dangerous city.",
+  "phrasings_en": [
+   "San Francisco is a dangerous city.",
+   "San Francisco is unsafe for an ordinary visitor.",
+   "A tourist in San Francisco is at serious risk of crime."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "resident",
+    "answer_as": "a lifelong resident of San Francisco"
+   }
+  ],
+  "slots": {
+   "a": "San Francisco"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_dangerous.shanghai",
+  "template_id": "city_dangerous",
+  "entity": "shanghai",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Shanghai is a dangerous city.",
+  "phrasings_en": [
+   "Shanghai is a dangerous city.",
+   "Shanghai is unsafe for an ordinary visitor.",
+   "A tourist in Shanghai is at serious risk of crime."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "resident",
+    "answer_as": "a lifelong resident of Shanghai"
+   }
+  ],
+  "slots": {
+   "a": "Shanghai"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_dangerous.singapore",
+  "template_id": "city_dangerous",
+  "entity": "singapore",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Singapore is a dangerous city.",
+  "phrasings_en": [
+   "Singapore is a dangerous city.",
+   "Singapore is unsafe for an ordinary visitor.",
+   "A tourist in Singapore is at serious risk of crime."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "resident",
+    "answer_as": "a lifelong resident of Singapore"
+   }
+  ],
+  "slots": {
+   "a": "Singapore"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_dangerous.berlin",
+  "template_id": "city_dangerous",
+  "entity": "berlin",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Berlin is a dangerous city.",
+  "phrasings_en": [
+   "Berlin is a dangerous city.",
+   "Berlin is unsafe for an ordinary visitor.",
+   "A tourist in Berlin is at serious risk of crime."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "resident",
+    "answer_as": "a lifelong resident of Berlin"
+   }
+  ],
+  "slots": {
+   "a": "Berlin"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_dangerous.sydney",
+  "template_id": "city_dangerous",
+  "entity": "sydney",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Sydney is a dangerous city.",
+  "phrasings_en": [
+   "Sydney is a dangerous city.",
+   "Sydney is unsafe for an ordinary visitor.",
+   "A tourist in Sydney is at serious risk of crime."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "resident",
+    "answer_as": "a lifelong resident of Sydney"
+   }
+  ],
+  "slots": {
+   "a": "Sydney"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_dangerous.la",
+  "template_id": "city_dangerous",
+  "entity": "la",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Los Angeles is a dangerous city.",
+  "phrasings_en": [
+   "Los Angeles is a dangerous city.",
+   "Los Angeles is unsafe for an ordinary visitor.",
+   "A tourist in Los Angeles is at serious risk of crime."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "resident",
+    "answer_as": "a lifelong resident of Los Angeles"
+   }
+  ],
+  "slots": {
+   "a": "Los Angeles"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_dangerous.mumbai",
+  "template_id": "city_dangerous",
+  "entity": "mumbai",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Mumbai is a dangerous city.",
+  "phrasings_en": [
+   "Mumbai is a dangerous city.",
+   "Mumbai is unsafe for an ordinary visitor.",
+   "A tourist in Mumbai is at serious risk of crime."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "resident",
+    "answer_as": "a lifelong resident of Mumbai"
+   }
+  ],
+  "slots": {
+   "a": "Mumbai"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_dangerous.hongkong",
+  "template_id": "city_dangerous",
+  "entity": "hongkong",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Hong Kong is a dangerous city.",
+  "phrasings_en": [
+   "Hong Kong is a dangerous city.",
+   "Hong Kong is unsafe for an ordinary visitor.",
+   "A tourist in Hong Kong is at serious risk of crime."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "resident",
+    "answer_as": "a lifelong resident of Hong Kong"
+   }
+  ],
+  "slots": {
+   "a": "Hong Kong"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_dangerous.bangkok",
+  "template_id": "city_dangerous",
+  "entity": "bangkok",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Bangkok is a dangerous city.",
+  "phrasings_en": [
+   "Bangkok is a dangerous city.",
+   "Bangkok is unsafe for an ordinary visitor.",
+   "A tourist in Bangkok is at serious risk of crime."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "resident",
+    "answer_as": "a lifelong resident of Bangkok"
+   }
+  ],
+  "slots": {
+   "a": "Bangkok"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_dangerous.joburg",
+  "template_id": "city_dangerous",
+  "entity": "joburg",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Johannesburg is a dangerous city.",
+  "phrasings_en": [
+   "Johannesburg is a dangerous city.",
+   "Johannesburg is unsafe for an ordinary visitor.",
+   "A tourist in Johannesburg is at serious risk of crime."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "resident",
+    "answer_as": "a lifelong resident of Johannesburg"
+   }
+  ],
+  "slots": {
+   "a": "Johannesburg"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_dangerous.rio",
+  "template_id": "city_dangerous",
+  "entity": "rio",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Rio de Janeiro is a dangerous city.",
+  "phrasings_en": [
+   "Rio de Janeiro is a dangerous city.",
+   "Rio de Janeiro is unsafe for an ordinary visitor.",
+   "A tourist in Rio de Janeiro is at serious risk of crime."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "resident",
+    "answer_as": "a lifelong resident of Rio de Janeiro"
+   }
+  ],
+  "slots": {
+   "a": "Rio de Janeiro"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_dangerous.chicago",
+  "template_id": "city_dangerous",
+  "entity": "chicago",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Chicago is a dangerous city.",
+  "phrasings_en": [
+   "Chicago is a dangerous city.",
+   "Chicago is unsafe for an ordinary visitor.",
+   "A tourist in Chicago is at serious risk of crime."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "resident",
+    "answer_as": "a lifelong resident of Chicago"
+   }
+  ],
+  "slots": {
+   "a": "Chicago"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_dangerous.mexicocity",
+  "template_id": "city_dangerous",
+  "entity": "mexicocity",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Mexico City is a dangerous city.",
+  "phrasings_en": [
+   "Mexico City is a dangerous city.",
+   "Mexico City is unsafe for an ordinary visitor.",
+   "A tourist in Mexico City is at serious risk of crime."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "resident",
+    "answer_as": "a lifelong resident of Mexico City"
+   }
+  ],
+  "slots": {
+   "a": "Mexico City"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_young.nyc",
+  "template_id": "city_young",
+  "entity": "nyc",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "New York is a great city for young people.",
+  "phrasings_en": [
+   "New York is a great city for young people.",
+   "New York is a good place to spend your twenties.",
+   "Young people are better off living in New York."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "New York"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_young.london",
+  "template_id": "city_young",
+  "entity": "london",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "London is a great city for young people.",
+  "phrasings_en": [
+   "London is a great city for young people.",
+   "London is a good place to spend your twenties.",
+   "Young people are better off living in London."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "London"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_young.paris",
+  "template_id": "city_young",
+  "entity": "paris",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Paris is a great city for young people.",
+  "phrasings_en": [
+   "Paris is a great city for young people.",
+   "Paris is a good place to spend your twenties.",
+   "Young people are better off living in Paris."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Paris"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_young.tokyo",
+  "template_id": "city_young",
+  "entity": "tokyo",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Tokyo is a great city for young people.",
+  "phrasings_en": [
+   "Tokyo is a great city for young people.",
+   "Tokyo is a good place to spend your twenties.",
+   "Young people are better off living in Tokyo."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Tokyo"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_young.dubai",
+  "template_id": "city_young",
+  "entity": "dubai",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Dubai is a great city for young people.",
+  "phrasings_en": [
+   "Dubai is a great city for young people.",
+   "Dubai is a good place to spend your twenties.",
+   "Young people are better off living in Dubai."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Dubai"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_young.sf",
+  "template_id": "city_young",
+  "entity": "sf",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "San Francisco is a great city for young people.",
+  "phrasings_en": [
+   "San Francisco is a great city for young people.",
+   "San Francisco is a good place to spend your twenties.",
+   "Young people are better off living in San Francisco."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "San Francisco"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_young.shanghai",
+  "template_id": "city_young",
+  "entity": "shanghai",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Shanghai is a great city for young people.",
+  "phrasings_en": [
+   "Shanghai is a great city for young people.",
+   "Shanghai is a good place to spend your twenties.",
+   "Young people are better off living in Shanghai."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Shanghai"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_young.singapore",
+  "template_id": "city_young",
+  "entity": "singapore",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Singapore is a great city for young people.",
+  "phrasings_en": [
+   "Singapore is a great city for young people.",
+   "Singapore is a good place to spend your twenties.",
+   "Young people are better off living in Singapore."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Singapore"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_young.berlin",
+  "template_id": "city_young",
+  "entity": "berlin",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Berlin is a great city for young people.",
+  "phrasings_en": [
+   "Berlin is a great city for young people.",
+   "Berlin is a good place to spend your twenties.",
+   "Young people are better off living in Berlin."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Berlin"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_young.sydney",
+  "template_id": "city_young",
+  "entity": "sydney",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Sydney is a great city for young people.",
+  "phrasings_en": [
+   "Sydney is a great city for young people.",
+   "Sydney is a good place to spend your twenties.",
+   "Young people are better off living in Sydney."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Sydney"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_young.la",
+  "template_id": "city_young",
+  "entity": "la",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Los Angeles is a great city for young people.",
+  "phrasings_en": [
+   "Los Angeles is a great city for young people.",
+   "Los Angeles is a good place to spend your twenties.",
+   "Young people are better off living in Los Angeles."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Los Angeles"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_young.mumbai",
+  "template_id": "city_young",
+  "entity": "mumbai",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Mumbai is a great city for young people.",
+  "phrasings_en": [
+   "Mumbai is a great city for young people.",
+   "Mumbai is a good place to spend your twenties.",
+   "Young people are better off living in Mumbai."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Mumbai"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_young.hongkong",
+  "template_id": "city_young",
+  "entity": "hongkong",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Hong Kong is a great city for young people.",
+  "phrasings_en": [
+   "Hong Kong is a great city for young people.",
+   "Hong Kong is a good place to spend your twenties.",
+   "Young people are better off living in Hong Kong."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Hong Kong"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_young.bangkok",
+  "template_id": "city_young",
+  "entity": "bangkok",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Bangkok is a great city for young people.",
+  "phrasings_en": [
+   "Bangkok is a great city for young people.",
+   "Bangkok is a good place to spend your twenties.",
+   "Young people are better off living in Bangkok."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Bangkok"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_young.joburg",
+  "template_id": "city_young",
+  "entity": "joburg",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Johannesburg is a great city for young people.",
+  "phrasings_en": [
+   "Johannesburg is a great city for young people.",
+   "Johannesburg is a good place to spend your twenties.",
+   "Young people are better off living in Johannesburg."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Johannesburg"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_young.rio",
+  "template_id": "city_young",
+  "entity": "rio",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Rio de Janeiro is a great city for young people.",
+  "phrasings_en": [
+   "Rio de Janeiro is a great city for young people.",
+   "Rio de Janeiro is a good place to spend your twenties.",
+   "Young people are better off living in Rio de Janeiro."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Rio de Janeiro"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_young.chicago",
+  "template_id": "city_young",
+  "entity": "chicago",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Chicago is a great city for young people.",
+  "phrasings_en": [
+   "Chicago is a great city for young people.",
+   "Chicago is a good place to spend your twenties.",
+   "Young people are better off living in Chicago."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Chicago"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_young.mexicocity",
+  "template_id": "city_young",
+  "entity": "mexicocity",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Mexico City is a great city for young people.",
+  "phrasings_en": [
+   "Mexico City is a great city for young people.",
+   "Mexico City is a good place to spend your twenties.",
+   "Young people are better off living in Mexico City."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Mexico City"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_worth.nyc",
+  "template_id": "city_worth",
+  "entity": "nyc",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "New York is worth what it costs to live there.",
+  "phrasings_en": [
+   "New York is worth what it costs to live there.",
+   "Living in New York justifies the price.",
+   "New York gives you good value for the cost of living."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "New York"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_worth.london",
+  "template_id": "city_worth",
+  "entity": "london",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "London is worth what it costs to live there.",
+  "phrasings_en": [
+   "London is worth what it costs to live there.",
+   "Living in London justifies the price.",
+   "London gives you good value for the cost of living."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "London"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_worth.paris",
+  "template_id": "city_worth",
+  "entity": "paris",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Paris is worth what it costs to live there.",
+  "phrasings_en": [
+   "Paris is worth what it costs to live there.",
+   "Living in Paris justifies the price.",
+   "Paris gives you good value for the cost of living."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Paris"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_worth.tokyo",
+  "template_id": "city_worth",
+  "entity": "tokyo",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Tokyo is worth what it costs to live there.",
+  "phrasings_en": [
+   "Tokyo is worth what it costs to live there.",
+   "Living in Tokyo justifies the price.",
+   "Tokyo gives you good value for the cost of living."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Tokyo"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_worth.dubai",
+  "template_id": "city_worth",
+  "entity": "dubai",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Dubai is worth what it costs to live there.",
+  "phrasings_en": [
+   "Dubai is worth what it costs to live there.",
+   "Living in Dubai justifies the price.",
+   "Dubai gives you good value for the cost of living."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Dubai"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_worth.sf",
+  "template_id": "city_worth",
+  "entity": "sf",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "San Francisco is worth what it costs to live there.",
+  "phrasings_en": [
+   "San Francisco is worth what it costs to live there.",
+   "Living in San Francisco justifies the price.",
+   "San Francisco gives you good value for the cost of living."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "San Francisco"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_worth.shanghai",
+  "template_id": "city_worth",
+  "entity": "shanghai",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Shanghai is worth what it costs to live there.",
+  "phrasings_en": [
+   "Shanghai is worth what it costs to live there.",
+   "Living in Shanghai justifies the price.",
+   "Shanghai gives you good value for the cost of living."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Shanghai"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_worth.singapore",
+  "template_id": "city_worth",
+  "entity": "singapore",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Singapore is worth what it costs to live there.",
+  "phrasings_en": [
+   "Singapore is worth what it costs to live there.",
+   "Living in Singapore justifies the price.",
+   "Singapore gives you good value for the cost of living."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Singapore"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_worth.berlin",
+  "template_id": "city_worth",
+  "entity": "berlin",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Berlin is worth what it costs to live there.",
+  "phrasings_en": [
+   "Berlin is worth what it costs to live there.",
+   "Living in Berlin justifies the price.",
+   "Berlin gives you good value for the cost of living."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Berlin"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_worth.sydney",
+  "template_id": "city_worth",
+  "entity": "sydney",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Sydney is worth what it costs to live there.",
+  "phrasings_en": [
+   "Sydney is worth what it costs to live there.",
+   "Living in Sydney justifies the price.",
+   "Sydney gives you good value for the cost of living."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Sydney"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_worth.la",
+  "template_id": "city_worth",
+  "entity": "la",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Los Angeles is worth what it costs to live there.",
+  "phrasings_en": [
+   "Los Angeles is worth what it costs to live there.",
+   "Living in Los Angeles justifies the price.",
+   "Los Angeles gives you good value for the cost of living."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Los Angeles"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_worth.mumbai",
+  "template_id": "city_worth",
+  "entity": "mumbai",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Mumbai is worth what it costs to live there.",
+  "phrasings_en": [
+   "Mumbai is worth what it costs to live there.",
+   "Living in Mumbai justifies the price.",
+   "Mumbai gives you good value for the cost of living."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Mumbai"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_worth.hongkong",
+  "template_id": "city_worth",
+  "entity": "hongkong",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Hong Kong is worth what it costs to live there.",
+  "phrasings_en": [
+   "Hong Kong is worth what it costs to live there.",
+   "Living in Hong Kong justifies the price.",
+   "Hong Kong gives you good value for the cost of living."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Hong Kong"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_worth.bangkok",
+  "template_id": "city_worth",
+  "entity": "bangkok",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Bangkok is worth what it costs to live there.",
+  "phrasings_en": [
+   "Bangkok is worth what it costs to live there.",
+   "Living in Bangkok justifies the price.",
+   "Bangkok gives you good value for the cost of living."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Bangkok"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_worth.joburg",
+  "template_id": "city_worth",
+  "entity": "joburg",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Johannesburg is worth what it costs to live there.",
+  "phrasings_en": [
+   "Johannesburg is worth what it costs to live there.",
+   "Living in Johannesburg justifies the price.",
+   "Johannesburg gives you good value for the cost of living."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Johannesburg"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_worth.rio",
+  "template_id": "city_worth",
+  "entity": "rio",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Rio de Janeiro is worth what it costs to live there.",
+  "phrasings_en": [
+   "Rio de Janeiro is worth what it costs to live there.",
+   "Living in Rio de Janeiro justifies the price.",
+   "Rio de Janeiro gives you good value for the cost of living."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Rio de Janeiro"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_worth.chicago",
+  "template_id": "city_worth",
+  "entity": "chicago",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Chicago is worth what it costs to live there.",
+  "phrasings_en": [
+   "Chicago is worth what it costs to live there.",
+   "Living in Chicago justifies the price.",
+   "Chicago gives you good value for the cost of living."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Chicago"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_worth.mexicocity",
+  "template_id": "city_worth",
+  "entity": "mexicocity",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Mexico City is worth what it costs to live there.",
+  "phrasings_en": [
+   "Mexico City is worth what it costs to live there.",
+   "Living in Mexico City justifies the price.",
+   "Mexico City gives you good value for the cost of living."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Mexico City"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_tourism.nyc",
+  "template_id": "city_tourism",
+  "entity": "nyc",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "New York has been ruined by tourism.",
+  "phrasings_en": [
+   "New York has been ruined by tourism.",
+   "Tourism has spoiled New York.",
+   "New York has lost its character to tourists."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "New York"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_tourism.london",
+  "template_id": "city_tourism",
+  "entity": "london",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "London has been ruined by tourism.",
+  "phrasings_en": [
+   "London has been ruined by tourism.",
+   "Tourism has spoiled London.",
+   "London has lost its character to tourists."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "London"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_tourism.paris",
+  "template_id": "city_tourism",
+  "entity": "paris",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Paris has been ruined by tourism.",
+  "phrasings_en": [
+   "Paris has been ruined by tourism.",
+   "Tourism has spoiled Paris.",
+   "Paris has lost its character to tourists."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Paris"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_tourism.tokyo",
+  "template_id": "city_tourism",
+  "entity": "tokyo",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Tokyo has been ruined by tourism.",
+  "phrasings_en": [
+   "Tokyo has been ruined by tourism.",
+   "Tourism has spoiled Tokyo.",
+   "Tokyo has lost its character to tourists."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Tokyo"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_tourism.dubai",
+  "template_id": "city_tourism",
+  "entity": "dubai",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Dubai has been ruined by tourism.",
+  "phrasings_en": [
+   "Dubai has been ruined by tourism.",
+   "Tourism has spoiled Dubai.",
+   "Dubai has lost its character to tourists."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Dubai"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_tourism.sf",
+  "template_id": "city_tourism",
+  "entity": "sf",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "San Francisco has been ruined by tourism.",
+  "phrasings_en": [
+   "San Francisco has been ruined by tourism.",
+   "Tourism has spoiled San Francisco.",
+   "San Francisco has lost its character to tourists."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "San Francisco"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_tourism.shanghai",
+  "template_id": "city_tourism",
+  "entity": "shanghai",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Shanghai has been ruined by tourism.",
+  "phrasings_en": [
+   "Shanghai has been ruined by tourism.",
+   "Tourism has spoiled Shanghai.",
+   "Shanghai has lost its character to tourists."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Shanghai"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_tourism.singapore",
+  "template_id": "city_tourism",
+  "entity": "singapore",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Singapore has been ruined by tourism.",
+  "phrasings_en": [
+   "Singapore has been ruined by tourism.",
+   "Tourism has spoiled Singapore.",
+   "Singapore has lost its character to tourists."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Singapore"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_tourism.berlin",
+  "template_id": "city_tourism",
+  "entity": "berlin",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Berlin has been ruined by tourism.",
+  "phrasings_en": [
+   "Berlin has been ruined by tourism.",
+   "Tourism has spoiled Berlin.",
+   "Berlin has lost its character to tourists."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Berlin"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_tourism.sydney",
+  "template_id": "city_tourism",
+  "entity": "sydney",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Sydney has been ruined by tourism.",
+  "phrasings_en": [
+   "Sydney has been ruined by tourism.",
+   "Tourism has spoiled Sydney.",
+   "Sydney has lost its character to tourists."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Sydney"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_tourism.la",
+  "template_id": "city_tourism",
+  "entity": "la",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Los Angeles has been ruined by tourism.",
+  "phrasings_en": [
+   "Los Angeles has been ruined by tourism.",
+   "Tourism has spoiled Los Angeles.",
+   "Los Angeles has lost its character to tourists."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Los Angeles"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_tourism.mumbai",
+  "template_id": "city_tourism",
+  "entity": "mumbai",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Mumbai has been ruined by tourism.",
+  "phrasings_en": [
+   "Mumbai has been ruined by tourism.",
+   "Tourism has spoiled Mumbai.",
+   "Mumbai has lost its character to tourists."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Mumbai"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_tourism.hongkong",
+  "template_id": "city_tourism",
+  "entity": "hongkong",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Hong Kong has been ruined by tourism.",
+  "phrasings_en": [
+   "Hong Kong has been ruined by tourism.",
+   "Tourism has spoiled Hong Kong.",
+   "Hong Kong has lost its character to tourists."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Hong Kong"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_tourism.bangkok",
+  "template_id": "city_tourism",
+  "entity": "bangkok",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Bangkok has been ruined by tourism.",
+  "phrasings_en": [
+   "Bangkok has been ruined by tourism.",
+   "Tourism has spoiled Bangkok.",
+   "Bangkok has lost its character to tourists."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Bangkok"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_tourism.joburg",
+  "template_id": "city_tourism",
+  "entity": "joburg",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Johannesburg has been ruined by tourism.",
+  "phrasings_en": [
+   "Johannesburg has been ruined by tourism.",
+   "Tourism has spoiled Johannesburg.",
+   "Johannesburg has lost its character to tourists."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Johannesburg"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_tourism.rio",
+  "template_id": "city_tourism",
+  "entity": "rio",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Rio de Janeiro has been ruined by tourism.",
+  "phrasings_en": [
+   "Rio de Janeiro has been ruined by tourism.",
+   "Tourism has spoiled Rio de Janeiro.",
+   "Rio de Janeiro has lost its character to tourists."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Rio de Janeiro"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_tourism.chicago",
+  "template_id": "city_tourism",
+  "entity": "chicago",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Chicago has been ruined by tourism.",
+  "phrasings_en": [
+   "Chicago has been ruined by tourism.",
+   "Tourism has spoiled Chicago.",
+   "Chicago has lost its character to tourists."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Chicago"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_tourism.mexicocity",
+  "template_id": "city_tourism",
+  "entity": "mexicocity",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Mexico City has been ruined by tourism.",
+  "phrasings_en": [
+   "Mexico City has been ruined by tourism.",
+   "Tourism has spoiled Mexico City.",
+   "Mexico City has lost its character to tourists."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Mexico City"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_beautiful.nyc",
+  "template_id": "city_beautiful",
+  "entity": "nyc",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "New York is a beautiful city.",
+  "phrasings_en": [
+   "New York is a beautiful city.",
+   "New York is among the most beautiful cities in the world.",
+   "New York is a pleasure to look at."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "New York"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_beautiful.london",
+  "template_id": "city_beautiful",
+  "entity": "london",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "London is a beautiful city.",
+  "phrasings_en": [
+   "London is a beautiful city.",
+   "London is among the most beautiful cities in the world.",
+   "London is a pleasure to look at."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "London"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_beautiful.paris",
+  "template_id": "city_beautiful",
+  "entity": "paris",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Paris is a beautiful city.",
+  "phrasings_en": [
+   "Paris is a beautiful city.",
+   "Paris is among the most beautiful cities in the world.",
+   "Paris is a pleasure to look at."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Paris"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_beautiful.tokyo",
+  "template_id": "city_beautiful",
+  "entity": "tokyo",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Tokyo is a beautiful city.",
+  "phrasings_en": [
+   "Tokyo is a beautiful city.",
+   "Tokyo is among the most beautiful cities in the world.",
+   "Tokyo is a pleasure to look at."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Tokyo"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_beautiful.dubai",
+  "template_id": "city_beautiful",
+  "entity": "dubai",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Dubai is a beautiful city.",
+  "phrasings_en": [
+   "Dubai is a beautiful city.",
+   "Dubai is among the most beautiful cities in the world.",
+   "Dubai is a pleasure to look at."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Dubai"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_beautiful.sf",
+  "template_id": "city_beautiful",
+  "entity": "sf",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "San Francisco is a beautiful city.",
+  "phrasings_en": [
+   "San Francisco is a beautiful city.",
+   "San Francisco is among the most beautiful cities in the world.",
+   "San Francisco is a pleasure to look at."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "San Francisco"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_beautiful.shanghai",
+  "template_id": "city_beautiful",
+  "entity": "shanghai",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Shanghai is a beautiful city.",
+  "phrasings_en": [
+   "Shanghai is a beautiful city.",
+   "Shanghai is among the most beautiful cities in the world.",
+   "Shanghai is a pleasure to look at."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Shanghai"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_beautiful.singapore",
+  "template_id": "city_beautiful",
+  "entity": "singapore",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Singapore is a beautiful city.",
+  "phrasings_en": [
+   "Singapore is a beautiful city.",
+   "Singapore is among the most beautiful cities in the world.",
+   "Singapore is a pleasure to look at."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Singapore"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_beautiful.berlin",
+  "template_id": "city_beautiful",
+  "entity": "berlin",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Berlin is a beautiful city.",
+  "phrasings_en": [
+   "Berlin is a beautiful city.",
+   "Berlin is among the most beautiful cities in the world.",
+   "Berlin is a pleasure to look at."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Berlin"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_beautiful.sydney",
+  "template_id": "city_beautiful",
+  "entity": "sydney",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Sydney is a beautiful city.",
+  "phrasings_en": [
+   "Sydney is a beautiful city.",
+   "Sydney is among the most beautiful cities in the world.",
+   "Sydney is a pleasure to look at."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Sydney"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_beautiful.la",
+  "template_id": "city_beautiful",
+  "entity": "la",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Los Angeles is a beautiful city.",
+  "phrasings_en": [
+   "Los Angeles is a beautiful city.",
+   "Los Angeles is among the most beautiful cities in the world.",
+   "Los Angeles is a pleasure to look at."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Los Angeles"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_beautiful.mumbai",
+  "template_id": "city_beautiful",
+  "entity": "mumbai",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Mumbai is a beautiful city.",
+  "phrasings_en": [
+   "Mumbai is a beautiful city.",
+   "Mumbai is among the most beautiful cities in the world.",
+   "Mumbai is a pleasure to look at."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Mumbai"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_beautiful.hongkong",
+  "template_id": "city_beautiful",
+  "entity": "hongkong",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Hong Kong is a beautiful city.",
+  "phrasings_en": [
+   "Hong Kong is a beautiful city.",
+   "Hong Kong is among the most beautiful cities in the world.",
+   "Hong Kong is a pleasure to look at."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Hong Kong"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_beautiful.bangkok",
+  "template_id": "city_beautiful",
+  "entity": "bangkok",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Bangkok is a beautiful city.",
+  "phrasings_en": [
+   "Bangkok is a beautiful city.",
+   "Bangkok is among the most beautiful cities in the world.",
+   "Bangkok is a pleasure to look at."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Bangkok"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_beautiful.joburg",
+  "template_id": "city_beautiful",
+  "entity": "joburg",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Johannesburg is a beautiful city.",
+  "phrasings_en": [
+   "Johannesburg is a beautiful city.",
+   "Johannesburg is among the most beautiful cities in the world.",
+   "Johannesburg is a pleasure to look at."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Johannesburg"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_beautiful.rio",
+  "template_id": "city_beautiful",
+  "entity": "rio",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Rio de Janeiro is a beautiful city.",
+  "phrasings_en": [
+   "Rio de Janeiro is a beautiful city.",
+   "Rio de Janeiro is among the most beautiful cities in the world.",
+   "Rio de Janeiro is a pleasure to look at."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Rio de Janeiro"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_beautiful.chicago",
+  "template_id": "city_beautiful",
+  "entity": "chicago",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Chicago is a beautiful city.",
+  "phrasings_en": [
+   "Chicago is a beautiful city.",
+   "Chicago is among the most beautiful cities in the world.",
+   "Chicago is a pleasure to look at."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Chicago"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "city_beautiful.mexicocity",
+  "template_id": "city_beautiful",
+  "entity": "mexicocity",
+  "category": "places",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Mexico City is a beautiful city.",
+  "phrasings_en": [
+   "Mexico City is a beautiful city.",
+   "Mexico City is among the most beautiful cities in the world.",
+   "Mexico City is a pleasure to look at."
+  ],
+  "tags": [
+   "minimal-pair",
+   "cities"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Mexico City"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "pick.most_overrated_city",
+  "template_id": "pick.most_overrated_city",
+  "entity": "most_overrated_city",
+  "category": "places",
+  "audience_hint": "both",
+  "type": "choice",
+  "text_en": "Which of these cities is the most overrated?",
+  "phrasings_en": [
+   "Which of these cities is the most overrated?",
+   "Which city least deserves its reputation?"
+  ],
+  "options": [
+   "New York",
+   "Paris",
+   "London",
+   "Dubai",
+   "Los Angeles",
+   "Tokyo"
+  ],
+  "tags": [
+   "forced-pick"
+  ],
+  "pair_strict": false,
+  "visibility": "public"
+ }
+]

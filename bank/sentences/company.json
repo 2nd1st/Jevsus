@@ -1,0 +1,101 @@
+[
+ {
+  "id": "company_harm",
+  "category": "business",
+  "audience": "en",
+  "tags": ["minimal-pair", "companies"],
+  "policy": "entity",
+  "wordings": [
+   "{a} does more harm than good.",
+   "{a} is a net negative for society.",
+   "The world would be better off without {a}."
+  ],
+  "perspectives": [
+   {"id": "employee", "answer_as": "a proud employee of {a}"},
+   {"id": "critic", "answer_as": "a harsh critic of {a}"}
+  ]
+ },
+ {
+  "id": "company_monopoly",
+  "category": "business",
+  "audience": "en",
+  "tags": ["minimal-pair", "companies"],
+  "policy": "entity",
+  "wordings": ["{a} is a monopoly.", "{a} abuses its market power.", "{a} has too much power over its market."],
+  "perspectives": [
+   {"id": "employee", "answer_as": "a proud employee of {a}"},
+   {"id": "rival", "answer_as": "an executive at a competitor of {a}"}
+  ]
+ },
+ {
+  "id": "company_survive",
+  "category": "business",
+  "audience": "en",
+  "tags": ["minimal-pair", "companies", "forecast"],
+  "policy": "entity",
+  "wordings": [
+   "{a} will still be a major company in 2045.",
+   "In 2045, {a} will still be one of the most important companies in its industry.",
+   "{a} will survive as a major company for the next twenty years."
+  ],
+  "also": [
+   {"id": "x", "name": "X (formerly Twitter)"}
+  ]
+ },
+ {
+  "id": "company_data",
+  "category": "business",
+  "audience": "en",
+  "tags": ["minimal-pair", "companies"],
+  "policy": "entity",
+  "wordings": [
+   "{a} can be trusted with your personal data.",
+   "Your personal data is safe with {a}.",
+   "{a} handles its users' data responsibly."
+  ]
+ },
+ {
+  "id": "company_employer",
+  "category": "business",
+  "audience": "en",
+  "tags": ["minimal-pair", "companies"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is a good company to work for.",
+   "{a} treats its employees well.",
+   "Working at {a} is a good deal for the employee."
+  ]
+ },
+ {
+  "id": "company_innovative",
+  "category": "business",
+  "audience": "en",
+  "tags": ["minimal-pair", "companies"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is a genuinely innovative company.",
+   "{a} still produces real innovation.",
+   "{a} leads its industry in innovation."
+  ]
+ },
+ {
+  "id": "company_ethical",
+  "category": "business",
+  "audience": "en",
+  "tags": ["minimal-pair", "companies"],
+  "policy": "entity",
+  "wordings": ["{a} is an ethical company.", "{a} behaves ethically.", "{a} does business in an ethical way."]
+ },
+ {
+  "id": "company_value",
+  "category": "business",
+  "audience": "en",
+  "tags": ["minimal-pair", "companies"],
+  "policy": "entity",
+  "wordings": [
+   "{a}'s products are worth the money.",
+   "{a} gives its customers fair value.",
+   "Buying from {a} is money well spent."
+  ]
+ }
+]

@@ -1,0 +1,962 @@
+[
+ {
+  "id": "food_healthy.sushi",
+  "template_id": "food_healthy",
+  "entity": "sushi",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Sushi is good for you.",
+  "phrasings_en": [
+   "Sushi is good for you.",
+   "Sushi is a healthy thing to eat or drink.",
+   "Regularly having Sushi is good for your health."
+  ],
+  "tags": [
+   "minimal-pair",
+   "food"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Sushi"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "food_healthy.pizza",
+  "template_id": "food_healthy",
+  "entity": "pizza",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Pizza is good for you.",
+  "phrasings_en": [
+   "Pizza is good for you.",
+   "Pizza is a healthy thing to eat or drink.",
+   "Regularly having Pizza is good for your health."
+  ],
+  "tags": [
+   "minimal-pair",
+   "food"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Pizza"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "food_healthy.durian",
+  "template_id": "food_healthy",
+  "entity": "durian",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Durian is good for you.",
+  "phrasings_en": [
+   "Durian is good for you.",
+   "Durian is a healthy thing to eat or drink.",
+   "Regularly having Durian is good for your health."
+  ],
+  "tags": [
+   "minimal-pair",
+   "food"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Durian"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "food_healthy.pineapplepizza",
+  "template_id": "food_healthy",
+  "entity": "pineapplepizza",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Pineapple pizza is good for you.",
+  "phrasings_en": [
+   "Pineapple pizza is good for you.",
+   "Pineapple pizza is a healthy thing to eat or drink.",
+   "Regularly having Pineapple pizza is good for your health."
+  ],
+  "tags": [
+   "minimal-pair",
+   "food"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Pineapple pizza"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "food_healthy.avocadotoast",
+  "template_id": "food_healthy",
+  "entity": "avocadotoast",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Avocado toast is good for you.",
+  "phrasings_en": [
+   "Avocado toast is good for you.",
+   "Avocado toast is a healthy thing to eat or drink.",
+   "Regularly having Avocado toast is good for your health."
+  ],
+  "tags": [
+   "minimal-pair",
+   "food"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Avocado toast"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "food_healthy.coffee",
+  "template_id": "food_healthy",
+  "entity": "coffee",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Coffee is good for you.",
+  "phrasings_en": [
+   "Coffee is good for you.",
+   "Coffee is a healthy thing to eat or drink.",
+   "Regularly having Coffee is good for your health."
+  ],
+  "tags": [
+   "minimal-pair",
+   "food"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Coffee"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "food_healthy.bubbletea",
+  "template_id": "food_healthy",
+  "entity": "bubbletea",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Bubble tea is good for you.",
+  "phrasings_en": [
+   "Bubble tea is good for you.",
+   "Bubble tea is a healthy thing to eat or drink.",
+   "Regularly having Bubble tea is good for your health."
+  ],
+  "tags": [
+   "minimal-pair",
+   "food"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Bubble tea"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "food_healthy.kale",
+  "template_id": "food_healthy",
+  "entity": "kale",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Kale is good for you.",
+  "phrasings_en": [
+   "Kale is good for you.",
+   "Kale is a healthy thing to eat or drink.",
+   "Regularly having Kale is good for your health."
+  ],
+  "tags": [
+   "minimal-pair",
+   "food"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Kale"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "food_healthy.tofu",
+  "template_id": "food_healthy",
+  "entity": "tofu",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Tofu is good for you.",
+  "phrasings_en": [
+   "Tofu is good for you.",
+   "Tofu is a healthy thing to eat or drink.",
+   "Regularly having Tofu is good for your health."
+  ],
+  "tags": [
+   "minimal-pair",
+   "food"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Tofu"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "food_healthy.haggis",
+  "template_id": "food_healthy",
+  "entity": "haggis",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Haggis is good for you.",
+  "phrasings_en": [
+   "Haggis is good for you.",
+   "Haggis is a healthy thing to eat or drink.",
+   "Regularly having Haggis is good for your health."
+  ],
+  "tags": [
+   "minimal-pair",
+   "food"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Haggis"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "food_healthy.vegemite",
+  "template_id": "food_healthy",
+  "entity": "vegemite",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Vegemite is good for you.",
+  "phrasings_en": [
+   "Vegemite is good for you.",
+   "Vegemite is a healthy thing to eat or drink.",
+   "Regularly having Vegemite is good for your health."
+  ],
+  "tags": [
+   "minimal-pair",
+   "food"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Vegemite"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "food_healthy.natto",
+  "template_id": "food_healthy",
+  "entity": "natto",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Natto is good for you.",
+  "phrasings_en": [
+   "Natto is good for you.",
+   "Natto is a healthy thing to eat or drink.",
+   "Regularly having Natto is good for your health."
+  ],
+  "tags": [
+   "minimal-pair",
+   "food"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Natto"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "food_healthy.cilantro",
+  "template_id": "food_healthy",
+  "entity": "cilantro",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Cilantro is good for you.",
+  "phrasings_en": [
+   "Cilantro is good for you.",
+   "Cilantro is a healthy thing to eat or drink.",
+   "Regularly having Cilantro is good for your health."
+  ],
+  "tags": [
+   "minimal-pair",
+   "food"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Cilantro"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "food_healthy.oatmilk",
+  "template_id": "food_healthy",
+  "entity": "oatmilk",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Oat milk is good for you.",
+  "phrasings_en": [
+   "Oat milk is good for you.",
+   "Oat milk is a healthy thing to eat or drink.",
+   "Regularly having Oat milk is good for your health."
+  ],
+  "tags": [
+   "minimal-pair",
+   "food"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Oat milk"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "food_healthy.energydrinks",
+  "template_id": "food_healthy",
+  "entity": "energydrinks",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Energy drinks is good for you.",
+  "phrasings_en": [
+   "Energy drinks is good for you.",
+   "Energy drinks is a healthy thing to eat or drink.",
+   "Regularly having Energy drinks is good for your health."
+  ],
+  "tags": [
+   "minimal-pair",
+   "food"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Energy drinks"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "food_healthy.bluecheese",
+  "template_id": "food_healthy",
+  "entity": "bluecheese",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Blue cheese is good for you.",
+  "phrasings_en": [
+   "Blue cheese is good for you.",
+   "Blue cheese is a healthy thing to eat or drink.",
+   "Regularly having Blue cheese is good for your health."
+  ],
+  "tags": [
+   "minimal-pair",
+   "food"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Blue cheese"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "cuisine_healthy.french",
+  "template_id": "cuisine_healthy",
+  "entity": "french",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "French food is healthy.",
+  "phrasings_en": [
+   "French food is healthy.",
+   "French food is good for you.",
+   "Eating French food regularly is good for your health."
+  ],
+  "tags": [
+   "minimal-pair",
+   "food"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "French food"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "cuisine_healthy.italian",
+  "template_id": "cuisine_healthy",
+  "entity": "italian",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Italian food is healthy.",
+  "phrasings_en": [
+   "Italian food is healthy.",
+   "Italian food is good for you.",
+   "Eating Italian food regularly is good for your health."
+  ],
+  "tags": [
+   "minimal-pair",
+   "food"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Italian food"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "cuisine_healthy.chinese",
+  "template_id": "cuisine_healthy",
+  "entity": "chinese",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Chinese food is healthy.",
+  "phrasings_en": [
+   "Chinese food is healthy.",
+   "Chinese food is good for you.",
+   "Eating Chinese food regularly is good for your health."
+  ],
+  "tags": [
+   "minimal-pair",
+   "food"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Chinese food"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "cuisine_healthy.japanese",
+  "template_id": "cuisine_healthy",
+  "entity": "japanese",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Japanese food is healthy.",
+  "phrasings_en": [
+   "Japanese food is healthy.",
+   "Japanese food is good for you.",
+   "Eating Japanese food regularly is good for your health."
+  ],
+  "tags": [
+   "minimal-pair",
+   "food"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Japanese food"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "cuisine_healthy.indian",
+  "template_id": "cuisine_healthy",
+  "entity": "indian",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Indian food is healthy.",
+  "phrasings_en": [
+   "Indian food is healthy.",
+   "Indian food is good for you.",
+   "Eating Indian food regularly is good for your health."
+  ],
+  "tags": [
+   "minimal-pair",
+   "food"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Indian food"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "cuisine_healthy.british",
+  "template_id": "cuisine_healthy",
+  "entity": "british",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "British food is healthy.",
+  "phrasings_en": [
+   "British food is healthy.",
+   "British food is good for you.",
+   "Eating British food regularly is good for your health."
+  ],
+  "tags": [
+   "minimal-pair",
+   "food"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "British food"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "cuisine_healthy.american",
+  "template_id": "cuisine_healthy",
+  "entity": "american",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "American food is healthy.",
+  "phrasings_en": [
+   "American food is healthy.",
+   "American food is good for you.",
+   "Eating American food regularly is good for your health."
+  ],
+  "tags": [
+   "minimal-pair",
+   "food"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "American food"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "cuisine_healthy.mexican",
+  "template_id": "cuisine_healthy",
+  "entity": "mexican",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Mexican food is healthy.",
+  "phrasings_en": [
+   "Mexican food is healthy.",
+   "Mexican food is good for you.",
+   "Eating Mexican food regularly is good for your health."
+  ],
+  "tags": [
+   "minimal-pair",
+   "food"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Mexican food"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "cuisine_healthy.korean",
+  "template_id": "cuisine_healthy",
+  "entity": "korean",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Korean food is healthy.",
+  "phrasings_en": [
+   "Korean food is healthy.",
+   "Korean food is good for you.",
+   "Eating Korean food regularly is good for your health."
+  ],
+  "tags": [
+   "minimal-pair",
+   "food"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Korean food"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "cuisine_healthy.thai",
+  "template_id": "cuisine_healthy",
+  "entity": "thai",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Thai food is healthy.",
+  "phrasings_en": [
+   "Thai food is healthy.",
+   "Thai food is good for you.",
+   "Eating Thai food regularly is good for your health."
+  ],
+  "tags": [
+   "minimal-pair",
+   "food"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Thai food"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "bad_for_health.sugar",
+  "template_id": "bad_for_health",
+  "entity": "sugar",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Eating sugar is bad for your health.",
+  "phrasings_en": [
+   "Eating sugar is bad for your health.",
+   "Eating sugar damages your health.",
+   "Eating sugar makes you less healthy."
+  ],
+  "tags": [
+   "minimal-pair",
+   "health"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "eating sugar"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "bad_for_health.coffee",
+  "template_id": "bad_for_health",
+  "entity": "coffee",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Drinking coffee is bad for your health.",
+  "phrasings_en": [
+   "Drinking coffee is bad for your health.",
+   "Drinking coffee damages your health.",
+   "Drinking coffee makes you less healthy."
+  ],
+  "tags": [
+   "minimal-pair",
+   "health"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "drinking coffee"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "bad_for_health.alcohol",
+  "template_id": "bad_for_health",
+  "entity": "alcohol",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Drinking alcohol in moderation is bad for your health.",
+  "phrasings_en": [
+   "Drinking alcohol in moderation is bad for your health.",
+   "Drinking alcohol in moderation damages your health.",
+   "Drinking alcohol in moderation makes you less healthy."
+  ],
+  "tags": [
+   "minimal-pair",
+   "health"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "drinking alcohol in moderation"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "bad_for_health.redmeat",
+  "template_id": "bad_for_health",
+  "entity": "redmeat",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Eating red meat is bad for your health.",
+  "phrasings_en": [
+   "Eating red meat is bad for your health.",
+   "Eating red meat damages your health.",
+   "Eating red meat makes you less healthy."
+  ],
+  "tags": [
+   "minimal-pair",
+   "health"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "eating red meat"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "bad_for_health.gluten",
+  "template_id": "bad_for_health",
+  "entity": "gluten",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Eating gluten is bad for your health.",
+  "phrasings_en": [
+   "Eating gluten is bad for your health.",
+   "Eating gluten damages your health.",
+   "Eating gluten makes you less healthy."
+  ],
+  "tags": [
+   "minimal-pair",
+   "health"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "eating gluten"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "bad_for_health.dairy",
+  "template_id": "bad_for_health",
+  "entity": "dairy",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Consuming dairy is bad for your health.",
+  "phrasings_en": [
+   "Consuming dairy is bad for your health.",
+   "Consuming dairy damages your health.",
+   "Consuming dairy makes you less healthy."
+  ],
+  "tags": [
+   "minimal-pair",
+   "health"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "consuming dairy"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "bad_for_health.sweeteners",
+  "template_id": "bad_for_health",
+  "entity": "sweeteners",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Using artificial sweeteners is bad for your health.",
+  "phrasings_en": [
+   "Using artificial sweeteners is bad for your health.",
+   "Using artificial sweeteners damages your health.",
+   "Using artificial sweeteners makes you less healthy."
+  ],
+  "tags": [
+   "minimal-pair",
+   "health"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "using artificial sweeteners"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "bad_for_health.vaping",
+  "template_id": "bad_for_health",
+  "entity": "vaping",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Vaping is bad for your health.",
+  "phrasings_en": [
+   "Vaping is bad for your health.",
+   "Vaping damages your health.",
+   "Vaping makes you less healthy."
+  ],
+  "tags": [
+   "minimal-pair",
+   "health"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "vaping"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "bad_for_health.cannabis",
+  "template_id": "bad_for_health",
+  "entity": "cannabis",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Using cannabis is bad for your health.",
+  "phrasings_en": [
+   "Using cannabis is bad for your health.",
+   "Using cannabis damages your health.",
+   "Using cannabis makes you less healthy."
+  ],
+  "tags": [
+   "minimal-pair",
+   "health"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "using cannabis"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "bad_for_health.upf",
+  "template_id": "bad_for_health",
+  "entity": "upf",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Eating ultra-processed food is bad for your health.",
+  "phrasings_en": [
+   "Eating ultra-processed food is bad for your health.",
+   "Eating ultra-processed food damages your health.",
+   "Eating ultra-processed food makes you less healthy."
+  ],
+  "tags": [
+   "minimal-pair",
+   "health"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "eating ultra-processed food"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "bad_for_health.fluoride",
+  "template_id": "bad_for_health",
+  "entity": "fluoride",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Drinking fluoridated tap water is bad for your health.",
+  "phrasings_en": [
+   "Drinking fluoridated tap water is bad for your health.",
+   "Drinking fluoridated tap water damages your health.",
+   "Drinking fluoridated tap water makes you less healthy."
+  ],
+  "tags": [
+   "minimal-pair",
+   "health"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "drinking fluoridated tap water"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "bad_for_health.microwave",
+  "template_id": "bad_for_health",
+  "entity": "microwave",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Eating microwaved food is bad for your health.",
+  "phrasings_en": [
+   "Eating microwaved food is bad for your health.",
+   "Eating microwaved food damages your health.",
+   "Eating microwaved food makes you less healthy."
+  ],
+  "tags": [
+   "minimal-pair",
+   "health"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "eating microwaved food"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "bad_for_health.eggs",
+  "template_id": "bad_for_health",
+  "entity": "eggs",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Eating eggs is bad for your health.",
+  "phrasings_en": [
+   "Eating eggs is bad for your health.",
+   "Eating eggs damages your health.",
+   "Eating eggs makes you less healthy."
+  ],
+  "tags": [
+   "minimal-pair",
+   "health"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "eating eggs"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "bad_for_health.veganfood",
+  "template_id": "bad_for_health",
+  "entity": "veganfood",
+  "category": "health",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Following a fully vegan diet is bad for your health.",
+  "phrasings_en": [
+   "Following a fully vegan diet is bad for your health.",
+   "Following a fully vegan diet damages your health.",
+   "Following a fully vegan diet makes you less healthy."
+  ],
+  "tags": [
+   "minimal-pair",
+   "health"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "following a fully vegan diet"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ }
+]

@@ -1,0 +1,3129 @@
+[
+ {
+  "id": "country_rising.israel",
+  "template_id": "country_rising",
+  "entity": "israel",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Israel will be more powerful in 2050 than it is today.",
+  "phrasings_en": [
+   "Israel will be more powerful in 2050 than it is today.",
+   "Israel is a rising power.",
+   "Israel's influence in the world is growing."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Israel"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_rising.ukraine",
+  "template_id": "country_rising",
+  "entity": "ukraine",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Ukraine will be more powerful in 2050 than it is today.",
+  "phrasings_en": [
+   "Ukraine will be more powerful in 2050 than it is today.",
+   "Ukraine is a rising power.",
+   "Ukraine's influence in the world is growing."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Ukraine"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_rising.usa",
+  "template_id": "country_rising",
+  "entity": "usa",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The United States will be more powerful in 2050 than it is today.",
+  "phrasings_en": [
+   "The United States will be more powerful in 2050 than it is today.",
+   "The United States is a rising power.",
+   "The United States's influence in the world is growing."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the United States"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_rising.china",
+  "template_id": "country_rising",
+  "entity": "china",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "China will be more powerful in 2050 than it is today.",
+  "phrasings_en": [
+   "China will be more powerful in 2050 than it is today.",
+   "China is a rising power.",
+   "China's influence in the world is growing."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "China"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_rising.russia",
+  "template_id": "country_rising",
+  "entity": "russia",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Russia will be more powerful in 2050 than it is today.",
+  "phrasings_en": [
+   "Russia will be more powerful in 2050 than it is today.",
+   "Russia is a rising power.",
+   "Russia's influence in the world is growing."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Russia"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_rising.india",
+  "template_id": "country_rising",
+  "entity": "india",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "India will be more powerful in 2050 than it is today.",
+  "phrasings_en": [
+   "India will be more powerful in 2050 than it is today.",
+   "India is a rising power.",
+   "India's influence in the world is growing."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "India"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_rising.japan",
+  "template_id": "country_rising",
+  "entity": "japan",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Japan will be more powerful in 2050 than it is today.",
+  "phrasings_en": [
+   "Japan will be more powerful in 2050 than it is today.",
+   "Japan is a rising power.",
+   "Japan's influence in the world is growing."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Japan"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_rising.france",
+  "template_id": "country_rising",
+  "entity": "france",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "France will be more powerful in 2050 than it is today.",
+  "phrasings_en": [
+   "France will be more powerful in 2050 than it is today.",
+   "France is a rising power.",
+   "France's influence in the world is growing."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "France"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_rising.saudi",
+  "template_id": "country_rising",
+  "entity": "saudi",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Saudi Arabia will be more powerful in 2050 than it is today.",
+  "phrasings_en": [
+   "Saudi Arabia will be more powerful in 2050 than it is today.",
+   "Saudi Arabia is a rising power.",
+   "Saudi Arabia's influence in the world is growing."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Saudi Arabia"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_rising.singapore",
+  "template_id": "country_rising",
+  "entity": "singapore",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Singapore will be more powerful in 2050 than it is today.",
+  "phrasings_en": [
+   "Singapore will be more powerful in 2050 than it is today.",
+   "Singapore is a rising power.",
+   "Singapore's influence in the world is growing."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Singapore"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_rising.turkey",
+  "template_id": "country_rising",
+  "entity": "turkey",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Turkey will be more powerful in 2050 than it is today.",
+  "phrasings_en": [
+   "Turkey will be more powerful in 2050 than it is today.",
+   "Turkey is a rising power.",
+   "Turkey's influence in the world is growing."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Turkey"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_rising.safrica",
+  "template_id": "country_rising",
+  "entity": "safrica",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "South Africa will be more powerful in 2050 than it is today.",
+  "phrasings_en": [
+   "South Africa will be more powerful in 2050 than it is today.",
+   "South Africa is a rising power.",
+   "South Africa's influence in the world is growing."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "South Africa"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_rising.hungary",
+  "template_id": "country_rising",
+  "entity": "hungary",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Hungary will be more powerful in 2050 than it is today.",
+  "phrasings_en": [
+   "Hungary will be more powerful in 2050 than it is today.",
+   "Hungary is a rising power.",
+   "Hungary's influence in the world is growing."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Hungary"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_rising.germany",
+  "template_id": "country_rising",
+  "entity": "germany",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Germany will be more powerful in 2050 than it is today.",
+  "phrasings_en": [
+   "Germany will be more powerful in 2050 than it is today.",
+   "Germany is a rising power.",
+   "Germany's influence in the world is growing."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Germany"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_rising.brazil",
+  "template_id": "country_rising",
+  "entity": "brazil",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Brazil will be more powerful in 2050 than it is today.",
+  "phrasings_en": [
+   "Brazil will be more powerful in 2050 than it is today.",
+   "Brazil is a rising power.",
+   "Brazil's influence in the world is growing."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Brazil"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_rising.uk",
+  "template_id": "country_rising",
+  "entity": "uk",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The United Kingdom will be more powerful in 2050 than it is today.",
+  "phrasings_en": [
+   "The United Kingdom will be more powerful in 2050 than it is today.",
+   "The United Kingdom is a rising power.",
+   "The United Kingdom's influence in the world is growing."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the United Kingdom"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_rising.italy",
+  "template_id": "country_rising",
+  "entity": "italy",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Italy will be more powerful in 2050 than it is today.",
+  "phrasings_en": [
+   "Italy will be more powerful in 2050 than it is today.",
+   "Italy is a rising power.",
+   "Italy's influence in the world is growing."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Italy"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_rising.thailand",
+  "template_id": "country_rising",
+  "entity": "thailand",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Thailand will be more powerful in 2050 than it is today.",
+  "phrasings_en": [
+   "Thailand will be more powerful in 2050 than it is today.",
+   "Thailand is a rising power.",
+   "Thailand's influence in the world is growing."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Thailand"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_rising.korea",
+  "template_id": "country_rising",
+  "entity": "korea",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "South Korea will be more powerful in 2050 than it is today.",
+  "phrasings_en": [
+   "South Korea will be more powerful in 2050 than it is today.",
+   "South Korea is a rising power.",
+   "South Korea's influence in the world is growing."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "South Korea"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_rising.mexico",
+  "template_id": "country_rising",
+  "entity": "mexico",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Mexico will be more powerful in 2050 than it is today.",
+  "phrasings_en": [
+   "Mexico will be more powerful in 2050 than it is today.",
+   "Mexico is a rising power.",
+   "Mexico's influence in the world is growing."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Mexico"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_rising.iran",
+  "template_id": "country_rising",
+  "entity": "iran",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Iran will be more powerful in 2050 than it is today.",
+  "phrasings_en": [
+   "Iran will be more powerful in 2050 than it is today.",
+   "Iran is a rising power.",
+   "Iran's influence in the world is growing."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Iran"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_rising.northkorea",
+  "template_id": "country_rising",
+  "entity": "northkorea",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "North Korea will be more powerful in 2050 than it is today.",
+  "phrasings_en": [
+   "North Korea will be more powerful in 2050 than it is today.",
+   "North Korea is a rising power.",
+   "North Korea's influence in the world is growing."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "North Korea"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_rising.australia",
+  "template_id": "country_rising",
+  "entity": "australia",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Australia will be more powerful in 2050 than it is today.",
+  "phrasings_en": [
+   "Australia will be more powerful in 2050 than it is today.",
+   "Australia is a rising power.",
+   "Australia's influence in the world is growing."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Australia"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_rising.canada",
+  "template_id": "country_rising",
+  "entity": "canada",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Canada will be more powerful in 2050 than it is today.",
+  "phrasings_en": [
+   "Canada will be more powerful in 2050 than it is today.",
+   "Canada is a rising power.",
+   "Canada's influence in the world is growing."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Canada"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_rising.sweden",
+  "template_id": "country_rising",
+  "entity": "sweden",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Sweden will be more powerful in 2050 than it is today.",
+  "phrasings_en": [
+   "Sweden will be more powerful in 2050 than it is today.",
+   "Sweden is a rising power.",
+   "Sweden's influence in the world is growing."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Sweden"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_rising.switzerland",
+  "template_id": "country_rising",
+  "entity": "switzerland",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Switzerland will be more powerful in 2050 than it is today.",
+  "phrasings_en": [
+   "Switzerland will be more powerful in 2050 than it is today.",
+   "Switzerland is a rising power.",
+   "Switzerland's influence in the world is growing."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Switzerland"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "country_rising.uae",
+  "template_id": "country_rising",
+  "entity": "uae",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The United Arab Emirates will be more powerful in 2050 than it is today.",
+  "phrasings_en": [
+   "The United Arab Emirates will be more powerful in 2050 than it is today.",
+   "The United Arab Emirates is a rising power.",
+   "The United Arab Emirates's influence in the world is growing."
+  ],
+  "tags": [
+   "minimal-pair",
+   "countries",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the United Arab Emirates"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "language_future.french",
+  "template_id": "language_future",
+  "entity": "french",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "French will still be widely spoken in 200 years.",
+  "phrasings_en": [
+   "French will still be widely spoken in 200 years.",
+   "Two centuries from now French will still be a living, widely used language.",
+   "French will survive the next 200 years as a major language."
+  ],
+  "tags": [
+   "minimal-pair",
+   "language",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "French"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "language_future.german",
+  "template_id": "language_future",
+  "entity": "german",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "German will still be widely spoken in 200 years.",
+  "phrasings_en": [
+   "German will still be widely spoken in 200 years.",
+   "Two centuries from now German will still be a living, widely used language.",
+   "German will survive the next 200 years as a major language."
+  ],
+  "tags": [
+   "minimal-pair",
+   "language",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "German"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "language_future.mandarin",
+  "template_id": "language_future",
+  "entity": "mandarin",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Mandarin Chinese will still be widely spoken in 200 years.",
+  "phrasings_en": [
+   "Mandarin Chinese will still be widely spoken in 200 years.",
+   "Two centuries from now Mandarin Chinese will still be a living, widely used language.",
+   "Mandarin Chinese will survive the next 200 years as a major language."
+  ],
+  "tags": [
+   "minimal-pair",
+   "language",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Mandarin Chinese"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "language_future.arabic",
+  "template_id": "language_future",
+  "entity": "arabic",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Arabic will still be widely spoken in 200 years.",
+  "phrasings_en": [
+   "Arabic will still be widely spoken in 200 years.",
+   "Two centuries from now Arabic will still be a living, widely used language.",
+   "Arabic will survive the next 200 years as a major language."
+  ],
+  "tags": [
+   "minimal-pair",
+   "language",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Arabic"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "language_future.english",
+  "template_id": "language_future",
+  "entity": "english",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "English will still be widely spoken in 200 years.",
+  "phrasings_en": [
+   "English will still be widely spoken in 200 years.",
+   "Two centuries from now English will still be a living, widely used language.",
+   "English will survive the next 200 years as a major language."
+  ],
+  "tags": [
+   "minimal-pair",
+   "language",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "English"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "language_future.italian",
+  "template_id": "language_future",
+  "entity": "italian",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Italian will still be widely spoken in 200 years.",
+  "phrasings_en": [
+   "Italian will still be widely spoken in 200 years.",
+   "Two centuries from now Italian will still be a living, widely used language.",
+   "Italian will survive the next 200 years as a major language."
+  ],
+  "tags": [
+   "minimal-pair",
+   "language",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Italian"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "language_future.japanese",
+  "template_id": "language_future",
+  "entity": "japanese",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Japanese will still be widely spoken in 200 years.",
+  "phrasings_en": [
+   "Japanese will still be widely spoken in 200 years.",
+   "Two centuries from now Japanese will still be a living, widely used language.",
+   "Japanese will survive the next 200 years as a major language."
+  ],
+  "tags": [
+   "minimal-pair",
+   "language",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Japanese"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "language_future.russian",
+  "template_id": "language_future",
+  "entity": "russian",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Russian will still be widely spoken in 200 years.",
+  "phrasings_en": [
+   "Russian will still be widely spoken in 200 years.",
+   "Two centuries from now Russian will still be a living, widely used language.",
+   "Russian will survive the next 200 years as a major language."
+  ],
+  "tags": [
+   "minimal-pair",
+   "language",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Russian"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "language_future.korean",
+  "template_id": "language_future",
+  "entity": "korean",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Korean will still be widely spoken in 200 years.",
+  "phrasings_en": [
+   "Korean will still be widely spoken in 200 years.",
+   "Two centuries from now Korean will still be a living, widely used language.",
+   "Korean will survive the next 200 years as a major language."
+  ],
+  "tags": [
+   "minimal-pair",
+   "language",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Korean"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "language_future.hindi",
+  "template_id": "language_future",
+  "entity": "hindi",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Hindi will still be widely spoken in 200 years.",
+  "phrasings_en": [
+   "Hindi will still be widely spoken in 200 years.",
+   "Two centuries from now Hindi will still be a living, widely used language.",
+   "Hindi will survive the next 200 years as a major language."
+  ],
+  "tags": [
+   "minimal-pair",
+   "language",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Hindi"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "language_future.dutch",
+  "template_id": "language_future",
+  "entity": "dutch",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Dutch will still be widely spoken in 200 years.",
+  "phrasings_en": [
+   "Dutch will still be widely spoken in 200 years.",
+   "Two centuries from now Dutch will still be a living, widely used language.",
+   "Dutch will survive the next 200 years as a major language."
+  ],
+  "tags": [
+   "minimal-pair",
+   "language",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Dutch"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "language_future.cantonese",
+  "template_id": "language_future",
+  "entity": "cantonese",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Cantonese will still be widely spoken in 200 years.",
+  "phrasings_en": [
+   "Cantonese will still be widely spoken in 200 years.",
+   "Two centuries from now Cantonese will still be a living, widely used language.",
+   "Cantonese will survive the next 200 years as a major language."
+  ],
+  "tags": [
+   "minimal-pair",
+   "language",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Cantonese"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "tech_jobs.socialmedia",
+  "template_id": "tech_jobs",
+  "entity": "socialmedia",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Social media destroys more jobs than it creates.",
+  "phrasings_en": [
+   "Social media destroys more jobs than it creates.",
+   "Social media is a net destroyer of jobs.",
+   "On balance Social media puts people out of work."
+  ],
+  "tags": [
+   "minimal-pair",
+   "tech"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Social media"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "tech_jobs.smartphones",
+  "template_id": "tech_jobs",
+  "entity": "smartphones",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The smartphone destroys more jobs than it creates.",
+  "phrasings_en": [
+   "The smartphone destroys more jobs than it creates.",
+   "The smartphone is a net destroyer of jobs.",
+   "On balance The smartphone puts people out of work."
+  ],
+  "tags": [
+   "minimal-pair",
+   "tech"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "The smartphone"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "tech_jobs.videogames",
+  "template_id": "tech_jobs",
+  "entity": "videogames",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Gaming destroys more jobs than it creates.",
+  "phrasings_en": [
+   "Gaming destroys more jobs than it creates.",
+   "Gaming is a net destroyer of jobs.",
+   "On balance Gaming puts people out of work."
+  ],
+  "tags": [
+   "minimal-pair",
+   "tech"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Gaming"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "tech_jobs.porn",
+  "template_id": "tech_jobs",
+  "entity": "porn",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Online pornography destroys more jobs than it creates.",
+  "phrasings_en": [
+   "Online pornography destroys more jobs than it creates.",
+   "Online pornography is a net destroyer of jobs.",
+   "On balance Online pornography puts people out of work."
+  ],
+  "tags": [
+   "minimal-pair",
+   "tech"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Online pornography"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "tech_jobs.datingapps",
+  "template_id": "tech_jobs",
+  "entity": "datingapps",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Online dating destroys more jobs than it creates.",
+  "phrasings_en": [
+   "Online dating destroys more jobs than it creates.",
+   "Online dating is a net destroyer of jobs.",
+   "On balance Online dating puts people out of work."
+  ],
+  "tags": [
+   "minimal-pair",
+   "tech"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Online dating"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "tech_jobs.genai",
+  "template_id": "tech_jobs",
+  "entity": "genai",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Generative AI destroys more jobs than it creates.",
+  "phrasings_en": [
+   "Generative AI destroys more jobs than it creates.",
+   "Generative AI is a net destroyer of jobs.",
+   "On balance Generative AI puts people out of work."
+  ],
+  "tags": [
+   "minimal-pair",
+   "tech"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Generative AI"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "tech_jobs.crypto",
+  "template_id": "tech_jobs",
+  "entity": "crypto",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Cryptocurrency destroys more jobs than it creates.",
+  "phrasings_en": [
+   "Cryptocurrency destroys more jobs than it creates.",
+   "Cryptocurrency is a net destroyer of jobs.",
+   "On balance Cryptocurrency puts people out of work."
+  ],
+  "tags": [
+   "minimal-pair",
+   "tech"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Cryptocurrency"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "tech_jobs.tv",
+  "template_id": "tech_jobs",
+  "entity": "tv",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Television destroys more jobs than it creates.",
+  "phrasings_en": [
+   "Television destroys more jobs than it creates.",
+   "Television is a net destroyer of jobs.",
+   "On balance Television puts people out of work."
+  ],
+  "tags": [
+   "minimal-pair",
+   "tech"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Television"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "tech_jobs.cars",
+  "template_id": "tech_jobs",
+  "entity": "cars",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The car destroys more jobs than it creates.",
+  "phrasings_en": [
+   "The car destroys more jobs than it creates.",
+   "The car is a net destroyer of jobs.",
+   "On balance The car puts people out of work."
+  ],
+  "tags": [
+   "minimal-pair",
+   "tech"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "The car"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "tech_jobs.internet",
+  "template_id": "tech_jobs",
+  "entity": "internet",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The internet destroys more jobs than it creates.",
+  "phrasings_en": [
+   "The internet destroys more jobs than it creates.",
+   "The internet is a net destroyer of jobs.",
+   "On balance The internet puts people out of work."
+  ],
+  "tags": [
+   "minimal-pair",
+   "tech"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "The internet"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "tech_jobs.shortvideo",
+  "template_id": "tech_jobs",
+  "entity": "shortvideo",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Short-form video destroys more jobs than it creates.",
+  "phrasings_en": [
+   "Short-form video destroys more jobs than it creates.",
+   "Short-form video is a net destroyer of jobs.",
+   "On balance Short-form video puts people out of work."
+  ],
+  "tags": [
+   "minimal-pair",
+   "tech"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Short-form video"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "tech_jobs.fastfashion",
+  "template_id": "tech_jobs",
+  "entity": "fastfashion",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Fast fashion destroys more jobs than it creates.",
+  "phrasings_en": [
+   "Fast fashion destroys more jobs than it creates.",
+   "Fast fashion is a net destroyer of jobs.",
+   "On balance Fast fashion puts people out of work."
+  ],
+  "tags": [
+   "minimal-pair",
+   "tech"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Fast fashion"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "tech_lasting.socialmedia",
+  "template_id": "tech_lasting",
+  "entity": "socialmedia",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Social media will still matter in 50 years.",
+  "phrasings_en": [
+   "Social media will still matter in 50 years.",
+   "Half a century from now Social media will still be important.",
+   "Social media is here to stay for the next 50 years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "tech",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Social media"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "tech_lasting.smartphones",
+  "template_id": "tech_lasting",
+  "entity": "smartphones",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The smartphone will still matter in 50 years.",
+  "phrasings_en": [
+   "The smartphone will still matter in 50 years.",
+   "Half a century from now The smartphone will still be important.",
+   "The smartphone is here to stay for the next 50 years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "tech",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "The smartphone"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "tech_lasting.videogames",
+  "template_id": "tech_lasting",
+  "entity": "videogames",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Gaming will still matter in 50 years.",
+  "phrasings_en": [
+   "Gaming will still matter in 50 years.",
+   "Half a century from now Gaming will still be important.",
+   "Gaming is here to stay for the next 50 years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "tech",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Gaming"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "tech_lasting.porn",
+  "template_id": "tech_lasting",
+  "entity": "porn",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Online pornography will still matter in 50 years.",
+  "phrasings_en": [
+   "Online pornography will still matter in 50 years.",
+   "Half a century from now Online pornography will still be important.",
+   "Online pornography is here to stay for the next 50 years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "tech",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Online pornography"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "tech_lasting.datingapps",
+  "template_id": "tech_lasting",
+  "entity": "datingapps",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Online dating will still matter in 50 years.",
+  "phrasings_en": [
+   "Online dating will still matter in 50 years.",
+   "Half a century from now Online dating will still be important.",
+   "Online dating is here to stay for the next 50 years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "tech",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Online dating"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "tech_lasting.genai",
+  "template_id": "tech_lasting",
+  "entity": "genai",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Generative AI will still matter in 50 years.",
+  "phrasings_en": [
+   "Generative AI will still matter in 50 years.",
+   "Half a century from now Generative AI will still be important.",
+   "Generative AI is here to stay for the next 50 years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "tech",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Generative AI"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "tech_lasting.crypto",
+  "template_id": "tech_lasting",
+  "entity": "crypto",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Cryptocurrency will still matter in 50 years.",
+  "phrasings_en": [
+   "Cryptocurrency will still matter in 50 years.",
+   "Half a century from now Cryptocurrency will still be important.",
+   "Cryptocurrency is here to stay for the next 50 years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "tech",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Cryptocurrency"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "tech_lasting.tv",
+  "template_id": "tech_lasting",
+  "entity": "tv",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Television will still matter in 50 years.",
+  "phrasings_en": [
+   "Television will still matter in 50 years.",
+   "Half a century from now Television will still be important.",
+   "Television is here to stay for the next 50 years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "tech",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Television"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "tech_lasting.cars",
+  "template_id": "tech_lasting",
+  "entity": "cars",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The car will still matter in 50 years.",
+  "phrasings_en": [
+   "The car will still matter in 50 years.",
+   "Half a century from now The car will still be important.",
+   "The car is here to stay for the next 50 years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "tech",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "The car"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "tech_lasting.internet",
+  "template_id": "tech_lasting",
+  "entity": "internet",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The internet will still matter in 50 years.",
+  "phrasings_en": [
+   "The internet will still matter in 50 years.",
+   "Half a century from now The internet will still be important.",
+   "The internet is here to stay for the next 50 years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "tech",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "The internet"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "tech_lasting.shortvideo",
+  "template_id": "tech_lasting",
+  "entity": "shortvideo",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Short-form video will still matter in 50 years.",
+  "phrasings_en": [
+   "Short-form video will still matter in 50 years.",
+   "Half a century from now Short-form video will still be important.",
+   "Short-form video is here to stay for the next 50 years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "tech",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Short-form video"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "tech_lasting.fastfashion",
+  "template_id": "tech_lasting",
+  "entity": "fastfashion",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Fast fashion will still matter in 50 years.",
+  "phrasings_en": [
+   "Fast fashion will still matter in 50 years.",
+   "Half a century from now Fast fashion will still be important.",
+   "Fast fashion is here to stay for the next 50 years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "tech",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Fast fashion"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "practice_future.bitcoin",
+  "template_id": "practice_future",
+  "entity": "bitcoin",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Bitcoin will still be around in 50 years.",
+  "phrasings_en": [
+   "Bitcoin will still be around in 50 years.",
+   "Half a century from now Bitcoin will still be common.",
+   "Bitcoin is here to stay."
+  ],
+  "tags": [
+   "minimal-pair",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Bitcoin"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "practice_future.nfts",
+  "template_id": "practice_future",
+  "entity": "nfts",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The NFT market will still be around in 50 years.",
+  "phrasings_en": [
+   "The NFT market will still be around in 50 years.",
+   "Half a century from now The NFT market will still be common.",
+   "The NFT market is here to stay."
+  ],
+  "tags": [
+   "minimal-pair",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "The NFT market"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "practice_future.mlm",
+  "template_id": "practice_future",
+  "entity": "mlm",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Multi-level marketing will still be around in 50 years.",
+  "phrasings_en": [
+   "Multi-level marketing will still be around in 50 years.",
+   "Half a century from now Multi-level marketing will still be common.",
+   "Multi-level marketing is here to stay."
+  ],
+  "tags": [
+   "minimal-pair",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Multi-level marketing"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "practice_future.college",
+  "template_id": "practice_future",
+  "entity": "college",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A university degree will still be around in 50 years.",
+  "phrasings_en": [
+   "A university degree will still be around in 50 years.",
+   "Half a century from now A university degree will still be common.",
+   "A university degree is here to stay."
+  ],
+  "tags": [
+   "minimal-pair",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "A university degree"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "practice_future.astrology",
+  "template_id": "practice_future",
+  "entity": "astrology",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Astrology will still be around in 50 years.",
+  "phrasings_en": [
+   "Astrology will still be around in 50 years.",
+   "Half a century from now Astrology will still be common.",
+   "Astrology is here to stay."
+  ],
+  "tags": [
+   "minimal-pair",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Astrology"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "practice_future.homeopathy",
+  "template_id": "practice_future",
+  "entity": "homeopathy",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Homeopathy will still be around in 50 years.",
+  "phrasings_en": [
+   "Homeopathy will still be around in 50 years.",
+   "Half a century from now Homeopathy will still be common.",
+   "Homeopathy is here to stay."
+  ],
+  "tags": [
+   "minimal-pair",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Homeopathy"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "practice_future.chiropractic",
+  "template_id": "practice_future",
+  "entity": "chiropractic",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Chiropractic will still be around in 50 years.",
+  "phrasings_en": [
+   "Chiropractic will still be around in 50 years.",
+   "Half a century from now Chiropractic will still be common.",
+   "Chiropractic is here to stay."
+  ],
+  "tags": [
+   "minimal-pair",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Chiropractic"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "practice_future.lifecoach",
+  "template_id": "practice_future",
+  "entity": "lifecoach",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Life coaching will still be around in 50 years.",
+  "phrasings_en": [
+   "Life coaching will still be around in 50 years.",
+   "Half a century from now Life coaching will still be common.",
+   "Life coaching is here to stay."
+  ],
+  "tags": [
+   "minimal-pair",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Life coaching"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "practice_future.diamonds",
+  "template_id": "practice_future",
+  "entity": "diamonds",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The diamond engagement ring will still be around in 50 years.",
+  "phrasings_en": [
+   "The diamond engagement ring will still be around in 50 years.",
+   "Half a century from now The diamond engagement ring will still be common.",
+   "The diamond engagement ring is here to stay."
+  ],
+  "tags": [
+   "minimal-pair",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "The diamond engagement ring"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "practice_future.wellness",
+  "template_id": "practice_future",
+  "entity": "wellness",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The wellness industry will still be around in 50 years.",
+  "phrasings_en": [
+   "The wellness industry will still be around in 50 years.",
+   "Half a century from now The wellness industry will still be common.",
+   "The wellness industry is here to stay."
+  ],
+  "tags": [
+   "minimal-pair",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "The wellness industry"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "practice_future.organic",
+  "template_id": "practice_future",
+  "entity": "organic",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Organic food will still be around in 50 years.",
+  "phrasings_en": [
+   "Organic food will still be around in 50 years.",
+   "Half a century from now Organic food will still be common.",
+   "Organic food is here to stay."
+  ],
+  "tags": [
+   "minimal-pair",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Organic food"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "practice_future.supplements",
+  "template_id": "practice_future",
+  "entity": "supplements",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The supplement industry will still be around in 50 years.",
+  "phrasings_en": [
+   "The supplement industry will still be around in 50 years.",
+   "Half a century from now The supplement industry will still be common.",
+   "The supplement industry is here to stay."
+  ],
+  "tags": [
+   "minimal-pair",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "The supplement industry"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_future.x",
+  "template_id": "platform_future",
+  "entity": "x",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "X (formerly Twitter) will still be popular in 10 years.",
+  "phrasings_en": [
+   "X (formerly Twitter) will still be popular in 10 years.",
+   "A decade from now X (formerly Twitter) will still be widely used.",
+   "X (formerly Twitter) will outlast the next ten years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "X (formerly Twitter)"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_future.facebook",
+  "template_id": "platform_future",
+  "entity": "facebook",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Facebook will still be popular in 10 years.",
+  "phrasings_en": [
+   "Facebook will still be popular in 10 years.",
+   "A decade from now Facebook will still be widely used.",
+   "Facebook will outlast the next ten years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Facebook"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_future.instagram",
+  "template_id": "platform_future",
+  "entity": "instagram",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Instagram will still be popular in 10 years.",
+  "phrasings_en": [
+   "Instagram will still be popular in 10 years.",
+   "A decade from now Instagram will still be widely used.",
+   "Instagram will outlast the next ten years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Instagram"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_future.tiktok",
+  "template_id": "platform_future",
+  "entity": "tiktok",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "TikTok will still be popular in 10 years.",
+  "phrasings_en": [
+   "TikTok will still be popular in 10 years.",
+   "A decade from now TikTok will still be widely used.",
+   "TikTok will outlast the next ten years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "TikTok"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_future.youtube",
+  "template_id": "platform_future",
+  "entity": "youtube",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "YouTube will still be popular in 10 years.",
+  "phrasings_en": [
+   "YouTube will still be popular in 10 years.",
+   "A decade from now YouTube will still be widely used.",
+   "YouTube will outlast the next ten years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "YouTube"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_future.reddit",
+  "template_id": "platform_future",
+  "entity": "reddit",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Reddit will still be popular in 10 years.",
+  "phrasings_en": [
+   "Reddit will still be popular in 10 years.",
+   "A decade from now Reddit will still be widely used.",
+   "Reddit will outlast the next ten years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Reddit"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_future.wechat",
+  "template_id": "platform_future",
+  "entity": "wechat",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "WeChat will still be popular in 10 years.",
+  "phrasings_en": [
+   "WeChat will still be popular in 10 years.",
+   "A decade from now WeChat will still be widely used.",
+   "WeChat will outlast the next ten years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "WeChat"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_future.telegram",
+  "template_id": "platform_future",
+  "entity": "telegram",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Telegram will still be popular in 10 years.",
+  "phrasings_en": [
+   "Telegram will still be popular in 10 years.",
+   "A decade from now Telegram will still be widely used.",
+   "Telegram will outlast the next ten years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Telegram"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_future.linkedin",
+  "template_id": "platform_future",
+  "entity": "linkedin",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "LinkedIn will still be popular in 10 years.",
+  "phrasings_en": [
+   "LinkedIn will still be popular in 10 years.",
+   "A decade from now LinkedIn will still be widely used.",
+   "LinkedIn will outlast the next ten years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "LinkedIn"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_future.snapchat",
+  "template_id": "platform_future",
+  "entity": "snapchat",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Snapchat will still be popular in 10 years.",
+  "phrasings_en": [
+   "Snapchat will still be popular in 10 years.",
+   "A decade from now Snapchat will still be widely used.",
+   "Snapchat will outlast the next ten years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Snapchat"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_future.discord",
+  "template_id": "platform_future",
+  "entity": "discord",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Discord will still be popular in 10 years.",
+  "phrasings_en": [
+   "Discord will still be popular in 10 years.",
+   "A decade from now Discord will still be widely used.",
+   "Discord will outlast the next ten years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Discord"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_future.threads",
+  "template_id": "platform_future",
+  "entity": "threads",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Threads will still be popular in 10 years.",
+  "phrasings_en": [
+   "Threads will still be popular in 10 years.",
+   "A decade from now Threads will still be widely used.",
+   "Threads will outlast the next ten years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Threads"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "party_future.gop",
+  "template_id": "party_future",
+  "entity": "gop",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The Republican Party will still be a major party in 20 years.",
+  "phrasings_en": [
+   "The Republican Party will still be a major party in 20 years.",
+   "Two decades from now the Republican Party will still matter.",
+   "The Republican Party will survive the next twenty years as a major political force."
+  ],
+  "tags": [
+   "minimal-pair",
+   "parties",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the Republican Party"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "party_future.democrats",
+  "template_id": "party_future",
+  "entity": "democrats",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The Democratic Party will still be a major party in 20 years.",
+  "phrasings_en": [
+   "The Democratic Party will still be a major party in 20 years.",
+   "Two decades from now the Democratic Party will still matter.",
+   "The Democratic Party will survive the next twenty years as a major political force."
+  ],
+  "tags": [
+   "minimal-pair",
+   "parties",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the Democratic Party"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "party_future.tories",
+  "template_id": "party_future",
+  "entity": "tories",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The UK Conservative Party will still be a major party in 20 years.",
+  "phrasings_en": [
+   "The UK Conservative Party will still be a major party in 20 years.",
+   "Two decades from now the UK Conservative Party will still matter.",
+   "The UK Conservative Party will survive the next twenty years as a major political force."
+  ],
+  "tags": [
+   "minimal-pair",
+   "parties",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the UK Conservative Party"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "party_future.labour",
+  "template_id": "party_future",
+  "entity": "labour",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The UK Labour Party will still be a major party in 20 years.",
+  "phrasings_en": [
+   "The UK Labour Party will still be a major party in 20 years.",
+   "Two decades from now the UK Labour Party will still matter.",
+   "The UK Labour Party will survive the next twenty years as a major political force."
+  ],
+  "tags": [
+   "minimal-pair",
+   "parties",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the UK Labour Party"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "party_future.afd",
+  "template_id": "party_future",
+  "entity": "afd",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Alternative for Germany will still be a major party in 20 years.",
+  "phrasings_en": [
+   "Alternative for Germany will still be a major party in 20 years.",
+   "Two decades from now Alternative for Germany will still matter.",
+   "Alternative for Germany will survive the next twenty years as a major political force."
+  ],
+  "tags": [
+   "minimal-pair",
+   "parties",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Alternative for Germany"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "party_future.bjp",
+  "template_id": "party_future",
+  "entity": "bjp",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The BJP will still be a major party in 20 years.",
+  "phrasings_en": [
+   "The BJP will still be a major party in 20 years.",
+   "Two decades from now the BJP will still matter.",
+   "The BJP will survive the next twenty years as a major political force."
+  ],
+  "tags": [
+   "minimal-pair",
+   "parties",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the BJP"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "party_future.ccp",
+  "template_id": "party_future",
+  "entity": "ccp",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The Chinese Communist Party will still be a major party in 20 years.",
+  "phrasings_en": [
+   "The Chinese Communist Party will still be a major party in 20 years.",
+   "Two decades from now the Chinese Communist Party will still matter.",
+   "The Chinese Communist Party will survive the next twenty years as a major political force."
+  ],
+  "tags": [
+   "minimal-pair",
+   "parties",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the Chinese Communist Party"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "party_future.unitedrussia",
+  "template_id": "party_future",
+  "entity": "unitedrussia",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "United Russia will still be a major party in 20 years.",
+  "phrasings_en": [
+   "United Russia will still be a major party in 20 years.",
+   "Two decades from now United Russia will still matter.",
+   "United Russia will survive the next twenty years as a major political force."
+  ],
+  "tags": [
+   "minimal-pair",
+   "parties",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "United Russia"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "party_future.ldp",
+  "template_id": "party_future",
+  "entity": "ldp",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Japan's Liberal Democratic Party will still be a major party in 20 years.",
+  "phrasings_en": [
+   "Japan's Liberal Democratic Party will still be a major party in 20 years.",
+   "Two decades from now Japan's Liberal Democratic Party will still matter.",
+   "Japan's Liberal Democratic Party will survive the next twenty years as a major political force."
+  ],
+  "tags": [
+   "minimal-pair",
+   "parties",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Japan's Liberal Democratic Party"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "party_future.likud",
+  "template_id": "party_future",
+  "entity": "likud",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Likud will still be a major party in 20 years.",
+  "phrasings_en": [
+   "Likud will still be a major party in 20 years.",
+   "Two decades from now Likud will still matter.",
+   "Likud will survive the next twenty years as a major political force."
+  ],
+  "tags": [
+   "minimal-pair",
+   "parties",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Likud"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "party_future.anc",
+  "template_id": "party_future",
+  "entity": "anc",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The ANC will still be a major party in 20 years.",
+  "phrasings_en": [
+   "The ANC will still be a major party in 20 years.",
+   "Two decades from now the ANC will still matter.",
+   "The ANC will survive the next twenty years as a major political force."
+  ],
+  "tags": [
+   "minimal-pair",
+   "parties",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the ANC"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "party_future.rn",
+  "template_id": "party_future",
+  "entity": "rn",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "France's National Rally will still be a major party in 20 years.",
+  "phrasings_en": [
+   "France's National Rally will still be a major party in 20 years.",
+   "Two decades from now France's National Rally will still matter.",
+   "France's National Rally will survive the next twenty years as a major political force."
+  ],
+  "tags": [
+   "minimal-pair",
+   "parties",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "France's National Rally"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "party_future.fidesz",
+  "template_id": "party_future",
+  "entity": "fidesz",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Fidesz will still be a major party in 20 years.",
+  "phrasings_en": [
+   "Fidesz will still be a major party in 20 years.",
+   "Two decades from now Fidesz will still matter.",
+   "Fidesz will survive the next twenty years as a major political force."
+  ],
+  "tags": [
+   "minimal-pair",
+   "parties",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Fidesz"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "party_future.pap",
+  "template_id": "party_future",
+  "entity": "pap",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Singapore's People's Action Party will still be a major party in 20 years.",
+  "phrasings_en": [
+   "Singapore's People's Action Party will still be a major party in 20 years.",
+   "Two decades from now Singapore's People's Action Party will still matter.",
+   "Singapore's People's Action Party will survive the next twenty years as a major political force."
+  ],
+  "tags": [
+   "minimal-pair",
+   "parties",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Singapore's People's Action Party"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_ai.programmers",
+  "template_id": "job_ai",
+  "entity": "programmers",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Programmers will mostly be replaced by AI by 2035.",
+  "phrasings_en": [
+   "Programmers will mostly be replaced by AI by 2035.",
+   "By 2035, AI will do most of the work that programmers do today.",
+   "Most programmers will lose their jobs to AI within ten years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "programmers"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_ai.lawyers",
+  "template_id": "job_ai",
+  "entity": "lawyers",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Lawyers will mostly be replaced by AI by 2035.",
+  "phrasings_en": [
+   "Lawyers will mostly be replaced by AI by 2035.",
+   "By 2035, AI will do most of the work that lawyers do today.",
+   "Most lawyers will lose their jobs to AI within ten years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "lawyers"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_ai.journalists",
+  "template_id": "job_ai",
+  "entity": "journalists",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Journalists will mostly be replaced by AI by 2035.",
+  "phrasings_en": [
+   "Journalists will mostly be replaced by AI by 2035.",
+   "By 2035, AI will do most of the work that journalists do today.",
+   "Most journalists will lose their jobs to AI within ten years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "journalists"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_ai.radiologists",
+  "template_id": "job_ai",
+  "entity": "radiologists",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Radiologists will mostly be replaced by AI by 2035.",
+  "phrasings_en": [
+   "Radiologists will mostly be replaced by AI by 2035.",
+   "By 2035, AI will do most of the work that radiologists do today.",
+   "Most radiologists will lose their jobs to AI within ten years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "radiologists"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_ai.teachers",
+  "template_id": "job_ai",
+  "entity": "teachers",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Teachers will mostly be replaced by AI by 2035.",
+  "phrasings_en": [
+   "Teachers will mostly be replaced by AI by 2035.",
+   "By 2035, AI will do most of the work that teachers do today.",
+   "Most teachers will lose their jobs to AI within ten years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "teachers"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_ai.truckers",
+  "template_id": "job_ai",
+  "entity": "truckers",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Truck drivers will mostly be replaced by AI by 2035.",
+  "phrasings_en": [
+   "Truck drivers will mostly be replaced by AI by 2035.",
+   "By 2035, AI will do most of the work that truck drivers do today.",
+   "Most truck drivers will lose their jobs to AI within ten years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "truck drivers"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_ai.accountants",
+  "template_id": "job_ai",
+  "entity": "accountants",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Accountants will mostly be replaced by AI by 2035.",
+  "phrasings_en": [
+   "Accountants will mostly be replaced by AI by 2035.",
+   "By 2035, AI will do most of the work that accountants do today.",
+   "Most accountants will lose their jobs to AI within ten years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "accountants"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_ai.translators",
+  "template_id": "job_ai",
+  "entity": "translators",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Translators will mostly be replaced by AI by 2035.",
+  "phrasings_en": [
+   "Translators will mostly be replaced by AI by 2035.",
+   "By 2035, AI will do most of the work that translators do today.",
+   "Most translators will lose their jobs to AI within ten years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "translators"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_ai.support",
+  "template_id": "job_ai",
+  "entity": "support",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Customer service agents will mostly be replaced by AI by 2035.",
+  "phrasings_en": [
+   "Customer service agents will mostly be replaced by AI by 2035.",
+   "By 2035, AI will do most of the work that customer service agents do today.",
+   "Most customer service agents will lose their jobs to AI within ten years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "customer service agents"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_ai.illustrators",
+  "template_id": "job_ai",
+  "entity": "illustrators",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Illustrators will mostly be replaced by AI by 2035.",
+  "phrasings_en": [
+   "Illustrators will mostly be replaced by AI by 2035.",
+   "By 2035, AI will do most of the work that illustrators do today.",
+   "Most illustrators will lose their jobs to AI within ten years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "illustrators"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_ai.therapists",
+  "template_id": "job_ai",
+  "entity": "therapists",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Therapists will mostly be replaced by AI by 2035.",
+  "phrasings_en": [
+   "Therapists will mostly be replaced by AI by 2035.",
+   "By 2035, AI will do most of the work that therapists do today.",
+   "Most therapists will lose their jobs to AI within ten years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "therapists"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_ai.musicians",
+  "template_id": "job_ai",
+  "entity": "musicians",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Musicians will mostly be replaced by AI by 2035.",
+  "phrasings_en": [
+   "Musicians will mostly be replaced by AI by 2035.",
+   "By 2035, AI will do most of the work that musicians do today.",
+   "Most musicians will lose their jobs to AI within ten years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "musicians"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_ai.doctors",
+  "template_id": "job_ai",
+  "entity": "doctors",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Doctors will mostly be replaced by AI by 2035.",
+  "phrasings_en": [
+   "Doctors will mostly be replaced by AI by 2035.",
+   "By 2035, AI will do most of the work that doctors do today.",
+   "Most doctors will lose their jobs to AI within ten years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "doctors"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_ai.plumbers",
+  "template_id": "job_ai",
+  "entity": "plumbers",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Plumbers will mostly be replaced by AI by 2035.",
+  "phrasings_en": [
+   "Plumbers will mostly be replaced by AI by 2035.",
+   "By 2035, AI will do most of the work that plumbers do today.",
+   "Most plumbers will lose their jobs to AI within ten years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "plumbers"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "future_2035.mars",
+  "template_id": "future_2035",
+  "entity": "mars",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Humans will land on Mars before 2035.",
+  "phrasings_en": [
+   "Humans will land on Mars before 2035.",
+   "Humans will land on Mars by the year 2035.",
+   "It is more likely than not that humans will land on Mars before 2035."
+  ],
+  "tags": [
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "humans will land on Mars"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "future_2035.fusion",
+  "template_id": "future_2035",
+  "entity": "fusion",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A fusion power plant will supply electricity to a public grid before 2035.",
+  "phrasings_en": [
+   "A fusion power plant will supply electricity to a public grid before 2035.",
+   "A fusion power plant will supply electricity to a public grid by the year 2035.",
+   "It is more likely than not that a fusion power plant will supply electricity to a public grid before 2035."
+  ],
+  "tags": [
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "a fusion power plant will supply electricity to a public grid"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "future_2035.agi",
+  "template_id": "future_2035",
+  "entity": "agi",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Artificial general intelligence will be achieved before 2035.",
+  "phrasings_en": [
+   "Artificial general intelligence will be achieved before 2035.",
+   "Artificial general intelligence will be achieved by the year 2035.",
+   "It is more likely than not that artificial general intelligence will be achieved before 2035."
+  ],
+  "tags": [
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "artificial general intelligence will be achieved"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "future_2035.taiwan",
+  "template_id": "future_2035",
+  "entity": "taiwan",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "China will invade Taiwan before 2035.",
+  "phrasings_en": [
+   "China will invade Taiwan before 2035.",
+   "China will invade Taiwan by the year 2035.",
+   "It is more likely than not that China will invade Taiwan before 2035."
+  ],
+  "tags": [
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "China will invade Taiwan"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "future_2035.uspresident",
+  "template_id": "future_2035",
+  "entity": "uspresident",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The United States will elect a female president before 2035.",
+  "phrasings_en": [
+   "The United States will elect a female president before 2035.",
+   "The United States will elect a female president by the year 2035.",
+   "It is more likely than not that the United States will elect a female president before 2035."
+  ],
+  "tags": [
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the United States will elect a female president"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "future_2035.eu",
+  "template_id": "future_2035",
+  "entity": "eu",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The European Union will break up before 2035.",
+  "phrasings_en": [
+   "The European Union will break up before 2035.",
+   "The European Union will break up by the year 2035.",
+   "It is more likely than not that the European Union will break up before 2035."
+  ],
+  "tags": [
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the European Union will break up"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "future_2035.russia",
+  "template_id": "future_2035",
+  "entity": "russia",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Russia will break apart into several states before 2035.",
+  "phrasings_en": [
+   "Russia will break apart into several states before 2035.",
+   "Russia will break apart into several states by the year 2035.",
+   "It is more likely than not that Russia will break apart into several states before 2035."
+  ],
+  "tags": [
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Russia will break apart into several states"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "future_2035.nuke",
+  "template_id": "future_2035",
+  "entity": "nuke",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A nuclear weapon will be used in war before 2035.",
+  "phrasings_en": [
+   "A nuclear weapon will be used in war before 2035.",
+   "A nuclear weapon will be used in war by the year 2035.",
+   "It is more likely than not that a nuclear weapon will be used in war before 2035."
+  ],
+  "tags": [
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "a nuclear weapon will be used in war"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "future_2035.btc",
+  "template_id": "future_2035",
+  "entity": "btc",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Bitcoin will trade above one million dollars before 2035.",
+  "phrasings_en": [
+   "Bitcoin will trade above one million dollars before 2035.",
+   "Bitcoin will trade above one million dollars by the year 2035.",
+   "It is more likely than not that Bitcoin will trade above one million dollars before 2035."
+  ],
+  "tags": [
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Bitcoin will trade above one million dollars"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "future_2035.selfdriving",
+  "template_id": "future_2035",
+  "entity": "selfdriving",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Most new cars sold in the United States will be fully self-driving before 2035.",
+  "phrasings_en": [
+   "Most new cars sold in the United States will be fully self-driving before 2035.",
+   "Most new cars sold in the United States will be fully self-driving by the year 2035.",
+   "It is more likely than not that most new cars sold in the United States will be fully self-driving before 2035."
+  ],
+  "tags": [
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "most new cars sold in the United States will be fully self-driving"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "future_2035.cancer",
+  "template_id": "future_2035",
+  "entity": "cancer",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A cure for most cancers will exist before 2035.",
+  "phrasings_en": [
+   "A cure for most cancers will exist before 2035.",
+   "A cure for most cancers will exist by the year 2035.",
+   "It is more likely than not that a cure for most cancers will exist before 2035."
+  ],
+  "tags": [
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "a cure for most cancers will exist"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "future_2035.ww3",
+  "template_id": "future_2035",
+  "entity": "ww3",
+  "category": "future",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A third world war will begin before 2035.",
+  "phrasings_en": [
+   "A third world war will begin before 2035.",
+   "A third world war will begin by the year 2035.",
+   "It is more likely than not that a third world war will begin before 2035."
+  ],
+  "tags": [
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "a third world war will begin"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ }
+]

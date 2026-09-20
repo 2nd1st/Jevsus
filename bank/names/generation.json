@@ -1,0 +1,6 @@
+[
+ {"id": "boomers", "name": "Baby boomers"},
+ {"id": "genx", "name": "Generation X"},
+ {"id": "millennials", "name": "Millennials"},
+ {"id": "genz", "name": "Generation Z"}
+]

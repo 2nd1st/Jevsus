@@ -1,0 +1,14 @@
+[
+ {"id": "aiimages", "name": "AI-generated imagery"},
+ {"id": "nfts", "name": "NFT artwork"},
+ {"id": "graffiti", "name": "Graffiti"},
+ {"id": "videogames", "name": "Video game design"},
+ {"id": "fashion", "name": "Fashion design"},
+ {"id": "memes", "name": "Meme-making"},
+ {"id": "photography", "name": "Photography"},
+ {"id": "banana", "name": "A banana taped to a wall"},
+ {"id": "tattoos", "name": "Tattooing"},
+ {"id": "rap", "name": "Rap music"},
+ {"id": "fanfic", "name": "Fan fiction"},
+ {"id": "cooking", "name": "Fine cooking"}
+]

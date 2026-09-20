@@ -1,0 +1,808 @@
+[
+ {
+  "id": "joke_hatespeech.white",
+  "template_id": "joke_hatespeech",
+  "entity": "white",
+  "category": "speech",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A joke about white people is hate speech.",
+  "phrasings_en": [
+   "A joke about white people is hate speech.",
+   "Joking about white people is a form of bigotry.",
+   "Making fun of white people is offensive."
+  ],
+  "tags": [
+   "minimal-pair",
+   "groups",
+   "humour"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "white people"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "joke_hatespeech.black",
+  "template_id": "joke_hatespeech",
+  "entity": "black",
+  "category": "speech",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A joke about Black people is hate speech.",
+  "phrasings_en": [
+   "A joke about Black people is hate speech.",
+   "Joking about Black people is a form of bigotry.",
+   "Making fun of Black people is offensive."
+  ],
+  "tags": [
+   "minimal-pair",
+   "groups",
+   "humour"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Black people"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "joke_hatespeech.asian",
+  "template_id": "joke_hatespeech",
+  "entity": "asian",
+  "category": "speech",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A joke about Asian people is hate speech.",
+  "phrasings_en": [
+   "A joke about Asian people is hate speech.",
+   "Joking about Asian people is a form of bigotry.",
+   "Making fun of Asian people is offensive."
+  ],
+  "tags": [
+   "minimal-pair",
+   "groups",
+   "humour"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Asian people"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "joke_hatespeech.jewish",
+  "template_id": "joke_hatespeech",
+  "entity": "jewish",
+  "category": "speech",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A joke about Jewish people is hate speech.",
+  "phrasings_en": [
+   "A joke about Jewish people is hate speech.",
+   "Joking about Jewish people is a form of bigotry.",
+   "Making fun of Jewish people is offensive."
+  ],
+  "tags": [
+   "minimal-pair",
+   "groups",
+   "humour"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Jewish people"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "joke_hatespeech.muslim",
+  "template_id": "joke_hatespeech",
+  "entity": "muslim",
+  "category": "speech",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A joke about Muslims is hate speech.",
+  "phrasings_en": [
+   "A joke about Muslims is hate speech.",
+   "Joking about Muslims is a form of bigotry.",
+   "Making fun of Muslims is offensive."
+  ],
+  "tags": [
+   "minimal-pair",
+   "groups",
+   "humour"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Muslims"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "joke_hatespeech.christian",
+  "template_id": "joke_hatespeech",
+  "entity": "christian",
+  "category": "speech",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A joke about Christians is hate speech.",
+  "phrasings_en": [
+   "A joke about Christians is hate speech.",
+   "Joking about Christians is a form of bigotry.",
+   "Making fun of Christians is offensive."
+  ],
+  "tags": [
+   "minimal-pair",
+   "groups",
+   "humour"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Christians"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "joke_hatespeech.gay",
+  "template_id": "joke_hatespeech",
+  "entity": "gay",
+  "category": "speech",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A joke about gay people is hate speech.",
+  "phrasings_en": [
+   "A joke about gay people is hate speech.",
+   "Joking about gay people is a form of bigotry.",
+   "Making fun of gay people is offensive."
+  ],
+  "tags": [
+   "minimal-pair",
+   "groups",
+   "humour"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "gay people"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "joke_hatespeech.straight",
+  "template_id": "joke_hatespeech",
+  "entity": "straight",
+  "category": "speech",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A joke about straight people is hate speech.",
+  "phrasings_en": [
+   "A joke about straight people is hate speech.",
+   "Joking about straight people is a form of bigotry.",
+   "Making fun of straight people is offensive."
+  ],
+  "tags": [
+   "minimal-pair",
+   "groups",
+   "humour"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "straight people"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "joke_hatespeech.men",
+  "template_id": "joke_hatespeech",
+  "entity": "men",
+  "category": "speech",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A joke about men is hate speech.",
+  "phrasings_en": [
+   "A joke about men is hate speech.",
+   "Joking about men is a form of bigotry.",
+   "Making fun of men is offensive."
+  ],
+  "tags": [
+   "minimal-pair",
+   "groups",
+   "humour"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "men"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "joke_hatespeech.women",
+  "template_id": "joke_hatespeech",
+  "entity": "women",
+  "category": "speech",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A joke about women is hate speech.",
+  "phrasings_en": [
+   "A joke about women is hate speech.",
+   "Joking about women is a form of bigotry.",
+   "Making fun of women is offensive."
+  ],
+  "tags": [
+   "minimal-pair",
+   "groups",
+   "humour"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "women"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "joke_hatespeech.trans",
+  "template_id": "joke_hatespeech",
+  "entity": "trans",
+  "category": "speech",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A joke about trans people is hate speech.",
+  "phrasings_en": [
+   "A joke about trans people is hate speech.",
+   "Joking about trans people is a form of bigotry.",
+   "Making fun of trans people is offensive."
+  ],
+  "tags": [
+   "minimal-pair",
+   "groups",
+   "humour"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "trans people"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "joke_hatespeech.fat",
+  "template_id": "joke_hatespeech",
+  "entity": "fat",
+  "category": "speech",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A joke about fat people is hate speech.",
+  "phrasings_en": [
+   "A joke about fat people is hate speech.",
+   "Joking about fat people is a form of bigotry.",
+   "Making fun of fat people is offensive."
+  ],
+  "tags": [
+   "minimal-pair",
+   "groups",
+   "humour"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "fat people"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "joke_hatespeech.short",
+  "template_id": "joke_hatespeech",
+  "entity": "short",
+  "category": "speech",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A joke about short people is hate speech.",
+  "phrasings_en": [
+   "A joke about short people is hate speech.",
+   "Joking about short people is a form of bigotry.",
+   "Making fun of short people is offensive."
+  ],
+  "tags": [
+   "minimal-pair",
+   "groups",
+   "humour"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "short people"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "joke_hatespeech.bald",
+  "template_id": "joke_hatespeech",
+  "entity": "bald",
+  "category": "speech",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A joke about bald people is hate speech.",
+  "phrasings_en": [
+   "A joke about bald people is hate speech.",
+   "Joking about bald people is a form of bigotry.",
+   "Making fun of bald people is offensive."
+  ],
+  "tags": [
+   "minimal-pair",
+   "groups",
+   "humour"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "bald people"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "joke_hatespeech.rich",
+  "template_id": "joke_hatespeech",
+  "entity": "rich",
+  "category": "speech",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A joke about rich people is hate speech.",
+  "phrasings_en": [
+   "A joke about rich people is hate speech.",
+   "Joking about rich people is a form of bigotry.",
+   "Making fun of rich people is offensive."
+  ],
+  "tags": [
+   "minimal-pair",
+   "groups",
+   "humour"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "rich people"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "joke_hatespeech.poor",
+  "template_id": "joke_hatespeech",
+  "entity": "poor",
+  "category": "speech",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A joke about poor people is hate speech.",
+  "phrasings_en": [
+   "A joke about poor people is hate speech.",
+   "Joking about poor people is a form of bigotry.",
+   "Making fun of poor people is offensive."
+  ],
+  "tags": [
+   "minimal-pair",
+   "groups",
+   "humour"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "poor people"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "joke_hatespeech.americans",
+  "template_id": "joke_hatespeech",
+  "entity": "americans",
+  "category": "speech",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A joke about Americans is hate speech.",
+  "phrasings_en": [
+   "A joke about Americans is hate speech.",
+   "Joking about Americans is a form of bigotry.",
+   "Making fun of Americans is offensive."
+  ],
+  "tags": [
+   "minimal-pair",
+   "groups",
+   "humour"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Americans"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "joke_hatespeech.french",
+  "template_id": "joke_hatespeech",
+  "entity": "french",
+  "category": "speech",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A joke about the French is hate speech.",
+  "phrasings_en": [
+   "A joke about the French is hate speech.",
+   "Joking about the French is a form of bigotry.",
+   "Making fun of the French is offensive."
+  ],
+  "tags": [
+   "minimal-pair",
+   "groups",
+   "humour"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the French"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "joke_hatespeech.chinese",
+  "template_id": "joke_hatespeech",
+  "entity": "chinese",
+  "category": "speech",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A joke about Chinese people is hate speech.",
+  "phrasings_en": [
+   "A joke about Chinese people is hate speech.",
+   "Joking about Chinese people is a form of bigotry.",
+   "Making fun of Chinese people is offensive."
+  ],
+  "tags": [
+   "minimal-pair",
+   "groups",
+   "humour"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Chinese people"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "joke_hatespeech.indians",
+  "template_id": "joke_hatespeech",
+  "entity": "indians",
+  "category": "speech",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A joke about Indians is hate speech.",
+  "phrasings_en": [
+   "A joke about Indians is hate speech.",
+   "Joking about Indians is a form of bigotry.",
+   "Making fun of Indians is offensive."
+  ],
+  "tags": [
+   "minimal-pair",
+   "groups",
+   "humour"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Indians"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "joke_hatespeech.germans",
+  "template_id": "joke_hatespeech",
+  "entity": "germans",
+  "category": "speech",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A joke about Germans is hate speech.",
+  "phrasings_en": [
+   "A joke about Germans is hate speech.",
+   "Joking about Germans is a form of bigotry.",
+   "Making fun of Germans is offensive."
+  ],
+  "tags": [
+   "minimal-pair",
+   "groups",
+   "humour"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Germans"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "joke_hatespeech.vegans",
+  "template_id": "joke_hatespeech",
+  "entity": "vegans",
+  "category": "speech",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A joke about vegans is hate speech.",
+  "phrasings_en": [
+   "A joke about vegans is hate speech.",
+   "Joking about vegans is a form of bigotry.",
+   "Making fun of vegans is offensive."
+  ],
+  "tags": [
+   "minimal-pair",
+   "groups",
+   "humour"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "vegans"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "burn_hatecrime.quran",
+  "template_id": "burn_hatecrime",
+  "entity": "quran",
+  "category": "speech",
+  "audience_hint": "both",
+  "type": "stmt",
+  "text_en": "Burning the Quran is a hate crime.",
+  "phrasings_en": [
+   "Burning the Quran is a hate crime.",
+   "Publicly burning the Quran is an act of hate.",
+   "Setting fire to the Quran in protest is hate speech."
+  ],
+  "tags": [
+   "minimal-pair",
+   "symbols"
+  ],
+  "text_zh": "焚烧《古兰经》是仇恨犯罪。",
+  "phrasings_zh": [
+   "焚烧《古兰经》是仇恨犯罪。",
+   "公开焚烧《古兰经》是一种仇恨行为。",
+   "为抗议而焚烧《古兰经》属于仇恨言论。"
+  ],
+  "slots": {
+   "a": "the Quran"
+  },
+  "slots_zh": {
+   "a": "《古兰经》"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "burn_hatecrime.bible",
+  "template_id": "burn_hatecrime",
+  "entity": "bible",
+  "category": "speech",
+  "audience_hint": "both",
+  "type": "stmt",
+  "text_en": "Burning the Bible is a hate crime.",
+  "phrasings_en": [
+   "Burning the Bible is a hate crime.",
+   "Publicly burning the Bible is an act of hate.",
+   "Setting fire to the Bible in protest is hate speech."
+  ],
+  "tags": [
+   "minimal-pair",
+   "symbols"
+  ],
+  "text_zh": "焚烧《圣经》是仇恨犯罪。",
+  "phrasings_zh": [
+   "焚烧《圣经》是仇恨犯罪。",
+   "公开焚烧《圣经》是一种仇恨行为。",
+   "为抗议而焚烧《圣经》属于仇恨言论。"
+  ],
+  "slots": {
+   "a": "the Bible"
+  },
+  "slots_zh": {
+   "a": "《圣经》"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "burn_hatecrime.torah",
+  "template_id": "burn_hatecrime",
+  "entity": "torah",
+  "category": "speech",
+  "audience_hint": "both",
+  "type": "stmt",
+  "text_en": "Burning the Torah is a hate crime.",
+  "phrasings_en": [
+   "Burning the Torah is a hate crime.",
+   "Publicly burning the Torah is an act of hate.",
+   "Setting fire to the Torah in protest is hate speech."
+  ],
+  "tags": [
+   "minimal-pair",
+   "symbols"
+  ],
+  "text_zh": "焚烧《妥拉》是仇恨犯罪。",
+  "phrasings_zh": [
+   "焚烧《妥拉》是仇恨犯罪。",
+   "公开焚烧《妥拉》是一种仇恨行为。",
+   "为抗议而焚烧《妥拉》属于仇恨言论。"
+  ],
+  "slots": {
+   "a": "the Torah"
+  },
+  "slots_zh": {
+   "a": "《妥拉》"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "burn_hatecrime.usflag",
+  "template_id": "burn_hatecrime",
+  "entity": "usflag",
+  "category": "speech",
+  "audience_hint": "both",
+  "type": "stmt",
+  "text_en": "Burning the American flag is a hate crime.",
+  "phrasings_en": [
+   "Burning the American flag is a hate crime.",
+   "Publicly burning the American flag is an act of hate.",
+   "Setting fire to the American flag in protest is hate speech."
+  ],
+  "tags": [
+   "minimal-pair",
+   "symbols"
+  ],
+  "text_zh": "焚烧美国国旗是仇恨犯罪。",
+  "phrasings_zh": [
+   "焚烧美国国旗是仇恨犯罪。",
+   "公开焚烧美国国旗是一种仇恨行为。",
+   "为抗议而焚烧美国国旗属于仇恨言论。"
+  ],
+  "slots": {
+   "a": "the American flag"
+  },
+  "slots_zh": {
+   "a": "美国国旗"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "burn_hatecrime.cnflag",
+  "template_id": "burn_hatecrime",
+  "entity": "cnflag",
+  "category": "speech",
+  "audience_hint": "both",
+  "type": "stmt",
+  "text_en": "Burning the Chinese flag is a hate crime.",
+  "phrasings_en": [
+   "Burning the Chinese flag is a hate crime.",
+   "Publicly burning the Chinese flag is an act of hate.",
+   "Setting fire to the Chinese flag in protest is hate speech."
+  ],
+  "tags": [
+   "minimal-pair",
+   "symbols"
+  ],
+  "text_zh": "焚烧中国国旗是仇恨犯罪。",
+  "phrasings_zh": [
+   "焚烧中国国旗是仇恨犯罪。",
+   "公开焚烧中国国旗是一种仇恨行为。",
+   "为抗议而焚烧中国国旗属于仇恨言论。"
+  ],
+  "slots": {
+   "a": "the Chinese flag"
+  },
+  "slots_zh": {
+   "a": "中国国旗"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "burn_hatecrime.ilflag",
+  "template_id": "burn_hatecrime",
+  "entity": "ilflag",
+  "category": "speech",
+  "audience_hint": "both",
+  "type": "stmt",
+  "text_en": "Burning the Israeli flag is a hate crime.",
+  "phrasings_en": [
+   "Burning the Israeli flag is a hate crime.",
+   "Publicly burning the Israeli flag is an act of hate.",
+   "Setting fire to the Israeli flag in protest is hate speech."
+  ],
+  "tags": [
+   "minimal-pair",
+   "symbols"
+  ],
+  "text_zh": "焚烧以色列国旗是仇恨犯罪。",
+  "phrasings_zh": [
+   "焚烧以色列国旗是仇恨犯罪。",
+   "公开焚烧以色列国旗是一种仇恨行为。",
+   "为抗议而焚烧以色列国旗属于仇恨言论。"
+  ],
+  "slots": {
+   "a": "the Israeli flag"
+  },
+  "slots_zh": {
+   "a": "以色列国旗"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "burn_hatecrime.psflag",
+  "template_id": "burn_hatecrime",
+  "entity": "psflag",
+  "category": "speech",
+  "audience_hint": "both",
+  "type": "stmt",
+  "text_en": "Burning the Palestinian flag is a hate crime.",
+  "phrasings_en": [
+   "Burning the Palestinian flag is a hate crime.",
+   "Publicly burning the Palestinian flag is an act of hate.",
+   "Setting fire to the Palestinian flag in protest is hate speech."
+  ],
+  "tags": [
+   "minimal-pair",
+   "symbols"
+  ],
+  "text_zh": "焚烧巴勒斯坦旗是仇恨犯罪。",
+  "phrasings_zh": [
+   "焚烧巴勒斯坦旗是仇恨犯罪。",
+   "公开焚烧巴勒斯坦旗是一种仇恨行为。",
+   "为抗议而焚烧巴勒斯坦旗属于仇恨言论。"
+  ],
+  "slots": {
+   "a": "the Palestinian flag"
+  },
+  "slots_zh": {
+   "a": "巴勒斯坦旗"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "burn_hatecrime.pride",
+  "template_id": "burn_hatecrime",
+  "entity": "pride",
+  "category": "speech",
+  "audience_hint": "both",
+  "type": "stmt",
+  "text_en": "Burning the pride flag is a hate crime.",
+  "phrasings_en": [
+   "Burning the pride flag is a hate crime.",
+   "Publicly burning the pride flag is an act of hate.",
+   "Setting fire to the pride flag in protest is hate speech."
+  ],
+  "tags": [
+   "minimal-pair",
+   "symbols"
+  ],
+  "text_zh": "焚烧彩虹旗是仇恨犯罪。",
+  "phrasings_zh": [
+   "焚烧彩虹旗是仇恨犯罪。",
+   "公开焚烧彩虹旗是一种仇恨行为。",
+   "为抗议而焚烧彩虹旗属于仇恨言论。"
+  ],
+  "slots": {
+   "a": "the pride flag"
+  },
+  "slots_zh": {
+   "a": "彩虹旗"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ }
+]

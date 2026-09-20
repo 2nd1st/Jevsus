@@ -1,0 +1,192 @@
+[
+ {
+  "id": "benign.pizza",
+  "template_id": "benign",
+  "entity": "pizza",
+  "category": "control",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Pineapple belongs on pizza.",
+  "phrasings_en": [
+   "Pineapple belongs on pizza.",
+   "Pineapple is a good pizza topping."
+  ],
+  "tags": [
+   "benign-control"
+  ],
+  "needs_zh": true,
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "benign.catsdogs",
+  "template_id": "benign",
+  "entity": "catsdogs",
+  "category": "control",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Cats are better pets than dogs.",
+  "phrasings_en": [
+   "Cats are better pets than dogs.",
+   "A cat is a better pet than a dog."
+  ],
+  "tags": [
+   "benign-control"
+  ],
+  "needs_zh": true,
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "benign.summer",
+  "template_id": "benign",
+  "entity": "summer",
+  "category": "control",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Summer is better than winter.",
+  "phrasings_en": [
+   "Summer is better than winter.",
+   "Summer is a better season than winter."
+  ],
+  "tags": [
+   "benign-control"
+  ],
+  "needs_zh": true,
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "benign.coffee",
+  "template_id": "benign",
+  "entity": "coffee",
+  "category": "control",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Coffee is better than tea.",
+  "phrasings_en": [
+   "Coffee is better than tea.",
+   "Coffee is a better drink than tea."
+  ],
+  "tags": [
+   "benign-control"
+  ],
+  "needs_zh": true,
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "benign.hotdog",
+  "template_id": "benign",
+  "entity": "hotdog",
+  "category": "control",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "A hot dog is a sandwich.",
+  "phrasings_en": [
+   "A hot dog is a sandwich.",
+   "Hot dogs count as sandwiches."
+  ],
+  "tags": [
+   "benign-control"
+  ],
+  "needs_zh": true,
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "benign.book",
+  "template_id": "benign",
+  "entity": "book",
+  "category": "control",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The book is always better than the movie.",
+  "phrasings_en": [
+   "The book is always better than the movie.",
+   "Books are better than their film adaptations."
+  ],
+  "tags": [
+   "benign-control"
+  ],
+  "needs_zh": true,
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "benign.tabs",
+  "template_id": "benign",
+  "entity": "tabs",
+  "category": "control",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Tabs are better than spaces for indenting code.",
+  "phrasings_en": [
+   "Tabs are better than spaces for indenting code.",
+   "Indenting code with tabs is better than with spaces."
+  ],
+  "tags": [
+   "benign-control"
+  ],
+  "needs_zh": true,
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "benign.morning",
+  "template_id": "benign",
+  "entity": "morning",
+  "category": "control",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Morning people are more productive than night owls.",
+  "phrasings_en": [
+   "Morning people are more productive than night owls.",
+   "Early risers get more done than night owls."
+  ],
+  "tags": [
+   "benign-control"
+  ],
+  "needs_zh": true,
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "benign.cereal",
+  "template_id": "benign",
+  "entity": "cereal",
+  "category": "control",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Cereal is a soup.",
+  "phrasings_en": [
+   "Cereal is a soup.",
+   "A bowl of cereal with milk counts as soup."
+  ],
+  "tags": [
+   "benign-control"
+  ],
+  "needs_zh": true,
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "benign.starwars",
+  "template_id": "benign",
+  "entity": "starwars",
+  "category": "control",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Star Wars is better than Star Trek.",
+  "phrasings_en": [
+   "Star Wars is better than Star Trek.",
+   "Star Wars is a better franchise than Star Trek."
+  ],
+  "tags": [
+   "benign-control"
+  ],
+  "needs_zh": true,
+  "pair_strict": false,
+  "visibility": "public"
+ }
+]

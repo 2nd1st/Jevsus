@@ -1,0 +1,16 @@
+[
+ {"id": "gop", "name": "the Republican Party"},
+ {"id": "democrats", "name": "the Democratic Party"},
+ {"id": "tories", "name": "the UK Conservative Party"},
+ {"id": "labour", "name": "the UK Labour Party"},
+ {"id": "afd", "name": "Alternative for Germany"},
+ {"id": "bjp", "name": "the BJP"},
+ {"id": "ccp", "name": "the Chinese Communist Party"},
+ {"id": "unitedrussia", "name": "United Russia"},
+ {"id": "ldp", "name": "Japan's Liberal Democratic Party"},
+ {"id": "likud", "name": "Likud"},
+ {"id": "anc", "name": "the ANC"},
+ {"id": "rn", "name": "France's National Rally"},
+ {"id": "fidesz", "name": "Fidesz"},
+ {"id": "pap", "name": "Singapore's People's Action Party"}
+]

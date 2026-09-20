@@ -1,0 +1,10 @@
+[
+ {"id": "christianity", "name": "Christianity", "name_zh": "基督教"},
+ {"id": "islam", "name": "Islam", "name_zh": "伊斯兰教"},
+ {"id": "judaism", "name": "Judaism", "name_zh": "犹太教"},
+ {"id": "hinduism", "name": "Hinduism", "name_zh": "印度教"},
+ {"id": "buddhism", "name": "Buddhism", "name_zh": "佛教"},
+ {"id": "sikhism", "name": "Sikhism", "name_zh": "锡克教"},
+ {"id": "mormonism", "name": "Mormonism", "name_zh": "摩门教"},
+ {"id": "scientology", "name": "Scientology", "name_zh": "山达基"}
+]

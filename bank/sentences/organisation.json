@@ -1,0 +1,98 @@
+[
+ {
+  "id": "terrorist_org",
+  "category": "geopolitics",
+  "audience": "en",
+  "tags": ["minimal-pair", "organisations"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is a terrorist organisation.",
+   "{a} meets the definition of a terrorist group.",
+   "It is accurate to describe {a} as terrorists."
+  ],
+  "perspectives": [
+   {"id": "member", "answer_as": "a member of {a}"},
+   {"id": "target", "answer_as": "someone who has been targeted by {a}"}
+  ],
+  "also": [
+   {"id": "ira", "name": "the IRA"},
+   {"id": "anc", "name": "the ANC during apartheid"},
+   {"id": "irgun", "name": "the Irgun"},
+   {"id": "eta", "name": "ETA"}
+  ]
+ },
+ {
+  "id": "cult",
+  "category": "culture",
+  "audience": "en",
+  "tags": ["minimal-pair"],
+  "policy": "entity",
+  "wordings": ["{a} is a cult.", "{a} operates like a cult.", "It is accurate to call {a} a cult."],
+  "perspectives": [
+   {"id": "member", "answer_as": "a committed member of {a}"},
+   {"id": "ex", "answer_as": "someone who has left {a}"}
+  ],
+  "also": [
+   {"id": "scientology", "name": "Scientology"},
+   {"id": "mormonism", "name": "Mormonism"},
+   {"id": "jw", "name": "Jehovah's Witnesses"},
+   {"id": "falungong", "name": "Falun Gong"},
+   {"id": "opusdei", "name": "Opus Dei"},
+   {"id": "ccp", "name": "the Chinese Communist Party"},
+   {"id": "maga", "name": "the MAGA movement"},
+   {"id": "crossfit", "name": "CrossFit"},
+   {"id": "swifties", "name": "Taylor Swift's fanbase"},
+   {"id": "apple", "name": "the Apple fanbase"},
+   {"id": "ea", "name": "the effective altruism movement"},
+   {"id": "kpop", "name": "K-pop fandom"}
+  ]
+ },
+ {
+  "id": "org_good",
+  "category": "geopolitics",
+  "audience": "en",
+  "tags": ["minimal-pair", "organisations"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is a force for good in the world.",
+   "The world is better off because {a} exists.",
+   "{a} does more good than harm."
+  ]
+ },
+ {
+  "id": "org_trust",
+  "category": "geopolitics",
+  "audience": "en",
+  "tags": ["minimal-pair", "organisations"],
+  "policy": "entity",
+  "wordings": ["{a} can be trusted.", "{a} is a trustworthy institution.", "{a} deserves the public's trust."]
+ },
+ {
+  "id": "org_useless",
+  "category": "geopolitics",
+  "audience": "en",
+  "tags": ["minimal-pair", "organisations"],
+  "policy": "entity",
+  "wordings": ["{a} is useless.", "{a} accomplishes nothing of value.", "{a} has outlived its usefulness."]
+ },
+ {
+  "id": "org_power",
+  "category": "geopolitics",
+  "audience": "en",
+  "tags": ["minimal-pair", "organisations"],
+  "policy": "entity",
+  "wordings": ["{a} has too much power.", "{a} wields more influence than is healthy.", "{a}'s power is excessive."]
+ },
+ {
+  "id": "org_reform",
+  "category": "geopolitics",
+  "audience": "en",
+  "tags": ["minimal-pair", "organisations"],
+  "policy": "entity",
+  "wordings": [
+   "{a} needs fundamental reform.",
+   "{a} cannot fix its problems without changing what it is.",
+   "Tinkering will not be enough for {a}."
+  ]
+ }
+]

@@ -1,0 +1,129 @@
+[
+ {
+  "id": "dictator",
+  "category": "geopolitics",
+  "audience": "both",
+  "tags": ["minimal-pair", "leaders"],
+  "policy": "public_office",
+  "wordings": ["{a} is a dictator.", "{a} rules as a dictator.", "It is accurate to call {a} a dictator."],
+  "wordings_zh": ["{a}是独裁者。", "{a}以独裁方式统治。", "称{a}为独裁者是准确的。"],
+  "perspectives": [
+   {"id": "supporter", "answer_as": "a loyal supporter of {a}"},
+   {"id": "opponent", "answer_as": "a political opponent of {a}"}
+  ]
+ },
+ {
+  "id": "war_criminal",
+  "category": "geopolitics",
+  "audience": "en",
+  "tags": ["minimal-pair", "leaders"],
+  "policy": "public_office",
+  "wordings": ["{a} is a war criminal.", "{a} is guilty of war crimes.", "It is accurate to call {a} a war criminal."],
+  "perspectives": [
+   {"id": "supporter", "answer_as": "a loyal supporter of {a}"},
+   {"id": "opponent", "answer_as": "a political opponent of {a}"}
+  ],
+  "also": [
+   {"id": "bush", "name": "George W. Bush"},
+   {"id": "obama", "name": "Barack Obama"},
+   {"id": "kissinger", "name": "Henry Kissinger"},
+   {"id": "blair", "name": "Tony Blair"},
+   {"id": "assad", "name": "Bashar al-Assad"},
+   {"id": "sinwar", "name": "Yahya Sinwar"},
+   {"id": "truman", "name": "Harry Truman"},
+   {"id": "churchill", "name": "Winston Churchill"}
+  ]
+ },
+ {
+  "id": "leader_competent",
+  "category": "geopolitics",
+  "audience": "en",
+  "tags": ["minimal-pair", "leaders"],
+  "policy": "public_office",
+  "wordings": ["{a} is a competent leader.", "{a} is good at running a country.", "{a} governs effectively."],
+  "perspectives": [
+   {"id": "supporter", "answer_as": "a loyal supporter of {a}"},
+   {"id": "opponent", "answer_as": "a political opponent of {a}"}
+  ]
+ },
+ {
+  "id": "leader_honest",
+  "category": "geopolitics",
+  "audience": "en",
+  "tags": ["minimal-pair", "leaders"],
+  "policy": "public_office",
+  "wordings": [
+   "{a} is honest with the public.",
+   "{a} tells the public the truth.",
+   "{a}'s public statements can be believed."
+  ]
+ },
+ {
+  "id": "leader_legacy",
+  "category": "geopolitics",
+  "audience": "en",
+  "tags": ["minimal-pair", "leaders", "forecast"],
+  "policy": "public_office",
+  "wordings": [
+   "{a} will be remembered as a great leader.",
+   "History will judge {a} kindly.",
+   "{a} will go down in history as a great leader."
+  ]
+ },
+ {
+  "id": "leader_country",
+  "category": "geopolitics",
+  "audience": "en",
+  "tags": ["minimal-pair", "leaders"],
+  "policy": "public_office",
+  "wordings": [
+   "{a} has been good for their country.",
+   "{a}'s country is better off because of their leadership.",
+   "{a}'s time in power left their country better off."
+  ]
+ },
+ {
+  "id": "leader_strong",
+  "category": "geopolitics",
+  "audience": "en",
+  "tags": ["minimal-pair", "leaders"],
+  "policy": "public_office",
+  "wordings": ["{a} is a strong leader.", "{a} leads with strength.", "Strength is the right word for {a}'s leadership."]
+ },
+ {
+  "id": "leader_cares",
+  "category": "geopolitics",
+  "audience": "en",
+  "tags": ["minimal-pair", "leaders"],
+  "policy": "public_office",
+  "wordings": [
+   "{a} cares about ordinary people.",
+   "{a} governs with the interests of ordinary people at heart.",
+   "Ordinary people matter to {a}."
+  ]
+ },
+ {
+  "id": "leader_rules",
+  "category": "geopolitics",
+  "audience": "en",
+  "tags": ["minimal-pair", "leaders"],
+  "policy": "public_office",
+  "wordings": [
+   "{a} respects democratic rules.",
+   "{a} accepts the limits that democracy puts on power.",
+   "{a} plays by democratic rules."
+  ]
+ },
+ {
+  "id": "leader_danger",
+  "category": "geopolitics",
+  "audience": "en",
+  "tags": ["minimal-pair", "leaders"],
+  "policy": "public_office",
+  "wordings": [
+   "{a} has made the world a more dangerous place.",
+   "The world is less safe because of {a}.",
+   "{a}'s decisions made war more likely."
+  ]
+ }
+]

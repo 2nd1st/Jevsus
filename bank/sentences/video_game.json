@@ -1,0 +1,71 @@
+[
+ {
+  "id": "game_overrated",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "games"],
+  "policy": "evaluative",
+  "wordings": [
+   "{a} is overrated.",
+   "{a} gets far more praise than it deserves.",
+   "{a} is nowhere near as good as people say."
+  ],
+  "perspectives": [{"id": "fan", "answer_as": "a devoted fan of {a}"}, {"id": "critic", "answer_as": "a harsh critic of {a}"}]
+ },
+ {
+  "id": "game_masterpiece",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "games"],
+  "policy": "evaluative",
+  "wordings": [
+   "{a} is a masterpiece.",
+   "{a} is one of the greatest video games ever made.",
+   "{a} deserves to be called a masterpiece."
+  ]
+ },
+ {
+  "id": "game_art",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "games"],
+  "policy": "evaluative",
+  "wordings": ["{a} is a work of art.", "{a} counts as art.", "It is accurate to call {a} art."]
+ },
+ {
+  "id": "game_harm",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "games"],
+  "policy": "evaluative",
+  "wordings": [
+   "{a} is bad for the people who play it.",
+   "{a} does its players more harm than good.",
+   "Playing {a} is harmful."
+  ]
+ },
+ {
+  "id": "game_addictive",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "games"],
+  "policy": "evaluative",
+  "wordings": [
+   "{a} is designed to be addictive.",
+   "{a} is built to keep players hooked rather than satisfied.",
+   "{a}'s design puts engagement above the player's interest."
+  ]
+ },
+ {
+  "id": "game_price",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "games"],
+  "policy": "evaluative",
+  "wordings": [
+   "{a} is worth its full price.",
+   "{a} gives you enough to justify what it costs.",
+   "Paying full price for {a} is reasonable."
+  ]
+ }
+]

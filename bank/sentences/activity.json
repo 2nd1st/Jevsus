@@ -1,0 +1,19 @@
+[
+ {
+  "id": "real_sport",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "sports"],
+  "policy": "entity",
+  "wordings": ["{a} is a real sport.", "{a} deserves to be called a sport.", "People who compete in {a} are real athletes."],
+  "perspectives": [{"id": "athlete", "answer_as": "a professional competitor in {a}"}]
+ },
+ {
+  "id": "activity_boring",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "sports"],
+  "policy": "entity",
+  "wordings": ["{a} is boring to watch.", "Watching {a} is dull.", "{a} makes for poor viewing."]
+ }
+]

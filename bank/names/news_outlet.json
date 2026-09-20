@@ -1,0 +1,17 @@
+[
+ {"id": "bbc", "name": "The BBC"},
+ {"id": "cnn", "name": "CNN"},
+ {"id": "fox", "name": "Fox News"},
+ {"id": "nyt", "name": "The New York Times"},
+ {"id": "aljazeera", "name": "Al Jazeera"},
+ {"id": "rt", "name": "RT"},
+ {"id": "xinhua", "name": "Xinhua"},
+ {"id": "cgtn", "name": "CGTN"},
+ {"id": "guardian", "name": "The Guardian"},
+ {"id": "wikipedia", "name": "Wikipedia"},
+ {"id": "x", "name": "X (formerly Twitter)"},
+ {"id": "rogan", "name": "Joe Rogan's podcast"},
+ {"id": "reuters", "name": "Reuters"},
+ {"id": "breitbart", "name": "Breitbart"},
+ {"id": "npr", "name": "NPR"}
+]

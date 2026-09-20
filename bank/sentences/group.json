@@ -1,0 +1,14 @@
+[
+ {
+  "id": "joke_hatespeech",
+  "category": "speech",
+  "audience": "en",
+  "tags": ["minimal-pair", "groups", "humour"],
+  "policy": "entity",
+  "wordings": [
+   "A joke about {a} is hate speech.",
+   "Joking about {a} is a form of bigotry.",
+   "Making fun of {a} is offensive."
+  ]
+ }
+]

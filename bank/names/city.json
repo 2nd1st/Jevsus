@@ -1,0 +1,20 @@
+[
+ {"id": "nyc", "name": "New York"},
+ {"id": "london", "name": "London"},
+ {"id": "paris", "name": "Paris"},
+ {"id": "tokyo", "name": "Tokyo"},
+ {"id": "dubai", "name": "Dubai"},
+ {"id": "sf", "name": "San Francisco"},
+ {"id": "shanghai", "name": "Shanghai"},
+ {"id": "singapore", "name": "Singapore"},
+ {"id": "berlin", "name": "Berlin"},
+ {"id": "sydney", "name": "Sydney"},
+ {"id": "la", "name": "Los Angeles"},
+ {"id": "mumbai", "name": "Mumbai"},
+ {"id": "hongkong", "name": "Hong Kong"},
+ {"id": "bangkok", "name": "Bangkok"},
+ {"id": "joburg", "name": "Johannesburg"},
+ {"id": "rio", "name": "Rio de Janeiro"},
+ {"id": "chicago", "name": "Chicago"},
+ {"id": "mexicocity", "name": "Mexico City"}
+]

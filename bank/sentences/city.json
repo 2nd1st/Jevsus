@@ -1,0 +1,72 @@
+[
+ {
+  "id": "city_overrated",
+  "category": "places",
+  "audience": "en",
+  "tags": ["minimal-pair", "cities"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is overrated as a place to live.",
+   "Living in {a} is nowhere near as good as people say.",
+   "{a} gets far more hype than it deserves as a place to live."
+  ],
+  "perspectives": [{"id": "resident", "answer_as": "a lifelong resident of {a}"}]
+ },
+ {
+  "id": "city_dangerous",
+  "category": "places",
+  "audience": "en",
+  "tags": ["minimal-pair", "cities"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is a dangerous city.",
+   "{a} is unsafe for an ordinary visitor.",
+   "A tourist in {a} is at serious risk of crime."
+  ],
+  "perspectives": [{"id": "resident", "answer_as": "a lifelong resident of {a}"}]
+ },
+ {
+  "id": "city_young",
+  "category": "places",
+  "audience": "en",
+  "tags": ["minimal-pair", "cities"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is a great city for young people.",
+   "{a} is a good place to spend your twenties.",
+   "Young people are better off living in {a}."
+  ]
+ },
+ {
+  "id": "city_worth",
+  "category": "places",
+  "audience": "en",
+  "tags": ["minimal-pair", "cities"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is worth what it costs to live there.",
+   "Living in {a} justifies the price.",
+   "{a} gives you good value for the cost of living."
+  ]
+ },
+ {
+  "id": "city_tourism",
+  "category": "places",
+  "audience": "en",
+  "tags": ["minimal-pair", "cities"],
+  "policy": "entity",
+  "wordings": ["{a} has been ruined by tourism.", "Tourism has spoiled {a}.", "{a} has lost its character to tourists."]
+ },
+ {
+  "id": "city_beautiful",
+  "category": "places",
+  "audience": "en",
+  "tags": ["minimal-pair", "cities"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is a beautiful city.",
+   "{a} is among the most beautiful cities in the world.",
+   "{a} is a pleasure to look at."
+  ]
+ }
+]

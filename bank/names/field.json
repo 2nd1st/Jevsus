@@ -1,0 +1,16 @@
+[
+ {"id": "economics", "name": "Economics"},
+ {"id": "psychology", "name": "Psychology"},
+ {"id": "sociology", "name": "Sociology"},
+ {"id": "astrology", "name": "Astrology"},
+ {"id": "nutrition", "name": "Nutrition science"},
+ {"id": "climate", "name": "Climate science"},
+ {"id": "polisci", "name": "Political science"},
+ {"id": "psychoanalysis", "name": "Psychoanalysis"},
+ {"id": "stringtheory", "name": "String theory"},
+ {"id": "ml", "name": "Machine learning"},
+ {"id": "evopsych", "name": "Evolutionary psychology"},
+ {"id": "genderstudies", "name": "Gender studies"},
+ {"id": "homeopathy", "name": "Homeopathy"},
+ {"id": "chiropractic", "name": "Chiropractic"}
+]

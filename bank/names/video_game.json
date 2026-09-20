@@ -1,0 +1,13 @@
+[
+ {"id": "minecraft", "name": "Minecraft"},
+ {"id": "fortnite", "name": "Fortnite"},
+ {"id": "tlou", "name": "The Last of Us"},
+ {"id": "eldenring", "name": "Elden Ring"},
+ {"id": "gtav", "name": "Grand Theft Auto V"},
+ {"id": "botw", "name": "The Legend of Zelda: Breath of the Wild"},
+ {"id": "lol", "name": "League of Legends"},
+ {"id": "cod", "name": "Call of Duty"},
+ {"id": "genshin", "name": "Genshin Impact"},
+ {"id": "pokemon", "name": "Pokémon"},
+ {"id": "sims", "name": "The Sims"}
+]

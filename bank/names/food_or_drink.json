@@ -1,0 +1,18 @@
+[
+ {"id": "sushi", "name": "Sushi"},
+ {"id": "pizza", "name": "Pizza"},
+ {"id": "durian", "name": "Durian"},
+ {"id": "pineapplepizza", "name": "Pineapple pizza"},
+ {"id": "avocadotoast", "name": "Avocado toast"},
+ {"id": "coffee", "name": "Coffee"},
+ {"id": "bubbletea", "name": "Bubble tea"},
+ {"id": "kale", "name": "Kale"},
+ {"id": "tofu", "name": "Tofu"},
+ {"id": "haggis", "name": "Haggis"},
+ {"id": "vegemite", "name": "Vegemite"},
+ {"id": "natto", "name": "Natto"},
+ {"id": "cilantro", "name": "Cilantro"},
+ {"id": "oatmilk", "name": "Oat milk"},
+ {"id": "energydrinks", "name": "Energy drinks"},
+ {"id": "bluecheese", "name": "Blue cheese"}
+]

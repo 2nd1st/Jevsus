@@ -1,0 +1,15 @@
+{
+ "id": "evangelical",
+ "display_en": "a devout evangelical Christian",
+ "display_zh": "虔诚的福音派基督徒",
+ "prefix_en": "a devout evangelical Christian",
+ "prefix_zh": "一位虔诚的福音派基督徒",
+ "state_key": "answer_as",
+ "group_type": "religion",
+ "anchors_required": true,
+ "column_label_en": "What Jev thinks a devout evangelical Christian would answer",
+ "column_label_zh": "Jev 认为虔诚的福音派基督徒会怎么答",
+ "source": "sensitivity_probe",
+ "note": "Fixed generic stance, run on every item so stance sensitivity is comparable across templates. Wording is verbatim from the 2026-09-20 persona probe. Not a switchable site preset.",
+ "site_preset": false
+}

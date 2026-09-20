@@ -1,0 +1,58 @@
+[
+ {
+  "id": "book_overrated",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "books"],
+  "policy": "evaluative",
+  "wordings": ["{a} is overrated.", "{a} gets more praise than it deserves.", "{a} is nowhere near as good as people say."]
+ },
+ {
+  "id": "book_worth",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "books"],
+  "policy": "evaluative",
+  "wordings": [
+   "{a} is worth reading.",
+   "Reading {a} is a good use of your time.",
+   "A person is better off for having read {a}."
+  ]
+ },
+ {
+  "id": "book_harm",
+  "category": "culture",
+  "audience": "en",
+  "tags": ["minimal-pair", "books"],
+  "policy": "evaluative",
+  "wordings": [
+   "{a} has done more harm than good.",
+   "The world would be better off if {a} had never been written.",
+   "{a} has had a harmful influence on the world."
+  ]
+ },
+ {
+  "id": "book_school",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "books"],
+  "policy": "evaluative",
+  "wordings": [
+   "{a} is worth teaching in schools.",
+   "Schoolchildren benefit from reading {a}.",
+   "{a} has a place on a school syllabus."
+  ]
+ },
+ {
+  "id": "book_unfinished",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "books"],
+  "policy": "evaluative",
+  "wordings": [
+   "Most people who start {a} never finish it.",
+   "{a} is more owned than read.",
+   "{a} defeats most of the people who pick it up."
+  ]
+ }
+]

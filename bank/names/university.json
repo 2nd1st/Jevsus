@@ -1,0 +1,16 @@
+[
+ {"id": "harvard", "name": "Harvard"},
+ {"id": "stanford", "name": "Stanford"},
+ {"id": "mit", "name": "MIT"},
+ {"id": "oxford", "name": "Oxford"},
+ {"id": "cambridge", "name": "Cambridge"},
+ {"id": "yale", "name": "Yale"},
+ {"id": "princeton", "name": "Princeton"},
+ {"id": "tsinghua", "name": "Tsinghua University"},
+ {"id": "pku", "name": "Peking University"},
+ {"id": "utokyo", "name": "the University of Tokyo"},
+ {"id": "eth", "name": "ETH Zurich"},
+ {"id": "nus", "name": "the National University of Singapore"},
+ {"id": "sorbonne", "name": "the Sorbonne"},
+ {"id": "iit", "name": "the Indian Institutes of Technology"}
+]

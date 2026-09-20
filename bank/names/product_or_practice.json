@@ -1,0 +1,14 @@
+[
+ {"id": "bitcoin", "name": "Bitcoin"},
+ {"id": "nfts", "name": "The NFT market"},
+ {"id": "mlm", "name": "Multi-level marketing"},
+ {"id": "college", "name": "A university degree"},
+ {"id": "astrology", "name": "Astrology"},
+ {"id": "homeopathy", "name": "Homeopathy"},
+ {"id": "chiropractic", "name": "Chiropractic"},
+ {"id": "lifecoach", "name": "Life coaching"},
+ {"id": "diamonds", "name": "The diamond engagement ring"},
+ {"id": "wellness", "name": "The wellness industry"},
+ {"id": "organic", "name": "Organic food"},
+ {"id": "supplements", "name": "The supplement industry"}
+]

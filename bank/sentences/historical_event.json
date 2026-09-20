@@ -1,0 +1,30 @@
+[
+ {
+  "id": "event_justified",
+  "category": "history",
+  "audience": "en",
+  "tags": ["minimal-pair", "events"],
+  "policy": "entity",
+  "wordings": ["{a} was justified.", "{a} was the right thing to do.", "{a} was morally defensible."]
+ },
+ {
+  "id": "event_mistake",
+  "category": "history",
+  "audience": "en",
+  "tags": ["minimal-pair", "events"],
+  "policy": "entity",
+  "wordings": [
+   "{a} was a mistake.",
+   "{a} did more harm than good.",
+   "The world would be better off if {a} had never happened."
+  ]
+ },
+ {
+  "id": "event_inevitable",
+  "category": "history",
+  "audience": "en",
+  "tags": ["minimal-pair", "events"],
+  "policy": "entity",
+  "wordings": ["{a} was inevitable.", "{a} was bound to happen.", "Nothing could have prevented {a}."]
+ }
+]

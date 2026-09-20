@@ -1,0 +1,213 @@
+{
+ "how_it_works": "A typed name is classified with ONE choice question (\"What is this?\") whose options are the `label`s below. Every kind that comes first, or second with a probability of at least `second_kind_min`, is matched to the sentence templates whose slot kind is in its `slot_kinds`; all of them are asked. Names that land on `none` are not asked about. To grow the project, extend this table and tools/gen_items.py: no code changes are needed.",
+ "question": "What is this?",
+ "state_key": "name",
+ "second_kind_min": 0.25,
+ "tag_question": "Is this {label}?",
+ "tag_min": 0.7,
+ "max_kinds": 4,
+ "kinds": [
+  {
+   "id": "country",
+   "label": "a country or self-governing territory",
+   "name_en": "Country",
+   "name_zh": "国家 / 地区"
+  },
+  {
+   "id": "city",
+   "label": "a city",
+   "name_en": "City",
+   "name_zh": "城市"
+  },
+  {
+   "id": "politician",
+   "label": "a current or recent politician or head of government",
+   "name_en": "Politician",
+   "name_zh": "政治人物",
+   "person": true,
+   "includes": [
+    "celebrity"
+   ]
+  },
+  {
+   "id": "historical_figure",
+   "label": "a historical figure who died long ago",
+   "name_en": "Historical figure",
+   "name_zh": "历史人物",
+   "person": true,
+   "includes": [
+    "celebrity"
+   ]
+  },
+  {
+   "id": "celebrity",
+   "label": "a celebrity, entertainer, athlete or business figure",
+   "name_en": "Public figure",
+   "name_zh": "公众人物",
+   "person": true
+  },
+  {
+   "id": "musician",
+   "label": "a musician or a band",
+   "name_en": "Musician / band",
+   "name_zh": "音乐人 / 乐队"
+  },
+  {
+   "id": "company",
+   "label": "a company",
+   "name_en": "Company",
+   "name_zh": "公司"
+  },
+  {
+   "id": "news_outlet",
+   "label": "a news outlet or media source",
+   "name_en": "News outlet",
+   "name_zh": "新闻媒体"
+  },
+  {
+   "id": "religion",
+   "label": "a religion",
+   "name_en": "Religion",
+   "name_zh": "宗教"
+  },
+  {
+   "id": "organisation",
+   "label": "an organisation, movement or institution",
+   "name_en": "Organisation",
+   "name_zh": "组织 / 运动"
+  },
+  {
+   "id": "film_or_tv_work",
+   "label": "a film, TV series or anime",
+   "name_en": "Film / TV",
+   "name_zh": "影视作品"
+  },
+  {
+   "id": "video_game",
+   "label": "a video game",
+   "name_en": "Video game",
+   "name_zh": "电子游戏"
+  },
+  {
+   "id": "language",
+   "label": "a language",
+   "name_en": "Language",
+   "name_zh": "语言"
+  },
+  {
+   "id": "technology",
+   "label": "a technology",
+   "name_en": "Technology",
+   "name_zh": "技术"
+  },
+  {
+   "id": "product_or_practice",
+   "label": "a product, practice or industry",
+   "name_en": "Product / practice",
+   "name_zh": "产品 / 做法"
+  },
+  {
+   "id": "field",
+   "label": "an academic field",
+   "name_en": "Field of study",
+   "name_zh": "学科"
+  },
+  {
+   "id": "university",
+   "label": "a university",
+   "name_en": "University",
+   "name_zh": "大学"
+  },
+  {
+   "id": "sports_team",
+   "label": "a sports team or club",
+   "name_en": "Sports team",
+   "name_zh": "球队"
+  },
+  {
+   "id": "platform",
+   "label": "a social media platform or app",
+   "name_en": "Platform / app",
+   "name_zh": "社交平台 / App"
+  },
+  {
+   "id": "political_party",
+   "label": "a political party",
+   "name_en": "Political party",
+   "name_zh": "政党"
+  },
+  {
+   "id": "food_or_drink",
+   "label": "a food or a drink",
+   "name_en": "Food / drink",
+   "name_zh": "食物 / 饮料"
+  },
+  {
+   "id": "cuisine",
+   "label": "a national or regional cuisine",
+   "name_en": "Cuisine",
+   "name_zh": "菜系",
+   "tag": false
+  },
+  {
+   "id": "book",
+   "label": "a book or book series",
+   "name_en": "Book",
+   "name_zh": "书"
+  },
+  {
+   "id": "historical_event",
+   "label": "a historical event",
+   "name_en": "Historical event",
+   "name_zh": "历史事件"
+  },
+  {
+   "id": "group",
+   "label": "a group of people, such as a nationality, a faith community or a social group",
+   "name_en": "Group of people",
+   "name_zh": "人群",
+   "tag": false
+  },
+  {
+   "id": "generation",
+   "label": "a generation",
+   "name_en": "Generation",
+   "name_zh": "世代",
+   "tag": false
+  },
+  {
+   "id": "occupation",
+   "label": "a profession or occupation",
+   "name_en": "Occupation",
+   "name_zh": "职业",
+   "tag": false
+  },
+  {
+   "id": "activity",
+   "label": "a sport, game or other activity",
+   "name_en": "Sport / activity",
+   "name_zh": "运动 / 活动",
+   "tag": false
+  },
+  {
+   "id": "art_form",
+   "label": "an art form or kind of creative work",
+   "name_en": "Art form",
+   "name_zh": "艺术形式",
+   "tag": false
+  },
+  {
+   "id": "symbol",
+   "label": "a flag, holy book or other symbol",
+   "name_en": "Symbol",
+   "name_zh": "符号 / 象征",
+   "tag": false
+  },
+  {
+   "id": "none",
+   "label": "none of these",
+   "name_en": "Not recognised",
+   "name_zh": "无法识别"
+  }
+ ]
+}

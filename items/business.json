@@ -1,0 +1,7051 @@
+[
+ {
+  "id": "company_harm.apple",
+  "template_id": "company_harm",
+  "entity": "apple",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Apple does more harm than good.",
+  "phrasings_en": [
+   "Apple does more harm than good.",
+   "Apple is a net negative for society.",
+   "The world would be better off without Apple."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Apple"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of Apple"
+   }
+  ],
+  "slots": {
+   "a": "Apple"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_harm.google",
+  "template_id": "company_harm",
+  "entity": "google",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Google does more harm than good.",
+  "phrasings_en": [
+   "Google does more harm than good.",
+   "Google is a net negative for society.",
+   "The world would be better off without Google."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Google"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of Google"
+   }
+  ],
+  "slots": {
+   "a": "Google"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_harm.meta",
+  "template_id": "company_harm",
+  "entity": "meta",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Meta does more harm than good.",
+  "phrasings_en": [
+   "Meta does more harm than good.",
+   "Meta is a net negative for society.",
+   "The world would be better off without Meta."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Meta"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of Meta"
+   }
+  ],
+  "slots": {
+   "a": "Meta"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_harm.amazon",
+  "template_id": "company_harm",
+  "entity": "amazon",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Amazon does more harm than good.",
+  "phrasings_en": [
+   "Amazon does more harm than good.",
+   "Amazon is a net negative for society.",
+   "The world would be better off without Amazon."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Amazon"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of Amazon"
+   }
+  ],
+  "slots": {
+   "a": "Amazon"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_harm.tesla",
+  "template_id": "company_harm",
+  "entity": "tesla",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Tesla does more harm than good.",
+  "phrasings_en": [
+   "Tesla does more harm than good.",
+   "Tesla is a net negative for society.",
+   "The world would be better off without Tesla."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Tesla"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of Tesla"
+   }
+  ],
+  "slots": {
+   "a": "Tesla"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_harm.openai",
+  "template_id": "company_harm",
+  "entity": "openai",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "OpenAI does more harm than good.",
+  "phrasings_en": [
+   "OpenAI does more harm than good.",
+   "OpenAI is a net negative for society.",
+   "The world would be better off without OpenAI."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of OpenAI"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of OpenAI"
+   }
+  ],
+  "slots": {
+   "a": "OpenAI"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_harm.microsoft",
+  "template_id": "company_harm",
+  "entity": "microsoft",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Microsoft does more harm than good.",
+  "phrasings_en": [
+   "Microsoft does more harm than good.",
+   "Microsoft is a net negative for society.",
+   "The world would be better off without Microsoft."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Microsoft"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of Microsoft"
+   }
+  ],
+  "slots": {
+   "a": "Microsoft"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_harm.tiktok",
+  "template_id": "company_harm",
+  "entity": "tiktok",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "TikTok does more harm than good.",
+  "phrasings_en": [
+   "TikTok does more harm than good.",
+   "TikTok is a net negative for society.",
+   "The world would be better off without TikTok."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of TikTok"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of TikTok"
+   }
+  ],
+  "slots": {
+   "a": "TikTok"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_harm.nestle",
+  "template_id": "company_harm",
+  "entity": "nestle",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Nestlé does more harm than good.",
+  "phrasings_en": [
+   "Nestlé does more harm than good.",
+   "Nestlé is a net negative for society.",
+   "The world would be better off without Nestlé."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Nestlé"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of Nestlé"
+   }
+  ],
+  "slots": {
+   "a": "Nestlé"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_harm.boeing",
+  "template_id": "company_harm",
+  "entity": "boeing",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Boeing does more harm than good.",
+  "phrasings_en": [
+   "Boeing does more harm than good.",
+   "Boeing is a net negative for society.",
+   "The world would be better off without Boeing."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Boeing"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of Boeing"
+   }
+  ],
+  "slots": {
+   "a": "Boeing"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_harm.shell",
+  "template_id": "company_harm",
+  "entity": "shell",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Shell does more harm than good.",
+  "phrasings_en": [
+   "Shell does more harm than good.",
+   "Shell is a net negative for society.",
+   "The world would be better off without Shell."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Shell"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of Shell"
+   }
+  ],
+  "slots": {
+   "a": "Shell"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_harm.pfizer",
+  "template_id": "company_harm",
+  "entity": "pfizer",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Pfizer does more harm than good.",
+  "phrasings_en": [
+   "Pfizer does more harm than good.",
+   "Pfizer is a net negative for society.",
+   "The world would be better off without Pfizer."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Pfizer"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of Pfizer"
+   }
+  ],
+  "slots": {
+   "a": "Pfizer"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_harm.disney",
+  "template_id": "company_harm",
+  "entity": "disney",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Disney does more harm than good.",
+  "phrasings_en": [
+   "Disney does more harm than good.",
+   "Disney is a net negative for society.",
+   "The world would be better off without Disney."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Disney"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of Disney"
+   }
+  ],
+  "slots": {
+   "a": "Disney"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_harm.nike",
+  "template_id": "company_harm",
+  "entity": "nike",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Nike does more harm than good.",
+  "phrasings_en": [
+   "Nike does more harm than good.",
+   "Nike is a net negative for society.",
+   "The world would be better off without Nike."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Nike"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of Nike"
+   }
+  ],
+  "slots": {
+   "a": "Nike"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_harm.huawei",
+  "template_id": "company_harm",
+  "entity": "huawei",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Huawei does more harm than good.",
+  "phrasings_en": [
+   "Huawei does more harm than good.",
+   "Huawei is a net negative for society.",
+   "The world would be better off without Huawei."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Huawei"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of Huawei"
+   }
+  ],
+  "slots": {
+   "a": "Huawei"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_harm.palantir",
+  "template_id": "company_harm",
+  "entity": "palantir",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Palantir does more harm than good.",
+  "phrasings_en": [
+   "Palantir does more harm than good.",
+   "Palantir is a net negative for society.",
+   "The world would be better off without Palantir."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Palantir"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of Palantir"
+   }
+  ],
+  "slots": {
+   "a": "Palantir"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_harm.shein",
+  "template_id": "company_harm",
+  "entity": "shein",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Shein does more harm than good.",
+  "phrasings_en": [
+   "Shein does more harm than good.",
+   "Shein is a net negative for society.",
+   "The world would be better off without Shein."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Shein"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of Shein"
+   }
+  ],
+  "slots": {
+   "a": "Shein"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_harm.mcdonalds",
+  "template_id": "company_harm",
+  "entity": "mcdonalds",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "McDonald's does more harm than good.",
+  "phrasings_en": [
+   "McDonald's does more harm than good.",
+   "McDonald's is a net negative for society.",
+   "The world would be better off without McDonald's."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of McDonald's"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of McDonald's"
+   }
+  ],
+  "slots": {
+   "a": "McDonald's"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_harm.nvidia",
+  "template_id": "company_harm",
+  "entity": "nvidia",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Nvidia does more harm than good.",
+  "phrasings_en": [
+   "Nvidia does more harm than good.",
+   "Nvidia is a net negative for society.",
+   "The world would be better off without Nvidia."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Nvidia"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of Nvidia"
+   }
+  ],
+  "slots": {
+   "a": "Nvidia"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_harm.tencent",
+  "template_id": "company_harm",
+  "entity": "tencent",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Tencent does more harm than good.",
+  "phrasings_en": [
+   "Tencent does more harm than good.",
+   "Tencent is a net negative for society.",
+   "The world would be better off without Tencent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Tencent"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of Tencent"
+   }
+  ],
+  "slots": {
+   "a": "Tencent"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_harm.alibaba",
+  "template_id": "company_harm",
+  "entity": "alibaba",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Alibaba does more harm than good.",
+  "phrasings_en": [
+   "Alibaba does more harm than good.",
+   "Alibaba is a net negative for society.",
+   "The world would be better off without Alibaba."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Alibaba"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of Alibaba"
+   }
+  ],
+  "slots": {
+   "a": "Alibaba"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_harm.visa",
+  "template_id": "company_harm",
+  "entity": "visa",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Visa does more harm than good.",
+  "phrasings_en": [
+   "Visa does more harm than good.",
+   "Visa is a net negative for society.",
+   "The world would be better off without Visa."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Visa"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of Visa"
+   }
+  ],
+  "slots": {
+   "a": "Visa"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_harm.ticketmaster",
+  "template_id": "company_harm",
+  "entity": "ticketmaster",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Ticketmaster does more harm than good.",
+  "phrasings_en": [
+   "Ticketmaster does more harm than good.",
+   "Ticketmaster is a net negative for society.",
+   "The world would be better off without Ticketmaster."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Ticketmaster"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of Ticketmaster"
+   }
+  ],
+  "slots": {
+   "a": "Ticketmaster"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_harm.spotify",
+  "template_id": "company_harm",
+  "entity": "spotify",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Spotify does more harm than good.",
+  "phrasings_en": [
+   "Spotify does more harm than good.",
+   "Spotify is a net negative for society.",
+   "The world would be better off without Spotify."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Spotify"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of Spotify"
+   }
+  ],
+  "slots": {
+   "a": "Spotify"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_harm.tsmc",
+  "template_id": "company_harm",
+  "entity": "tsmc",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "TSMC does more harm than good.",
+  "phrasings_en": [
+   "TSMC does more harm than good.",
+   "TSMC is a net negative for society.",
+   "The world would be better off without TSMC."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of TSMC"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of TSMC"
+   }
+  ],
+  "slots": {
+   "a": "TSMC"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_harm.intel",
+  "template_id": "company_harm",
+  "entity": "intel",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Intel does more harm than good.",
+  "phrasings_en": [
+   "Intel does more harm than good.",
+   "Intel is a net negative for society.",
+   "The world would be better off without Intel."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Intel"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of Intel"
+   }
+  ],
+  "slots": {
+   "a": "Intel"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_harm.netflix",
+  "template_id": "company_harm",
+  "entity": "netflix",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Netflix does more harm than good.",
+  "phrasings_en": [
+   "Netflix does more harm than good.",
+   "Netflix is a net negative for society.",
+   "The world would be better off without Netflix."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Netflix"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of Netflix"
+   }
+  ],
+  "slots": {
+   "a": "Netflix"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_harm.anthropic",
+  "template_id": "company_harm",
+  "entity": "anthropic",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Anthropic does more harm than good.",
+  "phrasings_en": [
+   "Anthropic does more harm than good.",
+   "Anthropic is a net negative for society.",
+   "The world would be better off without Anthropic."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Anthropic"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of Anthropic"
+   }
+  ],
+  "slots": {
+   "a": "Anthropic"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_monopoly.apple",
+  "template_id": "company_monopoly",
+  "entity": "apple",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Apple is a monopoly.",
+  "phrasings_en": [
+   "Apple is a monopoly.",
+   "Apple abuses its market power.",
+   "Apple has too much power over its market."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Apple"
+   },
+   {
+    "id": "rival",
+    "answer_as": "an executive at a competitor of Apple"
+   }
+  ],
+  "slots": {
+   "a": "Apple"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_monopoly.google",
+  "template_id": "company_monopoly",
+  "entity": "google",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Google is a monopoly.",
+  "phrasings_en": [
+   "Google is a monopoly.",
+   "Google abuses its market power.",
+   "Google has too much power over its market."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Google"
+   },
+   {
+    "id": "rival",
+    "answer_as": "an executive at a competitor of Google"
+   }
+  ],
+  "slots": {
+   "a": "Google"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_monopoly.meta",
+  "template_id": "company_monopoly",
+  "entity": "meta",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Meta is a monopoly.",
+  "phrasings_en": [
+   "Meta is a monopoly.",
+   "Meta abuses its market power.",
+   "Meta has too much power over its market."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Meta"
+   },
+   {
+    "id": "rival",
+    "answer_as": "an executive at a competitor of Meta"
+   }
+  ],
+  "slots": {
+   "a": "Meta"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_monopoly.amazon",
+  "template_id": "company_monopoly",
+  "entity": "amazon",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Amazon is a monopoly.",
+  "phrasings_en": [
+   "Amazon is a monopoly.",
+   "Amazon abuses its market power.",
+   "Amazon has too much power over its market."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Amazon"
+   },
+   {
+    "id": "rival",
+    "answer_as": "an executive at a competitor of Amazon"
+   }
+  ],
+  "slots": {
+   "a": "Amazon"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_monopoly.tesla",
+  "template_id": "company_monopoly",
+  "entity": "tesla",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Tesla is a monopoly.",
+  "phrasings_en": [
+   "Tesla is a monopoly.",
+   "Tesla abuses its market power.",
+   "Tesla has too much power over its market."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Tesla"
+   },
+   {
+    "id": "rival",
+    "answer_as": "an executive at a competitor of Tesla"
+   }
+  ],
+  "slots": {
+   "a": "Tesla"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_monopoly.openai",
+  "template_id": "company_monopoly",
+  "entity": "openai",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "OpenAI is a monopoly.",
+  "phrasings_en": [
+   "OpenAI is a monopoly.",
+   "OpenAI abuses its market power.",
+   "OpenAI has too much power over its market."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of OpenAI"
+   },
+   {
+    "id": "rival",
+    "answer_as": "an executive at a competitor of OpenAI"
+   }
+  ],
+  "slots": {
+   "a": "OpenAI"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_monopoly.microsoft",
+  "template_id": "company_monopoly",
+  "entity": "microsoft",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Microsoft is a monopoly.",
+  "phrasings_en": [
+   "Microsoft is a monopoly.",
+   "Microsoft abuses its market power.",
+   "Microsoft has too much power over its market."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Microsoft"
+   },
+   {
+    "id": "rival",
+    "answer_as": "an executive at a competitor of Microsoft"
+   }
+  ],
+  "slots": {
+   "a": "Microsoft"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_monopoly.tiktok",
+  "template_id": "company_monopoly",
+  "entity": "tiktok",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "TikTok is a monopoly.",
+  "phrasings_en": [
+   "TikTok is a monopoly.",
+   "TikTok abuses its market power.",
+   "TikTok has too much power over its market."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of TikTok"
+   },
+   {
+    "id": "rival",
+    "answer_as": "an executive at a competitor of TikTok"
+   }
+  ],
+  "slots": {
+   "a": "TikTok"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_monopoly.nestle",
+  "template_id": "company_monopoly",
+  "entity": "nestle",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Nestlé is a monopoly.",
+  "phrasings_en": [
+   "Nestlé is a monopoly.",
+   "Nestlé abuses its market power.",
+   "Nestlé has too much power over its market."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Nestlé"
+   },
+   {
+    "id": "rival",
+    "answer_as": "an executive at a competitor of Nestlé"
+   }
+  ],
+  "slots": {
+   "a": "Nestlé"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_monopoly.boeing",
+  "template_id": "company_monopoly",
+  "entity": "boeing",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Boeing is a monopoly.",
+  "phrasings_en": [
+   "Boeing is a monopoly.",
+   "Boeing abuses its market power.",
+   "Boeing has too much power over its market."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Boeing"
+   },
+   {
+    "id": "rival",
+    "answer_as": "an executive at a competitor of Boeing"
+   }
+  ],
+  "slots": {
+   "a": "Boeing"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_monopoly.shell",
+  "template_id": "company_monopoly",
+  "entity": "shell",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Shell is a monopoly.",
+  "phrasings_en": [
+   "Shell is a monopoly.",
+   "Shell abuses its market power.",
+   "Shell has too much power over its market."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Shell"
+   },
+   {
+    "id": "rival",
+    "answer_as": "an executive at a competitor of Shell"
+   }
+  ],
+  "slots": {
+   "a": "Shell"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_monopoly.pfizer",
+  "template_id": "company_monopoly",
+  "entity": "pfizer",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Pfizer is a monopoly.",
+  "phrasings_en": [
+   "Pfizer is a monopoly.",
+   "Pfizer abuses its market power.",
+   "Pfizer has too much power over its market."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Pfizer"
+   },
+   {
+    "id": "rival",
+    "answer_as": "an executive at a competitor of Pfizer"
+   }
+  ],
+  "slots": {
+   "a": "Pfizer"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_monopoly.disney",
+  "template_id": "company_monopoly",
+  "entity": "disney",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Disney is a monopoly.",
+  "phrasings_en": [
+   "Disney is a monopoly.",
+   "Disney abuses its market power.",
+   "Disney has too much power over its market."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Disney"
+   },
+   {
+    "id": "rival",
+    "answer_as": "an executive at a competitor of Disney"
+   }
+  ],
+  "slots": {
+   "a": "Disney"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_monopoly.nike",
+  "template_id": "company_monopoly",
+  "entity": "nike",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Nike is a monopoly.",
+  "phrasings_en": [
+   "Nike is a monopoly.",
+   "Nike abuses its market power.",
+   "Nike has too much power over its market."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Nike"
+   },
+   {
+    "id": "rival",
+    "answer_as": "an executive at a competitor of Nike"
+   }
+  ],
+  "slots": {
+   "a": "Nike"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_monopoly.huawei",
+  "template_id": "company_monopoly",
+  "entity": "huawei",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Huawei is a monopoly.",
+  "phrasings_en": [
+   "Huawei is a monopoly.",
+   "Huawei abuses its market power.",
+   "Huawei has too much power over its market."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Huawei"
+   },
+   {
+    "id": "rival",
+    "answer_as": "an executive at a competitor of Huawei"
+   }
+  ],
+  "slots": {
+   "a": "Huawei"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_monopoly.palantir",
+  "template_id": "company_monopoly",
+  "entity": "palantir",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Palantir is a monopoly.",
+  "phrasings_en": [
+   "Palantir is a monopoly.",
+   "Palantir abuses its market power.",
+   "Palantir has too much power over its market."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Palantir"
+   },
+   {
+    "id": "rival",
+    "answer_as": "an executive at a competitor of Palantir"
+   }
+  ],
+  "slots": {
+   "a": "Palantir"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_monopoly.shein",
+  "template_id": "company_monopoly",
+  "entity": "shein",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Shein is a monopoly.",
+  "phrasings_en": [
+   "Shein is a monopoly.",
+   "Shein abuses its market power.",
+   "Shein has too much power over its market."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Shein"
+   },
+   {
+    "id": "rival",
+    "answer_as": "an executive at a competitor of Shein"
+   }
+  ],
+  "slots": {
+   "a": "Shein"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_monopoly.mcdonalds",
+  "template_id": "company_monopoly",
+  "entity": "mcdonalds",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "McDonald's is a monopoly.",
+  "phrasings_en": [
+   "McDonald's is a monopoly.",
+   "McDonald's abuses its market power.",
+   "McDonald's has too much power over its market."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of McDonald's"
+   },
+   {
+    "id": "rival",
+    "answer_as": "an executive at a competitor of McDonald's"
+   }
+  ],
+  "slots": {
+   "a": "McDonald's"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_monopoly.nvidia",
+  "template_id": "company_monopoly",
+  "entity": "nvidia",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Nvidia is a monopoly.",
+  "phrasings_en": [
+   "Nvidia is a monopoly.",
+   "Nvidia abuses its market power.",
+   "Nvidia has too much power over its market."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Nvidia"
+   },
+   {
+    "id": "rival",
+    "answer_as": "an executive at a competitor of Nvidia"
+   }
+  ],
+  "slots": {
+   "a": "Nvidia"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_monopoly.tencent",
+  "template_id": "company_monopoly",
+  "entity": "tencent",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Tencent is a monopoly.",
+  "phrasings_en": [
+   "Tencent is a monopoly.",
+   "Tencent abuses its market power.",
+   "Tencent has too much power over its market."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Tencent"
+   },
+   {
+    "id": "rival",
+    "answer_as": "an executive at a competitor of Tencent"
+   }
+  ],
+  "slots": {
+   "a": "Tencent"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_monopoly.alibaba",
+  "template_id": "company_monopoly",
+  "entity": "alibaba",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Alibaba is a monopoly.",
+  "phrasings_en": [
+   "Alibaba is a monopoly.",
+   "Alibaba abuses its market power.",
+   "Alibaba has too much power over its market."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Alibaba"
+   },
+   {
+    "id": "rival",
+    "answer_as": "an executive at a competitor of Alibaba"
+   }
+  ],
+  "slots": {
+   "a": "Alibaba"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_monopoly.visa",
+  "template_id": "company_monopoly",
+  "entity": "visa",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Visa is a monopoly.",
+  "phrasings_en": [
+   "Visa is a monopoly.",
+   "Visa abuses its market power.",
+   "Visa has too much power over its market."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Visa"
+   },
+   {
+    "id": "rival",
+    "answer_as": "an executive at a competitor of Visa"
+   }
+  ],
+  "slots": {
+   "a": "Visa"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_monopoly.ticketmaster",
+  "template_id": "company_monopoly",
+  "entity": "ticketmaster",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Ticketmaster is a monopoly.",
+  "phrasings_en": [
+   "Ticketmaster is a monopoly.",
+   "Ticketmaster abuses its market power.",
+   "Ticketmaster has too much power over its market."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Ticketmaster"
+   },
+   {
+    "id": "rival",
+    "answer_as": "an executive at a competitor of Ticketmaster"
+   }
+  ],
+  "slots": {
+   "a": "Ticketmaster"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_monopoly.spotify",
+  "template_id": "company_monopoly",
+  "entity": "spotify",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Spotify is a monopoly.",
+  "phrasings_en": [
+   "Spotify is a monopoly.",
+   "Spotify abuses its market power.",
+   "Spotify has too much power over its market."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Spotify"
+   },
+   {
+    "id": "rival",
+    "answer_as": "an executive at a competitor of Spotify"
+   }
+  ],
+  "slots": {
+   "a": "Spotify"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_monopoly.tsmc",
+  "template_id": "company_monopoly",
+  "entity": "tsmc",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "TSMC is a monopoly.",
+  "phrasings_en": [
+   "TSMC is a monopoly.",
+   "TSMC abuses its market power.",
+   "TSMC has too much power over its market."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of TSMC"
+   },
+   {
+    "id": "rival",
+    "answer_as": "an executive at a competitor of TSMC"
+   }
+  ],
+  "slots": {
+   "a": "TSMC"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_monopoly.intel",
+  "template_id": "company_monopoly",
+  "entity": "intel",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Intel is a monopoly.",
+  "phrasings_en": [
+   "Intel is a monopoly.",
+   "Intel abuses its market power.",
+   "Intel has too much power over its market."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Intel"
+   },
+   {
+    "id": "rival",
+    "answer_as": "an executive at a competitor of Intel"
+   }
+  ],
+  "slots": {
+   "a": "Intel"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_monopoly.netflix",
+  "template_id": "company_monopoly",
+  "entity": "netflix",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Netflix is a monopoly.",
+  "phrasings_en": [
+   "Netflix is a monopoly.",
+   "Netflix abuses its market power.",
+   "Netflix has too much power over its market."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Netflix"
+   },
+   {
+    "id": "rival",
+    "answer_as": "an executive at a competitor of Netflix"
+   }
+  ],
+  "slots": {
+   "a": "Netflix"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_monopoly.anthropic",
+  "template_id": "company_monopoly",
+  "entity": "anthropic",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Anthropic is a monopoly.",
+  "phrasings_en": [
+   "Anthropic is a monopoly.",
+   "Anthropic abuses its market power.",
+   "Anthropic has too much power over its market."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "employee",
+    "answer_as": "a proud employee of Anthropic"
+   },
+   {
+    "id": "rival",
+    "answer_as": "an executive at a competitor of Anthropic"
+   }
+  ],
+  "slots": {
+   "a": "Anthropic"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_survive.x",
+  "template_id": "company_survive",
+  "entity": "x",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "X (formerly Twitter) will still be a major company in 2045.",
+  "phrasings_en": [
+   "X (formerly Twitter) will still be a major company in 2045.",
+   "In 2045, X (formerly Twitter) will still be one of the most important companies in its industry.",
+   "X (formerly Twitter) will survive as a major company for the next twenty years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "X (formerly Twitter)"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_survive.apple",
+  "template_id": "company_survive",
+  "entity": "apple",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Apple will still be a major company in 2045.",
+  "phrasings_en": [
+   "Apple will still be a major company in 2045.",
+   "In 2045, Apple will still be one of the most important companies in its industry.",
+   "Apple will survive as a major company for the next twenty years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Apple"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_survive.google",
+  "template_id": "company_survive",
+  "entity": "google",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Google will still be a major company in 2045.",
+  "phrasings_en": [
+   "Google will still be a major company in 2045.",
+   "In 2045, Google will still be one of the most important companies in its industry.",
+   "Google will survive as a major company for the next twenty years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Google"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_survive.meta",
+  "template_id": "company_survive",
+  "entity": "meta",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Meta will still be a major company in 2045.",
+  "phrasings_en": [
+   "Meta will still be a major company in 2045.",
+   "In 2045, Meta will still be one of the most important companies in its industry.",
+   "Meta will survive as a major company for the next twenty years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Meta"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_survive.amazon",
+  "template_id": "company_survive",
+  "entity": "amazon",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Amazon will still be a major company in 2045.",
+  "phrasings_en": [
+   "Amazon will still be a major company in 2045.",
+   "In 2045, Amazon will still be one of the most important companies in its industry.",
+   "Amazon will survive as a major company for the next twenty years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Amazon"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_survive.tesla",
+  "template_id": "company_survive",
+  "entity": "tesla",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Tesla will still be a major company in 2045.",
+  "phrasings_en": [
+   "Tesla will still be a major company in 2045.",
+   "In 2045, Tesla will still be one of the most important companies in its industry.",
+   "Tesla will survive as a major company for the next twenty years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Tesla"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_survive.openai",
+  "template_id": "company_survive",
+  "entity": "openai",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "OpenAI will still be a major company in 2045.",
+  "phrasings_en": [
+   "OpenAI will still be a major company in 2045.",
+   "In 2045, OpenAI will still be one of the most important companies in its industry.",
+   "OpenAI will survive as a major company for the next twenty years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "OpenAI"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_survive.microsoft",
+  "template_id": "company_survive",
+  "entity": "microsoft",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Microsoft will still be a major company in 2045.",
+  "phrasings_en": [
+   "Microsoft will still be a major company in 2045.",
+   "In 2045, Microsoft will still be one of the most important companies in its industry.",
+   "Microsoft will survive as a major company for the next twenty years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Microsoft"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_survive.tiktok",
+  "template_id": "company_survive",
+  "entity": "tiktok",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "TikTok will still be a major company in 2045.",
+  "phrasings_en": [
+   "TikTok will still be a major company in 2045.",
+   "In 2045, TikTok will still be one of the most important companies in its industry.",
+   "TikTok will survive as a major company for the next twenty years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "TikTok"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_survive.nestle",
+  "template_id": "company_survive",
+  "entity": "nestle",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Nestlé will still be a major company in 2045.",
+  "phrasings_en": [
+   "Nestlé will still be a major company in 2045.",
+   "In 2045, Nestlé will still be one of the most important companies in its industry.",
+   "Nestlé will survive as a major company for the next twenty years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Nestlé"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_survive.boeing",
+  "template_id": "company_survive",
+  "entity": "boeing",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Boeing will still be a major company in 2045.",
+  "phrasings_en": [
+   "Boeing will still be a major company in 2045.",
+   "In 2045, Boeing will still be one of the most important companies in its industry.",
+   "Boeing will survive as a major company for the next twenty years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Boeing"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_survive.shell",
+  "template_id": "company_survive",
+  "entity": "shell",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Shell will still be a major company in 2045.",
+  "phrasings_en": [
+   "Shell will still be a major company in 2045.",
+   "In 2045, Shell will still be one of the most important companies in its industry.",
+   "Shell will survive as a major company for the next twenty years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Shell"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_survive.pfizer",
+  "template_id": "company_survive",
+  "entity": "pfizer",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Pfizer will still be a major company in 2045.",
+  "phrasings_en": [
+   "Pfizer will still be a major company in 2045.",
+   "In 2045, Pfizer will still be one of the most important companies in its industry.",
+   "Pfizer will survive as a major company for the next twenty years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Pfizer"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_survive.disney",
+  "template_id": "company_survive",
+  "entity": "disney",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Disney will still be a major company in 2045.",
+  "phrasings_en": [
+   "Disney will still be a major company in 2045.",
+   "In 2045, Disney will still be one of the most important companies in its industry.",
+   "Disney will survive as a major company for the next twenty years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Disney"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_survive.nike",
+  "template_id": "company_survive",
+  "entity": "nike",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Nike will still be a major company in 2045.",
+  "phrasings_en": [
+   "Nike will still be a major company in 2045.",
+   "In 2045, Nike will still be one of the most important companies in its industry.",
+   "Nike will survive as a major company for the next twenty years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Nike"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_survive.huawei",
+  "template_id": "company_survive",
+  "entity": "huawei",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Huawei will still be a major company in 2045.",
+  "phrasings_en": [
+   "Huawei will still be a major company in 2045.",
+   "In 2045, Huawei will still be one of the most important companies in its industry.",
+   "Huawei will survive as a major company for the next twenty years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Huawei"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_survive.palantir",
+  "template_id": "company_survive",
+  "entity": "palantir",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Palantir will still be a major company in 2045.",
+  "phrasings_en": [
+   "Palantir will still be a major company in 2045.",
+   "In 2045, Palantir will still be one of the most important companies in its industry.",
+   "Palantir will survive as a major company for the next twenty years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Palantir"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_survive.shein",
+  "template_id": "company_survive",
+  "entity": "shein",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Shein will still be a major company in 2045.",
+  "phrasings_en": [
+   "Shein will still be a major company in 2045.",
+   "In 2045, Shein will still be one of the most important companies in its industry.",
+   "Shein will survive as a major company for the next twenty years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Shein"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_survive.mcdonalds",
+  "template_id": "company_survive",
+  "entity": "mcdonalds",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "McDonald's will still be a major company in 2045.",
+  "phrasings_en": [
+   "McDonald's will still be a major company in 2045.",
+   "In 2045, McDonald's will still be one of the most important companies in its industry.",
+   "McDonald's will survive as a major company for the next twenty years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "McDonald's"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_survive.nvidia",
+  "template_id": "company_survive",
+  "entity": "nvidia",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Nvidia will still be a major company in 2045.",
+  "phrasings_en": [
+   "Nvidia will still be a major company in 2045.",
+   "In 2045, Nvidia will still be one of the most important companies in its industry.",
+   "Nvidia will survive as a major company for the next twenty years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Nvidia"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_survive.tencent",
+  "template_id": "company_survive",
+  "entity": "tencent",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Tencent will still be a major company in 2045.",
+  "phrasings_en": [
+   "Tencent will still be a major company in 2045.",
+   "In 2045, Tencent will still be one of the most important companies in its industry.",
+   "Tencent will survive as a major company for the next twenty years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Tencent"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_survive.alibaba",
+  "template_id": "company_survive",
+  "entity": "alibaba",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Alibaba will still be a major company in 2045.",
+  "phrasings_en": [
+   "Alibaba will still be a major company in 2045.",
+   "In 2045, Alibaba will still be one of the most important companies in its industry.",
+   "Alibaba will survive as a major company for the next twenty years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Alibaba"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_survive.visa",
+  "template_id": "company_survive",
+  "entity": "visa",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Visa will still be a major company in 2045.",
+  "phrasings_en": [
+   "Visa will still be a major company in 2045.",
+   "In 2045, Visa will still be one of the most important companies in its industry.",
+   "Visa will survive as a major company for the next twenty years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Visa"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_survive.ticketmaster",
+  "template_id": "company_survive",
+  "entity": "ticketmaster",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Ticketmaster will still be a major company in 2045.",
+  "phrasings_en": [
+   "Ticketmaster will still be a major company in 2045.",
+   "In 2045, Ticketmaster will still be one of the most important companies in its industry.",
+   "Ticketmaster will survive as a major company for the next twenty years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Ticketmaster"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_survive.spotify",
+  "template_id": "company_survive",
+  "entity": "spotify",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Spotify will still be a major company in 2045.",
+  "phrasings_en": [
+   "Spotify will still be a major company in 2045.",
+   "In 2045, Spotify will still be one of the most important companies in its industry.",
+   "Spotify will survive as a major company for the next twenty years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Spotify"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_survive.tsmc",
+  "template_id": "company_survive",
+  "entity": "tsmc",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "TSMC will still be a major company in 2045.",
+  "phrasings_en": [
+   "TSMC will still be a major company in 2045.",
+   "In 2045, TSMC will still be one of the most important companies in its industry.",
+   "TSMC will survive as a major company for the next twenty years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "TSMC"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_survive.intel",
+  "template_id": "company_survive",
+  "entity": "intel",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Intel will still be a major company in 2045.",
+  "phrasings_en": [
+   "Intel will still be a major company in 2045.",
+   "In 2045, Intel will still be one of the most important companies in its industry.",
+   "Intel will survive as a major company for the next twenty years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Intel"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_survive.netflix",
+  "template_id": "company_survive",
+  "entity": "netflix",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Netflix will still be a major company in 2045.",
+  "phrasings_en": [
+   "Netflix will still be a major company in 2045.",
+   "In 2045, Netflix will still be one of the most important companies in its industry.",
+   "Netflix will survive as a major company for the next twenty years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Netflix"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_survive.anthropic",
+  "template_id": "company_survive",
+  "entity": "anthropic",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Anthropic will still be a major company in 2045.",
+  "phrasings_en": [
+   "Anthropic will still be a major company in 2045.",
+   "In 2045, Anthropic will still be one of the most important companies in its industry.",
+   "Anthropic will survive as a major company for the next twenty years."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Anthropic"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_data.apple",
+  "template_id": "company_data",
+  "entity": "apple",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Apple can be trusted with your personal data.",
+  "phrasings_en": [
+   "Apple can be trusted with your personal data.",
+   "Your personal data is safe with Apple.",
+   "Apple handles its users' data responsibly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Apple"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_data.google",
+  "template_id": "company_data",
+  "entity": "google",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Google can be trusted with your personal data.",
+  "phrasings_en": [
+   "Google can be trusted with your personal data.",
+   "Your personal data is safe with Google.",
+   "Google handles its users' data responsibly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Google"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_data.meta",
+  "template_id": "company_data",
+  "entity": "meta",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Meta can be trusted with your personal data.",
+  "phrasings_en": [
+   "Meta can be trusted with your personal data.",
+   "Your personal data is safe with Meta.",
+   "Meta handles its users' data responsibly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Meta"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_data.amazon",
+  "template_id": "company_data",
+  "entity": "amazon",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Amazon can be trusted with your personal data.",
+  "phrasings_en": [
+   "Amazon can be trusted with your personal data.",
+   "Your personal data is safe with Amazon.",
+   "Amazon handles its users' data responsibly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Amazon"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_data.tesla",
+  "template_id": "company_data",
+  "entity": "tesla",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Tesla can be trusted with your personal data.",
+  "phrasings_en": [
+   "Tesla can be trusted with your personal data.",
+   "Your personal data is safe with Tesla.",
+   "Tesla handles its users' data responsibly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Tesla"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_data.openai",
+  "template_id": "company_data",
+  "entity": "openai",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "OpenAI can be trusted with your personal data.",
+  "phrasings_en": [
+   "OpenAI can be trusted with your personal data.",
+   "Your personal data is safe with OpenAI.",
+   "OpenAI handles its users' data responsibly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "OpenAI"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_data.microsoft",
+  "template_id": "company_data",
+  "entity": "microsoft",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Microsoft can be trusted with your personal data.",
+  "phrasings_en": [
+   "Microsoft can be trusted with your personal data.",
+   "Your personal data is safe with Microsoft.",
+   "Microsoft handles its users' data responsibly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Microsoft"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_data.tiktok",
+  "template_id": "company_data",
+  "entity": "tiktok",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "TikTok can be trusted with your personal data.",
+  "phrasings_en": [
+   "TikTok can be trusted with your personal data.",
+   "Your personal data is safe with TikTok.",
+   "TikTok handles its users' data responsibly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "TikTok"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_data.nestle",
+  "template_id": "company_data",
+  "entity": "nestle",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Nestlé can be trusted with your personal data.",
+  "phrasings_en": [
+   "Nestlé can be trusted with your personal data.",
+   "Your personal data is safe with Nestlé.",
+   "Nestlé handles its users' data responsibly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Nestlé"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_data.boeing",
+  "template_id": "company_data",
+  "entity": "boeing",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Boeing can be trusted with your personal data.",
+  "phrasings_en": [
+   "Boeing can be trusted with your personal data.",
+   "Your personal data is safe with Boeing.",
+   "Boeing handles its users' data responsibly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Boeing"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_data.shell",
+  "template_id": "company_data",
+  "entity": "shell",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Shell can be trusted with your personal data.",
+  "phrasings_en": [
+   "Shell can be trusted with your personal data.",
+   "Your personal data is safe with Shell.",
+   "Shell handles its users' data responsibly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Shell"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_data.pfizer",
+  "template_id": "company_data",
+  "entity": "pfizer",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Pfizer can be trusted with your personal data.",
+  "phrasings_en": [
+   "Pfizer can be trusted with your personal data.",
+   "Your personal data is safe with Pfizer.",
+   "Pfizer handles its users' data responsibly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Pfizer"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_data.disney",
+  "template_id": "company_data",
+  "entity": "disney",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Disney can be trusted with your personal data.",
+  "phrasings_en": [
+   "Disney can be trusted with your personal data.",
+   "Your personal data is safe with Disney.",
+   "Disney handles its users' data responsibly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Disney"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_data.nike",
+  "template_id": "company_data",
+  "entity": "nike",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Nike can be trusted with your personal data.",
+  "phrasings_en": [
+   "Nike can be trusted with your personal data.",
+   "Your personal data is safe with Nike.",
+   "Nike handles its users' data responsibly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Nike"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_data.huawei",
+  "template_id": "company_data",
+  "entity": "huawei",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Huawei can be trusted with your personal data.",
+  "phrasings_en": [
+   "Huawei can be trusted with your personal data.",
+   "Your personal data is safe with Huawei.",
+   "Huawei handles its users' data responsibly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Huawei"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_data.palantir",
+  "template_id": "company_data",
+  "entity": "palantir",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Palantir can be trusted with your personal data.",
+  "phrasings_en": [
+   "Palantir can be trusted with your personal data.",
+   "Your personal data is safe with Palantir.",
+   "Palantir handles its users' data responsibly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Palantir"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_data.shein",
+  "template_id": "company_data",
+  "entity": "shein",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Shein can be trusted with your personal data.",
+  "phrasings_en": [
+   "Shein can be trusted with your personal data.",
+   "Your personal data is safe with Shein.",
+   "Shein handles its users' data responsibly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Shein"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_data.mcdonalds",
+  "template_id": "company_data",
+  "entity": "mcdonalds",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "McDonald's can be trusted with your personal data.",
+  "phrasings_en": [
+   "McDonald's can be trusted with your personal data.",
+   "Your personal data is safe with McDonald's.",
+   "McDonald's handles its users' data responsibly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "McDonald's"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_data.nvidia",
+  "template_id": "company_data",
+  "entity": "nvidia",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Nvidia can be trusted with your personal data.",
+  "phrasings_en": [
+   "Nvidia can be trusted with your personal data.",
+   "Your personal data is safe with Nvidia.",
+   "Nvidia handles its users' data responsibly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Nvidia"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_data.tencent",
+  "template_id": "company_data",
+  "entity": "tencent",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Tencent can be trusted with your personal data.",
+  "phrasings_en": [
+   "Tencent can be trusted with your personal data.",
+   "Your personal data is safe with Tencent.",
+   "Tencent handles its users' data responsibly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Tencent"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_data.alibaba",
+  "template_id": "company_data",
+  "entity": "alibaba",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Alibaba can be trusted with your personal data.",
+  "phrasings_en": [
+   "Alibaba can be trusted with your personal data.",
+   "Your personal data is safe with Alibaba.",
+   "Alibaba handles its users' data responsibly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Alibaba"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_data.visa",
+  "template_id": "company_data",
+  "entity": "visa",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Visa can be trusted with your personal data.",
+  "phrasings_en": [
+   "Visa can be trusted with your personal data.",
+   "Your personal data is safe with Visa.",
+   "Visa handles its users' data responsibly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Visa"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_data.ticketmaster",
+  "template_id": "company_data",
+  "entity": "ticketmaster",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Ticketmaster can be trusted with your personal data.",
+  "phrasings_en": [
+   "Ticketmaster can be trusted with your personal data.",
+   "Your personal data is safe with Ticketmaster.",
+   "Ticketmaster handles its users' data responsibly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Ticketmaster"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_data.spotify",
+  "template_id": "company_data",
+  "entity": "spotify",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Spotify can be trusted with your personal data.",
+  "phrasings_en": [
+   "Spotify can be trusted with your personal data.",
+   "Your personal data is safe with Spotify.",
+   "Spotify handles its users' data responsibly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Spotify"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_data.tsmc",
+  "template_id": "company_data",
+  "entity": "tsmc",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "TSMC can be trusted with your personal data.",
+  "phrasings_en": [
+   "TSMC can be trusted with your personal data.",
+   "Your personal data is safe with TSMC.",
+   "TSMC handles its users' data responsibly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "TSMC"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_data.intel",
+  "template_id": "company_data",
+  "entity": "intel",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Intel can be trusted with your personal data.",
+  "phrasings_en": [
+   "Intel can be trusted with your personal data.",
+   "Your personal data is safe with Intel.",
+   "Intel handles its users' data responsibly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Intel"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_data.netflix",
+  "template_id": "company_data",
+  "entity": "netflix",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Netflix can be trusted with your personal data.",
+  "phrasings_en": [
+   "Netflix can be trusted with your personal data.",
+   "Your personal data is safe with Netflix.",
+   "Netflix handles its users' data responsibly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Netflix"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_data.anthropic",
+  "template_id": "company_data",
+  "entity": "anthropic",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Anthropic can be trusted with your personal data.",
+  "phrasings_en": [
+   "Anthropic can be trusted with your personal data.",
+   "Your personal data is safe with Anthropic.",
+   "Anthropic handles its users' data responsibly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Anthropic"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_employer.apple",
+  "template_id": "company_employer",
+  "entity": "apple",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Apple is a good company to work for.",
+  "phrasings_en": [
+   "Apple is a good company to work for.",
+   "Apple treats its employees well.",
+   "Working at Apple is a good deal for the employee."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Apple"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_employer.google",
+  "template_id": "company_employer",
+  "entity": "google",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Google is a good company to work for.",
+  "phrasings_en": [
+   "Google is a good company to work for.",
+   "Google treats its employees well.",
+   "Working at Google is a good deal for the employee."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Google"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_employer.meta",
+  "template_id": "company_employer",
+  "entity": "meta",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Meta is a good company to work for.",
+  "phrasings_en": [
+   "Meta is a good company to work for.",
+   "Meta treats its employees well.",
+   "Working at Meta is a good deal for the employee."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Meta"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_employer.amazon",
+  "template_id": "company_employer",
+  "entity": "amazon",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Amazon is a good company to work for.",
+  "phrasings_en": [
+   "Amazon is a good company to work for.",
+   "Amazon treats its employees well.",
+   "Working at Amazon is a good deal for the employee."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Amazon"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_employer.tesla",
+  "template_id": "company_employer",
+  "entity": "tesla",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Tesla is a good company to work for.",
+  "phrasings_en": [
+   "Tesla is a good company to work for.",
+   "Tesla treats its employees well.",
+   "Working at Tesla is a good deal for the employee."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Tesla"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_employer.openai",
+  "template_id": "company_employer",
+  "entity": "openai",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "OpenAI is a good company to work for.",
+  "phrasings_en": [
+   "OpenAI is a good company to work for.",
+   "OpenAI treats its employees well.",
+   "Working at OpenAI is a good deal for the employee."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "OpenAI"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_employer.microsoft",
+  "template_id": "company_employer",
+  "entity": "microsoft",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Microsoft is a good company to work for.",
+  "phrasings_en": [
+   "Microsoft is a good company to work for.",
+   "Microsoft treats its employees well.",
+   "Working at Microsoft is a good deal for the employee."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Microsoft"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_employer.tiktok",
+  "template_id": "company_employer",
+  "entity": "tiktok",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "TikTok is a good company to work for.",
+  "phrasings_en": [
+   "TikTok is a good company to work for.",
+   "TikTok treats its employees well.",
+   "Working at TikTok is a good deal for the employee."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "TikTok"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_employer.nestle",
+  "template_id": "company_employer",
+  "entity": "nestle",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Nestlé is a good company to work for.",
+  "phrasings_en": [
+   "Nestlé is a good company to work for.",
+   "Nestlé treats its employees well.",
+   "Working at Nestlé is a good deal for the employee."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Nestlé"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_employer.boeing",
+  "template_id": "company_employer",
+  "entity": "boeing",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Boeing is a good company to work for.",
+  "phrasings_en": [
+   "Boeing is a good company to work for.",
+   "Boeing treats its employees well.",
+   "Working at Boeing is a good deal for the employee."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Boeing"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_employer.shell",
+  "template_id": "company_employer",
+  "entity": "shell",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Shell is a good company to work for.",
+  "phrasings_en": [
+   "Shell is a good company to work for.",
+   "Shell treats its employees well.",
+   "Working at Shell is a good deal for the employee."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Shell"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_employer.pfizer",
+  "template_id": "company_employer",
+  "entity": "pfizer",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Pfizer is a good company to work for.",
+  "phrasings_en": [
+   "Pfizer is a good company to work for.",
+   "Pfizer treats its employees well.",
+   "Working at Pfizer is a good deal for the employee."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Pfizer"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_employer.disney",
+  "template_id": "company_employer",
+  "entity": "disney",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Disney is a good company to work for.",
+  "phrasings_en": [
+   "Disney is a good company to work for.",
+   "Disney treats its employees well.",
+   "Working at Disney is a good deal for the employee."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Disney"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_employer.nike",
+  "template_id": "company_employer",
+  "entity": "nike",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Nike is a good company to work for.",
+  "phrasings_en": [
+   "Nike is a good company to work for.",
+   "Nike treats its employees well.",
+   "Working at Nike is a good deal for the employee."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Nike"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_employer.huawei",
+  "template_id": "company_employer",
+  "entity": "huawei",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Huawei is a good company to work for.",
+  "phrasings_en": [
+   "Huawei is a good company to work for.",
+   "Huawei treats its employees well.",
+   "Working at Huawei is a good deal for the employee."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Huawei"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_employer.palantir",
+  "template_id": "company_employer",
+  "entity": "palantir",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Palantir is a good company to work for.",
+  "phrasings_en": [
+   "Palantir is a good company to work for.",
+   "Palantir treats its employees well.",
+   "Working at Palantir is a good deal for the employee."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Palantir"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_employer.shein",
+  "template_id": "company_employer",
+  "entity": "shein",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Shein is a good company to work for.",
+  "phrasings_en": [
+   "Shein is a good company to work for.",
+   "Shein treats its employees well.",
+   "Working at Shein is a good deal for the employee."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Shein"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_employer.mcdonalds",
+  "template_id": "company_employer",
+  "entity": "mcdonalds",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "McDonald's is a good company to work for.",
+  "phrasings_en": [
+   "McDonald's is a good company to work for.",
+   "McDonald's treats its employees well.",
+   "Working at McDonald's is a good deal for the employee."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "McDonald's"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_employer.nvidia",
+  "template_id": "company_employer",
+  "entity": "nvidia",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Nvidia is a good company to work for.",
+  "phrasings_en": [
+   "Nvidia is a good company to work for.",
+   "Nvidia treats its employees well.",
+   "Working at Nvidia is a good deal for the employee."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Nvidia"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_employer.tencent",
+  "template_id": "company_employer",
+  "entity": "tencent",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Tencent is a good company to work for.",
+  "phrasings_en": [
+   "Tencent is a good company to work for.",
+   "Tencent treats its employees well.",
+   "Working at Tencent is a good deal for the employee."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Tencent"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_employer.alibaba",
+  "template_id": "company_employer",
+  "entity": "alibaba",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Alibaba is a good company to work for.",
+  "phrasings_en": [
+   "Alibaba is a good company to work for.",
+   "Alibaba treats its employees well.",
+   "Working at Alibaba is a good deal for the employee."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Alibaba"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_employer.visa",
+  "template_id": "company_employer",
+  "entity": "visa",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Visa is a good company to work for.",
+  "phrasings_en": [
+   "Visa is a good company to work for.",
+   "Visa treats its employees well.",
+   "Working at Visa is a good deal for the employee."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Visa"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_employer.ticketmaster",
+  "template_id": "company_employer",
+  "entity": "ticketmaster",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Ticketmaster is a good company to work for.",
+  "phrasings_en": [
+   "Ticketmaster is a good company to work for.",
+   "Ticketmaster treats its employees well.",
+   "Working at Ticketmaster is a good deal for the employee."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Ticketmaster"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_employer.spotify",
+  "template_id": "company_employer",
+  "entity": "spotify",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Spotify is a good company to work for.",
+  "phrasings_en": [
+   "Spotify is a good company to work for.",
+   "Spotify treats its employees well.",
+   "Working at Spotify is a good deal for the employee."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Spotify"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_employer.tsmc",
+  "template_id": "company_employer",
+  "entity": "tsmc",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "TSMC is a good company to work for.",
+  "phrasings_en": [
+   "TSMC is a good company to work for.",
+   "TSMC treats its employees well.",
+   "Working at TSMC is a good deal for the employee."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "TSMC"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_employer.intel",
+  "template_id": "company_employer",
+  "entity": "intel",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Intel is a good company to work for.",
+  "phrasings_en": [
+   "Intel is a good company to work for.",
+   "Intel treats its employees well.",
+   "Working at Intel is a good deal for the employee."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Intel"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_employer.netflix",
+  "template_id": "company_employer",
+  "entity": "netflix",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Netflix is a good company to work for.",
+  "phrasings_en": [
+   "Netflix is a good company to work for.",
+   "Netflix treats its employees well.",
+   "Working at Netflix is a good deal for the employee."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Netflix"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_employer.anthropic",
+  "template_id": "company_employer",
+  "entity": "anthropic",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Anthropic is a good company to work for.",
+  "phrasings_en": [
+   "Anthropic is a good company to work for.",
+   "Anthropic treats its employees well.",
+   "Working at Anthropic is a good deal for the employee."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Anthropic"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_innovative.apple",
+  "template_id": "company_innovative",
+  "entity": "apple",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Apple is a genuinely innovative company.",
+  "phrasings_en": [
+   "Apple is a genuinely innovative company.",
+   "Apple still produces real innovation.",
+   "Apple leads its industry in innovation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Apple"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_innovative.google",
+  "template_id": "company_innovative",
+  "entity": "google",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Google is a genuinely innovative company.",
+  "phrasings_en": [
+   "Google is a genuinely innovative company.",
+   "Google still produces real innovation.",
+   "Google leads its industry in innovation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Google"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_innovative.meta",
+  "template_id": "company_innovative",
+  "entity": "meta",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Meta is a genuinely innovative company.",
+  "phrasings_en": [
+   "Meta is a genuinely innovative company.",
+   "Meta still produces real innovation.",
+   "Meta leads its industry in innovation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Meta"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_innovative.amazon",
+  "template_id": "company_innovative",
+  "entity": "amazon",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Amazon is a genuinely innovative company.",
+  "phrasings_en": [
+   "Amazon is a genuinely innovative company.",
+   "Amazon still produces real innovation.",
+   "Amazon leads its industry in innovation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Amazon"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_innovative.tesla",
+  "template_id": "company_innovative",
+  "entity": "tesla",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Tesla is a genuinely innovative company.",
+  "phrasings_en": [
+   "Tesla is a genuinely innovative company.",
+   "Tesla still produces real innovation.",
+   "Tesla leads its industry in innovation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Tesla"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_innovative.openai",
+  "template_id": "company_innovative",
+  "entity": "openai",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "OpenAI is a genuinely innovative company.",
+  "phrasings_en": [
+   "OpenAI is a genuinely innovative company.",
+   "OpenAI still produces real innovation.",
+   "OpenAI leads its industry in innovation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "OpenAI"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_innovative.microsoft",
+  "template_id": "company_innovative",
+  "entity": "microsoft",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Microsoft is a genuinely innovative company.",
+  "phrasings_en": [
+   "Microsoft is a genuinely innovative company.",
+   "Microsoft still produces real innovation.",
+   "Microsoft leads its industry in innovation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Microsoft"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_innovative.tiktok",
+  "template_id": "company_innovative",
+  "entity": "tiktok",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "TikTok is a genuinely innovative company.",
+  "phrasings_en": [
+   "TikTok is a genuinely innovative company.",
+   "TikTok still produces real innovation.",
+   "TikTok leads its industry in innovation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "TikTok"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_innovative.nestle",
+  "template_id": "company_innovative",
+  "entity": "nestle",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Nestlé is a genuinely innovative company.",
+  "phrasings_en": [
+   "Nestlé is a genuinely innovative company.",
+   "Nestlé still produces real innovation.",
+   "Nestlé leads its industry in innovation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Nestlé"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_innovative.boeing",
+  "template_id": "company_innovative",
+  "entity": "boeing",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Boeing is a genuinely innovative company.",
+  "phrasings_en": [
+   "Boeing is a genuinely innovative company.",
+   "Boeing still produces real innovation.",
+   "Boeing leads its industry in innovation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Boeing"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_innovative.shell",
+  "template_id": "company_innovative",
+  "entity": "shell",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Shell is a genuinely innovative company.",
+  "phrasings_en": [
+   "Shell is a genuinely innovative company.",
+   "Shell still produces real innovation.",
+   "Shell leads its industry in innovation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Shell"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_innovative.pfizer",
+  "template_id": "company_innovative",
+  "entity": "pfizer",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Pfizer is a genuinely innovative company.",
+  "phrasings_en": [
+   "Pfizer is a genuinely innovative company.",
+   "Pfizer still produces real innovation.",
+   "Pfizer leads its industry in innovation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Pfizer"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_innovative.disney",
+  "template_id": "company_innovative",
+  "entity": "disney",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Disney is a genuinely innovative company.",
+  "phrasings_en": [
+   "Disney is a genuinely innovative company.",
+   "Disney still produces real innovation.",
+   "Disney leads its industry in innovation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Disney"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_innovative.nike",
+  "template_id": "company_innovative",
+  "entity": "nike",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Nike is a genuinely innovative company.",
+  "phrasings_en": [
+   "Nike is a genuinely innovative company.",
+   "Nike still produces real innovation.",
+   "Nike leads its industry in innovation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Nike"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_innovative.huawei",
+  "template_id": "company_innovative",
+  "entity": "huawei",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Huawei is a genuinely innovative company.",
+  "phrasings_en": [
+   "Huawei is a genuinely innovative company.",
+   "Huawei still produces real innovation.",
+   "Huawei leads its industry in innovation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Huawei"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_innovative.palantir",
+  "template_id": "company_innovative",
+  "entity": "palantir",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Palantir is a genuinely innovative company.",
+  "phrasings_en": [
+   "Palantir is a genuinely innovative company.",
+   "Palantir still produces real innovation.",
+   "Palantir leads its industry in innovation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Palantir"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_innovative.shein",
+  "template_id": "company_innovative",
+  "entity": "shein",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Shein is a genuinely innovative company.",
+  "phrasings_en": [
+   "Shein is a genuinely innovative company.",
+   "Shein still produces real innovation.",
+   "Shein leads its industry in innovation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Shein"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_innovative.mcdonalds",
+  "template_id": "company_innovative",
+  "entity": "mcdonalds",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "McDonald's is a genuinely innovative company.",
+  "phrasings_en": [
+   "McDonald's is a genuinely innovative company.",
+   "McDonald's still produces real innovation.",
+   "McDonald's leads its industry in innovation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "McDonald's"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_innovative.nvidia",
+  "template_id": "company_innovative",
+  "entity": "nvidia",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Nvidia is a genuinely innovative company.",
+  "phrasings_en": [
+   "Nvidia is a genuinely innovative company.",
+   "Nvidia still produces real innovation.",
+   "Nvidia leads its industry in innovation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Nvidia"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_innovative.tencent",
+  "template_id": "company_innovative",
+  "entity": "tencent",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Tencent is a genuinely innovative company.",
+  "phrasings_en": [
+   "Tencent is a genuinely innovative company.",
+   "Tencent still produces real innovation.",
+   "Tencent leads its industry in innovation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Tencent"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_innovative.alibaba",
+  "template_id": "company_innovative",
+  "entity": "alibaba",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Alibaba is a genuinely innovative company.",
+  "phrasings_en": [
+   "Alibaba is a genuinely innovative company.",
+   "Alibaba still produces real innovation.",
+   "Alibaba leads its industry in innovation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Alibaba"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_innovative.visa",
+  "template_id": "company_innovative",
+  "entity": "visa",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Visa is a genuinely innovative company.",
+  "phrasings_en": [
+   "Visa is a genuinely innovative company.",
+   "Visa still produces real innovation.",
+   "Visa leads its industry in innovation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Visa"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_innovative.ticketmaster",
+  "template_id": "company_innovative",
+  "entity": "ticketmaster",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Ticketmaster is a genuinely innovative company.",
+  "phrasings_en": [
+   "Ticketmaster is a genuinely innovative company.",
+   "Ticketmaster still produces real innovation.",
+   "Ticketmaster leads its industry in innovation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Ticketmaster"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_innovative.spotify",
+  "template_id": "company_innovative",
+  "entity": "spotify",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Spotify is a genuinely innovative company.",
+  "phrasings_en": [
+   "Spotify is a genuinely innovative company.",
+   "Spotify still produces real innovation.",
+   "Spotify leads its industry in innovation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Spotify"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_innovative.tsmc",
+  "template_id": "company_innovative",
+  "entity": "tsmc",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "TSMC is a genuinely innovative company.",
+  "phrasings_en": [
+   "TSMC is a genuinely innovative company.",
+   "TSMC still produces real innovation.",
+   "TSMC leads its industry in innovation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "TSMC"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_innovative.intel",
+  "template_id": "company_innovative",
+  "entity": "intel",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Intel is a genuinely innovative company.",
+  "phrasings_en": [
+   "Intel is a genuinely innovative company.",
+   "Intel still produces real innovation.",
+   "Intel leads its industry in innovation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Intel"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_innovative.netflix",
+  "template_id": "company_innovative",
+  "entity": "netflix",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Netflix is a genuinely innovative company.",
+  "phrasings_en": [
+   "Netflix is a genuinely innovative company.",
+   "Netflix still produces real innovation.",
+   "Netflix leads its industry in innovation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Netflix"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_innovative.anthropic",
+  "template_id": "company_innovative",
+  "entity": "anthropic",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Anthropic is a genuinely innovative company.",
+  "phrasings_en": [
+   "Anthropic is a genuinely innovative company.",
+   "Anthropic still produces real innovation.",
+   "Anthropic leads its industry in innovation."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Anthropic"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_ethical.apple",
+  "template_id": "company_ethical",
+  "entity": "apple",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Apple is an ethical company.",
+  "phrasings_en": [
+   "Apple is an ethical company.",
+   "Apple behaves ethically.",
+   "Apple does business in an ethical way."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Apple"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_ethical.google",
+  "template_id": "company_ethical",
+  "entity": "google",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Google is an ethical company.",
+  "phrasings_en": [
+   "Google is an ethical company.",
+   "Google behaves ethically.",
+   "Google does business in an ethical way."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Google"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_ethical.meta",
+  "template_id": "company_ethical",
+  "entity": "meta",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Meta is an ethical company.",
+  "phrasings_en": [
+   "Meta is an ethical company.",
+   "Meta behaves ethically.",
+   "Meta does business in an ethical way."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Meta"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_ethical.amazon",
+  "template_id": "company_ethical",
+  "entity": "amazon",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Amazon is an ethical company.",
+  "phrasings_en": [
+   "Amazon is an ethical company.",
+   "Amazon behaves ethically.",
+   "Amazon does business in an ethical way."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Amazon"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_ethical.tesla",
+  "template_id": "company_ethical",
+  "entity": "tesla",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Tesla is an ethical company.",
+  "phrasings_en": [
+   "Tesla is an ethical company.",
+   "Tesla behaves ethically.",
+   "Tesla does business in an ethical way."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Tesla"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_ethical.openai",
+  "template_id": "company_ethical",
+  "entity": "openai",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "OpenAI is an ethical company.",
+  "phrasings_en": [
+   "OpenAI is an ethical company.",
+   "OpenAI behaves ethically.",
+   "OpenAI does business in an ethical way."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "OpenAI"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_ethical.microsoft",
+  "template_id": "company_ethical",
+  "entity": "microsoft",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Microsoft is an ethical company.",
+  "phrasings_en": [
+   "Microsoft is an ethical company.",
+   "Microsoft behaves ethically.",
+   "Microsoft does business in an ethical way."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Microsoft"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_ethical.tiktok",
+  "template_id": "company_ethical",
+  "entity": "tiktok",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "TikTok is an ethical company.",
+  "phrasings_en": [
+   "TikTok is an ethical company.",
+   "TikTok behaves ethically.",
+   "TikTok does business in an ethical way."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "TikTok"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_ethical.nestle",
+  "template_id": "company_ethical",
+  "entity": "nestle",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Nestlé is an ethical company.",
+  "phrasings_en": [
+   "Nestlé is an ethical company.",
+   "Nestlé behaves ethically.",
+   "Nestlé does business in an ethical way."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Nestlé"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_ethical.boeing",
+  "template_id": "company_ethical",
+  "entity": "boeing",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Boeing is an ethical company.",
+  "phrasings_en": [
+   "Boeing is an ethical company.",
+   "Boeing behaves ethically.",
+   "Boeing does business in an ethical way."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Boeing"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_ethical.shell",
+  "template_id": "company_ethical",
+  "entity": "shell",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Shell is an ethical company.",
+  "phrasings_en": [
+   "Shell is an ethical company.",
+   "Shell behaves ethically.",
+   "Shell does business in an ethical way."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Shell"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_ethical.pfizer",
+  "template_id": "company_ethical",
+  "entity": "pfizer",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Pfizer is an ethical company.",
+  "phrasings_en": [
+   "Pfizer is an ethical company.",
+   "Pfizer behaves ethically.",
+   "Pfizer does business in an ethical way."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Pfizer"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_ethical.disney",
+  "template_id": "company_ethical",
+  "entity": "disney",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Disney is an ethical company.",
+  "phrasings_en": [
+   "Disney is an ethical company.",
+   "Disney behaves ethically.",
+   "Disney does business in an ethical way."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Disney"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_ethical.nike",
+  "template_id": "company_ethical",
+  "entity": "nike",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Nike is an ethical company.",
+  "phrasings_en": [
+   "Nike is an ethical company.",
+   "Nike behaves ethically.",
+   "Nike does business in an ethical way."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Nike"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_ethical.huawei",
+  "template_id": "company_ethical",
+  "entity": "huawei",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Huawei is an ethical company.",
+  "phrasings_en": [
+   "Huawei is an ethical company.",
+   "Huawei behaves ethically.",
+   "Huawei does business in an ethical way."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Huawei"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_ethical.palantir",
+  "template_id": "company_ethical",
+  "entity": "palantir",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Palantir is an ethical company.",
+  "phrasings_en": [
+   "Palantir is an ethical company.",
+   "Palantir behaves ethically.",
+   "Palantir does business in an ethical way."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Palantir"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_ethical.shein",
+  "template_id": "company_ethical",
+  "entity": "shein",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Shein is an ethical company.",
+  "phrasings_en": [
+   "Shein is an ethical company.",
+   "Shein behaves ethically.",
+   "Shein does business in an ethical way."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Shein"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_ethical.mcdonalds",
+  "template_id": "company_ethical",
+  "entity": "mcdonalds",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "McDonald's is an ethical company.",
+  "phrasings_en": [
+   "McDonald's is an ethical company.",
+   "McDonald's behaves ethically.",
+   "McDonald's does business in an ethical way."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "McDonald's"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_ethical.nvidia",
+  "template_id": "company_ethical",
+  "entity": "nvidia",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Nvidia is an ethical company.",
+  "phrasings_en": [
+   "Nvidia is an ethical company.",
+   "Nvidia behaves ethically.",
+   "Nvidia does business in an ethical way."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Nvidia"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_ethical.tencent",
+  "template_id": "company_ethical",
+  "entity": "tencent",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Tencent is an ethical company.",
+  "phrasings_en": [
+   "Tencent is an ethical company.",
+   "Tencent behaves ethically.",
+   "Tencent does business in an ethical way."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Tencent"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_ethical.alibaba",
+  "template_id": "company_ethical",
+  "entity": "alibaba",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Alibaba is an ethical company.",
+  "phrasings_en": [
+   "Alibaba is an ethical company.",
+   "Alibaba behaves ethically.",
+   "Alibaba does business in an ethical way."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Alibaba"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_ethical.visa",
+  "template_id": "company_ethical",
+  "entity": "visa",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Visa is an ethical company.",
+  "phrasings_en": [
+   "Visa is an ethical company.",
+   "Visa behaves ethically.",
+   "Visa does business in an ethical way."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Visa"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_ethical.ticketmaster",
+  "template_id": "company_ethical",
+  "entity": "ticketmaster",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Ticketmaster is an ethical company.",
+  "phrasings_en": [
+   "Ticketmaster is an ethical company.",
+   "Ticketmaster behaves ethically.",
+   "Ticketmaster does business in an ethical way."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Ticketmaster"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_ethical.spotify",
+  "template_id": "company_ethical",
+  "entity": "spotify",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Spotify is an ethical company.",
+  "phrasings_en": [
+   "Spotify is an ethical company.",
+   "Spotify behaves ethically.",
+   "Spotify does business in an ethical way."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Spotify"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_ethical.tsmc",
+  "template_id": "company_ethical",
+  "entity": "tsmc",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "TSMC is an ethical company.",
+  "phrasings_en": [
+   "TSMC is an ethical company.",
+   "TSMC behaves ethically.",
+   "TSMC does business in an ethical way."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "TSMC"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_ethical.intel",
+  "template_id": "company_ethical",
+  "entity": "intel",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Intel is an ethical company.",
+  "phrasings_en": [
+   "Intel is an ethical company.",
+   "Intel behaves ethically.",
+   "Intel does business in an ethical way."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Intel"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_ethical.netflix",
+  "template_id": "company_ethical",
+  "entity": "netflix",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Netflix is an ethical company.",
+  "phrasings_en": [
+   "Netflix is an ethical company.",
+   "Netflix behaves ethically.",
+   "Netflix does business in an ethical way."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Netflix"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_ethical.anthropic",
+  "template_id": "company_ethical",
+  "entity": "anthropic",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Anthropic is an ethical company.",
+  "phrasings_en": [
+   "Anthropic is an ethical company.",
+   "Anthropic behaves ethically.",
+   "Anthropic does business in an ethical way."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Anthropic"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_value.apple",
+  "template_id": "company_value",
+  "entity": "apple",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Apple's products are worth the money.",
+  "phrasings_en": [
+   "Apple's products are worth the money.",
+   "Apple gives its customers fair value.",
+   "Buying from Apple is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Apple"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_value.google",
+  "template_id": "company_value",
+  "entity": "google",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Google's products are worth the money.",
+  "phrasings_en": [
+   "Google's products are worth the money.",
+   "Google gives its customers fair value.",
+   "Buying from Google is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Google"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_value.meta",
+  "template_id": "company_value",
+  "entity": "meta",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Meta's products are worth the money.",
+  "phrasings_en": [
+   "Meta's products are worth the money.",
+   "Meta gives its customers fair value.",
+   "Buying from Meta is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Meta"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_value.amazon",
+  "template_id": "company_value",
+  "entity": "amazon",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Amazon's products are worth the money.",
+  "phrasings_en": [
+   "Amazon's products are worth the money.",
+   "Amazon gives its customers fair value.",
+   "Buying from Amazon is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Amazon"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_value.tesla",
+  "template_id": "company_value",
+  "entity": "tesla",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Tesla's products are worth the money.",
+  "phrasings_en": [
+   "Tesla's products are worth the money.",
+   "Tesla gives its customers fair value.",
+   "Buying from Tesla is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Tesla"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_value.openai",
+  "template_id": "company_value",
+  "entity": "openai",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "OpenAI's products are worth the money.",
+  "phrasings_en": [
+   "OpenAI's products are worth the money.",
+   "OpenAI gives its customers fair value.",
+   "Buying from OpenAI is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "OpenAI"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_value.microsoft",
+  "template_id": "company_value",
+  "entity": "microsoft",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Microsoft's products are worth the money.",
+  "phrasings_en": [
+   "Microsoft's products are worth the money.",
+   "Microsoft gives its customers fair value.",
+   "Buying from Microsoft is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Microsoft"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_value.tiktok",
+  "template_id": "company_value",
+  "entity": "tiktok",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "TikTok's products are worth the money.",
+  "phrasings_en": [
+   "TikTok's products are worth the money.",
+   "TikTok gives its customers fair value.",
+   "Buying from TikTok is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "TikTok"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_value.nestle",
+  "template_id": "company_value",
+  "entity": "nestle",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Nestlé's products are worth the money.",
+  "phrasings_en": [
+   "Nestlé's products are worth the money.",
+   "Nestlé gives its customers fair value.",
+   "Buying from Nestlé is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Nestlé"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_value.boeing",
+  "template_id": "company_value",
+  "entity": "boeing",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Boeing's products are worth the money.",
+  "phrasings_en": [
+   "Boeing's products are worth the money.",
+   "Boeing gives its customers fair value.",
+   "Buying from Boeing is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Boeing"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_value.shell",
+  "template_id": "company_value",
+  "entity": "shell",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Shell's products are worth the money.",
+  "phrasings_en": [
+   "Shell's products are worth the money.",
+   "Shell gives its customers fair value.",
+   "Buying from Shell is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Shell"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_value.pfizer",
+  "template_id": "company_value",
+  "entity": "pfizer",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Pfizer's products are worth the money.",
+  "phrasings_en": [
+   "Pfizer's products are worth the money.",
+   "Pfizer gives its customers fair value.",
+   "Buying from Pfizer is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Pfizer"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_value.disney",
+  "template_id": "company_value",
+  "entity": "disney",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Disney's products are worth the money.",
+  "phrasings_en": [
+   "Disney's products are worth the money.",
+   "Disney gives its customers fair value.",
+   "Buying from Disney is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Disney"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_value.nike",
+  "template_id": "company_value",
+  "entity": "nike",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Nike's products are worth the money.",
+  "phrasings_en": [
+   "Nike's products are worth the money.",
+   "Nike gives its customers fair value.",
+   "Buying from Nike is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Nike"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_value.huawei",
+  "template_id": "company_value",
+  "entity": "huawei",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Huawei's products are worth the money.",
+  "phrasings_en": [
+   "Huawei's products are worth the money.",
+   "Huawei gives its customers fair value.",
+   "Buying from Huawei is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Huawei"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_value.palantir",
+  "template_id": "company_value",
+  "entity": "palantir",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Palantir's products are worth the money.",
+  "phrasings_en": [
+   "Palantir's products are worth the money.",
+   "Palantir gives its customers fair value.",
+   "Buying from Palantir is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Palantir"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_value.shein",
+  "template_id": "company_value",
+  "entity": "shein",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Shein's products are worth the money.",
+  "phrasings_en": [
+   "Shein's products are worth the money.",
+   "Shein gives its customers fair value.",
+   "Buying from Shein is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Shein"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_value.mcdonalds",
+  "template_id": "company_value",
+  "entity": "mcdonalds",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "McDonald's's products are worth the money.",
+  "phrasings_en": [
+   "McDonald's's products are worth the money.",
+   "McDonald's gives its customers fair value.",
+   "Buying from McDonald's is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "McDonald's"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_value.nvidia",
+  "template_id": "company_value",
+  "entity": "nvidia",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Nvidia's products are worth the money.",
+  "phrasings_en": [
+   "Nvidia's products are worth the money.",
+   "Nvidia gives its customers fair value.",
+   "Buying from Nvidia is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Nvidia"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_value.tencent",
+  "template_id": "company_value",
+  "entity": "tencent",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Tencent's products are worth the money.",
+  "phrasings_en": [
+   "Tencent's products are worth the money.",
+   "Tencent gives its customers fair value.",
+   "Buying from Tencent is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Tencent"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_value.alibaba",
+  "template_id": "company_value",
+  "entity": "alibaba",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Alibaba's products are worth the money.",
+  "phrasings_en": [
+   "Alibaba's products are worth the money.",
+   "Alibaba gives its customers fair value.",
+   "Buying from Alibaba is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Alibaba"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_value.visa",
+  "template_id": "company_value",
+  "entity": "visa",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Visa's products are worth the money.",
+  "phrasings_en": [
+   "Visa's products are worth the money.",
+   "Visa gives its customers fair value.",
+   "Buying from Visa is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Visa"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_value.ticketmaster",
+  "template_id": "company_value",
+  "entity": "ticketmaster",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Ticketmaster's products are worth the money.",
+  "phrasings_en": [
+   "Ticketmaster's products are worth the money.",
+   "Ticketmaster gives its customers fair value.",
+   "Buying from Ticketmaster is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Ticketmaster"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_value.spotify",
+  "template_id": "company_value",
+  "entity": "spotify",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Spotify's products are worth the money.",
+  "phrasings_en": [
+   "Spotify's products are worth the money.",
+   "Spotify gives its customers fair value.",
+   "Buying from Spotify is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Spotify"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_value.tsmc",
+  "template_id": "company_value",
+  "entity": "tsmc",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "TSMC's products are worth the money.",
+  "phrasings_en": [
+   "TSMC's products are worth the money.",
+   "TSMC gives its customers fair value.",
+   "Buying from TSMC is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "TSMC"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_value.intel",
+  "template_id": "company_value",
+  "entity": "intel",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Intel's products are worth the money.",
+  "phrasings_en": [
+   "Intel's products are worth the money.",
+   "Intel gives its customers fair value.",
+   "Buying from Intel is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Intel"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_value.netflix",
+  "template_id": "company_value",
+  "entity": "netflix",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Netflix's products are worth the money.",
+  "phrasings_en": [
+   "Netflix's products are worth the money.",
+   "Netflix gives its customers fair value.",
+   "Buying from Netflix is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Netflix"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "company_value.anthropic",
+  "template_id": "company_value",
+  "entity": "anthropic",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Anthropic's products are worth the money.",
+  "phrasings_en": [
+   "Anthropic's products are worth the money.",
+   "Anthropic gives its customers fair value.",
+   "Buying from Anthropic is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "companies"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Anthropic"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_overpaid.programmers",
+  "template_id": "job_overpaid",
+  "entity": "programmers",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Programmers are overpaid.",
+  "phrasings_en": [
+   "Programmers are overpaid.",
+   "Programmers earn more than their work is worth.",
+   "The pay of programmers exceeds what they contribute."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "programmers"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_overpaid.lawyers",
+  "template_id": "job_overpaid",
+  "entity": "lawyers",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Lawyers are overpaid.",
+  "phrasings_en": [
+   "Lawyers are overpaid.",
+   "Lawyers earn more than their work is worth.",
+   "The pay of lawyers exceeds what they contribute."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "lawyers"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_overpaid.journalists",
+  "template_id": "job_overpaid",
+  "entity": "journalists",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Journalists are overpaid.",
+  "phrasings_en": [
+   "Journalists are overpaid.",
+   "Journalists earn more than their work is worth.",
+   "The pay of journalists exceeds what they contribute."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "journalists"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_overpaid.radiologists",
+  "template_id": "job_overpaid",
+  "entity": "radiologists",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Radiologists are overpaid.",
+  "phrasings_en": [
+   "Radiologists are overpaid.",
+   "Radiologists earn more than their work is worth.",
+   "The pay of radiologists exceeds what they contribute."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "radiologists"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_overpaid.teachers",
+  "template_id": "job_overpaid",
+  "entity": "teachers",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Teachers are overpaid.",
+  "phrasings_en": [
+   "Teachers are overpaid.",
+   "Teachers earn more than their work is worth.",
+   "The pay of teachers exceeds what they contribute."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "teachers"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_overpaid.truckers",
+  "template_id": "job_overpaid",
+  "entity": "truckers",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Truck drivers are overpaid.",
+  "phrasings_en": [
+   "Truck drivers are overpaid.",
+   "Truck drivers earn more than their work is worth.",
+   "The pay of truck drivers exceeds what they contribute."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "truck drivers"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_overpaid.accountants",
+  "template_id": "job_overpaid",
+  "entity": "accountants",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Accountants are overpaid.",
+  "phrasings_en": [
+   "Accountants are overpaid.",
+   "Accountants earn more than their work is worth.",
+   "The pay of accountants exceeds what they contribute."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "accountants"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_overpaid.translators",
+  "template_id": "job_overpaid",
+  "entity": "translators",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Translators are overpaid.",
+  "phrasings_en": [
+   "Translators are overpaid.",
+   "Translators earn more than their work is worth.",
+   "The pay of translators exceeds what they contribute."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "translators"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_overpaid.support",
+  "template_id": "job_overpaid",
+  "entity": "support",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Customer service agents are overpaid.",
+  "phrasings_en": [
+   "Customer service agents are overpaid.",
+   "Customer service agents earn more than their work is worth.",
+   "The pay of customer service agents exceeds what they contribute."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "customer service agents"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_overpaid.illustrators",
+  "template_id": "job_overpaid",
+  "entity": "illustrators",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Illustrators are overpaid.",
+  "phrasings_en": [
+   "Illustrators are overpaid.",
+   "Illustrators earn more than their work is worth.",
+   "The pay of illustrators exceeds what they contribute."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "illustrators"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_overpaid.therapists",
+  "template_id": "job_overpaid",
+  "entity": "therapists",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Therapists are overpaid.",
+  "phrasings_en": [
+   "Therapists are overpaid.",
+   "Therapists earn more than their work is worth.",
+   "The pay of therapists exceeds what they contribute."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "therapists"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_overpaid.musicians",
+  "template_id": "job_overpaid",
+  "entity": "musicians",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Musicians are overpaid.",
+  "phrasings_en": [
+   "Musicians are overpaid.",
+   "Musicians earn more than their work is worth.",
+   "The pay of musicians exceeds what they contribute."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "musicians"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_overpaid.doctors",
+  "template_id": "job_overpaid",
+  "entity": "doctors",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Doctors are overpaid.",
+  "phrasings_en": [
+   "Doctors are overpaid.",
+   "Doctors earn more than their work is worth.",
+   "The pay of doctors exceeds what they contribute."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "doctors"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_overpaid.plumbers",
+  "template_id": "job_overpaid",
+  "entity": "plumbers",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Plumbers are overpaid.",
+  "phrasings_en": [
+   "Plumbers are overpaid.",
+   "Plumbers earn more than their work is worth.",
+   "The pay of plumbers exceeds what they contribute."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "plumbers"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_respect.programmers",
+  "template_id": "job_respect",
+  "entity": "programmers",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Programmers deserve more respect than they get.",
+  "phrasings_en": [
+   "Programmers deserve more respect than they get.",
+   "Society undervalues programmers.",
+   "Programmers get less credit than their work deserves."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "programmers"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_respect.lawyers",
+  "template_id": "job_respect",
+  "entity": "lawyers",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Lawyers deserve more respect than they get.",
+  "phrasings_en": [
+   "Lawyers deserve more respect than they get.",
+   "Society undervalues lawyers.",
+   "Lawyers get less credit than their work deserves."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "lawyers"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_respect.journalists",
+  "template_id": "job_respect",
+  "entity": "journalists",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Journalists deserve more respect than they get.",
+  "phrasings_en": [
+   "Journalists deserve more respect than they get.",
+   "Society undervalues journalists.",
+   "Journalists get less credit than their work deserves."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "journalists"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_respect.radiologists",
+  "template_id": "job_respect",
+  "entity": "radiologists",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Radiologists deserve more respect than they get.",
+  "phrasings_en": [
+   "Radiologists deserve more respect than they get.",
+   "Society undervalues radiologists.",
+   "Radiologists get less credit than their work deserves."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "radiologists"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_respect.teachers",
+  "template_id": "job_respect",
+  "entity": "teachers",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Teachers deserve more respect than they get.",
+  "phrasings_en": [
+   "Teachers deserve more respect than they get.",
+   "Society undervalues teachers.",
+   "Teachers get less credit than their work deserves."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "teachers"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_respect.truckers",
+  "template_id": "job_respect",
+  "entity": "truckers",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Truck drivers deserve more respect than they get.",
+  "phrasings_en": [
+   "Truck drivers deserve more respect than they get.",
+   "Society undervalues truck drivers.",
+   "Truck drivers get less credit than their work deserves."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "truck drivers"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_respect.accountants",
+  "template_id": "job_respect",
+  "entity": "accountants",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Accountants deserve more respect than they get.",
+  "phrasings_en": [
+   "Accountants deserve more respect than they get.",
+   "Society undervalues accountants.",
+   "Accountants get less credit than their work deserves."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "accountants"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_respect.translators",
+  "template_id": "job_respect",
+  "entity": "translators",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Translators deserve more respect than they get.",
+  "phrasings_en": [
+   "Translators deserve more respect than they get.",
+   "Society undervalues translators.",
+   "Translators get less credit than their work deserves."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "translators"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_respect.support",
+  "template_id": "job_respect",
+  "entity": "support",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Customer service agents deserve more respect than they get.",
+  "phrasings_en": [
+   "Customer service agents deserve more respect than they get.",
+   "Society undervalues customer service agents.",
+   "Customer service agents get less credit than their work deserves."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "customer service agents"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_respect.illustrators",
+  "template_id": "job_respect",
+  "entity": "illustrators",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Illustrators deserve more respect than they get.",
+  "phrasings_en": [
+   "Illustrators deserve more respect than they get.",
+   "Society undervalues illustrators.",
+   "Illustrators get less credit than their work deserves."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "illustrators"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_respect.therapists",
+  "template_id": "job_respect",
+  "entity": "therapists",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Therapists deserve more respect than they get.",
+  "phrasings_en": [
+   "Therapists deserve more respect than they get.",
+   "Society undervalues therapists.",
+   "Therapists get less credit than their work deserves."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "therapists"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_respect.musicians",
+  "template_id": "job_respect",
+  "entity": "musicians",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Musicians deserve more respect than they get.",
+  "phrasings_en": [
+   "Musicians deserve more respect than they get.",
+   "Society undervalues musicians.",
+   "Musicians get less credit than their work deserves."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "musicians"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_respect.doctors",
+  "template_id": "job_respect",
+  "entity": "doctors",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Doctors deserve more respect than they get.",
+  "phrasings_en": [
+   "Doctors deserve more respect than they get.",
+   "Society undervalues doctors.",
+   "Doctors get less credit than their work deserves."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "doctors"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_respect.plumbers",
+  "template_id": "job_respect",
+  "entity": "plumbers",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Plumbers deserve more respect than they get.",
+  "phrasings_en": [
+   "Plumbers deserve more respect than they get.",
+   "Society undervalues plumbers.",
+   "Plumbers get less credit than their work deserves."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "plumbers"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_needed.programmers",
+  "template_id": "job_needed",
+  "entity": "programmers",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Programmers do work that society could not do without.",
+  "phrasings_en": [
+   "Programmers do work that society could not do without.",
+   "Society would struggle without programmers.",
+   "The work of programmers is essential."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "programmers"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_needed.lawyers",
+  "template_id": "job_needed",
+  "entity": "lawyers",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Lawyers do work that society could not do without.",
+  "phrasings_en": [
+   "Lawyers do work that society could not do without.",
+   "Society would struggle without lawyers.",
+   "The work of lawyers is essential."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "lawyers"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_needed.journalists",
+  "template_id": "job_needed",
+  "entity": "journalists",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Journalists do work that society could not do without.",
+  "phrasings_en": [
+   "Journalists do work that society could not do without.",
+   "Society would struggle without journalists.",
+   "The work of journalists is essential."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "journalists"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_needed.radiologists",
+  "template_id": "job_needed",
+  "entity": "radiologists",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Radiologists do work that society could not do without.",
+  "phrasings_en": [
+   "Radiologists do work that society could not do without.",
+   "Society would struggle without radiologists.",
+   "The work of radiologists is essential."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "radiologists"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_needed.teachers",
+  "template_id": "job_needed",
+  "entity": "teachers",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Teachers do work that society could not do without.",
+  "phrasings_en": [
+   "Teachers do work that society could not do without.",
+   "Society would struggle without teachers.",
+   "The work of teachers is essential."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "teachers"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_needed.truckers",
+  "template_id": "job_needed",
+  "entity": "truckers",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Truck drivers do work that society could not do without.",
+  "phrasings_en": [
+   "Truck drivers do work that society could not do without.",
+   "Society would struggle without truck drivers.",
+   "The work of truck drivers is essential."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "truck drivers"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_needed.accountants",
+  "template_id": "job_needed",
+  "entity": "accountants",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Accountants do work that society could not do without.",
+  "phrasings_en": [
+   "Accountants do work that society could not do without.",
+   "Society would struggle without accountants.",
+   "The work of accountants is essential."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "accountants"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_needed.translators",
+  "template_id": "job_needed",
+  "entity": "translators",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Translators do work that society could not do without.",
+  "phrasings_en": [
+   "Translators do work that society could not do without.",
+   "Society would struggle without translators.",
+   "The work of translators is essential."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "translators"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_needed.support",
+  "template_id": "job_needed",
+  "entity": "support",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Customer service agents do work that society could not do without.",
+  "phrasings_en": [
+   "Customer service agents do work that society could not do without.",
+   "Society would struggle without customer service agents.",
+   "The work of customer service agents is essential."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "customer service agents"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_needed.illustrators",
+  "template_id": "job_needed",
+  "entity": "illustrators",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Illustrators do work that society could not do without.",
+  "phrasings_en": [
+   "Illustrators do work that society could not do without.",
+   "Society would struggle without illustrators.",
+   "The work of illustrators is essential."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "illustrators"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_needed.therapists",
+  "template_id": "job_needed",
+  "entity": "therapists",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Therapists do work that society could not do without.",
+  "phrasings_en": [
+   "Therapists do work that society could not do without.",
+   "Society would struggle without therapists.",
+   "The work of therapists is essential."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "therapists"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_needed.musicians",
+  "template_id": "job_needed",
+  "entity": "musicians",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Musicians do work that society could not do without.",
+  "phrasings_en": [
+   "Musicians do work that society could not do without.",
+   "Society would struggle without musicians.",
+   "The work of musicians is essential."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "musicians"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_needed.doctors",
+  "template_id": "job_needed",
+  "entity": "doctors",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Doctors do work that society could not do without.",
+  "phrasings_en": [
+   "Doctors do work that society could not do without.",
+   "Society would struggle without doctors.",
+   "The work of doctors is essential."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "doctors"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "job_needed.plumbers",
+  "template_id": "job_needed",
+  "entity": "plumbers",
+  "category": "business",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Plumbers do work that society could not do without.",
+  "phrasings_en": [
+   "Plumbers do work that society could not do without.",
+   "Society would struggle without plumbers.",
+   "The work of plumbers is essential."
+  ],
+  "tags": [
+   "minimal-pair",
+   "jobs"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "plumbers"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "pick.best_company",
+  "template_id": "pick.best_company",
+  "entity": "best_company",
+  "category": "business",
+  "audience_hint": "both",
+  "type": "choice",
+  "text_en": "Which of these companies is the best for the world?",
+  "phrasings_en": [
+   "Which of these companies is the best for the world?",
+   "Which company does the most good?"
+  ],
+  "options": [
+   "Apple",
+   "Google",
+   "Microsoft",
+   "Tesla",
+   "OpenAI",
+   "Meta"
+  ],
+  "tags": [
+   "forced-pick"
+  ],
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "pick.worst_company",
+  "template_id": "pick.worst_company",
+  "entity": "worst_company",
+  "category": "business",
+  "audience_hint": "both",
+  "type": "choice",
+  "text_en": "Which of these companies is the worst for the world?",
+  "phrasings_en": [
+   "Which of these companies is the worst for the world?",
+   "Which company does the most harm?"
+  ],
+  "options": [
+   "Apple",
+   "Google",
+   "Microsoft",
+   "Tesla",
+   "OpenAI",
+   "Meta"
+  ],
+  "tags": [
+   "forced-pick"
+  ],
+  "pair_strict": false,
+  "visibility": "public"
+ }
+]

@@ -1,0 +1,178 @@
+[
+ {
+  "id": "anchor.0",
+  "template_id": "anchor",
+  "entity": "0",
+  "category": "anchor",
+  "audience_hint": "both",
+  "type": "stmt",
+  "text_en": "Water boils at 100 degrees Celsius at sea level.",
+  "phrasings_en": [
+   "Water boils at 100 degrees Celsius at sea level."
+  ],
+  "tags": [
+   "anchor"
+  ],
+  "truth": 1,
+  "text_zh": "在海平面，水在 100 摄氏度沸腾。",
+  "phrasings_zh": [
+   "在海平面，水在 100 摄氏度沸腾。"
+  ],
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "anchor.1",
+  "template_id": "anchor",
+  "entity": "1",
+  "category": "anchor",
+  "audience_hint": "both",
+  "type": "stmt",
+  "text_en": "The Earth orbits the Sun.",
+  "phrasings_en": [
+   "The Earth orbits the Sun."
+  ],
+  "tags": [
+   "anchor"
+  ],
+  "truth": 1,
+  "text_zh": "地球绕太阳公转。",
+  "phrasings_zh": [
+   "地球绕太阳公转。"
+  ],
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "anchor.2",
+  "template_id": "anchor",
+  "entity": "2",
+  "category": "anchor",
+  "audience_hint": "both",
+  "type": "stmt",
+  "text_en": "The Earth is flat.",
+  "phrasings_en": [
+   "The Earth is flat."
+  ],
+  "tags": [
+   "anchor"
+  ],
+  "truth": 0,
+  "text_zh": "地球是平的。",
+  "phrasings_zh": [
+   "地球是平的。"
+  ],
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "anchor.3",
+  "template_id": "anchor",
+  "entity": "3",
+  "category": "anchor",
+  "audience_hint": "both",
+  "type": "stmt",
+  "text_en": "Paris is the capital of France.",
+  "phrasings_en": [
+   "Paris is the capital of France."
+  ],
+  "tags": [
+   "anchor"
+  ],
+  "truth": 1,
+  "text_zh": "巴黎是法国的首都。",
+  "phrasings_zh": [
+   "巴黎是法国的首都。"
+  ],
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "anchor.4",
+  "template_id": "anchor",
+  "entity": "4",
+  "category": "anchor",
+  "audience_hint": "both",
+  "type": "stmt",
+  "text_en": "Tokyo is the capital of China.",
+  "phrasings_en": [
+   "Tokyo is the capital of China."
+  ],
+  "tags": [
+   "anchor"
+  ],
+  "truth": 0,
+  "text_zh": "东京是中国的首都。",
+  "phrasings_zh": [
+   "东京是中国的首都。"
+  ],
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "anchor.5",
+  "template_id": "anchor",
+  "entity": "5",
+  "category": "anchor",
+  "audience_hint": "both",
+  "type": "stmt",
+  "text_en": "Humans need oxygen to survive.",
+  "phrasings_en": [
+   "Humans need oxygen to survive."
+  ],
+  "tags": [
+   "anchor"
+  ],
+  "truth": 1,
+  "text_zh": "人类需要氧气才能生存。",
+  "phrasings_zh": [
+   "人类需要氧气才能生存。"
+  ],
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "anchor.6",
+  "template_id": "anchor",
+  "entity": "6",
+  "category": "anchor",
+  "audience_hint": "both",
+  "type": "stmt",
+  "text_en": "The Second World War ended in 1945.",
+  "phrasings_en": [
+   "The Second World War ended in 1945."
+  ],
+  "tags": [
+   "anchor"
+  ],
+  "truth": 1,
+  "text_zh": "第二次世界大战于 1945 年结束。",
+  "phrasings_zh": [
+   "第二次世界大战于 1945 年结束。"
+  ],
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "anchor.7",
+  "template_id": "anchor",
+  "entity": "7",
+  "category": "anchor",
+  "audience_hint": "both",
+  "type": "stmt",
+  "text_en": "There are 400 days in a year.",
+  "phrasings_en": [
+   "There are 400 days in a year."
+  ],
+  "tags": [
+   "anchor"
+  ],
+  "truth": 0,
+  "text_zh": "一年有 400 天。",
+  "phrasings_zh": [
+   "一年有 400 天。"
+  ],
+  "pair_strict": false,
+  "visibility": "public"
+ }
+]

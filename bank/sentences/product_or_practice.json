@@ -1,0 +1,69 @@
+[
+ {
+  "id": "scam",
+  "category": "culture",
+  "audience": "en",
+  "tags": ["minimal-pair"],
+  "policy": "entity",
+  "wordings": ["{a} is a scam.", "{a} is basically a con.", "{a} mostly exists to take money from gullible people."]
+ },
+ {
+  "id": "waste_of_money",
+  "category": "culture",
+  "audience": "en",
+  "tags": ["minimal-pair", "consumer"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is a waste of money.",
+   "Spending money on {a} is foolish.",
+   "People who pay for {a} are being ripped off."
+  ],
+  "also": [
+   {"id": "water", "name": "bottled water"},
+   {"id": "handbags", "name": "a designer handbag"},
+   {"id": "gym", "name": "a gym membership"},
+   {"id": "warranty", "name": "an extended warranty"},
+   {"id": "businessclass", "name": "flying business class"},
+   {"id": "privateschool", "name": "private school"},
+   {"id": "tesla", "name": "a Tesla"},
+   {"id": "iphone", "name": "the newest iPhone"},
+   {"id": "watch", "name": "a luxury watch"},
+   {"id": "therapy", "name": "therapy"},
+   {"id": "ivy", "name": "an Ivy League degree"},
+   {"id": "petinsurance", "name": "pet insurance"},
+   {"id": "wedding", "name": "an expensive wedding"}
+  ]
+ },
+ {
+  "id": "practice_works",
+  "category": "culture",
+  "audience": "en",
+  "tags": ["minimal-pair"],
+  "policy": "entity",
+  "wordings": ["{a} actually works.", "{a} delivers what it promises.", "{a} does what its supporters claim."]
+ },
+ {
+  "id": "practice_future",
+  "category": "future",
+  "audience": "en",
+  "tags": ["minimal-pair", "forecast"],
+  "policy": "entity",
+  "wordings": [
+   "{a} will still be around in 50 years.",
+   "Half a century from now {a} will still be common.",
+   "{a} is here to stay."
+  ]
+ },
+ {
+  "id": "practice_harm",
+  "category": "culture",
+  "audience": "en",
+  "tags": ["minimal-pair"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is bad for the people who buy into it.",
+   "People who buy into {a} end up worse off.",
+   "{a} harms the people it is sold to."
+  ]
+ }
+]

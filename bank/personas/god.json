@@ -1,0 +1,13 @@
+{
+ "id": "god",
+ "display_en": "God",
+ "display_zh": "上帝",
+ "prefix_en": "God: all-knowing and accountable to no one",
+ "prefix_zh": "上帝：全知，且无需向任何人负责",
+ "state_key": "answer_as",
+ "group_type": "deity",
+ "anchors_required": true,
+ "column_label_en": "What Jev thinks God would answer",
+ "column_label_zh": "Jev 认为上帝会怎么答",
+ "source": "preset"
+}

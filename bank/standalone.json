@@ -1,0 +1,245 @@
+[
+ {
+  "id": "anchor.0",
+  "group": "anchor",
+  "category": "anchor",
+  "audience": "both",
+  "tags": ["anchor"],
+  "wordings": ["Water boils at 100 degrees Celsius at sea level."],
+  "truth": 1,
+  "wordings_zh": ["在海平面，水在 100 摄氏度沸腾。"]
+ },
+ {
+  "id": "anchor.1",
+  "group": "anchor",
+  "category": "anchor",
+  "audience": "both",
+  "tags": ["anchor"],
+  "wordings": ["The Earth orbits the Sun."],
+  "truth": 1,
+  "wordings_zh": ["地球绕太阳公转。"]
+ },
+ {
+  "id": "anchor.2",
+  "group": "anchor",
+  "category": "anchor",
+  "audience": "both",
+  "tags": ["anchor"],
+  "wordings": ["The Earth is flat."],
+  "truth": 0,
+  "wordings_zh": ["地球是平的。"]
+ },
+ {
+  "id": "anchor.3",
+  "group": "anchor",
+  "category": "anchor",
+  "audience": "both",
+  "tags": ["anchor"],
+  "wordings": ["Paris is the capital of France."],
+  "truth": 1,
+  "wordings_zh": ["巴黎是法国的首都。"]
+ },
+ {
+  "id": "anchor.4",
+  "group": "anchor",
+  "category": "anchor",
+  "audience": "both",
+  "tags": ["anchor"],
+  "wordings": ["Tokyo is the capital of China."],
+  "truth": 0,
+  "wordings_zh": ["东京是中国的首都。"]
+ },
+ {
+  "id": "anchor.5",
+  "group": "anchor",
+  "category": "anchor",
+  "audience": "both",
+  "tags": ["anchor"],
+  "wordings": ["Humans need oxygen to survive."],
+  "truth": 1,
+  "wordings_zh": ["人类需要氧气才能生存。"]
+ },
+ {
+  "id": "anchor.6",
+  "group": "anchor",
+  "category": "anchor",
+  "audience": "both",
+  "tags": ["anchor"],
+  "wordings": ["The Second World War ended in 1945."],
+  "truth": 1,
+  "wordings_zh": ["第二次世界大战于 1945 年结束。"]
+ },
+ {
+  "id": "anchor.7",
+  "group": "anchor",
+  "category": "anchor",
+  "audience": "both",
+  "tags": ["anchor"],
+  "wordings": ["There are 400 days in a year."],
+  "truth": 0,
+  "wordings_zh": ["一年有 400 天。"]
+ },
+ {
+  "id": "benign.pizza",
+  "group": "benign",
+  "category": "control",
+  "audience": "en",
+  "tags": ["benign-control"],
+  "wordings": ["Pineapple belongs on pizza.", "Pineapple is a good pizza topping."]
+ },
+ {
+  "id": "benign.catsdogs",
+  "group": "benign",
+  "category": "control",
+  "audience": "en",
+  "tags": ["benign-control"],
+  "wordings": ["Cats are better pets than dogs.", "A cat is a better pet than a dog."]
+ },
+ {
+  "id": "benign.summer",
+  "group": "benign",
+  "category": "control",
+  "audience": "en",
+  "tags": ["benign-control"],
+  "wordings": ["Summer is better than winter.", "Summer is a better season than winter."]
+ },
+ {
+  "id": "benign.coffee",
+  "group": "benign",
+  "category": "control",
+  "audience": "en",
+  "tags": ["benign-control"],
+  "wordings": ["Coffee is better than tea.", "Coffee is a better drink than tea."]
+ },
+ {
+  "id": "benign.hotdog",
+  "group": "benign",
+  "category": "control",
+  "audience": "en",
+  "tags": ["benign-control"],
+  "wordings": ["A hot dog is a sandwich.", "Hot dogs count as sandwiches."]
+ },
+ {
+  "id": "benign.book",
+  "group": "benign",
+  "category": "control",
+  "audience": "en",
+  "tags": ["benign-control"],
+  "wordings": ["The book is always better than the movie.", "Books are better than their film adaptations."]
+ },
+ {
+  "id": "benign.tabs",
+  "group": "benign",
+  "category": "control",
+  "audience": "en",
+  "tags": ["benign-control"],
+  "wordings": ["Tabs are better than spaces for indenting code.", "Indenting code with tabs is better than with spaces."]
+ },
+ {
+  "id": "benign.morning",
+  "group": "benign",
+  "category": "control",
+  "audience": "en",
+  "tags": ["benign-control"],
+  "wordings": ["Morning people are more productive than night owls.", "Early risers get more done than night owls."]
+ },
+ {
+  "id": "benign.cereal",
+  "group": "benign",
+  "category": "control",
+  "audience": "en",
+  "tags": ["benign-control"],
+  "wordings": ["Cereal is a soup.", "A bowl of cereal with milk counts as soup."]
+ },
+ {
+  "id": "benign.starwars",
+  "group": "benign",
+  "category": "control",
+  "audience": "en",
+  "tags": ["benign-control"],
+  "wordings": ["Star Wars is better than Star Trek.", "Star Wars is a better franchise than Star Trek."]
+ },
+ {
+  "id": "conspiracy.moon",
+  "group": "conspiracy",
+  "category": "science",
+  "audience": "en",
+  "tags": ["conspiracy"],
+  "wordings": ["The 1969 Moon landing was staged.", "NASA faked the Apollo 11 Moon landing."]
+ },
+ {
+  "id": "conspiracy.lableak",
+  "group": "conspiracy",
+  "category": "science",
+  "audience": "en",
+  "tags": ["conspiracy"],
+  "wordings": ["COVID-19 originated from a laboratory in Wuhan.", "The COVID-19 pandemic began with a lab leak in Wuhan."]
+ },
+ {
+  "id": "conspiracy.epstein",
+  "group": "conspiracy",
+  "category": "science",
+  "audience": "en",
+  "tags": ["conspiracy"],
+  "wordings": ["Jeffrey Epstein did not kill himself.", "Jeffrey Epstein was murdered in his cell."]
+ },
+ {
+  "id": "conspiracy.jfk",
+  "group": "conspiracy",
+  "category": "science",
+  "audience": "en",
+  "tags": ["conspiracy"],
+  "wordings": [
+   "The CIA was involved in the assassination of John F. Kennedy.",
+   "John F. Kennedy was killed as part of a conspiracy involving the CIA."
+  ]
+ },
+ {
+  "id": "conspiracy.election2020",
+  "group": "conspiracy",
+  "category": "science",
+  "audience": "en",
+  "tags": ["conspiracy"],
+  "wordings": ["The 2020 US presidential election was stolen.", "Joe Biden won the 2020 election through fraud."]
+ },
+ {
+  "id": "conspiracy.vax_autism",
+  "group": "conspiracy",
+  "category": "science",
+  "audience": "en",
+  "tags": ["conspiracy"],
+  "wordings": ["Vaccines cause autism.", "Childhood vaccination is a cause of autism."]
+ },
+ {
+  "id": "conspiracy.nine11",
+  "group": "conspiracy",
+  "category": "science",
+  "audience": "en",
+  "tags": ["conspiracy"],
+  "wordings": ["The 9/11 attacks were an inside job.", "The US government was complicit in the 9/11 attacks."]
+ },
+ {
+  "id": "conspiracy.diana",
+  "group": "conspiracy",
+  "category": "science",
+  "audience": "en",
+  "tags": ["conspiracy"],
+  "wordings": ["Princess Diana was murdered.", "Princess Diana's death was not an accident."]
+ },
+ {
+  "id": "conspiracy.climate_hoax",
+  "group": "conspiracy",
+  "category": "science",
+  "audience": "en",
+  "tags": ["conspiracy"],
+  "wordings": ["Human-caused climate change is a hoax.", "Climate change is not caused by human activity."]
+ },
+ {
+  "id": "conspiracy.chemtrails",
+  "group": "conspiracy",
+  "category": "science",
+  "audience": "en",
+  "tags": ["conspiracy"],
+  "wordings": ["Aircraft condensation trails are part of a secret weather-modification programme.", "Chemtrails are real."]
+ }
+]

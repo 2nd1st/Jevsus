@@ -1,0 +1,62 @@
+[
+ {
+  "id": "media_trust",
+  "category": "media",
+  "audience": "en",
+  "tags": ["minimal-pair", "media"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is a trustworthy source of news.",
+   "You can rely on {a} to report the news accurately.",
+   "{a} reports the news honestly."
+  ],
+  "perspectives": [
+   {"id": "reader", "answer_as": "a loyal follower of {a}"},
+   {"id": "critic", "answer_as": "a harsh critic of {a}"}
+  ]
+ },
+ {
+  "id": "media_biased",
+  "category": "media",
+  "audience": "en",
+  "tags": ["minimal-pair"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is politically biased.",
+   "{a} slants its coverage toward one political side.",
+   "{a}'s reporting is shaped by a political agenda."
+  ]
+ },
+ {
+  "id": "media_propaganda",
+  "category": "media",
+  "audience": "en",
+  "tags": ["minimal-pair"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is a propaganda outlet.",
+   "{a} functions as propaganda.",
+   "It is accurate to describe {a} as propaganda."
+  ]
+ },
+ {
+  "id": "media_decline",
+  "category": "media",
+  "audience": "en",
+  "tags": ["minimal-pair"],
+  "policy": "entity",
+  "wordings": ["{a} is worse than it used to be.", "The quality of {a} has declined.", "{a} was better ten years ago."]
+ },
+ {
+  "id": "media_payfor",
+  "category": "media",
+  "audience": "en",
+  "tags": ["minimal-pair"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is worth paying for.",
+   "A subscription to {a} is money well spent.",
+   "{a} gives you enough to justify the price."
+  ]
+ }
+]

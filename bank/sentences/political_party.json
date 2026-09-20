@@ -1,0 +1,62 @@
+[
+ {
+  "id": "party_extremist",
+  "category": "geopolitics",
+  "audience": "en",
+  "tags": ["minimal-pair", "parties"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is an extremist party.",
+   "{a} holds extreme political positions.",
+   "It is accurate to call {a} extremist."
+  ]
+ },
+ {
+  "id": "party_workers",
+  "category": "geopolitics",
+  "audience": "en",
+  "tags": ["minimal-pair", "parties"],
+  "policy": "entity",
+  "wordings": [
+   "{a} represents the interests of working people.",
+   "{a} governs in the interest of ordinary workers.",
+   "Working people are better off when {a} is in power."
+  ]
+ },
+ {
+  "id": "party_democracy",
+  "category": "geopolitics",
+  "audience": "en",
+  "tags": ["minimal-pair", "parties"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is a threat to democracy.",
+   "{a} endangers democratic government.",
+   "Democracy is less safe when {a} holds power."
+  ]
+ },
+ {
+  "id": "party_good",
+  "category": "geopolitics",
+  "audience": "en",
+  "tags": ["minimal-pair", "parties"],
+  "policy": "entity",
+  "wordings": [
+   "{a} has been good for its country.",
+   "{a}'s time in politics has left its country better off.",
+   "On balance {a} has helped its country."
+  ]
+ },
+ {
+  "id": "party_future",
+  "category": "future",
+  "audience": "en",
+  "tags": ["minimal-pair", "parties", "forecast"],
+  "policy": "entity",
+  "wordings": [
+   "{a} will still be a major party in 20 years.",
+   "Two decades from now {a} will still matter.",
+   "{a} will survive the next twenty years as a major political force."
+  ]
+ }
+]

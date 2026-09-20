@@ -1,0 +1,15 @@
+{
+ "id": "us_conservative",
+ "display_en": "a typical American conservative",
+ "display_zh": "典型的美国保守派",
+ "prefix_en": "a typical American conservative",
+ "prefix_zh": "一个典型的美国保守派",
+ "state_key": "answer_as",
+ "group_type": "ideology",
+ "anchors_required": true,
+ "column_label_en": "What Jev thinks a typical American conservative would answer",
+ "column_label_zh": "Jev 认为典型的美国保守派会怎么答",
+ "source": "sensitivity_probe",
+ "note": "Fixed generic stance, run on every item so stance sensitivity is comparable across templates. Wording is verbatim from the 2026-09-20 persona probe. Not a switchable site preset.",
+ "site_preset": false
+}

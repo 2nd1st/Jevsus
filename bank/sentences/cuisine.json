@@ -1,0 +1,32 @@
+[
+ {
+  "id": "cuisine_overrated",
+  "category": "entertainment",
+  "audience": "both",
+  "tags": ["minimal-pair", "food"],
+  "policy": "entity",
+  "wordings": ["{a} is overrated.", "{a} gets more praise than it deserves.", "{a} is nowhere near as good as people say."],
+  "wordings_zh": ["{a}被高估了。", "{a}名过其实。", "{a}远没有大家说的那么好。"],
+  "perspectives": [{"id": "chef", "answer_as": "a proud {a} chef"}]
+ },
+ {
+  "id": "cuisine_healthy",
+  "category": "health",
+  "audience": "en",
+  "tags": ["minimal-pair", "food"],
+  "policy": "entity",
+  "wordings": ["{a} is healthy.", "{a} is good for you.", "Eating {a} regularly is good for your health."]
+ },
+ {
+  "id": "cuisine_best",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "food"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is among the best in the world.",
+   "{a} ranks among the world's great cuisines.",
+   "Few cuisines are as good as {a}."
+  ]
+ }
+]

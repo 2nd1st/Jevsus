@@ -1,0 +1,12 @@
+[
+ {"id": "french", "name": "French food", "name_zh": "法国菜"},
+ {"id": "italian", "name": "Italian food", "name_zh": "意大利菜"},
+ {"id": "chinese", "name": "Chinese food", "name_zh": "中国菜"},
+ {"id": "japanese", "name": "Japanese food", "name_zh": "日本菜"},
+ {"id": "indian", "name": "Indian food", "name_zh": "印度菜"},
+ {"id": "british", "name": "British food", "name_zh": "英国菜"},
+ {"id": "american", "name": "American food", "name_zh": "美国菜"},
+ {"id": "mexican", "name": "Mexican food", "name_zh": "墨西哥菜"},
+ {"id": "korean", "name": "Korean food", "name_zh": "韩国菜"},
+ {"id": "thai", "name": "Thai food", "name_zh": "泰国菜"}
+]

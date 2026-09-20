@@ -1,0 +1,254 @@
+{
+ "_about": "Other spellings of names that are in the bank, so that 'Trump', 'USA' or '特朗普' reach the same file as the bank's own spelling. Chinese names from slots_zh, 'the X' → 'X', accent-free spellings and unambiguous surnames are derived automatically and need not be listed; 'no_surname' lists surnames too ambiguous to stand for the person.",
+ "aliases": {
+  "the United States": [
+   "US",
+   "USA",
+   "U.S.",
+   "U.S.A.",
+   "America",
+   "United States of America",
+   "美国"
+  ],
+  "the United Kingdom": [
+   "UK",
+   "U.K.",
+   "Britain",
+   "Great Britain",
+   "英国"
+  ],
+  "China": [
+   "PRC",
+   "People's Republic of China",
+   "中国"
+  ],
+  "Russia": [
+   "俄罗斯",
+   "Russian Federation"
+  ],
+  "Japan": [
+   "日本"
+  ],
+  "Israel": [
+   "以色列"
+  ],
+  "India": [
+   "印度"
+  ],
+  "France": [
+   "法国"
+  ],
+  "Germany": [
+   "德国"
+  ],
+  "South Korea": [
+   "Korea",
+   "韩国"
+  ],
+  "North Korea": [
+   "DPRK",
+   "朝鲜"
+  ],
+  "Taiwan": [
+   "台湾",
+   "ROC"
+  ],
+  "Hong Kong": [
+   "香港"
+  ],
+  "Tibet": [
+   "西藏"
+  ],
+  "Xinjiang": [
+   "新疆"
+  ],
+  "Ukraine": [
+   "乌克兰"
+  ],
+  "Palestine": [
+   "巴勒斯坦"
+  ],
+  "Donald Trump": [
+   "特朗普",
+   "川普",
+   "唐纳德·特朗普"
+  ],
+  "Vladimir Putin": [
+   "普京"
+  ],
+  "Xi Jinping": [
+   "Xi",
+   "习近平"
+  ],
+  "Barack Obama": [
+   "奥巴马"
+  ],
+  "Elon Musk": [
+   "马斯克",
+   "埃隆·马斯克"
+  ],
+  "Taylor Swift": [
+   "泰勒·斯威夫特",
+   "泰勒斯威夫特",
+   "霉霉"
+  ],
+  "Mao Zedong": [
+   "Mao",
+   "Chairman Mao",
+   "毛泽东"
+  ],
+  "Kim Jong Un": [
+   "Kim Jong-un",
+   "金正恩"
+  ],
+  "Mohammed bin Salman": [
+   "MBS"
+  ],
+  "Benjamin Netanyahu": [
+   "Bibi",
+   "内塔尼亚胡"
+  ],
+  "Volodymyr Zelensky": [
+   "Zelenskyy",
+   "泽连斯基"
+  ],
+  "Narendra Modi": [
+   "莫迪"
+  ],
+  "Joseph Stalin": [
+   "斯大林"
+  ],
+  "Mahatma Gandhi": [
+   "甘地"
+  ],
+  "Napoleon": [
+   "Napoleon Bonaparte",
+   "拿破仑"
+  ],
+  "George W. Bush": [
+   "George Bush",
+   "Bush Jr"
+  ],
+  "J.K. Rowling": [
+   "JK Rowling",
+   "J. K. Rowling"
+  ],
+  "Michael Jackson": [
+   "MJ"
+  ],
+  "Cristiano Ronaldo": [
+   "CR7",
+   "C罗"
+  ],
+  "Lionel Messi": [
+   "Leo Messi",
+   "梅西"
+  ],
+  "X (formerly Twitter)": [
+   "X",
+   "Twitter",
+   "推特"
+  ],
+  "The BBC": [
+   "BBC"
+  ],
+  "The New York Times": [
+   "NYT",
+   "New York Times"
+  ],
+  "The Beatles": [
+   "Beatles"
+  ],
+  "the Chinese Communist Party": [
+   "CCP",
+   "CPC",
+   "中国共产党",
+   "中共"
+  ],
+  "the Republican Party": [
+   "GOP",
+   "Republicans"
+  ],
+  "the Democratic Party": [
+   "Democrats"
+  ],
+  "the European Union": [
+   "EU",
+   "欧盟"
+  ],
+  "the United Nations": [
+   "UN",
+   "联合国"
+  ],
+  "the World Health Organization": [
+   "WHO"
+  ],
+  "the World Economic Forum": [
+   "WEF",
+   "Davos"
+  ],
+  "the International Olympic Committee": [
+   "IOC"
+  ],
+  "the Israel Defense Forces": [
+   "IDF"
+  ],
+  "Iran's Revolutionary Guard": [
+   "IRGC",
+   "Revolutionary Guard"
+  ],
+  "the MAGA movement": [
+   "MAGA"
+  ],
+  "McDonald's": [
+   "McDonalds",
+   "麦当劳"
+  ],
+  "Apple": [
+   "苹果"
+  ],
+  "Tesla": [
+   "特斯拉"
+  ],
+  "Huawei": [
+   "华为"
+  ],
+  "Tencent": [
+   "腾讯"
+  ],
+  "Alibaba": [
+   "阿里巴巴"
+  ],
+  "TikTok": [
+   "抖音"
+  ],
+  "WeChat": [
+   "微信"
+  ]
+ },
+ "no_surname": [
+  "West",
+  "Jobs",
+  "Gates",
+  "Paul",
+  "James",
+  "Jordan",
+  "Khan",
+  "Swift",
+  "Bush",
+  "Rae",
+  "Heard",
+  "Hilton",
+  "Jackson",
+  "Bryant",
+  "Un",
+  "Yew",
+  "Salman",
+  "Jinping",
+  "Zedong",
+  "Teresa",
+  "Caesar",
+  "Bunny",
+  "Blair"
+ ]
+}

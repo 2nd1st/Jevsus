@@ -1,0 +1,22 @@
+[
+ {
+  "id": "real_art",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "art"],
+  "policy": "entity",
+  "wordings": ["{a} is real art.", "{a} deserves to be called art.", "{a} belongs in an art museum."]
+ },
+ {
+  "id": "artform_lasting",
+  "category": "culture",
+  "audience": "en",
+  "tags": ["minimal-pair", "art", "forecast"],
+  "policy": "entity",
+  "wordings": [
+   "{a} will still be valued in 100 years.",
+   "A century from now people will still care about {a}.",
+   "{a} will stand the test of time."
+  ]
+ }
+]

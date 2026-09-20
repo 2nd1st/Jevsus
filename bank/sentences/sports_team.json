@@ -1,0 +1,46 @@
+[
+ {
+  "id": "club_greatest",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "sports"],
+  "policy": "evaluative",
+  "wordings": [
+   "{a} is the greatest team in the history of its sport.",
+   "No team in its sport has ever been greater than {a}.",
+   "{a} is the greatest sports team of its kind."
+  ]
+ },
+ {
+  "id": "club_bought",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "sports"],
+  "policy": "evaluative",
+  "wordings": [
+   "{a} bought its success.",
+   "{a}'s trophies were bought rather than earned.",
+   "Money, more than merit, explains {a}'s success."
+  ]
+ },
+ {
+  "id": "club_fans",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "sports"],
+  "policy": "evaluative",
+  "wordings": [
+   "{a}'s fans are the most annoying in sport.",
+   "{a} has insufferable fans.",
+   "Fans of {a} are unusually unpleasant."
+  ]
+ },
+ {
+  "id": "club_decline",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "sports"],
+  "policy": "evaluative",
+  "wordings": ["{a}'s best days are behind it.", "{a} will not return to its former level.", "{a} peaked years ago."]
+ }
+]

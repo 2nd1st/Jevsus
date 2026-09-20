@@ -1,0 +1,90 @@
+[
+ {
+  "id": "real_science",
+  "category": "science",
+  "audience": "en",
+  "tags": ["minimal-pair", "fields"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is a real science.",
+   "{a} meets the standards of a genuine science.",
+   "{a} deserves to be called a science."
+  ],
+  "perspectives": [{"id": "practitioner", "answer_as": "a professor of {a}"}]
+ },
+ {
+  "id": "degree_waste",
+  "category": "education",
+  "audience": "en",
+  "tags": ["minimal-pair", "fields"],
+  "policy": "entity",
+  "wordings": [
+   "A degree in {a} is a waste of money.",
+   "Studying {a} at university is a poor investment.",
+   "Getting a degree in {a} does not pay off."
+  ],
+  "perspectives": [{"id": "graduate", "answer_as": "someone with a degree in {a}"}],
+  "also": [
+   {"id": "philosophy", "name": "philosophy"},
+   {"id": "arthistory", "name": "art history"},
+   {"id": "cs", "name": "computer science"},
+   {"id": "law", "name": "law"},
+   {"id": "journalism", "name": "journalism"},
+   {"id": "business", "name": "business"},
+   {"id": "genderstudies", "name": "gender studies"},
+   {"id": "psychology", "name": "psychology"},
+   {"id": "english", "name": "English literature"},
+   {"id": "music", "name": "music"},
+   {"id": "medicine", "name": "medicine"},
+   {"id": "theology", "name": "theology"}
+  ]
+ },
+ {
+  "id": "field_useful",
+  "category": "science",
+  "audience": "en",
+  "tags": ["minimal-pair", "academia"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is useful to society.",
+   "Society benefits from research in {a}.",
+   "{a} produces knowledge that matters."
+  ]
+ },
+ {
+  "id": "field_ideology",
+  "category": "science",
+  "audience": "en",
+  "tags": ["minimal-pair", "academia"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is driven more by ideology than by evidence.",
+   "{a} is shaped by politics more than by data.",
+   "Ideology matters more than evidence in {a}."
+  ]
+ },
+ {
+  "id": "field_progress",
+  "category": "science",
+  "audience": "en",
+  "tags": ["minimal-pair", "academia"],
+  "policy": "entity",
+  "wordings": [
+   "{a} has made real progress in the last twenty years.",
+   "{a} knows things now that it did not know in 2006.",
+   "{a} has genuinely advanced this century."
+  ]
+ },
+ {
+  "id": "field_funding",
+  "category": "science",
+  "audience": "en",
+  "tags": ["minimal-pair", "academia"],
+  "policy": "entity",
+  "wordings": [
+   "{a} deserves more public funding.",
+   "{a} is underfunded relative to its value.",
+   "Public money spent on {a} is money well spent."
+  ]
+ }
+]

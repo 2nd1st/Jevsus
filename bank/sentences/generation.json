@@ -1,0 +1,42 @@
+[
+ {
+  "id": "generation_worst",
+  "category": "culture",
+  "audience": "en",
+  "tags": ["minimal-pair", "generations"],
+  "policy": "entity",
+  "wordings": [
+   "{a} are the worst generation.",
+   "{a} have done the most damage of any living generation.",
+   "{a} are the most selfish generation."
+  ]
+ },
+ {
+  "id": "generation_easy",
+  "category": "culture",
+  "audience": "en",
+  "tags": ["minimal-pair", "generations"],
+  "policy": "entity",
+  "wordings": [
+   "{a} had it easiest.",
+   "{a} had an easier life than any other living generation.",
+   "Life was easier for {a} than for the generations around them."
+  ]
+ },
+ {
+  "id": "generation_entitled",
+  "category": "culture",
+  "audience": "en",
+  "tags": ["minimal-pair", "generations"],
+  "policy": "entity",
+  "wordings": ["{a} are entitled.", "{a} expect more than they have earned.", "Entitlement is typical of {a}."]
+ },
+ {
+  "id": "generation_hardworking",
+  "category": "culture",
+  "audience": "en",
+  "tags": ["minimal-pair", "generations"],
+  "policy": "entity",
+  "wordings": ["{a} are hard-working.", "{a} work hard.", "Hard work is typical of {a}."]
+ }
+]

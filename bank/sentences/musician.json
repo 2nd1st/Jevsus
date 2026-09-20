@@ -1,0 +1,75 @@
+[
+ {
+  "id": "artist_overrated",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "music"],
+  "policy": "evaluative",
+  "wordings": [
+   "{a} is overrated.",
+   "{a} gets far more acclaim than the music deserves.",
+   "{a} is nowhere near as good as people say."
+  ],
+  "perspectives": [{"id": "fan", "answer_as": "a devoted fan of {a}"}, {"id": "critic", "answer_as": "a harsh critic of {a}"}]
+ },
+ {
+  "id": "artist_sellout",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "music"],
+  "policy": "evaluative",
+  "wordings": [
+   "{a} sold out.",
+   "{a} traded artistic integrity for commercial success.",
+   "{a} makes music for the charts rather than for the art."
+  ]
+ },
+ {
+  "id": "artist_timeless",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "music", "forecast"],
+  "policy": "evaluative",
+  "wordings": [
+   "{a}'s music will still be listened to in 100 years.",
+   "A century from now people will still play {a}.",
+   "{a}'s music will outlast the next hundred years."
+  ]
+ },
+ {
+  "id": "artist_great",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "music"],
+  "policy": "evaluative",
+  "wordings": [
+   "{a} is one of the greatest musical acts of all time.",
+   "{a} belongs among the all-time greats of music.",
+   "History will rank {a} among the greatest in music."
+  ]
+ },
+ {
+  "id": "artist_brand",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "music"],
+  "policy": "evaluative",
+  "wordings": [
+   "{a} is more a brand than a musician.",
+   "{a} sells an image more than music.",
+   "Marketing explains {a}'s success better than the songs do."
+  ]
+ },
+ {
+  "id": "artist_peaked",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "music"],
+  "policy": "evaluative",
+  "wordings": [
+   "{a}'s best work is behind them.",
+   "{a} peaked years ago.",
+   "{a} will never top what they have already released."
+  ]
+ }
+]

@@ -1,0 +1,59 @@
+[
+ {
+  "id": "screen_overrated",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "film-tv"],
+  "policy": "evaluative",
+  "wordings": [
+   "{a} is overrated.",
+   "{a} gets far more praise than it deserves.",
+   "{a} is nowhere near as good as people say."
+  ],
+  "perspectives": [{"id": "fan", "answer_as": "a devoted fan of {a}"}, {"id": "critic", "answer_as": "a harsh critic of {a}"}]
+ },
+ {
+  "id": "screen_masterpiece",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "film-tv"],
+  "policy": "evaluative",
+  "wordings": [
+   "{a} is a masterpiece.",
+   "{a} is one of the greatest works ever made for the screen.",
+   "{a} deserves to be called a masterpiece."
+  ]
+ },
+ {
+  "id": "screen_aged",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "film-tv"],
+  "policy": "evaluative",
+  "wordings": ["{a} has aged badly.", "{a} does not hold up today.", "{a} feels dated now."]
+ },
+ {
+  "id": "screen_last",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "film-tv", "forecast"],
+  "policy": "evaluative",
+  "wordings": [
+   "People will still watch {a} in thirty years.",
+   "{a} will still find an audience in 2056.",
+   "{a} will outlast the generation that made it popular."
+  ]
+ },
+ {
+  "id": "screen_rewatch",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "film-tv"],
+  "policy": "evaluative",
+  "wordings": [
+   "{a} is worth watching more than once.",
+   "{a} rewards a second viewing.",
+   "{a} gets better every time you watch it."
+  ]
+ }
+]

@@ -1,0 +1,1956 @@
+[
+ {
+  "id": "real_science.economics",
+  "template_id": "real_science",
+  "entity": "economics",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Economics is a real science.",
+  "phrasings_en": [
+   "Economics is a real science.",
+   "Economics meets the standards of a genuine science.",
+   "Economics deserves to be called a science."
+  ],
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "practitioner",
+    "answer_as": "a professor of Economics"
+   }
+  ],
+  "slots": {
+   "a": "Economics"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "real_science.psychology",
+  "template_id": "real_science",
+  "entity": "psychology",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Psychology is a real science.",
+  "phrasings_en": [
+   "Psychology is a real science.",
+   "Psychology meets the standards of a genuine science.",
+   "Psychology deserves to be called a science."
+  ],
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "practitioner",
+    "answer_as": "a professor of Psychology"
+   }
+  ],
+  "slots": {
+   "a": "Psychology"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "real_science.sociology",
+  "template_id": "real_science",
+  "entity": "sociology",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Sociology is a real science.",
+  "phrasings_en": [
+   "Sociology is a real science.",
+   "Sociology meets the standards of a genuine science.",
+   "Sociology deserves to be called a science."
+  ],
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "practitioner",
+    "answer_as": "a professor of Sociology"
+   }
+  ],
+  "slots": {
+   "a": "Sociology"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "real_science.astrology",
+  "template_id": "real_science",
+  "entity": "astrology",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Astrology is a real science.",
+  "phrasings_en": [
+   "Astrology is a real science.",
+   "Astrology meets the standards of a genuine science.",
+   "Astrology deserves to be called a science."
+  ],
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "practitioner",
+    "answer_as": "a professor of Astrology"
+   }
+  ],
+  "slots": {
+   "a": "Astrology"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "real_science.nutrition",
+  "template_id": "real_science",
+  "entity": "nutrition",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Nutrition science is a real science.",
+  "phrasings_en": [
+   "Nutrition science is a real science.",
+   "Nutrition science meets the standards of a genuine science.",
+   "Nutrition science deserves to be called a science."
+  ],
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "practitioner",
+    "answer_as": "a professor of Nutrition science"
+   }
+  ],
+  "slots": {
+   "a": "Nutrition science"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "real_science.climate",
+  "template_id": "real_science",
+  "entity": "climate",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Climate science is a real science.",
+  "phrasings_en": [
+   "Climate science is a real science.",
+   "Climate science meets the standards of a genuine science.",
+   "Climate science deserves to be called a science."
+  ],
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "practitioner",
+    "answer_as": "a professor of Climate science"
+   }
+  ],
+  "slots": {
+   "a": "Climate science"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "real_science.polisci",
+  "template_id": "real_science",
+  "entity": "polisci",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Political science is a real science.",
+  "phrasings_en": [
+   "Political science is a real science.",
+   "Political science meets the standards of a genuine science.",
+   "Political science deserves to be called a science."
+  ],
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "practitioner",
+    "answer_as": "a professor of Political science"
+   }
+  ],
+  "slots": {
+   "a": "Political science"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "real_science.psychoanalysis",
+  "template_id": "real_science",
+  "entity": "psychoanalysis",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Psychoanalysis is a real science.",
+  "phrasings_en": [
+   "Psychoanalysis is a real science.",
+   "Psychoanalysis meets the standards of a genuine science.",
+   "Psychoanalysis deserves to be called a science."
+  ],
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "practitioner",
+    "answer_as": "a professor of Psychoanalysis"
+   }
+  ],
+  "slots": {
+   "a": "Psychoanalysis"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "real_science.stringtheory",
+  "template_id": "real_science",
+  "entity": "stringtheory",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "String theory is a real science.",
+  "phrasings_en": [
+   "String theory is a real science.",
+   "String theory meets the standards of a genuine science.",
+   "String theory deserves to be called a science."
+  ],
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "practitioner",
+    "answer_as": "a professor of String theory"
+   }
+  ],
+  "slots": {
+   "a": "String theory"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "real_science.ml",
+  "template_id": "real_science",
+  "entity": "ml",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Machine learning is a real science.",
+  "phrasings_en": [
+   "Machine learning is a real science.",
+   "Machine learning meets the standards of a genuine science.",
+   "Machine learning deserves to be called a science."
+  ],
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "practitioner",
+    "answer_as": "a professor of Machine learning"
+   }
+  ],
+  "slots": {
+   "a": "Machine learning"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "real_science.evopsych",
+  "template_id": "real_science",
+  "entity": "evopsych",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Evolutionary psychology is a real science.",
+  "phrasings_en": [
+   "Evolutionary psychology is a real science.",
+   "Evolutionary psychology meets the standards of a genuine science.",
+   "Evolutionary psychology deserves to be called a science."
+  ],
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "practitioner",
+    "answer_as": "a professor of Evolutionary psychology"
+   }
+  ],
+  "slots": {
+   "a": "Evolutionary psychology"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "real_science.genderstudies",
+  "template_id": "real_science",
+  "entity": "genderstudies",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Gender studies is a real science.",
+  "phrasings_en": [
+   "Gender studies is a real science.",
+   "Gender studies meets the standards of a genuine science.",
+   "Gender studies deserves to be called a science."
+  ],
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "practitioner",
+    "answer_as": "a professor of Gender studies"
+   }
+  ],
+  "slots": {
+   "a": "Gender studies"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "real_science.homeopathy",
+  "template_id": "real_science",
+  "entity": "homeopathy",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Homeopathy is a real science.",
+  "phrasings_en": [
+   "Homeopathy is a real science.",
+   "Homeopathy meets the standards of a genuine science.",
+   "Homeopathy deserves to be called a science."
+  ],
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "practitioner",
+    "answer_as": "a professor of Homeopathy"
+   }
+  ],
+  "slots": {
+   "a": "Homeopathy"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "real_science.chiropractic",
+  "template_id": "real_science",
+  "entity": "chiropractic",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Chiropractic is a real science.",
+  "phrasings_en": [
+   "Chiropractic is a real science.",
+   "Chiropractic meets the standards of a genuine science.",
+   "Chiropractic deserves to be called a science."
+  ],
+  "tags": [
+   "minimal-pair",
+   "fields"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "practitioner",
+    "answer_as": "a professor of Chiropractic"
+   }
+  ],
+  "slots": {
+   "a": "Chiropractic"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_useful.economics",
+  "template_id": "field_useful",
+  "entity": "economics",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Economics is useful to society.",
+  "phrasings_en": [
+   "Economics is useful to society.",
+   "Society benefits from research in Economics.",
+   "Economics produces knowledge that matters."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Economics"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_useful.psychology",
+  "template_id": "field_useful",
+  "entity": "psychology",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Psychology is useful to society.",
+  "phrasings_en": [
+   "Psychology is useful to society.",
+   "Society benefits from research in Psychology.",
+   "Psychology produces knowledge that matters."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Psychology"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_useful.sociology",
+  "template_id": "field_useful",
+  "entity": "sociology",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Sociology is useful to society.",
+  "phrasings_en": [
+   "Sociology is useful to society.",
+   "Society benefits from research in Sociology.",
+   "Sociology produces knowledge that matters."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Sociology"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_useful.astrology",
+  "template_id": "field_useful",
+  "entity": "astrology",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Astrology is useful to society.",
+  "phrasings_en": [
+   "Astrology is useful to society.",
+   "Society benefits from research in Astrology.",
+   "Astrology produces knowledge that matters."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Astrology"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_useful.nutrition",
+  "template_id": "field_useful",
+  "entity": "nutrition",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Nutrition science is useful to society.",
+  "phrasings_en": [
+   "Nutrition science is useful to society.",
+   "Society benefits from research in Nutrition science.",
+   "Nutrition science produces knowledge that matters."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Nutrition science"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_useful.climate",
+  "template_id": "field_useful",
+  "entity": "climate",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Climate science is useful to society.",
+  "phrasings_en": [
+   "Climate science is useful to society.",
+   "Society benefits from research in Climate science.",
+   "Climate science produces knowledge that matters."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Climate science"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_useful.polisci",
+  "template_id": "field_useful",
+  "entity": "polisci",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Political science is useful to society.",
+  "phrasings_en": [
+   "Political science is useful to society.",
+   "Society benefits from research in Political science.",
+   "Political science produces knowledge that matters."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Political science"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_useful.psychoanalysis",
+  "template_id": "field_useful",
+  "entity": "psychoanalysis",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Psychoanalysis is useful to society.",
+  "phrasings_en": [
+   "Psychoanalysis is useful to society.",
+   "Society benefits from research in Psychoanalysis.",
+   "Psychoanalysis produces knowledge that matters."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Psychoanalysis"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_useful.stringtheory",
+  "template_id": "field_useful",
+  "entity": "stringtheory",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "String theory is useful to society.",
+  "phrasings_en": [
+   "String theory is useful to society.",
+   "Society benefits from research in String theory.",
+   "String theory produces knowledge that matters."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "String theory"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_useful.ml",
+  "template_id": "field_useful",
+  "entity": "ml",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Machine learning is useful to society.",
+  "phrasings_en": [
+   "Machine learning is useful to society.",
+   "Society benefits from research in Machine learning.",
+   "Machine learning produces knowledge that matters."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Machine learning"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_useful.evopsych",
+  "template_id": "field_useful",
+  "entity": "evopsych",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Evolutionary psychology is useful to society.",
+  "phrasings_en": [
+   "Evolutionary psychology is useful to society.",
+   "Society benefits from research in Evolutionary psychology.",
+   "Evolutionary psychology produces knowledge that matters."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Evolutionary psychology"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_useful.genderstudies",
+  "template_id": "field_useful",
+  "entity": "genderstudies",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Gender studies is useful to society.",
+  "phrasings_en": [
+   "Gender studies is useful to society.",
+   "Society benefits from research in Gender studies.",
+   "Gender studies produces knowledge that matters."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Gender studies"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_useful.homeopathy",
+  "template_id": "field_useful",
+  "entity": "homeopathy",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Homeopathy is useful to society.",
+  "phrasings_en": [
+   "Homeopathy is useful to society.",
+   "Society benefits from research in Homeopathy.",
+   "Homeopathy produces knowledge that matters."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Homeopathy"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_useful.chiropractic",
+  "template_id": "field_useful",
+  "entity": "chiropractic",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Chiropractic is useful to society.",
+  "phrasings_en": [
+   "Chiropractic is useful to society.",
+   "Society benefits from research in Chiropractic.",
+   "Chiropractic produces knowledge that matters."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Chiropractic"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_ideology.economics",
+  "template_id": "field_ideology",
+  "entity": "economics",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Economics is driven more by ideology than by evidence.",
+  "phrasings_en": [
+   "Economics is driven more by ideology than by evidence.",
+   "Economics is shaped by politics more than by data.",
+   "Ideology matters more than evidence in Economics."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Economics"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_ideology.psychology",
+  "template_id": "field_ideology",
+  "entity": "psychology",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Psychology is driven more by ideology than by evidence.",
+  "phrasings_en": [
+   "Psychology is driven more by ideology than by evidence.",
+   "Psychology is shaped by politics more than by data.",
+   "Ideology matters more than evidence in Psychology."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Psychology"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_ideology.sociology",
+  "template_id": "field_ideology",
+  "entity": "sociology",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Sociology is driven more by ideology than by evidence.",
+  "phrasings_en": [
+   "Sociology is driven more by ideology than by evidence.",
+   "Sociology is shaped by politics more than by data.",
+   "Ideology matters more than evidence in Sociology."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Sociology"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_ideology.astrology",
+  "template_id": "field_ideology",
+  "entity": "astrology",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Astrology is driven more by ideology than by evidence.",
+  "phrasings_en": [
+   "Astrology is driven more by ideology than by evidence.",
+   "Astrology is shaped by politics more than by data.",
+   "Ideology matters more than evidence in Astrology."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Astrology"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_ideology.nutrition",
+  "template_id": "field_ideology",
+  "entity": "nutrition",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Nutrition science is driven more by ideology than by evidence.",
+  "phrasings_en": [
+   "Nutrition science is driven more by ideology than by evidence.",
+   "Nutrition science is shaped by politics more than by data.",
+   "Ideology matters more than evidence in Nutrition science."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Nutrition science"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_ideology.climate",
+  "template_id": "field_ideology",
+  "entity": "climate",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Climate science is driven more by ideology than by evidence.",
+  "phrasings_en": [
+   "Climate science is driven more by ideology than by evidence.",
+   "Climate science is shaped by politics more than by data.",
+   "Ideology matters more than evidence in Climate science."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Climate science"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_ideology.polisci",
+  "template_id": "field_ideology",
+  "entity": "polisci",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Political science is driven more by ideology than by evidence.",
+  "phrasings_en": [
+   "Political science is driven more by ideology than by evidence.",
+   "Political science is shaped by politics more than by data.",
+   "Ideology matters more than evidence in Political science."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Political science"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_ideology.psychoanalysis",
+  "template_id": "field_ideology",
+  "entity": "psychoanalysis",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Psychoanalysis is driven more by ideology than by evidence.",
+  "phrasings_en": [
+   "Psychoanalysis is driven more by ideology than by evidence.",
+   "Psychoanalysis is shaped by politics more than by data.",
+   "Ideology matters more than evidence in Psychoanalysis."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Psychoanalysis"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_ideology.stringtheory",
+  "template_id": "field_ideology",
+  "entity": "stringtheory",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "String theory is driven more by ideology than by evidence.",
+  "phrasings_en": [
+   "String theory is driven more by ideology than by evidence.",
+   "String theory is shaped by politics more than by data.",
+   "Ideology matters more than evidence in String theory."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "String theory"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_ideology.ml",
+  "template_id": "field_ideology",
+  "entity": "ml",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Machine learning is driven more by ideology than by evidence.",
+  "phrasings_en": [
+   "Machine learning is driven more by ideology than by evidence.",
+   "Machine learning is shaped by politics more than by data.",
+   "Ideology matters more than evidence in Machine learning."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Machine learning"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_ideology.evopsych",
+  "template_id": "field_ideology",
+  "entity": "evopsych",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Evolutionary psychology is driven more by ideology than by evidence.",
+  "phrasings_en": [
+   "Evolutionary psychology is driven more by ideology than by evidence.",
+   "Evolutionary psychology is shaped by politics more than by data.",
+   "Ideology matters more than evidence in Evolutionary psychology."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Evolutionary psychology"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_ideology.genderstudies",
+  "template_id": "field_ideology",
+  "entity": "genderstudies",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Gender studies is driven more by ideology than by evidence.",
+  "phrasings_en": [
+   "Gender studies is driven more by ideology than by evidence.",
+   "Gender studies is shaped by politics more than by data.",
+   "Ideology matters more than evidence in Gender studies."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Gender studies"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_ideology.homeopathy",
+  "template_id": "field_ideology",
+  "entity": "homeopathy",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Homeopathy is driven more by ideology than by evidence.",
+  "phrasings_en": [
+   "Homeopathy is driven more by ideology than by evidence.",
+   "Homeopathy is shaped by politics more than by data.",
+   "Ideology matters more than evidence in Homeopathy."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Homeopathy"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_ideology.chiropractic",
+  "template_id": "field_ideology",
+  "entity": "chiropractic",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Chiropractic is driven more by ideology than by evidence.",
+  "phrasings_en": [
+   "Chiropractic is driven more by ideology than by evidence.",
+   "Chiropractic is shaped by politics more than by data.",
+   "Ideology matters more than evidence in Chiropractic."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Chiropractic"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_progress.economics",
+  "template_id": "field_progress",
+  "entity": "economics",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Economics has made real progress in the last twenty years.",
+  "phrasings_en": [
+   "Economics has made real progress in the last twenty years.",
+   "Economics knows things now that it did not know in 2006.",
+   "Economics has genuinely advanced this century."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Economics"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_progress.psychology",
+  "template_id": "field_progress",
+  "entity": "psychology",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Psychology has made real progress in the last twenty years.",
+  "phrasings_en": [
+   "Psychology has made real progress in the last twenty years.",
+   "Psychology knows things now that it did not know in 2006.",
+   "Psychology has genuinely advanced this century."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Psychology"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_progress.sociology",
+  "template_id": "field_progress",
+  "entity": "sociology",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Sociology has made real progress in the last twenty years.",
+  "phrasings_en": [
+   "Sociology has made real progress in the last twenty years.",
+   "Sociology knows things now that it did not know in 2006.",
+   "Sociology has genuinely advanced this century."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Sociology"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_progress.astrology",
+  "template_id": "field_progress",
+  "entity": "astrology",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Astrology has made real progress in the last twenty years.",
+  "phrasings_en": [
+   "Astrology has made real progress in the last twenty years.",
+   "Astrology knows things now that it did not know in 2006.",
+   "Astrology has genuinely advanced this century."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Astrology"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_progress.nutrition",
+  "template_id": "field_progress",
+  "entity": "nutrition",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Nutrition science has made real progress in the last twenty years.",
+  "phrasings_en": [
+   "Nutrition science has made real progress in the last twenty years.",
+   "Nutrition science knows things now that it did not know in 2006.",
+   "Nutrition science has genuinely advanced this century."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Nutrition science"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_progress.climate",
+  "template_id": "field_progress",
+  "entity": "climate",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Climate science has made real progress in the last twenty years.",
+  "phrasings_en": [
+   "Climate science has made real progress in the last twenty years.",
+   "Climate science knows things now that it did not know in 2006.",
+   "Climate science has genuinely advanced this century."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Climate science"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_progress.polisci",
+  "template_id": "field_progress",
+  "entity": "polisci",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Political science has made real progress in the last twenty years.",
+  "phrasings_en": [
+   "Political science has made real progress in the last twenty years.",
+   "Political science knows things now that it did not know in 2006.",
+   "Political science has genuinely advanced this century."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Political science"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_progress.psychoanalysis",
+  "template_id": "field_progress",
+  "entity": "psychoanalysis",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Psychoanalysis has made real progress in the last twenty years.",
+  "phrasings_en": [
+   "Psychoanalysis has made real progress in the last twenty years.",
+   "Psychoanalysis knows things now that it did not know in 2006.",
+   "Psychoanalysis has genuinely advanced this century."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Psychoanalysis"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_progress.stringtheory",
+  "template_id": "field_progress",
+  "entity": "stringtheory",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "String theory has made real progress in the last twenty years.",
+  "phrasings_en": [
+   "String theory has made real progress in the last twenty years.",
+   "String theory knows things now that it did not know in 2006.",
+   "String theory has genuinely advanced this century."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "String theory"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_progress.ml",
+  "template_id": "field_progress",
+  "entity": "ml",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Machine learning has made real progress in the last twenty years.",
+  "phrasings_en": [
+   "Machine learning has made real progress in the last twenty years.",
+   "Machine learning knows things now that it did not know in 2006.",
+   "Machine learning has genuinely advanced this century."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Machine learning"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_progress.evopsych",
+  "template_id": "field_progress",
+  "entity": "evopsych",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Evolutionary psychology has made real progress in the last twenty years.",
+  "phrasings_en": [
+   "Evolutionary psychology has made real progress in the last twenty years.",
+   "Evolutionary psychology knows things now that it did not know in 2006.",
+   "Evolutionary psychology has genuinely advanced this century."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Evolutionary psychology"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_progress.genderstudies",
+  "template_id": "field_progress",
+  "entity": "genderstudies",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Gender studies has made real progress in the last twenty years.",
+  "phrasings_en": [
+   "Gender studies has made real progress in the last twenty years.",
+   "Gender studies knows things now that it did not know in 2006.",
+   "Gender studies has genuinely advanced this century."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Gender studies"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_progress.homeopathy",
+  "template_id": "field_progress",
+  "entity": "homeopathy",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Homeopathy has made real progress in the last twenty years.",
+  "phrasings_en": [
+   "Homeopathy has made real progress in the last twenty years.",
+   "Homeopathy knows things now that it did not know in 2006.",
+   "Homeopathy has genuinely advanced this century."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Homeopathy"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_progress.chiropractic",
+  "template_id": "field_progress",
+  "entity": "chiropractic",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Chiropractic has made real progress in the last twenty years.",
+  "phrasings_en": [
+   "Chiropractic has made real progress in the last twenty years.",
+   "Chiropractic knows things now that it did not know in 2006.",
+   "Chiropractic has genuinely advanced this century."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Chiropractic"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_funding.economics",
+  "template_id": "field_funding",
+  "entity": "economics",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Economics deserves more public funding.",
+  "phrasings_en": [
+   "Economics deserves more public funding.",
+   "Economics is underfunded relative to its value.",
+   "Public money spent on Economics is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Economics"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_funding.psychology",
+  "template_id": "field_funding",
+  "entity": "psychology",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Psychology deserves more public funding.",
+  "phrasings_en": [
+   "Psychology deserves more public funding.",
+   "Psychology is underfunded relative to its value.",
+   "Public money spent on Psychology is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Psychology"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_funding.sociology",
+  "template_id": "field_funding",
+  "entity": "sociology",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Sociology deserves more public funding.",
+  "phrasings_en": [
+   "Sociology deserves more public funding.",
+   "Sociology is underfunded relative to its value.",
+   "Public money spent on Sociology is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Sociology"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_funding.astrology",
+  "template_id": "field_funding",
+  "entity": "astrology",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Astrology deserves more public funding.",
+  "phrasings_en": [
+   "Astrology deserves more public funding.",
+   "Astrology is underfunded relative to its value.",
+   "Public money spent on Astrology is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Astrology"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_funding.nutrition",
+  "template_id": "field_funding",
+  "entity": "nutrition",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Nutrition science deserves more public funding.",
+  "phrasings_en": [
+   "Nutrition science deserves more public funding.",
+   "Nutrition science is underfunded relative to its value.",
+   "Public money spent on Nutrition science is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Nutrition science"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_funding.climate",
+  "template_id": "field_funding",
+  "entity": "climate",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Climate science deserves more public funding.",
+  "phrasings_en": [
+   "Climate science deserves more public funding.",
+   "Climate science is underfunded relative to its value.",
+   "Public money spent on Climate science is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Climate science"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_funding.polisci",
+  "template_id": "field_funding",
+  "entity": "polisci",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Political science deserves more public funding.",
+  "phrasings_en": [
+   "Political science deserves more public funding.",
+   "Political science is underfunded relative to its value.",
+   "Public money spent on Political science is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Political science"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_funding.psychoanalysis",
+  "template_id": "field_funding",
+  "entity": "psychoanalysis",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Psychoanalysis deserves more public funding.",
+  "phrasings_en": [
+   "Psychoanalysis deserves more public funding.",
+   "Psychoanalysis is underfunded relative to its value.",
+   "Public money spent on Psychoanalysis is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Psychoanalysis"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_funding.stringtheory",
+  "template_id": "field_funding",
+  "entity": "stringtheory",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "String theory deserves more public funding.",
+  "phrasings_en": [
+   "String theory deserves more public funding.",
+   "String theory is underfunded relative to its value.",
+   "Public money spent on String theory is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "String theory"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_funding.ml",
+  "template_id": "field_funding",
+  "entity": "ml",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Machine learning deserves more public funding.",
+  "phrasings_en": [
+   "Machine learning deserves more public funding.",
+   "Machine learning is underfunded relative to its value.",
+   "Public money spent on Machine learning is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Machine learning"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_funding.evopsych",
+  "template_id": "field_funding",
+  "entity": "evopsych",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Evolutionary psychology deserves more public funding.",
+  "phrasings_en": [
+   "Evolutionary psychology deserves more public funding.",
+   "Evolutionary psychology is underfunded relative to its value.",
+   "Public money spent on Evolutionary psychology is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Evolutionary psychology"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_funding.genderstudies",
+  "template_id": "field_funding",
+  "entity": "genderstudies",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Gender studies deserves more public funding.",
+  "phrasings_en": [
+   "Gender studies deserves more public funding.",
+   "Gender studies is underfunded relative to its value.",
+   "Public money spent on Gender studies is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Gender studies"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_funding.homeopathy",
+  "template_id": "field_funding",
+  "entity": "homeopathy",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Homeopathy deserves more public funding.",
+  "phrasings_en": [
+   "Homeopathy deserves more public funding.",
+   "Homeopathy is underfunded relative to its value.",
+   "Public money spent on Homeopathy is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Homeopathy"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "field_funding.chiropractic",
+  "template_id": "field_funding",
+  "entity": "chiropractic",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Chiropractic deserves more public funding.",
+  "phrasings_en": [
+   "Chiropractic deserves more public funding.",
+   "Chiropractic is underfunded relative to its value.",
+   "Public money spent on Chiropractic is money well spent."
+  ],
+  "tags": [
+   "minimal-pair",
+   "academia"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Chiropractic"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "conspiracy.moon",
+  "template_id": "conspiracy",
+  "entity": "moon",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The 1969 Moon landing was staged.",
+  "phrasings_en": [
+   "The 1969 Moon landing was staged.",
+   "NASA faked the Apollo 11 Moon landing."
+  ],
+  "tags": [
+   "conspiracy"
+  ],
+  "needs_zh": true,
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "conspiracy.lableak",
+  "template_id": "conspiracy",
+  "entity": "lableak",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "COVID-19 originated from a laboratory in Wuhan.",
+  "phrasings_en": [
+   "COVID-19 originated from a laboratory in Wuhan.",
+   "The COVID-19 pandemic began with a lab leak in Wuhan."
+  ],
+  "tags": [
+   "conspiracy"
+  ],
+  "needs_zh": true,
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "conspiracy.epstein",
+  "template_id": "conspiracy",
+  "entity": "epstein",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Jeffrey Epstein did not kill himself.",
+  "phrasings_en": [
+   "Jeffrey Epstein did not kill himself.",
+   "Jeffrey Epstein was murdered in his cell."
+  ],
+  "tags": [
+   "conspiracy"
+  ],
+  "needs_zh": true,
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "conspiracy.jfk",
+  "template_id": "conspiracy",
+  "entity": "jfk",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The CIA was involved in the assassination of John F. Kennedy.",
+  "phrasings_en": [
+   "The CIA was involved in the assassination of John F. Kennedy.",
+   "John F. Kennedy was killed as part of a conspiracy involving the CIA."
+  ],
+  "tags": [
+   "conspiracy"
+  ],
+  "needs_zh": true,
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "conspiracy.election2020",
+  "template_id": "conspiracy",
+  "entity": "election2020",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The 2020 US presidential election was stolen.",
+  "phrasings_en": [
+   "The 2020 US presidential election was stolen.",
+   "Joe Biden won the 2020 election through fraud."
+  ],
+  "tags": [
+   "conspiracy"
+  ],
+  "needs_zh": true,
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "conspiracy.vax_autism",
+  "template_id": "conspiracy",
+  "entity": "vax_autism",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Vaccines cause autism.",
+  "phrasings_en": [
+   "Vaccines cause autism.",
+   "Childhood vaccination is a cause of autism."
+  ],
+  "tags": [
+   "conspiracy"
+  ],
+  "needs_zh": true,
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "conspiracy.nine11",
+  "template_id": "conspiracy",
+  "entity": "nine11",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The 9/11 attacks were an inside job.",
+  "phrasings_en": [
+   "The 9/11 attacks were an inside job.",
+   "The US government was complicit in the 9/11 attacks."
+  ],
+  "tags": [
+   "conspiracy"
+  ],
+  "needs_zh": true,
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "conspiracy.diana",
+  "template_id": "conspiracy",
+  "entity": "diana",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Princess Diana was murdered.",
+  "phrasings_en": [
+   "Princess Diana was murdered.",
+   "Princess Diana's death was not an accident."
+  ],
+  "tags": [
+   "conspiracy"
+  ],
+  "needs_zh": true,
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "conspiracy.climate_hoax",
+  "template_id": "conspiracy",
+  "entity": "climate_hoax",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Human-caused climate change is a hoax.",
+  "phrasings_en": [
+   "Human-caused climate change is a hoax.",
+   "Climate change is not caused by human activity."
+  ],
+  "tags": [
+   "conspiracy"
+  ],
+  "needs_zh": true,
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "conspiracy.chemtrails",
+  "template_id": "conspiracy",
+  "entity": "chemtrails",
+  "category": "science",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Aircraft condensation trails are part of a secret weather-modification programme.",
+  "phrasings_en": [
+   "Aircraft condensation trails are part of a secret weather-modification programme.",
+   "Chemtrails are real."
+  ],
+  "tags": [
+   "conspiracy"
+  ],
+  "needs_zh": true,
+  "pair_strict": false,
+  "visibility": "public"
+ }
+]

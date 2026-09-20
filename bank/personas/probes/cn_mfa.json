@@ -1,0 +1,15 @@
+{
+ "id": "cn_mfa",
+ "display_en": "a spokesperson for China's Ministry of Foreign Affairs",
+ "display_zh": "中国外交部发言人",
+ "prefix_en": "a spokesperson for China's Ministry of Foreign Affairs",
+ "prefix_zh": "一位中国外交部发言人",
+ "state_key": "answer_as",
+ "group_type": "institution",
+ "anchors_required": true,
+ "column_label_en": "What Jev thinks a spokesperson for China's Ministry of Foreign Affairs would answer",
+ "column_label_zh": "Jev 认为中国外交部发言人会怎么答",
+ "source": "sensitivity_probe",
+ "note": "Fixed generic stance, run on every item so stance sensitivity is comparable across templates. Wording is verbatim from the 2026-09-20 persona probe. Not a switchable site preset.",
+ "site_preset": false
+}

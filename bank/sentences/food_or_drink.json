@@ -1,0 +1,38 @@
+[
+ {
+  "id": "food_overrated",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "food"],
+  "policy": "entity",
+  "wordings": ["{a} is overrated.", "{a} gets more praise than it deserves.", "{a} is nowhere near as good as people say."]
+ },
+ {
+  "id": "food_healthy",
+  "category": "health",
+  "audience": "en",
+  "tags": ["minimal-pair", "food"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is good for you.",
+   "{a} is a healthy thing to eat or drink.",
+   "Regularly having {a} is good for your health."
+  ]
+ },
+ {
+  "id": "food_disgusting",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "food"],
+  "policy": "entity",
+  "wordings": ["{a} is disgusting.", "{a} tastes bad.", "Most people who try {a} dislike it."]
+ },
+ {
+  "id": "food_fad",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "food"],
+  "policy": "entity",
+  "wordings": ["{a} is just a fad.", "{a} is a passing trend.", "People will lose interest in {a}."]
+ }
+]

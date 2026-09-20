@@ -1,0 +1,10 @@
+[
+ {"id": "quran", "name": "the Quran", "name_zh": "《古兰经》"},
+ {"id": "bible", "name": "the Bible", "name_zh": "《圣经》"},
+ {"id": "torah", "name": "the Torah", "name_zh": "《妥拉》"},
+ {"id": "usflag", "name": "the American flag", "name_zh": "美国国旗"},
+ {"id": "cnflag", "name": "the Chinese flag", "name_zh": "中国国旗"},
+ {"id": "ilflag", "name": "the Israeli flag", "name_zh": "以色列国旗"},
+ {"id": "psflag", "name": "the Palestinian flag", "name_zh": "巴勒斯坦旗"},
+ {"id": "pride", "name": "the pride flag", "name_zh": "彩虹旗"}
+]

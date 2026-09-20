@@ -1,0 +1,58 @@
+[
+ {
+  "id": "uni_overrated",
+  "category": "education",
+  "audience": "en",
+  "tags": ["minimal-pair", "universities"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is overrated.",
+   "{a} gets more prestige than it deserves.",
+   "{a} is nowhere near as good as its reputation."
+  ]
+ },
+ {
+  "id": "uni_worth",
+  "category": "education",
+  "audience": "en",
+  "tags": ["minimal-pair", "universities"],
+  "policy": "entity",
+  "wordings": ["A degree from {a} is worth the cost.", "Studying at {a} pays for itself.", "{a} is worth the money."]
+ },
+ {
+  "id": "uni_elitist",
+  "category": "education",
+  "audience": "en",
+  "tags": ["minimal-pair", "universities"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is an elitist institution.",
+   "{a} mainly serves the children of the privileged.",
+   "{a} entrenches privilege more than it rewards merit."
+  ]
+ },
+ {
+  "id": "uni_merit",
+  "category": "education",
+  "audience": "en",
+  "tags": ["minimal-pair", "universities"],
+  "policy": "entity",
+  "wordings": [
+   "{a} admits students on merit.",
+   "Getting into {a} depends on ability rather than background.",
+   "{a}'s admissions are fair."
+  ]
+ },
+ {
+  "id": "uni_decline",
+  "category": "education",
+  "audience": "en",
+  "tags": ["minimal-pair", "universities"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is worse than it was twenty years ago.",
+   "{a} has declined since 2006.",
+   "{a} was a better institution a generation ago."
+  ]
+ }
+]

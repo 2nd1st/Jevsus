@@ -1,0 +1,66 @@
+[
+ {
+  "id": "platform_mental",
+  "category": "culture",
+  "audience": "en",
+  "tags": ["minimal-pair", "platforms"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is bad for its users' mental health.",
+   "Using {a} makes people less happy.",
+   "{a} harms the wellbeing of the people who use it."
+  ]
+ },
+ {
+  "id": "platform_misinfo",
+  "category": "media",
+  "audience": "en",
+  "tags": ["minimal-pair", "platforms"],
+  "policy": "entity",
+  "wordings": ["{a} spreads misinformation.", "{a} is a major source of misinformation.", "Misinformation thrives on {a}."]
+ },
+ {
+  "id": "platform_democracy",
+  "category": "media",
+  "audience": "en",
+  "tags": ["minimal-pair", "platforms"],
+  "policy": "entity",
+  "wordings": ["{a} is bad for democracy.", "{a} weakens democratic debate.", "Democracy would be healthier without {a}."]
+ },
+ {
+  "id": "platform_future",
+  "category": "future",
+  "audience": "en",
+  "tags": ["minimal-pair", "platforms", "forecast"],
+  "policy": "entity",
+  "wordings": [
+   "{a} will still be popular in 10 years.",
+   "A decade from now {a} will still be widely used.",
+   "{a} will outlast the next ten years."
+  ]
+ },
+ {
+  "id": "platform_quit",
+  "category": "culture",
+  "audience": "en",
+  "tags": ["minimal-pair", "platforms"],
+  "policy": "entity",
+  "wordings": [
+   "Most people would be better off deleting {a}.",
+   "Quitting {a} improves the average user's life.",
+   "{a} takes more from its users than it gives."
+  ]
+ },
+ {
+  "id": "platform_censors",
+  "category": "media",
+  "audience": "en",
+  "tags": ["minimal-pair", "platforms"],
+  "policy": "entity",
+  "wordings": [
+   "{a} suppresses opinions its owners dislike.",
+   "{a} puts a thumb on the scale of what gets seen.",
+   "Moderation on {a} follows its owners' politics."
+  ]
+ }
+]

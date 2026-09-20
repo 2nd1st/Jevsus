@@ -1,0 +1,55 @@
+[
+ {
+  "id": "language_ugly",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "languages"],
+  "policy": "entity",
+  "wordings": [
+   "{a} sounds ugly.",
+   "{a} is an unpleasant language to listen to.",
+   "{a} is one of the least beautiful languages."
+  ],
+  "perspectives": [{"id": "speaker", "answer_as": "a native speaker of {a}"}]
+ },
+ {
+  "id": "language_beautiful",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "language"],
+  "policy": "entity",
+  "wordings": ["{a} is a beautiful language.", "{a} sounds beautiful.", "{a} is pleasant to listen to."]
+ },
+ {
+  "id": "language_hard",
+  "category": "education",
+  "audience": "en",
+  "tags": ["minimal-pair", "language"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is a hard language to learn.",
+   "{a} is unusually difficult for a foreigner to learn.",
+   "Learning {a} takes far more effort than learning most languages."
+  ]
+ },
+ {
+  "id": "language_worth",
+  "category": "education",
+  "audience": "en",
+  "tags": ["minimal-pair", "language"],
+  "policy": "entity",
+  "wordings": ["{a} is worth learning.", "Learning {a} is a good use of your time.", "{a} is a useful language to know."]
+ },
+ {
+  "id": "language_future",
+  "category": "future",
+  "audience": "en",
+  "tags": ["minimal-pair", "language", "forecast"],
+  "policy": "entity",
+  "wordings": [
+   "{a} will still be widely spoken in 200 years.",
+   "Two centuries from now {a} will still be a living, widely used language.",
+   "{a} will survive the next 200 years as a major language."
+  ]
+ }
+]

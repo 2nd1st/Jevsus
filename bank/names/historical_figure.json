@@ -1,0 +1,18 @@
+[
+ {"id": "napoleon", "name": "Napoleon"},
+ {"id": "churchill", "name": "Winston Churchill"},
+ {"id": "mao", "name": "Mao Zedong"},
+ {"id": "genghis", "name": "Genghis Khan"},
+ {"id": "columbus", "name": "Christopher Columbus"},
+ {"id": "gandhi", "name": "Mahatma Gandhi"},
+ {"id": "stalin", "name": "Joseph Stalin"},
+ {"id": "lky", "name": "Lee Kuan Yew"},
+ {"id": "lincoln", "name": "Abraham Lincoln"},
+ {"id": "che", "name": "Che Guevara"},
+ {"id": "thatcher", "name": "Margaret Thatcher"},
+ {"id": "reagan", "name": "Ronald Reagan"},
+ {"id": "lenin", "name": "Vladimir Lenin"},
+ {"id": "mandela", "name": "Nelson Mandela"},
+ {"id": "teresa", "name": "Mother Teresa"},
+ {"id": "caesar", "name": "Julius Caesar"}
+]

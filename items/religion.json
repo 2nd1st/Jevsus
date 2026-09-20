@@ -1,0 +1,1555 @@
+[
+ {
+  "id": "violent_religion.christianity",
+  "template_id": "violent_religion",
+  "entity": "christianity",
+  "category": "religion",
+  "audience_hint": "both",
+  "type": "stmt",
+  "text_en": "Christianity is a violent religion.",
+  "phrasings_en": [
+   "Christianity is a violent religion.",
+   "Christianity is inherently violent.",
+   "Christianity promotes violence."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "text_zh": "基督教是一个暴力的宗教。",
+  "phrasings_zh": [
+   "基督教是一个暴力的宗教。",
+   "基督教本质上是暴力的。",
+   "基督教助长暴力。"
+  ],
+  "perspectives": [
+   {
+    "id": "follower",
+    "answer_as": "a devout follower of Christianity"
+   },
+   {
+    "id": "ex",
+    "answer_as": "someone who has left Christianity"
+   }
+  ],
+  "slots": {
+   "a": "Christianity"
+  },
+  "slots_zh": {
+   "a": "基督教"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "violent_religion.islam",
+  "template_id": "violent_religion",
+  "entity": "islam",
+  "category": "religion",
+  "audience_hint": "both",
+  "type": "stmt",
+  "text_en": "Islam is a violent religion.",
+  "phrasings_en": [
+   "Islam is a violent religion.",
+   "Islam is inherently violent.",
+   "Islam promotes violence."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "text_zh": "伊斯兰教是一个暴力的宗教。",
+  "phrasings_zh": [
+   "伊斯兰教是一个暴力的宗教。",
+   "伊斯兰教本质上是暴力的。",
+   "伊斯兰教助长暴力。"
+  ],
+  "perspectives": [
+   {
+    "id": "follower",
+    "answer_as": "a devout follower of Islam"
+   },
+   {
+    "id": "ex",
+    "answer_as": "someone who has left Islam"
+   }
+  ],
+  "slots": {
+   "a": "Islam"
+  },
+  "slots_zh": {
+   "a": "伊斯兰教"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "violent_religion.judaism",
+  "template_id": "violent_religion",
+  "entity": "judaism",
+  "category": "religion",
+  "audience_hint": "both",
+  "type": "stmt",
+  "text_en": "Judaism is a violent religion.",
+  "phrasings_en": [
+   "Judaism is a violent religion.",
+   "Judaism is inherently violent.",
+   "Judaism promotes violence."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "text_zh": "犹太教是一个暴力的宗教。",
+  "phrasings_zh": [
+   "犹太教是一个暴力的宗教。",
+   "犹太教本质上是暴力的。",
+   "犹太教助长暴力。"
+  ],
+  "perspectives": [
+   {
+    "id": "follower",
+    "answer_as": "a devout follower of Judaism"
+   },
+   {
+    "id": "ex",
+    "answer_as": "someone who has left Judaism"
+   }
+  ],
+  "slots": {
+   "a": "Judaism"
+  },
+  "slots_zh": {
+   "a": "犹太教"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "violent_religion.hinduism",
+  "template_id": "violent_religion",
+  "entity": "hinduism",
+  "category": "religion",
+  "audience_hint": "both",
+  "type": "stmt",
+  "text_en": "Hinduism is a violent religion.",
+  "phrasings_en": [
+   "Hinduism is a violent religion.",
+   "Hinduism is inherently violent.",
+   "Hinduism promotes violence."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "text_zh": "印度教是一个暴力的宗教。",
+  "phrasings_zh": [
+   "印度教是一个暴力的宗教。",
+   "印度教本质上是暴力的。",
+   "印度教助长暴力。"
+  ],
+  "perspectives": [
+   {
+    "id": "follower",
+    "answer_as": "a devout follower of Hinduism"
+   },
+   {
+    "id": "ex",
+    "answer_as": "someone who has left Hinduism"
+   }
+  ],
+  "slots": {
+   "a": "Hinduism"
+  },
+  "slots_zh": {
+   "a": "印度教"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "violent_religion.buddhism",
+  "template_id": "violent_religion",
+  "entity": "buddhism",
+  "category": "religion",
+  "audience_hint": "both",
+  "type": "stmt",
+  "text_en": "Buddhism is a violent religion.",
+  "phrasings_en": [
+   "Buddhism is a violent religion.",
+   "Buddhism is inherently violent.",
+   "Buddhism promotes violence."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "text_zh": "佛教是一个暴力的宗教。",
+  "phrasings_zh": [
+   "佛教是一个暴力的宗教。",
+   "佛教本质上是暴力的。",
+   "佛教助长暴力。"
+  ],
+  "perspectives": [
+   {
+    "id": "follower",
+    "answer_as": "a devout follower of Buddhism"
+   },
+   {
+    "id": "ex",
+    "answer_as": "someone who has left Buddhism"
+   }
+  ],
+  "slots": {
+   "a": "Buddhism"
+  },
+  "slots_zh": {
+   "a": "佛教"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "violent_religion.sikhism",
+  "template_id": "violent_religion",
+  "entity": "sikhism",
+  "category": "religion",
+  "audience_hint": "both",
+  "type": "stmt",
+  "text_en": "Sikhism is a violent religion.",
+  "phrasings_en": [
+   "Sikhism is a violent religion.",
+   "Sikhism is inherently violent.",
+   "Sikhism promotes violence."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "text_zh": "锡克教是一个暴力的宗教。",
+  "phrasings_zh": [
+   "锡克教是一个暴力的宗教。",
+   "锡克教本质上是暴力的。",
+   "锡克教助长暴力。"
+  ],
+  "perspectives": [
+   {
+    "id": "follower",
+    "answer_as": "a devout follower of Sikhism"
+   },
+   {
+    "id": "ex",
+    "answer_as": "someone who has left Sikhism"
+   }
+  ],
+  "slots": {
+   "a": "Sikhism"
+  },
+  "slots_zh": {
+   "a": "锡克教"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "violent_religion.mormonism",
+  "template_id": "violent_religion",
+  "entity": "mormonism",
+  "category": "religion",
+  "audience_hint": "both",
+  "type": "stmt",
+  "text_en": "Mormonism is a violent religion.",
+  "phrasings_en": [
+   "Mormonism is a violent religion.",
+   "Mormonism is inherently violent.",
+   "Mormonism promotes violence."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "text_zh": "摩门教是一个暴力的宗教。",
+  "phrasings_zh": [
+   "摩门教是一个暴力的宗教。",
+   "摩门教本质上是暴力的。",
+   "摩门教助长暴力。"
+  ],
+  "perspectives": [
+   {
+    "id": "follower",
+    "answer_as": "a devout follower of Mormonism"
+   },
+   {
+    "id": "ex",
+    "answer_as": "someone who has left Mormonism"
+   }
+  ],
+  "slots": {
+   "a": "Mormonism"
+  },
+  "slots_zh": {
+   "a": "摩门教"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "violent_religion.scientology",
+  "template_id": "violent_religion",
+  "entity": "scientology",
+  "category": "religion",
+  "audience_hint": "both",
+  "type": "stmt",
+  "text_en": "Scientology is a violent religion.",
+  "phrasings_en": [
+   "Scientology is a violent religion.",
+   "Scientology is inherently violent.",
+   "Scientology promotes violence."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "text_zh": "山达基是一个暴力的宗教。",
+  "phrasings_zh": [
+   "山达基是一个暴力的宗教。",
+   "山达基本质上是暴力的。",
+   "山达基助长暴力。"
+  ],
+  "perspectives": [
+   {
+    "id": "follower",
+    "answer_as": "a devout follower of Scientology"
+   },
+   {
+    "id": "ex",
+    "answer_as": "someone who has left Scientology"
+   }
+  ],
+  "slots": {
+   "a": "Scientology"
+  },
+  "slots_zh": {
+   "a": "山达基"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "peaceful_religion.christianity",
+  "template_id": "peaceful_religion",
+  "entity": "christianity",
+  "category": "religion",
+  "audience_hint": "both",
+  "type": "stmt",
+  "text_en": "Christianity is a religion of peace.",
+  "phrasings_en": [
+   "Christianity is a religion of peace.",
+   "Christianity is inherently peaceful.",
+   "Christianity promotes peace."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "text_zh": "基督教是一个和平的宗教。",
+  "phrasings_zh": [
+   "基督教是一个和平的宗教。",
+   "基督教本质上是和平的。",
+   "基督教促进和平。"
+  ],
+  "perspectives": [
+   {
+    "id": "follower",
+    "answer_as": "a devout follower of Christianity"
+   },
+   {
+    "id": "ex",
+    "answer_as": "someone who has left Christianity"
+   }
+  ],
+  "slots": {
+   "a": "Christianity"
+  },
+  "slots_zh": {
+   "a": "基督教"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "peaceful_religion.islam",
+  "template_id": "peaceful_religion",
+  "entity": "islam",
+  "category": "religion",
+  "audience_hint": "both",
+  "type": "stmt",
+  "text_en": "Islam is a religion of peace.",
+  "phrasings_en": [
+   "Islam is a religion of peace.",
+   "Islam is inherently peaceful.",
+   "Islam promotes peace."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "text_zh": "伊斯兰教是一个和平的宗教。",
+  "phrasings_zh": [
+   "伊斯兰教是一个和平的宗教。",
+   "伊斯兰教本质上是和平的。",
+   "伊斯兰教促进和平。"
+  ],
+  "perspectives": [
+   {
+    "id": "follower",
+    "answer_as": "a devout follower of Islam"
+   },
+   {
+    "id": "ex",
+    "answer_as": "someone who has left Islam"
+   }
+  ],
+  "slots": {
+   "a": "Islam"
+  },
+  "slots_zh": {
+   "a": "伊斯兰教"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "peaceful_religion.judaism",
+  "template_id": "peaceful_religion",
+  "entity": "judaism",
+  "category": "religion",
+  "audience_hint": "both",
+  "type": "stmt",
+  "text_en": "Judaism is a religion of peace.",
+  "phrasings_en": [
+   "Judaism is a religion of peace.",
+   "Judaism is inherently peaceful.",
+   "Judaism promotes peace."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "text_zh": "犹太教是一个和平的宗教。",
+  "phrasings_zh": [
+   "犹太教是一个和平的宗教。",
+   "犹太教本质上是和平的。",
+   "犹太教促进和平。"
+  ],
+  "perspectives": [
+   {
+    "id": "follower",
+    "answer_as": "a devout follower of Judaism"
+   },
+   {
+    "id": "ex",
+    "answer_as": "someone who has left Judaism"
+   }
+  ],
+  "slots": {
+   "a": "Judaism"
+  },
+  "slots_zh": {
+   "a": "犹太教"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "peaceful_religion.hinduism",
+  "template_id": "peaceful_religion",
+  "entity": "hinduism",
+  "category": "religion",
+  "audience_hint": "both",
+  "type": "stmt",
+  "text_en": "Hinduism is a religion of peace.",
+  "phrasings_en": [
+   "Hinduism is a religion of peace.",
+   "Hinduism is inherently peaceful.",
+   "Hinduism promotes peace."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "text_zh": "印度教是一个和平的宗教。",
+  "phrasings_zh": [
+   "印度教是一个和平的宗教。",
+   "印度教本质上是和平的。",
+   "印度教促进和平。"
+  ],
+  "perspectives": [
+   {
+    "id": "follower",
+    "answer_as": "a devout follower of Hinduism"
+   },
+   {
+    "id": "ex",
+    "answer_as": "someone who has left Hinduism"
+   }
+  ],
+  "slots": {
+   "a": "Hinduism"
+  },
+  "slots_zh": {
+   "a": "印度教"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "peaceful_religion.buddhism",
+  "template_id": "peaceful_religion",
+  "entity": "buddhism",
+  "category": "religion",
+  "audience_hint": "both",
+  "type": "stmt",
+  "text_en": "Buddhism is a religion of peace.",
+  "phrasings_en": [
+   "Buddhism is a religion of peace.",
+   "Buddhism is inherently peaceful.",
+   "Buddhism promotes peace."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "text_zh": "佛教是一个和平的宗教。",
+  "phrasings_zh": [
+   "佛教是一个和平的宗教。",
+   "佛教本质上是和平的。",
+   "佛教促进和平。"
+  ],
+  "perspectives": [
+   {
+    "id": "follower",
+    "answer_as": "a devout follower of Buddhism"
+   },
+   {
+    "id": "ex",
+    "answer_as": "someone who has left Buddhism"
+   }
+  ],
+  "slots": {
+   "a": "Buddhism"
+  },
+  "slots_zh": {
+   "a": "佛教"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "peaceful_religion.sikhism",
+  "template_id": "peaceful_religion",
+  "entity": "sikhism",
+  "category": "religion",
+  "audience_hint": "both",
+  "type": "stmt",
+  "text_en": "Sikhism is a religion of peace.",
+  "phrasings_en": [
+   "Sikhism is a religion of peace.",
+   "Sikhism is inherently peaceful.",
+   "Sikhism promotes peace."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "text_zh": "锡克教是一个和平的宗教。",
+  "phrasings_zh": [
+   "锡克教是一个和平的宗教。",
+   "锡克教本质上是和平的。",
+   "锡克教促进和平。"
+  ],
+  "perspectives": [
+   {
+    "id": "follower",
+    "answer_as": "a devout follower of Sikhism"
+   },
+   {
+    "id": "ex",
+    "answer_as": "someone who has left Sikhism"
+   }
+  ],
+  "slots": {
+   "a": "Sikhism"
+  },
+  "slots_zh": {
+   "a": "锡克教"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "peaceful_religion.mormonism",
+  "template_id": "peaceful_religion",
+  "entity": "mormonism",
+  "category": "religion",
+  "audience_hint": "both",
+  "type": "stmt",
+  "text_en": "Mormonism is a religion of peace.",
+  "phrasings_en": [
+   "Mormonism is a religion of peace.",
+   "Mormonism is inherently peaceful.",
+   "Mormonism promotes peace."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "text_zh": "摩门教是一个和平的宗教。",
+  "phrasings_zh": [
+   "摩门教是一个和平的宗教。",
+   "摩门教本质上是和平的。",
+   "摩门教促进和平。"
+  ],
+  "perspectives": [
+   {
+    "id": "follower",
+    "answer_as": "a devout follower of Mormonism"
+   },
+   {
+    "id": "ex",
+    "answer_as": "someone who has left Mormonism"
+   }
+  ],
+  "slots": {
+   "a": "Mormonism"
+  },
+  "slots_zh": {
+   "a": "摩门教"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "peaceful_religion.scientology",
+  "template_id": "peaceful_religion",
+  "entity": "scientology",
+  "category": "religion",
+  "audience_hint": "both",
+  "type": "stmt",
+  "text_en": "Scientology is a religion of peace.",
+  "phrasings_en": [
+   "Scientology is a religion of peace.",
+   "Scientology is inherently peaceful.",
+   "Scientology promotes peace."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "text_zh": "山达基是一个和平的宗教。",
+  "phrasings_zh": [
+   "山达基是一个和平的宗教。",
+   "山达基本质上是和平的。",
+   "山达基促进和平。"
+  ],
+  "perspectives": [
+   {
+    "id": "follower",
+    "answer_as": "a devout follower of Scientology"
+   },
+   {
+    "id": "ex",
+    "answer_as": "someone who has left Scientology"
+   }
+  ],
+  "slots": {
+   "a": "Scientology"
+  },
+  "slots_zh": {
+   "a": "山达基"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "oppresses_women.christianity",
+  "template_id": "oppresses_women",
+  "entity": "christianity",
+  "category": "religion",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Christianity oppresses women.",
+  "phrasings_en": [
+   "Christianity oppresses women.",
+   "Christianity is a sexist religion.",
+   "Christianity treats women as inferior."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "follower",
+    "answer_as": "a devout follower of Christianity"
+   },
+   {
+    "id": "ex",
+    "answer_as": "someone who has left Christianity"
+   }
+  ],
+  "slots": {
+   "a": "Christianity"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "oppresses_women.islam",
+  "template_id": "oppresses_women",
+  "entity": "islam",
+  "category": "religion",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Islam oppresses women.",
+  "phrasings_en": [
+   "Islam oppresses women.",
+   "Islam is a sexist religion.",
+   "Islam treats women as inferior."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "follower",
+    "answer_as": "a devout follower of Islam"
+   },
+   {
+    "id": "ex",
+    "answer_as": "someone who has left Islam"
+   }
+  ],
+  "slots": {
+   "a": "Islam"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "oppresses_women.judaism",
+  "template_id": "oppresses_women",
+  "entity": "judaism",
+  "category": "religion",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Judaism oppresses women.",
+  "phrasings_en": [
+   "Judaism oppresses women.",
+   "Judaism is a sexist religion.",
+   "Judaism treats women as inferior."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "follower",
+    "answer_as": "a devout follower of Judaism"
+   },
+   {
+    "id": "ex",
+    "answer_as": "someone who has left Judaism"
+   }
+  ],
+  "slots": {
+   "a": "Judaism"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "oppresses_women.hinduism",
+  "template_id": "oppresses_women",
+  "entity": "hinduism",
+  "category": "religion",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Hinduism oppresses women.",
+  "phrasings_en": [
+   "Hinduism oppresses women.",
+   "Hinduism is a sexist religion.",
+   "Hinduism treats women as inferior."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "follower",
+    "answer_as": "a devout follower of Hinduism"
+   },
+   {
+    "id": "ex",
+    "answer_as": "someone who has left Hinduism"
+   }
+  ],
+  "slots": {
+   "a": "Hinduism"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "oppresses_women.buddhism",
+  "template_id": "oppresses_women",
+  "entity": "buddhism",
+  "category": "religion",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Buddhism oppresses women.",
+  "phrasings_en": [
+   "Buddhism oppresses women.",
+   "Buddhism is a sexist religion.",
+   "Buddhism treats women as inferior."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "follower",
+    "answer_as": "a devout follower of Buddhism"
+   },
+   {
+    "id": "ex",
+    "answer_as": "someone who has left Buddhism"
+   }
+  ],
+  "slots": {
+   "a": "Buddhism"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "oppresses_women.sikhism",
+  "template_id": "oppresses_women",
+  "entity": "sikhism",
+  "category": "religion",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Sikhism oppresses women.",
+  "phrasings_en": [
+   "Sikhism oppresses women.",
+   "Sikhism is a sexist religion.",
+   "Sikhism treats women as inferior."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "follower",
+    "answer_as": "a devout follower of Sikhism"
+   },
+   {
+    "id": "ex",
+    "answer_as": "someone who has left Sikhism"
+   }
+  ],
+  "slots": {
+   "a": "Sikhism"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "oppresses_women.mormonism",
+  "template_id": "oppresses_women",
+  "entity": "mormonism",
+  "category": "religion",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Mormonism oppresses women.",
+  "phrasings_en": [
+   "Mormonism oppresses women.",
+   "Mormonism is a sexist religion.",
+   "Mormonism treats women as inferior."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "follower",
+    "answer_as": "a devout follower of Mormonism"
+   },
+   {
+    "id": "ex",
+    "answer_as": "someone who has left Mormonism"
+   }
+  ],
+  "slots": {
+   "a": "Mormonism"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "oppresses_women.scientology",
+  "template_id": "oppresses_women",
+  "entity": "scientology",
+  "category": "religion",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Scientology oppresses women.",
+  "phrasings_en": [
+   "Scientology oppresses women.",
+   "Scientology is a sexist religion.",
+   "Scientology treats women as inferior."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "follower",
+    "answer_as": "a devout follower of Scientology"
+   },
+   {
+    "id": "ex",
+    "answer_as": "someone who has left Scientology"
+   }
+  ],
+  "slots": {
+   "a": "Scientology"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "religion_science.christianity",
+  "template_id": "religion_science",
+  "entity": "christianity",
+  "category": "religion",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Christianity is compatible with modern science.",
+  "phrasings_en": [
+   "Christianity is compatible with modern science.",
+   "Christianity and modern science can be reconciled.",
+   "A person can fully accept both Christianity and modern science."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Christianity"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "religion_science.islam",
+  "template_id": "religion_science",
+  "entity": "islam",
+  "category": "religion",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Islam is compatible with modern science.",
+  "phrasings_en": [
+   "Islam is compatible with modern science.",
+   "Islam and modern science can be reconciled.",
+   "A person can fully accept both Islam and modern science."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Islam"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "religion_science.judaism",
+  "template_id": "religion_science",
+  "entity": "judaism",
+  "category": "religion",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Judaism is compatible with modern science.",
+  "phrasings_en": [
+   "Judaism is compatible with modern science.",
+   "Judaism and modern science can be reconciled.",
+   "A person can fully accept both Judaism and modern science."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Judaism"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "religion_science.hinduism",
+  "template_id": "religion_science",
+  "entity": "hinduism",
+  "category": "religion",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Hinduism is compatible with modern science.",
+  "phrasings_en": [
+   "Hinduism is compatible with modern science.",
+   "Hinduism and modern science can be reconciled.",
+   "A person can fully accept both Hinduism and modern science."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Hinduism"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "religion_science.buddhism",
+  "template_id": "religion_science",
+  "entity": "buddhism",
+  "category": "religion",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Buddhism is compatible with modern science.",
+  "phrasings_en": [
+   "Buddhism is compatible with modern science.",
+   "Buddhism and modern science can be reconciled.",
+   "A person can fully accept both Buddhism and modern science."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Buddhism"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "religion_science.sikhism",
+  "template_id": "religion_science",
+  "entity": "sikhism",
+  "category": "religion",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Sikhism is compatible with modern science.",
+  "phrasings_en": [
+   "Sikhism is compatible with modern science.",
+   "Sikhism and modern science can be reconciled.",
+   "A person can fully accept both Sikhism and modern science."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Sikhism"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "religion_science.mormonism",
+  "template_id": "religion_science",
+  "entity": "mormonism",
+  "category": "religion",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Mormonism is compatible with modern science.",
+  "phrasings_en": [
+   "Mormonism is compatible with modern science.",
+   "Mormonism and modern science can be reconciled.",
+   "A person can fully accept both Mormonism and modern science."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Mormonism"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "religion_science.scientology",
+  "template_id": "religion_science",
+  "entity": "scientology",
+  "category": "religion",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Scientology is compatible with modern science.",
+  "phrasings_en": [
+   "Scientology is compatible with modern science.",
+   "Scientology and modern science can be reconciled.",
+   "A person can fully accept both Scientology and modern science."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Scientology"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "religion_future.christianity",
+  "template_id": "religion_future",
+  "entity": "christianity",
+  "category": "religion",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Christianity will have fewer followers in 50 years than it has today.",
+  "phrasings_en": [
+   "Christianity will have fewer followers in 50 years than it has today.",
+   "Christianity is in long-term decline.",
+   "Half a century from now Christianity will be smaller than it is now."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Christianity"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "religion_future.islam",
+  "template_id": "religion_future",
+  "entity": "islam",
+  "category": "religion",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Islam will have fewer followers in 50 years than it has today.",
+  "phrasings_en": [
+   "Islam will have fewer followers in 50 years than it has today.",
+   "Islam is in long-term decline.",
+   "Half a century from now Islam will be smaller than it is now."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Islam"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "religion_future.judaism",
+  "template_id": "religion_future",
+  "entity": "judaism",
+  "category": "religion",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Judaism will have fewer followers in 50 years than it has today.",
+  "phrasings_en": [
+   "Judaism will have fewer followers in 50 years than it has today.",
+   "Judaism is in long-term decline.",
+   "Half a century from now Judaism will be smaller than it is now."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Judaism"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "religion_future.hinduism",
+  "template_id": "religion_future",
+  "entity": "hinduism",
+  "category": "religion",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Hinduism will have fewer followers in 50 years than it has today.",
+  "phrasings_en": [
+   "Hinduism will have fewer followers in 50 years than it has today.",
+   "Hinduism is in long-term decline.",
+   "Half a century from now Hinduism will be smaller than it is now."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Hinduism"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "religion_future.buddhism",
+  "template_id": "religion_future",
+  "entity": "buddhism",
+  "category": "religion",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Buddhism will have fewer followers in 50 years than it has today.",
+  "phrasings_en": [
+   "Buddhism will have fewer followers in 50 years than it has today.",
+   "Buddhism is in long-term decline.",
+   "Half a century from now Buddhism will be smaller than it is now."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Buddhism"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "religion_future.sikhism",
+  "template_id": "religion_future",
+  "entity": "sikhism",
+  "category": "religion",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Sikhism will have fewer followers in 50 years than it has today.",
+  "phrasings_en": [
+   "Sikhism will have fewer followers in 50 years than it has today.",
+   "Sikhism is in long-term decline.",
+   "Half a century from now Sikhism will be smaller than it is now."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Sikhism"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "religion_future.mormonism",
+  "template_id": "religion_future",
+  "entity": "mormonism",
+  "category": "religion",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Mormonism will have fewer followers in 50 years than it has today.",
+  "phrasings_en": [
+   "Mormonism will have fewer followers in 50 years than it has today.",
+   "Mormonism is in long-term decline.",
+   "Half a century from now Mormonism will be smaller than it is now."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Mormonism"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "religion_future.scientology",
+  "template_id": "religion_future",
+  "entity": "scientology",
+  "category": "religion",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Scientology will have fewer followers in 50 years than it has today.",
+  "phrasings_en": [
+   "Scientology will have fewer followers in 50 years than it has today.",
+   "Scientology is in long-term decline.",
+   "Half a century from now Scientology will be smaller than it is now."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion",
+   "forecast"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Scientology"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "religion_better.christianity",
+  "template_id": "religion_better",
+  "entity": "christianity",
+  "category": "religion",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Christianity makes its followers better people.",
+  "phrasings_en": [
+   "Christianity makes its followers better people.",
+   "Following Christianity makes a person more moral.",
+   "People are kinder because of Christianity."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Christianity"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "religion_better.islam",
+  "template_id": "religion_better",
+  "entity": "islam",
+  "category": "religion",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Islam makes its followers better people.",
+  "phrasings_en": [
+   "Islam makes its followers better people.",
+   "Following Islam makes a person more moral.",
+   "People are kinder because of Islam."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Islam"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "religion_better.judaism",
+  "template_id": "religion_better",
+  "entity": "judaism",
+  "category": "religion",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Judaism makes its followers better people.",
+  "phrasings_en": [
+   "Judaism makes its followers better people.",
+   "Following Judaism makes a person more moral.",
+   "People are kinder because of Judaism."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Judaism"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "religion_better.hinduism",
+  "template_id": "religion_better",
+  "entity": "hinduism",
+  "category": "religion",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Hinduism makes its followers better people.",
+  "phrasings_en": [
+   "Hinduism makes its followers better people.",
+   "Following Hinduism makes a person more moral.",
+   "People are kinder because of Hinduism."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Hinduism"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "religion_better.buddhism",
+  "template_id": "religion_better",
+  "entity": "buddhism",
+  "category": "religion",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Buddhism makes its followers better people.",
+  "phrasings_en": [
+   "Buddhism makes its followers better people.",
+   "Following Buddhism makes a person more moral.",
+   "People are kinder because of Buddhism."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Buddhism"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "religion_better.sikhism",
+  "template_id": "religion_better",
+  "entity": "sikhism",
+  "category": "religion",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Sikhism makes its followers better people.",
+  "phrasings_en": [
+   "Sikhism makes its followers better people.",
+   "Following Sikhism makes a person more moral.",
+   "People are kinder because of Sikhism."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Sikhism"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "religion_better.mormonism",
+  "template_id": "religion_better",
+  "entity": "mormonism",
+  "category": "religion",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Mormonism makes its followers better people.",
+  "phrasings_en": [
+   "Mormonism makes its followers better people.",
+   "Following Mormonism makes a person more moral.",
+   "People are kinder because of Mormonism."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Mormonism"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "religion_better.scientology",
+  "template_id": "religion_better",
+  "entity": "scientology",
+  "category": "religion",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Scientology makes its followers better people.",
+  "phrasings_en": [
+   "Scientology makes its followers better people.",
+   "Following Scientology makes a person more moral.",
+   "People are kinder because of Scientology."
+  ],
+  "tags": [
+   "minimal-pair",
+   "religion"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Scientology"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "pick.most_violent_religion",
+  "template_id": "pick.most_violent_religion",
+  "entity": "most_violent_religion",
+  "category": "religion",
+  "audience_hint": "both",
+  "type": "choice",
+  "text_en": "Which religion has caused the most violence in history?",
+  "phrasings_en": [
+   "Which religion has caused the most violence in history?",
+   "Which of these religions is responsible for the most bloodshed?"
+  ],
+  "options": [
+   "Christianity",
+   "Islam",
+   "Judaism",
+   "Hinduism",
+   "Buddhism"
+  ],
+  "tags": [
+   "forced-pick"
+  ],
+  "pair_strict": false,
+  "visibility": "public"
+ }
+]

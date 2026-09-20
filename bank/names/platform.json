@@ -1,0 +1,14 @@
+[
+ {"id": "x", "name": "X (formerly Twitter)"},
+ {"id": "facebook", "name": "Facebook"},
+ {"id": "instagram", "name": "Instagram"},
+ {"id": "tiktok", "name": "TikTok"},
+ {"id": "youtube", "name": "YouTube"},
+ {"id": "reddit", "name": "Reddit"},
+ {"id": "wechat", "name": "WeChat"},
+ {"id": "telegram", "name": "Telegram"},
+ {"id": "linkedin", "name": "LinkedIn"},
+ {"id": "snapchat", "name": "Snapchat"},
+ {"id": "discord", "name": "Discord"},
+ {"id": "threads", "name": "Threads"}
+]

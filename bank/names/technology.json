@@ -1,0 +1,14 @@
+[
+ {"id": "socialmedia", "name": "Social media"},
+ {"id": "smartphones", "name": "The smartphone"},
+ {"id": "videogames", "name": "Gaming"},
+ {"id": "porn", "name": "Online pornography"},
+ {"id": "datingapps", "name": "Online dating"},
+ {"id": "genai", "name": "Generative AI"},
+ {"id": "crypto", "name": "Cryptocurrency"},
+ {"id": "tv", "name": "Television"},
+ {"id": "cars", "name": "The car"},
+ {"id": "internet", "name": "The internet"},
+ {"id": "shortvideo", "name": "Short-form video"},
+ {"id": "fastfashion", "name": "Fast fashion"}
+]

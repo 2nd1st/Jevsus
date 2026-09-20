@@ -1,0 +1,58 @@
+[
+ {
+  "id": "tech_bad",
+  "category": "culture",
+  "audience": "en",
+  "tags": ["minimal-pair", "technology"],
+  "policy": "entity",
+  "wordings": [
+   "{a} has been bad for society.",
+   "Society would be better off if {a} had never been invented.",
+   "{a} has done more harm than good."
+  ]
+ },
+ {
+  "id": "tech_overhyped",
+  "category": "culture",
+  "audience": "en",
+  "tags": ["minimal-pair", "tech"],
+  "policy": "entity",
+  "wordings": ["{a} is overhyped.", "{a} gets far more hype than it deserves.", "{a} will never live up to its hype."]
+ },
+ {
+  "id": "tech_jobs",
+  "category": "future",
+  "audience": "en",
+  "tags": ["minimal-pair", "tech"],
+  "policy": "entity",
+  "wordings": [
+   "{a} destroys more jobs than it creates.",
+   "{a} is a net destroyer of jobs.",
+   "On balance {a} puts people out of work."
+  ]
+ },
+ {
+  "id": "tech_lasting",
+  "category": "future",
+  "audience": "en",
+  "tags": ["minimal-pair", "tech", "forecast"],
+  "policy": "entity",
+  "wordings": [
+   "{a} will still matter in 50 years.",
+   "Half a century from now {a} will still be important.",
+   "{a} is here to stay for the next 50 years."
+  ]
+ },
+ {
+  "id": "tech_vendors",
+  "category": "culture",
+  "audience": "en",
+  "tags": ["minimal-pair", "tech"],
+  "policy": "entity",
+  "wordings": [
+   "{a} mostly benefits the companies that sell it.",
+   "The main winners from {a} are its vendors, not its users.",
+   "{a} serves its makers more than the public."
+  ]
+ }
+]

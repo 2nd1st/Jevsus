@@ -1,0 +1,15 @@
+[
+ {
+  "id": "burn_hatecrime",
+  "category": "speech",
+  "audience": "both",
+  "tags": ["minimal-pair", "symbols"],
+  "policy": "entity",
+  "wordings": [
+   "Burning {a} is a hate crime.",
+   "Publicly burning {a} is an act of hate.",
+   "Setting fire to {a} in protest is hate speech."
+  ],
+  "wordings_zh": ["焚烧{a}是仇恨犯罪。", "公开焚烧{a}是一种仇恨行为。", "为抗议而焚烧{a}属于仇恨言论。"]
+ }
+]

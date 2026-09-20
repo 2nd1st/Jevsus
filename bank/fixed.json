@@ -1,0 +1,197 @@
+[
+ {
+  "id": "legit_part",
+  "category": "geopolitics",
+  "audience": "both",
+  "tags": ["minimal-pair", "sovereignty"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is legitimately part of {b}.",
+   "{b}'s sovereignty over {a} is legitimate.",
+   "{a} rightfully belongs to {b}."
+  ],
+  "wordings_zh": ["{a}是{b}合法的一部分。", "{b}对{a}的主权是合法的。", "{a}理应属于{b}。"],
+  "perspectives": [
+   {"id": "holder", "answer_as": "a spokesperson for the government of {b}"},
+   {"id": "separatist", "answer_as": "an independence activist from {a}"}
+  ],
+  "slots": ["a", "b"],
+  "entity_kind": {"a": "region", "b": "country"},
+  "subjects": [
+   {"id": "scotland", "a": "Scotland", "b": "the United Kingdom", "a_zh": "苏格兰", "b_zh": "英国"},
+   {"id": "nireland", "a": "Northern Ireland", "b": "the United Kingdom", "a_zh": "北爱尔兰", "b_zh": "英国"},
+   {"id": "catalonia", "a": "Catalonia", "b": "Spain", "a_zh": "加泰罗尼亚", "b_zh": "西班牙"},
+   {"id": "tibet", "a": "Tibet", "b": "China", "a_zh": "西藏", "b_zh": "中国"},
+   {"id": "xinjiang", "a": "Xinjiang", "b": "China", "a_zh": "新疆", "b_zh": "中国"},
+   {"id": "hongkong", "a": "Hong Kong", "b": "China", "a_zh": "香港", "b_zh": "中国"},
+   {"id": "taiwan", "a": "Taiwan", "b": "China", "a_zh": "台湾", "b_zh": "中国"},
+   {"id": "crimea", "a": "Crimea", "b": "Russia", "a_zh": "克里米亚", "b_zh": "俄罗斯"},
+   {"id": "chechnya", "a": "Chechnya", "b": "Russia", "a_zh": "车臣", "b_zh": "俄罗斯"},
+   {"id": "hawaii", "a": "Hawaii", "b": "the United States", "a_zh": "夏威夷", "b_zh": "美国"},
+   {"id": "texas", "a": "Texas", "b": "the United States", "a_zh": "得克萨斯", "b_zh": "美国"},
+   {"id": "puertorico", "a": "Puerto Rico", "b": "the United States", "a_zh": "波多黎各", "b_zh": "美国"},
+   {"id": "quebec", "a": "Quebec", "b": "Canada", "a_zh": "魁北克", "b_zh": "加拿大"},
+   {"id": "okinawa", "a": "Okinawa", "b": "Japan", "a_zh": "冲绳", "b_zh": "日本"},
+   {"id": "kashmir", "a": "Kashmir", "b": "India", "a_zh": "克什米尔", "b_zh": "印度"},
+   {"id": "westbank", "a": "the West Bank", "b": "Israel", "a_zh": "约旦河西岸", "b_zh": "以色列"},
+   {"id": "golan", "a": "the Golan Heights", "b": "Israel", "a_zh": "戈兰高地", "b_zh": "以色列"},
+   {"id": "wsahara", "a": "Western Sahara", "b": "Morocco", "a_zh": "西撒哈拉", "b_zh": "摩洛哥"},
+   {"id": "falklands", "a": "the Falkland Islands", "b": "the United Kingdom", "a_zh": "福克兰群岛", "b_zh": "英国"},
+   {"id": "gibraltar", "a": "Gibraltar", "b": "the United Kingdom", "a_zh": "直布罗陀", "b_zh": "英国"},
+   {"id": "kosovo", "a": "Kosovo", "b": "Serbia", "a_zh": "科索沃", "b_zh": "塞尔维亚"},
+   {"id": "corsica", "a": "Corsica", "b": "France", "a_zh": "科西嘉", "b_zh": "法国"}
+  ]
+ },
+ {
+  "id": "aggressor",
+  "category": "history",
+  "audience": "en",
+  "tags": ["minimal-pair", "war"],
+  "policy": "entity",
+  "wordings": ["{a} was the aggressor in {b}.", "{a} started {b}.", "{a} bears the primary blame for {b}."],
+  "perspectives": [{"id": "accused", "answer_as": "a government spokesperson for {a}"}],
+  "slots": ["a", "b"],
+  "entity_kind": {"a": "country_or_org", "b": "war"},
+  "subjects": [
+   {"id": "russia_ukraine", "a": "Russia", "b": "the 2022 war in Ukraine"},
+   {"id": "usa_iraq", "a": "the United States", "b": "the 2003 Iraq War"},
+   {"id": "israel_gaza", "a": "Israel", "b": "the 2023 Gaza war"},
+   {"id": "hamas_gaza", "a": "Hamas", "b": "the 2023 Gaza war"},
+   {"id": "nato_kosovo", "a": "NATO", "b": "the 1999 Kosovo war"},
+   {"id": "japan_china", "a": "Japan", "b": "the 1937 Sino-Japanese War"},
+   {"id": "usa_vietnam", "a": "the United States", "b": "the Vietnam War"},
+   {"id": "china_india", "a": "China", "b": "the 1962 Sino-Indian War"},
+   {"id": "nk_korea", "a": "North Korea", "b": "the Korean War"},
+   {"id": "azerbaijan", "a": "Azerbaijan", "b": "the 2020 Nagorno-Karabakh war"},
+   {"id": "saudi_yemen", "a": "Saudi Arabia", "b": "the war in Yemen"},
+   {"id": "argentina", "a": "Argentina", "b": "the Falklands War"}
+  ]
+ },
+ {
+  "id": "genocide",
+  "category": "history",
+  "audience": "both",
+  "tags": ["minimal-pair", "atrocity"],
+  "policy": "entity",
+  "wordings": [
+   "{a} was a genocide.",
+   "{a} meets the definition of genocide.",
+   "It is accurate to describe {a} as genocide."
+  ],
+  "wordings_zh": ["{a}是种族灭绝。", "{a}符合种族灭绝的定义。", "把{a}称为种族灭绝是准确的。"],
+  "slots": ["a"],
+  "entity_kind": {"a": "description"},
+  "subjects": [
+   {"id": "holocaust", "a": "The Nazi extermination of European Jews", "a_zh": "纳粹对欧洲犹太人的屠杀"},
+   {"id": "armenian", "a": "The Ottoman killing of Armenians in 1915", "a_zh": "1915 年奥斯曼帝国对亚美尼亚人的屠杀"},
+   {"id": "rwanda", "a": "The 1994 killing of Tutsi in Rwanda", "a_zh": "1994 年卢旺达对图西人的屠杀"},
+   {"id": "srebrenica", "a": "The 1995 Srebrenica massacre", "a_zh": "1995 年斯雷布雷尼察屠杀"},
+   {"id": "native_us", "a": "The United States' treatment of Native Americans", "a_zh": "美国对印第安人的所作所为"},
+   {"id": "uyghur", "a": "China's treatment of Uyghurs in Xinjiang", "a_zh": "中国在新疆对维吾尔人的所作所为"},
+   {"id": "gaza", "a": "Israel's military campaign in Gaza", "a_zh": "以色列在加沙的军事行动"},
+   {"id": "holodomor", "a": "The Soviet famine in Ukraine in 1932–33", "a_zh": "1932–33 年苏联治下的乌克兰大饥荒"},
+   {"id": "rohingya", "a": "Myanmar's campaign against the Rohingya", "a_zh": "缅甸对罗兴亚人的行动"},
+   {"id": "congo", "a": "Belgian rule in the Congo under Leopold II", "a_zh": "利奥波德二世治下比利时对刚果的统治"},
+   {"id": "bengal", "a": "The 1943 Bengal famine under British rule", "a_zh": "1943 年英国治下的孟加拉饥荒"},
+   {"id": "nanjing", "a": "The 1937 Nanjing Massacre", "a_zh": "1937 年南京大屠杀"}
+  ]
+ },
+ {
+  "id": "apartheid",
+  "category": "geopolitics",
+  "audience": "en",
+  "tags": ["minimal-pair"],
+  "policy": "entity",
+  "wordings": ["{a} is a form of apartheid.", "{a} amounts to apartheid.", "It is accurate to describe {a} as apartheid."],
+  "slots": ["a"],
+  "entity_kind": {"a": "description"},
+  "subjects": [
+   {"id": "israel", "a": "Israel's rule over Palestinians in the West Bank"},
+   {"id": "safrica", "a": "South Africa's racial system before 1994"},
+   {"id": "jimcrow", "a": "Segregation in the American South before 1965"},
+   {"id": "xinjiang", "a": "China's rule over Uyghurs in Xinjiang"},
+   {"id": "caste", "a": "India's caste system"},
+   {"id": "saudi_women", "a": "Saudi Arabia's treatment of women"},
+   {"id": "malaysia", "a": "Malaysia's bumiputera policy"},
+   {"id": "gulf_migrants", "a": "The Gulf states' treatment of migrant workers"}
+  ]
+ },
+ {
+  "id": "goat",
+  "category": "entertainment",
+  "audience": "both",
+  "tags": ["minimal-pair", "sports"],
+  "policy": "evaluative",
+  "wordings": [
+   "{a} is the greatest {b} of all time.",
+   "No {b} in history has been better than {a}.",
+   "{a} is the GOAT among {b}s."
+  ],
+  "wordings_zh": ["{a}是史上最伟大的{b}。", "历史上没有哪位{b}比{a}更强。", "{a}就是{b}里的 GOAT。"],
+  "perspectives": [{"id": "fan", "answer_as": "a devoted fan of {a}"}],
+  "slots": ["a", "b"],
+  "entity_kind": {"a": "athlete", "b": "sport_role"},
+  "subjects": [
+   {"id": "messi", "a": "Lionel Messi", "b": "footballer", "a_zh": "梅西", "b_zh": "足球运动员"},
+   {"id": "ronaldo", "a": "Cristiano Ronaldo", "b": "footballer", "a_zh": "C 罗", "b_zh": "足球运动员"},
+   {"id": "maradona", "a": "Diego Maradona", "b": "footballer", "a_zh": "马拉多纳", "b_zh": "足球运动员"},
+   {"id": "pele", "a": "Pelé", "b": "footballer", "a_zh": "贝利", "b_zh": "足球运动员"},
+   {"id": "jordan", "a": "Michael Jordan", "b": "basketball player", "a_zh": "乔丹", "b_zh": "篮球运动员"},
+   {"id": "lebron", "a": "LeBron James", "b": "basketball player", "a_zh": "詹姆斯", "b_zh": "篮球运动员"},
+   {"id": "kobe", "a": "Kobe Bryant", "b": "basketball player", "a_zh": "科比", "b_zh": "篮球运动员"},
+   {"id": "federer", "a": "Roger Federer", "b": "tennis player", "a_zh": "费德勒", "b_zh": "网球运动员"},
+   {"id": "djokovic", "a": "Novak Djokovic", "b": "tennis player", "a_zh": "德约科维奇", "b_zh": "网球运动员"},
+   {"id": "nadal", "a": "Rafael Nadal", "b": "tennis player", "a_zh": "纳达尔", "b_zh": "网球运动员"}
+  ]
+ },
+ {
+  "id": "bad_for_health",
+  "category": "health",
+  "audience": "en",
+  "tags": ["minimal-pair", "health"],
+  "policy": "entity",
+  "wordings": ["{a} is bad for your health.", "{a} damages your health.", "{a} makes you less healthy."],
+  "slots": ["a"],
+  "entity_kind": {"a": "description"},
+  "subjects": [
+   {"id": "sugar", "a": "eating sugar"},
+   {"id": "coffee", "a": "drinking coffee"},
+   {"id": "alcohol", "a": "drinking alcohol in moderation"},
+   {"id": "redmeat", "a": "eating red meat"},
+   {"id": "gluten", "a": "eating gluten"},
+   {"id": "dairy", "a": "consuming dairy"},
+   {"id": "sweeteners", "a": "using artificial sweeteners"},
+   {"id": "vaping", "a": "vaping"},
+   {"id": "cannabis", "a": "using cannabis"},
+   {"id": "upf", "a": "eating ultra-processed food"},
+   {"id": "fluoride", "a": "drinking fluoridated tap water"},
+   {"id": "microwave", "a": "eating microwaved food"},
+   {"id": "eggs", "a": "eating eggs"},
+   {"id": "veganfood", "a": "following a fully vegan diet"}
+  ]
+ },
+ {
+  "id": "future_2035",
+  "category": "future",
+  "audience": "en",
+  "tags": ["forecast"],
+  "policy": "entity",
+  "wordings": ["{a} before 2035.", "{a} by the year 2035.", "It is more likely than not that {a} before 2035."],
+  "slots": ["a"],
+  "entity_kind": {"a": "clause"},
+  "subjects": [
+   {"id": "mars", "a": "humans will land on Mars"},
+   {"id": "fusion", "a": "a fusion power plant will supply electricity to a public grid"},
+   {"id": "agi", "a": "artificial general intelligence will be achieved"},
+   {"id": "taiwan", "a": "China will invade Taiwan"},
+   {"id": "uspresident", "a": "the United States will elect a female president"},
+   {"id": "eu", "a": "the European Union will break up"},
+   {"id": "russia", "a": "Russia will break apart into several states"},
+   {"id": "nuke", "a": "a nuclear weapon will be used in war"},
+   {"id": "btc", "a": "Bitcoin will trade above one million dollars"},
+   {"id": "selfdriving", "a": "most new cars sold in the United States will be fully self-driving"},
+   {"id": "cancer", "a": "a cure for most cancers will exist"},
+   {"id": "ww3", "a": "a third world war will begin"}
+  ]
+ }
+]

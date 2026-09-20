@@ -1,0 +1,122 @@
+[
+ {
+  "id": "bad_person",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "celebrity"],
+  "policy": "evaluative",
+  "wordings": ["{a} is a bad person.", "{a} is, on balance, a bad human being.", "{a} is not a good person."],
+  "perspectives": [{"id": "fan", "answer_as": "a devoted fan of {a}"}, {"id": "critic", "answer_as": "a harsh critic of {a}"}]
+ },
+ {
+  "id": "genius",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "celebrity"],
+  "policy": "evaluative",
+  "wordings": ["{a} is a genius.", "{a} has a genuinely exceptional mind.", "It is accurate to call {a} a genius."],
+  "perspectives": [{"id": "fan", "answer_as": "a devoted fan of {a}"}, {"id": "critic", "answer_as": "a harsh critic of {a}"}]
+ },
+ {
+  "id": "no_talent",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "celebrity"],
+  "policy": "evaluative",
+  "wordings": [
+   "{a} is famous without having real talent.",
+   "{a} has no real talent.",
+   "{a}'s fame has nothing to do with ability."
+  ],
+  "perspectives": [{"id": "fan", "answer_as": "a devoted fan of {a}"}, {"id": "critic", "answer_as": "a harsh critic of {a}"}]
+ },
+ {
+  "id": "rolemodel",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "celebrity"],
+  "policy": "evaluative",
+  "wordings": [
+   "{a} is a good role model for teenagers.",
+   "Teenagers who look up to {a} are better off for it.",
+   "{a} sets a good example for young people."
+  ],
+  "perspectives": [{"id": "fan", "answer_as": "a devoted fan of {a}"}, {"id": "critic", "answer_as": "a harsh critic of {a}"}]
+ },
+ {
+  "id": "remembered",
+  "category": "entertainment",
+  "audience": "en",
+  "tags": ["minimal-pair", "celebrity", "forecast"],
+  "policy": "evaluative",
+  "wordings": [
+   "{a} will still be famous in 100 years.",
+   "A century from now, people will still know who {a} was.",
+   "{a}'s name will outlast the next hundred years."
+  ]
+ },
+ {
+  "id": "person_overrated",
+  "category": "culture",
+  "audience": "en",
+  "tags": ["minimal-pair", "public-figures"],
+  "policy": "evaluative",
+  "wordings": [
+   "{a} is overrated.",
+   "{a} gets more admiration than they deserve.",
+   "{a}'s reputation exceeds their achievements."
+  ]
+ },
+ {
+  "id": "person_world",
+  "category": "culture",
+  "audience": "en",
+  "tags": ["minimal-pair", "public-figures"],
+  "policy": "evaluative",
+  "wordings": [
+   "The world is better off because of {a}.",
+   "{a} has made the world a better place.",
+   "{a} has done more good than harm."
+  ]
+ },
+ {
+  "id": "person_likeable",
+  "category": "culture",
+  "audience": "en",
+  "tags": ["minimal-pair", "public-figures"],
+  "policy": "evaluative",
+  "wordings": [
+   "{a} is a likeable person.",
+   "{a} would be good company at dinner.",
+   "Most people would enjoy spending an evening with {a}."
+  ]
+ },
+ {
+  "id": "person_deserved",
+  "category": "culture",
+  "audience": "en",
+  "tags": ["minimal-pair", "public-figures"],
+  "policy": "evaluative",
+  "wordings": ["{a} earned their success.", "{a}'s success is deserved.", "{a} got where they are on merit."]
+ },
+ {
+  "id": "person_smarter",
+  "category": "culture",
+  "audience": "en",
+  "tags": ["minimal-pair", "public-figures"],
+  "policy": "evaluative",
+  "wordings": [
+   "{a} is smarter than most people think.",
+   "People underestimate {a}'s intelligence.",
+   "{a} is more intelligent than their public image suggests."
+  ]
+ },
+ {
+  "id": "person_trust",
+  "category": "culture",
+  "audience": "en",
+  "tags": ["minimal-pair", "public-figures"],
+  "policy": "evaluative",
+  "wordings": ["{a} is someone you could trust.", "{a} is a trustworthy person.", "A sensible person would trust {a}."]
+ }
+]

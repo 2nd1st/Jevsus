@@ -1,0 +1,497 @@
+[
+ {
+  "id": "pick.owner.dokdo",
+  "template_id": "pick.owner.dokdo",
+  "entity": "owner.dokdo",
+  "category": "territory",
+  "audience_hint": "both",
+  "type": "choice",
+  "text_en": "The islands known as Dokdo in Korea and Takeshima in Japan rightfully belong to which country?",
+  "phrasings_en": [
+   "The islands known as Dokdo in Korea and Takeshima in Japan rightfully belong to which country?",
+   "Who is the rightful owner of the islands called Takeshima by Japan and Dokdo by Korea?"
+  ],
+  "options": [
+   "South Korea",
+   "Japan"
+  ],
+  "tags": [
+   "territory",
+   "forced-pick"
+  ],
+  "perspectives": [
+   {
+    "id": "party0",
+    "answer_as": "a government spokesperson for South Korea"
+   },
+   {
+    "id": "party1",
+    "answer_as": "a government spokesperson for Japan"
+   }
+  ],
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "pick.owner.senkaku",
+  "template_id": "pick.owner.senkaku",
+  "entity": "owner.senkaku",
+  "category": "territory",
+  "audience_hint": "both",
+  "type": "choice",
+  "text_en": "The islands known as Senkaku in Japan and Diaoyu in China rightfully belong to whom?",
+  "phrasings_en": [
+   "The islands known as Senkaku in Japan and Diaoyu in China rightfully belong to whom?",
+   "Who is the rightful owner of the islands called Diaoyu by China and Senkaku by Japan?"
+  ],
+  "options": [
+   "Japan",
+   "China",
+   "Taiwan"
+  ],
+  "tags": [
+   "territory",
+   "forced-pick"
+  ],
+  "perspectives": [
+   {
+    "id": "party0",
+    "answer_as": "a government spokesperson for Japan"
+   },
+   {
+    "id": "party1",
+    "answer_as": "a government spokesperson for China"
+   },
+   {
+    "id": "party2",
+    "answer_as": "a government spokesperson for Taiwan"
+   }
+  ],
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "pick.owner.crimea",
+  "template_id": "pick.owner.crimea",
+  "entity": "owner.crimea",
+  "category": "territory",
+  "audience_hint": "both",
+  "type": "choice",
+  "text_en": "Crimea rightfully belongs to which country?",
+  "phrasings_en": [
+   "Crimea rightfully belongs to which country?",
+   "Which country is the rightful owner of Crimea?"
+  ],
+  "options": [
+   "Ukraine",
+   "Russia"
+  ],
+  "tags": [
+   "territory",
+   "forced-pick"
+  ],
+  "perspectives": [
+   {
+    "id": "party0",
+    "answer_as": "a government spokesperson for Ukraine"
+   },
+   {
+    "id": "party1",
+    "answer_as": "a government spokesperson for Russia"
+   }
+  ],
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "pick.owner.golan",
+  "template_id": "pick.owner.golan",
+  "entity": "owner.golan",
+  "category": "territory",
+  "audience_hint": "both",
+  "type": "choice",
+  "text_en": "The Golan Heights rightfully belong to which country?",
+  "phrasings_en": [
+   "The Golan Heights rightfully belong to which country?",
+   "Which country is the rightful owner of the Golan Heights?"
+  ],
+  "options": [
+   "Syria",
+   "Israel"
+  ],
+  "tags": [
+   "territory",
+   "forced-pick"
+  ],
+  "perspectives": [
+   {
+    "id": "party0",
+    "answer_as": "a government spokesperson for Syria"
+   },
+   {
+    "id": "party1",
+    "answer_as": "a government spokesperson for Israel"
+   }
+  ],
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "pick.owner.falklands",
+  "template_id": "pick.owner.falklands",
+  "entity": "owner.falklands",
+  "category": "territory",
+  "audience_hint": "both",
+  "type": "choice",
+  "text_en": "The islands known as the Falklands in Britain and the Malvinas in Argentina rightfully belong to which country?",
+  "phrasings_en": [
+   "The islands known as the Falklands in Britain and the Malvinas in Argentina rightfully belong to which country?",
+   "Who is the rightful owner of the islands called Malvinas by Argentina and Falklands by Britain?"
+  ],
+  "options": [
+   "the United Kingdom",
+   "Argentina"
+  ],
+  "tags": [
+   "territory",
+   "forced-pick"
+  ],
+  "perspectives": [
+   {
+    "id": "party0",
+    "answer_as": "a government spokesperson for the United Kingdom"
+   },
+   {
+    "id": "party1",
+    "answer_as": "a government spokesperson for Argentina"
+   }
+  ],
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "pick.owner.kashmir",
+  "template_id": "pick.owner.kashmir",
+  "entity": "owner.kashmir",
+  "category": "territory",
+  "audience_hint": "both",
+  "type": "choice",
+  "text_en": "Kashmir rightfully belongs to whom?",
+  "phrasings_en": [
+   "Kashmir rightfully belongs to whom?",
+   "Who is the rightful owner of Kashmir?"
+  ],
+  "options": [
+   "India",
+   "Pakistan",
+   "Neither: an independent Kashmir"
+  ],
+  "tags": [
+   "territory",
+   "forced-pick"
+  ],
+  "perspectives": [
+   {
+    "id": "party0",
+    "answer_as": "a government spokesperson for India"
+   },
+   {
+    "id": "party1",
+    "answer_as": "a government spokesperson for Pakistan"
+   }
+  ],
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "pick.owner.jerusalem",
+  "template_id": "pick.owner.jerusalem",
+  "entity": "owner.jerusalem",
+  "category": "territory",
+  "audience_hint": "both",
+  "type": "choice",
+  "text_en": "Jerusalem is rightfully the capital of whom?",
+  "phrasings_en": [
+   "Jerusalem is rightfully the capital of whom?",
+   "Whose capital is Jerusalem, rightfully?"
+  ],
+  "options": [
+   "Israel",
+   "Palestine",
+   "Both",
+   "Neither: an international city"
+  ],
+  "tags": [
+   "territory",
+   "forced-pick"
+  ],
+  "perspectives": [
+   {
+    "id": "party0",
+    "answer_as": "a government spokesperson for Israel"
+   },
+   {
+    "id": "party1",
+    "answer_as": "a government spokesperson for Palestine"
+   }
+  ],
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "pick.owner.kurils",
+  "template_id": "pick.owner.kurils",
+  "entity": "owner.kurils",
+  "category": "territory",
+  "audience_hint": "both",
+  "type": "choice",
+  "text_en": "The islands known as the Southern Kurils in Russia and the Northern Territories in Japan rightfully belong to which country?",
+  "phrasings_en": [
+   "The islands known as the Southern Kurils in Russia and the Northern Territories in Japan rightfully belong to which country?",
+   "Who is the rightful owner of the islands called the Northern Territories by Japan and the Southern Kurils by Russia?"
+  ],
+  "options": [
+   "Russia",
+   "Japan"
+  ],
+  "tags": [
+   "territory",
+   "forced-pick"
+  ],
+  "perspectives": [
+   {
+    "id": "party0",
+    "answer_as": "a government spokesperson for Russia"
+   },
+   {
+    "id": "party1",
+    "answer_as": "a government spokesperson for Japan"
+   }
+  ],
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "pick.owner.spratlys",
+  "template_id": "pick.owner.spratlys",
+  "entity": "owner.spratlys",
+  "category": "territory",
+  "audience_hint": "both",
+  "type": "choice",
+  "text_en": "The Spratly Islands in the South China Sea rightfully belong to whom?",
+  "phrasings_en": [
+   "The Spratly Islands in the South China Sea rightfully belong to whom?",
+   "Who is the rightful owner of the Spratly Islands?"
+  ],
+  "options": [
+   "China",
+   "Vietnam",
+   "the Philippines",
+   "No single country"
+  ],
+  "tags": [
+   "territory",
+   "forced-pick"
+  ],
+  "perspectives": [
+   {
+    "id": "party0",
+    "answer_as": "a government spokesperson for China"
+   },
+   {
+    "id": "party1",
+    "answer_as": "a government spokesperson for Vietnam"
+   },
+   {
+    "id": "party2",
+    "answer_as": "a government spokesperson for the Philippines"
+   }
+  ],
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "pick.owner.karabakh",
+  "template_id": "pick.owner.karabakh",
+  "entity": "owner.karabakh",
+  "category": "territory",
+  "audience_hint": "both",
+  "type": "choice",
+  "text_en": "Nagorno-Karabakh rightfully belongs to which country?",
+  "phrasings_en": [
+   "Nagorno-Karabakh rightfully belongs to which country?",
+   "Which country is the rightful owner of Nagorno-Karabakh?"
+  ],
+  "options": [
+   "Azerbaijan",
+   "Armenia"
+  ],
+  "tags": [
+   "territory",
+   "forced-pick"
+  ],
+  "perspectives": [
+   {
+    "id": "party0",
+    "answer_as": "a government spokesperson for Azerbaijan"
+   },
+   {
+    "id": "party1",
+    "answer_as": "a government spokesperson for Armenia"
+   }
+  ],
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "pick.owner.taiwan_gov",
+  "template_id": "pick.owner.taiwan_gov",
+  "entity": "owner.taiwan_gov",
+  "category": "territory",
+  "audience_hint": "both",
+  "type": "choice",
+  "text_en": "Who is the legitimate government of Taiwan?",
+  "phrasings_en": [
+   "Who is the legitimate government of Taiwan?",
+   "Which government rightfully rules Taiwan?"
+  ],
+  "options": [
+   "The government in Taipei",
+   "The government in Beijing"
+  ],
+  "tags": [
+   "territory",
+   "forced-pick"
+  ],
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "pick.owner.gibraltar",
+  "template_id": "pick.owner.gibraltar",
+  "entity": "owner.gibraltar",
+  "category": "territory",
+  "audience_hint": "both",
+  "type": "choice",
+  "text_en": "Gibraltar rightfully belongs to which country?",
+  "phrasings_en": [
+   "Gibraltar rightfully belongs to which country?",
+   "Which country is the rightful owner of Gibraltar?"
+  ],
+  "options": [
+   "the United Kingdom",
+   "Spain"
+  ],
+  "tags": [
+   "territory",
+   "forced-pick"
+  ],
+  "perspectives": [
+   {
+    "id": "party0",
+    "answer_as": "a government spokesperson for the United Kingdom"
+   },
+   {
+    "id": "party1",
+    "answer_as": "a government spokesperson for Spain"
+   }
+  ],
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "pick.owner.arunachal",
+  "template_id": "pick.owner.arunachal",
+  "entity": "owner.arunachal",
+  "category": "territory",
+  "audience_hint": "both",
+  "type": "choice",
+  "text_en": "The region known as Arunachal Pradesh in India and South Tibet in China rightfully belongs to which country?",
+  "phrasings_en": [
+   "The region known as Arunachal Pradesh in India and South Tibet in China rightfully belongs to which country?",
+   "Who is the rightful owner of the region called South Tibet by China and Arunachal Pradesh by India?"
+  ],
+  "options": [
+   "India",
+   "China"
+  ],
+  "tags": [
+   "territory",
+   "forced-pick"
+  ],
+  "perspectives": [
+   {
+    "id": "party0",
+    "answer_as": "a government spokesperson for India"
+   },
+   {
+    "id": "party1",
+    "answer_as": "a government spokesperson for China"
+   }
+  ],
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "pick.owner.essequibo",
+  "template_id": "pick.owner.essequibo",
+  "entity": "owner.essequibo",
+  "category": "territory",
+  "audience_hint": "both",
+  "type": "choice",
+  "text_en": "The Essequibo region rightfully belongs to which country?",
+  "phrasings_en": [
+   "The Essequibo region rightfully belongs to which country?",
+   "Which country is the rightful owner of the Essequibo region?"
+  ],
+  "options": [
+   "Guyana",
+   "Venezuela"
+  ],
+  "tags": [
+   "territory",
+   "forced-pick"
+  ],
+  "perspectives": [
+   {
+    "id": "party0",
+    "answer_as": "a government spokesperson for Guyana"
+   },
+   {
+    "id": "party1",
+    "answer_as": "a government spokesperson for Venezuela"
+   }
+  ],
+  "pair_strict": false,
+  "visibility": "public"
+ },
+ {
+  "id": "pick.owner.wsahara",
+  "template_id": "pick.owner.wsahara",
+  "entity": "owner.wsahara",
+  "category": "territory",
+  "audience_hint": "both",
+  "type": "choice",
+  "text_en": "Western Sahara rightfully belongs to whom?",
+  "phrasings_en": [
+   "Western Sahara rightfully belongs to whom?",
+   "Who is the rightful owner of Western Sahara?"
+  ],
+  "options": [
+   "Morocco",
+   "The Sahrawi people, as an independent state"
+  ],
+  "tags": [
+   "territory",
+   "forced-pick"
+  ],
+  "perspectives": [
+   {
+    "id": "party0",
+    "answer_as": "a government spokesperson for Morocco"
+   }
+  ],
+  "pair_strict": false,
+  "visibility": "public"
+ }
+]

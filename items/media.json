@@ -1,0 +1,2783 @@
+[
+ {
+  "id": "media_trust.bbc",
+  "template_id": "media_trust",
+  "entity": "bbc",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The BBC is a trustworthy source of news.",
+  "phrasings_en": [
+   "The BBC is a trustworthy source of news.",
+   "You can rely on The BBC to report the news accurately.",
+   "The BBC reports the news honestly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "media"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "reader",
+    "answer_as": "a loyal follower of The BBC"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of The BBC"
+   }
+  ],
+  "slots": {
+   "a": "The BBC"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_trust.cnn",
+  "template_id": "media_trust",
+  "entity": "cnn",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "CNN is a trustworthy source of news.",
+  "phrasings_en": [
+   "CNN is a trustworthy source of news.",
+   "You can rely on CNN to report the news accurately.",
+   "CNN reports the news honestly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "media"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "reader",
+    "answer_as": "a loyal follower of CNN"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of CNN"
+   }
+  ],
+  "slots": {
+   "a": "CNN"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_trust.fox",
+  "template_id": "media_trust",
+  "entity": "fox",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Fox News is a trustworthy source of news.",
+  "phrasings_en": [
+   "Fox News is a trustworthy source of news.",
+   "You can rely on Fox News to report the news accurately.",
+   "Fox News reports the news honestly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "media"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "reader",
+    "answer_as": "a loyal follower of Fox News"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of Fox News"
+   }
+  ],
+  "slots": {
+   "a": "Fox News"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_trust.nyt",
+  "template_id": "media_trust",
+  "entity": "nyt",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The New York Times is a trustworthy source of news.",
+  "phrasings_en": [
+   "The New York Times is a trustworthy source of news.",
+   "You can rely on The New York Times to report the news accurately.",
+   "The New York Times reports the news honestly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "media"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "reader",
+    "answer_as": "a loyal follower of The New York Times"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of The New York Times"
+   }
+  ],
+  "slots": {
+   "a": "The New York Times"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_trust.aljazeera",
+  "template_id": "media_trust",
+  "entity": "aljazeera",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Al Jazeera is a trustworthy source of news.",
+  "phrasings_en": [
+   "Al Jazeera is a trustworthy source of news.",
+   "You can rely on Al Jazeera to report the news accurately.",
+   "Al Jazeera reports the news honestly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "media"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "reader",
+    "answer_as": "a loyal follower of Al Jazeera"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of Al Jazeera"
+   }
+  ],
+  "slots": {
+   "a": "Al Jazeera"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_trust.rt",
+  "template_id": "media_trust",
+  "entity": "rt",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "RT is a trustworthy source of news.",
+  "phrasings_en": [
+   "RT is a trustworthy source of news.",
+   "You can rely on RT to report the news accurately.",
+   "RT reports the news honestly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "media"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "reader",
+    "answer_as": "a loyal follower of RT"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of RT"
+   }
+  ],
+  "slots": {
+   "a": "RT"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_trust.xinhua",
+  "template_id": "media_trust",
+  "entity": "xinhua",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Xinhua is a trustworthy source of news.",
+  "phrasings_en": [
+   "Xinhua is a trustworthy source of news.",
+   "You can rely on Xinhua to report the news accurately.",
+   "Xinhua reports the news honestly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "media"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "reader",
+    "answer_as": "a loyal follower of Xinhua"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of Xinhua"
+   }
+  ],
+  "slots": {
+   "a": "Xinhua"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_trust.cgtn",
+  "template_id": "media_trust",
+  "entity": "cgtn",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "CGTN is a trustworthy source of news.",
+  "phrasings_en": [
+   "CGTN is a trustworthy source of news.",
+   "You can rely on CGTN to report the news accurately.",
+   "CGTN reports the news honestly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "media"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "reader",
+    "answer_as": "a loyal follower of CGTN"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of CGTN"
+   }
+  ],
+  "slots": {
+   "a": "CGTN"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_trust.guardian",
+  "template_id": "media_trust",
+  "entity": "guardian",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The Guardian is a trustworthy source of news.",
+  "phrasings_en": [
+   "The Guardian is a trustworthy source of news.",
+   "You can rely on The Guardian to report the news accurately.",
+   "The Guardian reports the news honestly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "media"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "reader",
+    "answer_as": "a loyal follower of The Guardian"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of The Guardian"
+   }
+  ],
+  "slots": {
+   "a": "The Guardian"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_trust.wikipedia",
+  "template_id": "media_trust",
+  "entity": "wikipedia",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Wikipedia is a trustworthy source of news.",
+  "phrasings_en": [
+   "Wikipedia is a trustworthy source of news.",
+   "You can rely on Wikipedia to report the news accurately.",
+   "Wikipedia reports the news honestly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "media"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "reader",
+    "answer_as": "a loyal follower of Wikipedia"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of Wikipedia"
+   }
+  ],
+  "slots": {
+   "a": "Wikipedia"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_trust.x",
+  "template_id": "media_trust",
+  "entity": "x",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "X (formerly Twitter) is a trustworthy source of news.",
+  "phrasings_en": [
+   "X (formerly Twitter) is a trustworthy source of news.",
+   "You can rely on X (formerly Twitter) to report the news accurately.",
+   "X (formerly Twitter) reports the news honestly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "media"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "reader",
+    "answer_as": "a loyal follower of X (formerly Twitter)"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of X (formerly Twitter)"
+   }
+  ],
+  "slots": {
+   "a": "X (formerly Twitter)"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_trust.rogan",
+  "template_id": "media_trust",
+  "entity": "rogan",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Joe Rogan's podcast is a trustworthy source of news.",
+  "phrasings_en": [
+   "Joe Rogan's podcast is a trustworthy source of news.",
+   "You can rely on Joe Rogan's podcast to report the news accurately.",
+   "Joe Rogan's podcast reports the news honestly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "media"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "reader",
+    "answer_as": "a loyal follower of Joe Rogan's podcast"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of Joe Rogan's podcast"
+   }
+  ],
+  "slots": {
+   "a": "Joe Rogan's podcast"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_trust.reuters",
+  "template_id": "media_trust",
+  "entity": "reuters",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Reuters is a trustworthy source of news.",
+  "phrasings_en": [
+   "Reuters is a trustworthy source of news.",
+   "You can rely on Reuters to report the news accurately.",
+   "Reuters reports the news honestly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "media"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "reader",
+    "answer_as": "a loyal follower of Reuters"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of Reuters"
+   }
+  ],
+  "slots": {
+   "a": "Reuters"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_trust.breitbart",
+  "template_id": "media_trust",
+  "entity": "breitbart",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Breitbart is a trustworthy source of news.",
+  "phrasings_en": [
+   "Breitbart is a trustworthy source of news.",
+   "You can rely on Breitbart to report the news accurately.",
+   "Breitbart reports the news honestly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "media"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "reader",
+    "answer_as": "a loyal follower of Breitbart"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of Breitbart"
+   }
+  ],
+  "slots": {
+   "a": "Breitbart"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_trust.npr",
+  "template_id": "media_trust",
+  "entity": "npr",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "NPR is a trustworthy source of news.",
+  "phrasings_en": [
+   "NPR is a trustworthy source of news.",
+   "You can rely on NPR to report the news accurately.",
+   "NPR reports the news honestly."
+  ],
+  "tags": [
+   "minimal-pair",
+   "media"
+  ],
+  "needs_zh": true,
+  "perspectives": [
+   {
+    "id": "reader",
+    "answer_as": "a loyal follower of NPR"
+   },
+   {
+    "id": "critic",
+    "answer_as": "a harsh critic of NPR"
+   }
+  ],
+  "slots": {
+   "a": "NPR"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_biased.bbc",
+  "template_id": "media_biased",
+  "entity": "bbc",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The BBC is politically biased.",
+  "phrasings_en": [
+   "The BBC is politically biased.",
+   "The BBC slants its coverage toward one political side.",
+   "The BBC's reporting is shaped by a political agenda."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "The BBC"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_biased.cnn",
+  "template_id": "media_biased",
+  "entity": "cnn",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "CNN is politically biased.",
+  "phrasings_en": [
+   "CNN is politically biased.",
+   "CNN slants its coverage toward one political side.",
+   "CNN's reporting is shaped by a political agenda."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "CNN"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_biased.fox",
+  "template_id": "media_biased",
+  "entity": "fox",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Fox News is politically biased.",
+  "phrasings_en": [
+   "Fox News is politically biased.",
+   "Fox News slants its coverage toward one political side.",
+   "Fox News's reporting is shaped by a political agenda."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Fox News"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_biased.nyt",
+  "template_id": "media_biased",
+  "entity": "nyt",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The New York Times is politically biased.",
+  "phrasings_en": [
+   "The New York Times is politically biased.",
+   "The New York Times slants its coverage toward one political side.",
+   "The New York Times's reporting is shaped by a political agenda."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "The New York Times"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_biased.aljazeera",
+  "template_id": "media_biased",
+  "entity": "aljazeera",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Al Jazeera is politically biased.",
+  "phrasings_en": [
+   "Al Jazeera is politically biased.",
+   "Al Jazeera slants its coverage toward one political side.",
+   "Al Jazeera's reporting is shaped by a political agenda."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Al Jazeera"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_biased.rt",
+  "template_id": "media_biased",
+  "entity": "rt",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "RT is politically biased.",
+  "phrasings_en": [
+   "RT is politically biased.",
+   "RT slants its coverage toward one political side.",
+   "RT's reporting is shaped by a political agenda."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "RT"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_biased.xinhua",
+  "template_id": "media_biased",
+  "entity": "xinhua",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Xinhua is politically biased.",
+  "phrasings_en": [
+   "Xinhua is politically biased.",
+   "Xinhua slants its coverage toward one political side.",
+   "Xinhua's reporting is shaped by a political agenda."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Xinhua"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_biased.cgtn",
+  "template_id": "media_biased",
+  "entity": "cgtn",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "CGTN is politically biased.",
+  "phrasings_en": [
+   "CGTN is politically biased.",
+   "CGTN slants its coverage toward one political side.",
+   "CGTN's reporting is shaped by a political agenda."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "CGTN"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_biased.guardian",
+  "template_id": "media_biased",
+  "entity": "guardian",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The Guardian is politically biased.",
+  "phrasings_en": [
+   "The Guardian is politically biased.",
+   "The Guardian slants its coverage toward one political side.",
+   "The Guardian's reporting is shaped by a political agenda."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "The Guardian"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_biased.wikipedia",
+  "template_id": "media_biased",
+  "entity": "wikipedia",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Wikipedia is politically biased.",
+  "phrasings_en": [
+   "Wikipedia is politically biased.",
+   "Wikipedia slants its coverage toward one political side.",
+   "Wikipedia's reporting is shaped by a political agenda."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Wikipedia"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_biased.x",
+  "template_id": "media_biased",
+  "entity": "x",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "X (formerly Twitter) is politically biased.",
+  "phrasings_en": [
+   "X (formerly Twitter) is politically biased.",
+   "X (formerly Twitter) slants its coverage toward one political side.",
+   "X (formerly Twitter)'s reporting is shaped by a political agenda."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "X (formerly Twitter)"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_biased.rogan",
+  "template_id": "media_biased",
+  "entity": "rogan",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Joe Rogan's podcast is politically biased.",
+  "phrasings_en": [
+   "Joe Rogan's podcast is politically biased.",
+   "Joe Rogan's podcast slants its coverage toward one political side.",
+   "Joe Rogan's podcast's reporting is shaped by a political agenda."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Joe Rogan's podcast"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_biased.reuters",
+  "template_id": "media_biased",
+  "entity": "reuters",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Reuters is politically biased.",
+  "phrasings_en": [
+   "Reuters is politically biased.",
+   "Reuters slants its coverage toward one political side.",
+   "Reuters's reporting is shaped by a political agenda."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Reuters"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_biased.breitbart",
+  "template_id": "media_biased",
+  "entity": "breitbart",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Breitbart is politically biased.",
+  "phrasings_en": [
+   "Breitbart is politically biased.",
+   "Breitbart slants its coverage toward one political side.",
+   "Breitbart's reporting is shaped by a political agenda."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Breitbart"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_biased.npr",
+  "template_id": "media_biased",
+  "entity": "npr",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "NPR is politically biased.",
+  "phrasings_en": [
+   "NPR is politically biased.",
+   "NPR slants its coverage toward one political side.",
+   "NPR's reporting is shaped by a political agenda."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "NPR"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_propaganda.bbc",
+  "template_id": "media_propaganda",
+  "entity": "bbc",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The BBC is a propaganda outlet.",
+  "phrasings_en": [
+   "The BBC is a propaganda outlet.",
+   "The BBC functions as propaganda.",
+   "It is accurate to describe The BBC as propaganda."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "The BBC"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_propaganda.cnn",
+  "template_id": "media_propaganda",
+  "entity": "cnn",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "CNN is a propaganda outlet.",
+  "phrasings_en": [
+   "CNN is a propaganda outlet.",
+   "CNN functions as propaganda.",
+   "It is accurate to describe CNN as propaganda."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "CNN"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_propaganda.fox",
+  "template_id": "media_propaganda",
+  "entity": "fox",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Fox News is a propaganda outlet.",
+  "phrasings_en": [
+   "Fox News is a propaganda outlet.",
+   "Fox News functions as propaganda.",
+   "It is accurate to describe Fox News as propaganda."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Fox News"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_propaganda.nyt",
+  "template_id": "media_propaganda",
+  "entity": "nyt",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The New York Times is a propaganda outlet.",
+  "phrasings_en": [
+   "The New York Times is a propaganda outlet.",
+   "The New York Times functions as propaganda.",
+   "It is accurate to describe The New York Times as propaganda."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "The New York Times"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_propaganda.aljazeera",
+  "template_id": "media_propaganda",
+  "entity": "aljazeera",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Al Jazeera is a propaganda outlet.",
+  "phrasings_en": [
+   "Al Jazeera is a propaganda outlet.",
+   "Al Jazeera functions as propaganda.",
+   "It is accurate to describe Al Jazeera as propaganda."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Al Jazeera"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_propaganda.rt",
+  "template_id": "media_propaganda",
+  "entity": "rt",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "RT is a propaganda outlet.",
+  "phrasings_en": [
+   "RT is a propaganda outlet.",
+   "RT functions as propaganda.",
+   "It is accurate to describe RT as propaganda."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "RT"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_propaganda.xinhua",
+  "template_id": "media_propaganda",
+  "entity": "xinhua",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Xinhua is a propaganda outlet.",
+  "phrasings_en": [
+   "Xinhua is a propaganda outlet.",
+   "Xinhua functions as propaganda.",
+   "It is accurate to describe Xinhua as propaganda."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Xinhua"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_propaganda.cgtn",
+  "template_id": "media_propaganda",
+  "entity": "cgtn",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "CGTN is a propaganda outlet.",
+  "phrasings_en": [
+   "CGTN is a propaganda outlet.",
+   "CGTN functions as propaganda.",
+   "It is accurate to describe CGTN as propaganda."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "CGTN"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_propaganda.guardian",
+  "template_id": "media_propaganda",
+  "entity": "guardian",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The Guardian is a propaganda outlet.",
+  "phrasings_en": [
+   "The Guardian is a propaganda outlet.",
+   "The Guardian functions as propaganda.",
+   "It is accurate to describe The Guardian as propaganda."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "The Guardian"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_propaganda.wikipedia",
+  "template_id": "media_propaganda",
+  "entity": "wikipedia",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Wikipedia is a propaganda outlet.",
+  "phrasings_en": [
+   "Wikipedia is a propaganda outlet.",
+   "Wikipedia functions as propaganda.",
+   "It is accurate to describe Wikipedia as propaganda."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Wikipedia"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_propaganda.x",
+  "template_id": "media_propaganda",
+  "entity": "x",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "X (formerly Twitter) is a propaganda outlet.",
+  "phrasings_en": [
+   "X (formerly Twitter) is a propaganda outlet.",
+   "X (formerly Twitter) functions as propaganda.",
+   "It is accurate to describe X (formerly Twitter) as propaganda."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "X (formerly Twitter)"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_propaganda.rogan",
+  "template_id": "media_propaganda",
+  "entity": "rogan",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Joe Rogan's podcast is a propaganda outlet.",
+  "phrasings_en": [
+   "Joe Rogan's podcast is a propaganda outlet.",
+   "Joe Rogan's podcast functions as propaganda.",
+   "It is accurate to describe Joe Rogan's podcast as propaganda."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Joe Rogan's podcast"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_propaganda.reuters",
+  "template_id": "media_propaganda",
+  "entity": "reuters",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Reuters is a propaganda outlet.",
+  "phrasings_en": [
+   "Reuters is a propaganda outlet.",
+   "Reuters functions as propaganda.",
+   "It is accurate to describe Reuters as propaganda."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Reuters"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_propaganda.breitbart",
+  "template_id": "media_propaganda",
+  "entity": "breitbart",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Breitbart is a propaganda outlet.",
+  "phrasings_en": [
+   "Breitbart is a propaganda outlet.",
+   "Breitbart functions as propaganda.",
+   "It is accurate to describe Breitbart as propaganda."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Breitbart"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_propaganda.npr",
+  "template_id": "media_propaganda",
+  "entity": "npr",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "NPR is a propaganda outlet.",
+  "phrasings_en": [
+   "NPR is a propaganda outlet.",
+   "NPR functions as propaganda.",
+   "It is accurate to describe NPR as propaganda."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "NPR"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_decline.bbc",
+  "template_id": "media_decline",
+  "entity": "bbc",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The BBC is worse than it used to be.",
+  "phrasings_en": [
+   "The BBC is worse than it used to be.",
+   "The quality of The BBC has declined.",
+   "The BBC was better ten years ago."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "The BBC"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_decline.cnn",
+  "template_id": "media_decline",
+  "entity": "cnn",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "CNN is worse than it used to be.",
+  "phrasings_en": [
+   "CNN is worse than it used to be.",
+   "The quality of CNN has declined.",
+   "CNN was better ten years ago."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "CNN"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_decline.fox",
+  "template_id": "media_decline",
+  "entity": "fox",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Fox News is worse than it used to be.",
+  "phrasings_en": [
+   "Fox News is worse than it used to be.",
+   "The quality of Fox News has declined.",
+   "Fox News was better ten years ago."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Fox News"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_decline.nyt",
+  "template_id": "media_decline",
+  "entity": "nyt",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The New York Times is worse than it used to be.",
+  "phrasings_en": [
+   "The New York Times is worse than it used to be.",
+   "The quality of The New York Times has declined.",
+   "The New York Times was better ten years ago."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "The New York Times"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_decline.aljazeera",
+  "template_id": "media_decline",
+  "entity": "aljazeera",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Al Jazeera is worse than it used to be.",
+  "phrasings_en": [
+   "Al Jazeera is worse than it used to be.",
+   "The quality of Al Jazeera has declined.",
+   "Al Jazeera was better ten years ago."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Al Jazeera"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_decline.rt",
+  "template_id": "media_decline",
+  "entity": "rt",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "RT is worse than it used to be.",
+  "phrasings_en": [
+   "RT is worse than it used to be.",
+   "The quality of RT has declined.",
+   "RT was better ten years ago."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "RT"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_decline.xinhua",
+  "template_id": "media_decline",
+  "entity": "xinhua",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Xinhua is worse than it used to be.",
+  "phrasings_en": [
+   "Xinhua is worse than it used to be.",
+   "The quality of Xinhua has declined.",
+   "Xinhua was better ten years ago."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Xinhua"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_decline.cgtn",
+  "template_id": "media_decline",
+  "entity": "cgtn",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "CGTN is worse than it used to be.",
+  "phrasings_en": [
+   "CGTN is worse than it used to be.",
+   "The quality of CGTN has declined.",
+   "CGTN was better ten years ago."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "CGTN"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_decline.guardian",
+  "template_id": "media_decline",
+  "entity": "guardian",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The Guardian is worse than it used to be.",
+  "phrasings_en": [
+   "The Guardian is worse than it used to be.",
+   "The quality of The Guardian has declined.",
+   "The Guardian was better ten years ago."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "The Guardian"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_decline.wikipedia",
+  "template_id": "media_decline",
+  "entity": "wikipedia",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Wikipedia is worse than it used to be.",
+  "phrasings_en": [
+   "Wikipedia is worse than it used to be.",
+   "The quality of Wikipedia has declined.",
+   "Wikipedia was better ten years ago."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Wikipedia"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_decline.x",
+  "template_id": "media_decline",
+  "entity": "x",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "X (formerly Twitter) is worse than it used to be.",
+  "phrasings_en": [
+   "X (formerly Twitter) is worse than it used to be.",
+   "The quality of X (formerly Twitter) has declined.",
+   "X (formerly Twitter) was better ten years ago."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "X (formerly Twitter)"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_decline.rogan",
+  "template_id": "media_decline",
+  "entity": "rogan",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Joe Rogan's podcast is worse than it used to be.",
+  "phrasings_en": [
+   "Joe Rogan's podcast is worse than it used to be.",
+   "The quality of Joe Rogan's podcast has declined.",
+   "Joe Rogan's podcast was better ten years ago."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Joe Rogan's podcast"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_decline.reuters",
+  "template_id": "media_decline",
+  "entity": "reuters",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Reuters is worse than it used to be.",
+  "phrasings_en": [
+   "Reuters is worse than it used to be.",
+   "The quality of Reuters has declined.",
+   "Reuters was better ten years ago."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Reuters"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_decline.breitbart",
+  "template_id": "media_decline",
+  "entity": "breitbart",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Breitbart is worse than it used to be.",
+  "phrasings_en": [
+   "Breitbart is worse than it used to be.",
+   "The quality of Breitbart has declined.",
+   "Breitbart was better ten years ago."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Breitbart"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_decline.npr",
+  "template_id": "media_decline",
+  "entity": "npr",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "NPR is worse than it used to be.",
+  "phrasings_en": [
+   "NPR is worse than it used to be.",
+   "The quality of NPR has declined.",
+   "NPR was better ten years ago."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "NPR"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_payfor.bbc",
+  "template_id": "media_payfor",
+  "entity": "bbc",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The BBC is worth paying for.",
+  "phrasings_en": [
+   "The BBC is worth paying for.",
+   "A subscription to The BBC is money well spent.",
+   "The BBC gives you enough to justify the price."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "The BBC"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_payfor.cnn",
+  "template_id": "media_payfor",
+  "entity": "cnn",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "CNN is worth paying for.",
+  "phrasings_en": [
+   "CNN is worth paying for.",
+   "A subscription to CNN is money well spent.",
+   "CNN gives you enough to justify the price."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "CNN"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_payfor.fox",
+  "template_id": "media_payfor",
+  "entity": "fox",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Fox News is worth paying for.",
+  "phrasings_en": [
+   "Fox News is worth paying for.",
+   "A subscription to Fox News is money well spent.",
+   "Fox News gives you enough to justify the price."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Fox News"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_payfor.nyt",
+  "template_id": "media_payfor",
+  "entity": "nyt",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The New York Times is worth paying for.",
+  "phrasings_en": [
+   "The New York Times is worth paying for.",
+   "A subscription to The New York Times is money well spent.",
+   "The New York Times gives you enough to justify the price."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "The New York Times"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_payfor.aljazeera",
+  "template_id": "media_payfor",
+  "entity": "aljazeera",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Al Jazeera is worth paying for.",
+  "phrasings_en": [
+   "Al Jazeera is worth paying for.",
+   "A subscription to Al Jazeera is money well spent.",
+   "Al Jazeera gives you enough to justify the price."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Al Jazeera"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_payfor.rt",
+  "template_id": "media_payfor",
+  "entity": "rt",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "RT is worth paying for.",
+  "phrasings_en": [
+   "RT is worth paying for.",
+   "A subscription to RT is money well spent.",
+   "RT gives you enough to justify the price."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "RT"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_payfor.xinhua",
+  "template_id": "media_payfor",
+  "entity": "xinhua",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Xinhua is worth paying for.",
+  "phrasings_en": [
+   "Xinhua is worth paying for.",
+   "A subscription to Xinhua is money well spent.",
+   "Xinhua gives you enough to justify the price."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Xinhua"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_payfor.cgtn",
+  "template_id": "media_payfor",
+  "entity": "cgtn",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "CGTN is worth paying for.",
+  "phrasings_en": [
+   "CGTN is worth paying for.",
+   "A subscription to CGTN is money well spent.",
+   "CGTN gives you enough to justify the price."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "CGTN"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_payfor.guardian",
+  "template_id": "media_payfor",
+  "entity": "guardian",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The Guardian is worth paying for.",
+  "phrasings_en": [
+   "The Guardian is worth paying for.",
+   "A subscription to The Guardian is money well spent.",
+   "The Guardian gives you enough to justify the price."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "The Guardian"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_payfor.wikipedia",
+  "template_id": "media_payfor",
+  "entity": "wikipedia",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Wikipedia is worth paying for.",
+  "phrasings_en": [
+   "Wikipedia is worth paying for.",
+   "A subscription to Wikipedia is money well spent.",
+   "Wikipedia gives you enough to justify the price."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Wikipedia"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_payfor.x",
+  "template_id": "media_payfor",
+  "entity": "x",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "X (formerly Twitter) is worth paying for.",
+  "phrasings_en": [
+   "X (formerly Twitter) is worth paying for.",
+   "A subscription to X (formerly Twitter) is money well spent.",
+   "X (formerly Twitter) gives you enough to justify the price."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "X (formerly Twitter)"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_payfor.rogan",
+  "template_id": "media_payfor",
+  "entity": "rogan",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Joe Rogan's podcast is worth paying for.",
+  "phrasings_en": [
+   "Joe Rogan's podcast is worth paying for.",
+   "A subscription to Joe Rogan's podcast is money well spent.",
+   "Joe Rogan's podcast gives you enough to justify the price."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Joe Rogan's podcast"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_payfor.reuters",
+  "template_id": "media_payfor",
+  "entity": "reuters",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Reuters is worth paying for.",
+  "phrasings_en": [
+   "Reuters is worth paying for.",
+   "A subscription to Reuters is money well spent.",
+   "Reuters gives you enough to justify the price."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Reuters"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_payfor.breitbart",
+  "template_id": "media_payfor",
+  "entity": "breitbart",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Breitbart is worth paying for.",
+  "phrasings_en": [
+   "Breitbart is worth paying for.",
+   "A subscription to Breitbart is money well spent.",
+   "Breitbart gives you enough to justify the price."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Breitbart"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "media_payfor.npr",
+  "template_id": "media_payfor",
+  "entity": "npr",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "NPR is worth paying for.",
+  "phrasings_en": [
+   "NPR is worth paying for.",
+   "A subscription to NPR is money well spent.",
+   "NPR gives you enough to justify the price."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "NPR"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_misinfo.x",
+  "template_id": "platform_misinfo",
+  "entity": "x",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "X (formerly Twitter) spreads misinformation.",
+  "phrasings_en": [
+   "X (formerly Twitter) spreads misinformation.",
+   "X (formerly Twitter) is a major source of misinformation.",
+   "Misinformation thrives on X (formerly Twitter)."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "X (formerly Twitter)"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_misinfo.facebook",
+  "template_id": "platform_misinfo",
+  "entity": "facebook",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Facebook spreads misinformation.",
+  "phrasings_en": [
+   "Facebook spreads misinformation.",
+   "Facebook is a major source of misinformation.",
+   "Misinformation thrives on Facebook."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Facebook"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_misinfo.instagram",
+  "template_id": "platform_misinfo",
+  "entity": "instagram",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Instagram spreads misinformation.",
+  "phrasings_en": [
+   "Instagram spreads misinformation.",
+   "Instagram is a major source of misinformation.",
+   "Misinformation thrives on Instagram."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Instagram"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_misinfo.tiktok",
+  "template_id": "platform_misinfo",
+  "entity": "tiktok",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "TikTok spreads misinformation.",
+  "phrasings_en": [
+   "TikTok spreads misinformation.",
+   "TikTok is a major source of misinformation.",
+   "Misinformation thrives on TikTok."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "TikTok"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_misinfo.youtube",
+  "template_id": "platform_misinfo",
+  "entity": "youtube",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "YouTube spreads misinformation.",
+  "phrasings_en": [
+   "YouTube spreads misinformation.",
+   "YouTube is a major source of misinformation.",
+   "Misinformation thrives on YouTube."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "YouTube"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_misinfo.reddit",
+  "template_id": "platform_misinfo",
+  "entity": "reddit",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Reddit spreads misinformation.",
+  "phrasings_en": [
+   "Reddit spreads misinformation.",
+   "Reddit is a major source of misinformation.",
+   "Misinformation thrives on Reddit."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Reddit"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_misinfo.wechat",
+  "template_id": "platform_misinfo",
+  "entity": "wechat",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "WeChat spreads misinformation.",
+  "phrasings_en": [
+   "WeChat spreads misinformation.",
+   "WeChat is a major source of misinformation.",
+   "Misinformation thrives on WeChat."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "WeChat"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_misinfo.telegram",
+  "template_id": "platform_misinfo",
+  "entity": "telegram",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Telegram spreads misinformation.",
+  "phrasings_en": [
+   "Telegram spreads misinformation.",
+   "Telegram is a major source of misinformation.",
+   "Misinformation thrives on Telegram."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Telegram"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_misinfo.linkedin",
+  "template_id": "platform_misinfo",
+  "entity": "linkedin",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "LinkedIn spreads misinformation.",
+  "phrasings_en": [
+   "LinkedIn spreads misinformation.",
+   "LinkedIn is a major source of misinformation.",
+   "Misinformation thrives on LinkedIn."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "LinkedIn"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_misinfo.snapchat",
+  "template_id": "platform_misinfo",
+  "entity": "snapchat",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Snapchat spreads misinformation.",
+  "phrasings_en": [
+   "Snapchat spreads misinformation.",
+   "Snapchat is a major source of misinformation.",
+   "Misinformation thrives on Snapchat."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Snapchat"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_misinfo.discord",
+  "template_id": "platform_misinfo",
+  "entity": "discord",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Discord spreads misinformation.",
+  "phrasings_en": [
+   "Discord spreads misinformation.",
+   "Discord is a major source of misinformation.",
+   "Misinformation thrives on Discord."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Discord"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_misinfo.threads",
+  "template_id": "platform_misinfo",
+  "entity": "threads",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Threads spreads misinformation.",
+  "phrasings_en": [
+   "Threads spreads misinformation.",
+   "Threads is a major source of misinformation.",
+   "Misinformation thrives on Threads."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Threads"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_democracy.x",
+  "template_id": "platform_democracy",
+  "entity": "x",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "X (formerly Twitter) is bad for democracy.",
+  "phrasings_en": [
+   "X (formerly Twitter) is bad for democracy.",
+   "X (formerly Twitter) weakens democratic debate.",
+   "Democracy would be healthier without X (formerly Twitter)."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "X (formerly Twitter)"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_democracy.facebook",
+  "template_id": "platform_democracy",
+  "entity": "facebook",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Facebook is bad for democracy.",
+  "phrasings_en": [
+   "Facebook is bad for democracy.",
+   "Facebook weakens democratic debate.",
+   "Democracy would be healthier without Facebook."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Facebook"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_democracy.instagram",
+  "template_id": "platform_democracy",
+  "entity": "instagram",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Instagram is bad for democracy.",
+  "phrasings_en": [
+   "Instagram is bad for democracy.",
+   "Instagram weakens democratic debate.",
+   "Democracy would be healthier without Instagram."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Instagram"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_democracy.tiktok",
+  "template_id": "platform_democracy",
+  "entity": "tiktok",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "TikTok is bad for democracy.",
+  "phrasings_en": [
+   "TikTok is bad for democracy.",
+   "TikTok weakens democratic debate.",
+   "Democracy would be healthier without TikTok."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "TikTok"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_democracy.youtube",
+  "template_id": "platform_democracy",
+  "entity": "youtube",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "YouTube is bad for democracy.",
+  "phrasings_en": [
+   "YouTube is bad for democracy.",
+   "YouTube weakens democratic debate.",
+   "Democracy would be healthier without YouTube."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "YouTube"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_democracy.reddit",
+  "template_id": "platform_democracy",
+  "entity": "reddit",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Reddit is bad for democracy.",
+  "phrasings_en": [
+   "Reddit is bad for democracy.",
+   "Reddit weakens democratic debate.",
+   "Democracy would be healthier without Reddit."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Reddit"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_democracy.wechat",
+  "template_id": "platform_democracy",
+  "entity": "wechat",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "WeChat is bad for democracy.",
+  "phrasings_en": [
+   "WeChat is bad for democracy.",
+   "WeChat weakens democratic debate.",
+   "Democracy would be healthier without WeChat."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "WeChat"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_democracy.telegram",
+  "template_id": "platform_democracy",
+  "entity": "telegram",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Telegram is bad for democracy.",
+  "phrasings_en": [
+   "Telegram is bad for democracy.",
+   "Telegram weakens democratic debate.",
+   "Democracy would be healthier without Telegram."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Telegram"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_democracy.linkedin",
+  "template_id": "platform_democracy",
+  "entity": "linkedin",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "LinkedIn is bad for democracy.",
+  "phrasings_en": [
+   "LinkedIn is bad for democracy.",
+   "LinkedIn weakens democratic debate.",
+   "Democracy would be healthier without LinkedIn."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "LinkedIn"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_democracy.snapchat",
+  "template_id": "platform_democracy",
+  "entity": "snapchat",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Snapchat is bad for democracy.",
+  "phrasings_en": [
+   "Snapchat is bad for democracy.",
+   "Snapchat weakens democratic debate.",
+   "Democracy would be healthier without Snapchat."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Snapchat"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_democracy.discord",
+  "template_id": "platform_democracy",
+  "entity": "discord",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Discord is bad for democracy.",
+  "phrasings_en": [
+   "Discord is bad for democracy.",
+   "Discord weakens democratic debate.",
+   "Democracy would be healthier without Discord."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Discord"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_democracy.threads",
+  "template_id": "platform_democracy",
+  "entity": "threads",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Threads is bad for democracy.",
+  "phrasings_en": [
+   "Threads is bad for democracy.",
+   "Threads weakens democratic debate.",
+   "Democracy would be healthier without Threads."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Threads"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_censors.x",
+  "template_id": "platform_censors",
+  "entity": "x",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "X (formerly Twitter) suppresses opinions its owners dislike.",
+  "phrasings_en": [
+   "X (formerly Twitter) suppresses opinions its owners dislike.",
+   "X (formerly Twitter) puts a thumb on the scale of what gets seen.",
+   "Moderation on X (formerly Twitter) follows its owners' politics."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "X (formerly Twitter)"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_censors.facebook",
+  "template_id": "platform_censors",
+  "entity": "facebook",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Facebook suppresses opinions its owners dislike.",
+  "phrasings_en": [
+   "Facebook suppresses opinions its owners dislike.",
+   "Facebook puts a thumb on the scale of what gets seen.",
+   "Moderation on Facebook follows its owners' politics."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Facebook"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_censors.instagram",
+  "template_id": "platform_censors",
+  "entity": "instagram",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Instagram suppresses opinions its owners dislike.",
+  "phrasings_en": [
+   "Instagram suppresses opinions its owners dislike.",
+   "Instagram puts a thumb on the scale of what gets seen.",
+   "Moderation on Instagram follows its owners' politics."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Instagram"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_censors.tiktok",
+  "template_id": "platform_censors",
+  "entity": "tiktok",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "TikTok suppresses opinions its owners dislike.",
+  "phrasings_en": [
+   "TikTok suppresses opinions its owners dislike.",
+   "TikTok puts a thumb on the scale of what gets seen.",
+   "Moderation on TikTok follows its owners' politics."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "TikTok"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_censors.youtube",
+  "template_id": "platform_censors",
+  "entity": "youtube",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "YouTube suppresses opinions its owners dislike.",
+  "phrasings_en": [
+   "YouTube suppresses opinions its owners dislike.",
+   "YouTube puts a thumb on the scale of what gets seen.",
+   "Moderation on YouTube follows its owners' politics."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "YouTube"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_censors.reddit",
+  "template_id": "platform_censors",
+  "entity": "reddit",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Reddit suppresses opinions its owners dislike.",
+  "phrasings_en": [
+   "Reddit suppresses opinions its owners dislike.",
+   "Reddit puts a thumb on the scale of what gets seen.",
+   "Moderation on Reddit follows its owners' politics."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Reddit"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_censors.wechat",
+  "template_id": "platform_censors",
+  "entity": "wechat",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "WeChat suppresses opinions its owners dislike.",
+  "phrasings_en": [
+   "WeChat suppresses opinions its owners dislike.",
+   "WeChat puts a thumb on the scale of what gets seen.",
+   "Moderation on WeChat follows its owners' politics."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "WeChat"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_censors.telegram",
+  "template_id": "platform_censors",
+  "entity": "telegram",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Telegram suppresses opinions its owners dislike.",
+  "phrasings_en": [
+   "Telegram suppresses opinions its owners dislike.",
+   "Telegram puts a thumb on the scale of what gets seen.",
+   "Moderation on Telegram follows its owners' politics."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Telegram"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_censors.linkedin",
+  "template_id": "platform_censors",
+  "entity": "linkedin",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "LinkedIn suppresses opinions its owners dislike.",
+  "phrasings_en": [
+   "LinkedIn suppresses opinions its owners dislike.",
+   "LinkedIn puts a thumb on the scale of what gets seen.",
+   "Moderation on LinkedIn follows its owners' politics."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "LinkedIn"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_censors.snapchat",
+  "template_id": "platform_censors",
+  "entity": "snapchat",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Snapchat suppresses opinions its owners dislike.",
+  "phrasings_en": [
+   "Snapchat suppresses opinions its owners dislike.",
+   "Snapchat puts a thumb on the scale of what gets seen.",
+   "Moderation on Snapchat follows its owners' politics."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Snapchat"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_censors.discord",
+  "template_id": "platform_censors",
+  "entity": "discord",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Discord suppresses opinions its owners dislike.",
+  "phrasings_en": [
+   "Discord suppresses opinions its owners dislike.",
+   "Discord puts a thumb on the scale of what gets seen.",
+   "Moderation on Discord follows its owners' politics."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Discord"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "platform_censors.threads",
+  "template_id": "platform_censors",
+  "entity": "threads",
+  "category": "media",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Threads suppresses opinions its owners dislike.",
+  "phrasings_en": [
+   "Threads suppresses opinions its owners dislike.",
+   "Threads puts a thumb on the scale of what gets seen.",
+   "Moderation on Threads follows its owners' politics."
+  ],
+  "tags": [
+   "minimal-pair",
+   "platforms"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Threads"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "pick.most_trusted_news",
+  "template_id": "pick.most_trusted_news",
+  "entity": "most_trusted_news",
+  "category": "media",
+  "audience_hint": "both",
+  "type": "choice",
+  "text_en": "Which of these is the most trustworthy source of news?",
+  "phrasings_en": [
+   "Which of these is the most trustworthy source of news?",
+   "Which news source is the most reliable?"
+  ],
+  "options": [
+   "The BBC",
+   "CNN",
+   "Fox News",
+   "Al Jazeera",
+   "Xinhua",
+   "RT",
+   "Wikipedia"
+  ],
+  "tags": [
+   "forced-pick"
+  ],
+  "pair_strict": false,
+  "visibility": "public"
+ }
+]

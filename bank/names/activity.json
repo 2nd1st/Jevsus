@@ -1,0 +1,14 @@
+[
+ {"id": "esports", "name": "Esports"},
+ {"id": "chess", "name": "Chess"},
+ {"id": "golf", "name": "Golf"},
+ {"id": "f1", "name": "Formula 1"},
+ {"id": "cheer", "name": "Cheerleading"},
+ {"id": "poker", "name": "Poker"},
+ {"id": "darts", "name": "Darts"},
+ {"id": "bodybuilding", "name": "Bodybuilding"},
+ {"id": "skating", "name": "Figure skating"},
+ {"id": "breaking", "name": "Breakdancing"},
+ {"id": "equestrian", "name": "Equestrian"},
+ {"id": "eating", "name": "Competitive eating"}
+]
