@@ -938,9 +938,11 @@ def summarize(out_dir, items):
         sd = st.pstdev(ps) if len(ps) > 1 else None
         # The spread depends on who was asked about. Few names, or names picked because they share the trait (five people who all stand accused),
         # squeeze a good sentence into a low SD: below BATTERY_MIN_NAMES the number is reported and nothing is concluded from it.
-        judged = len(ps) >= BATTERY_MIN_NAMES
-        sentences[bid].append(dict(k=k, n_names=len(ps), mean=r4(mean(ps)), sd=r4(sd), judged=judged, uniform_ok=note.get((bid, k)), gap_with=pair.get((bid, k)),
-                                   flagged=bool(judged and sd < BATTERY_MIN_SD and not note.get((bid, k)) and pair.get((bid, k)) is None)))
+        # Too few names only matters when the spread is low: a sentence that already separates the names it was asked about needs no
+        # larger set to prove it. A low spread with few names is unresolved, not a failure, unless the bank settles it (uniform_ok / gap_with).
+        low = sd is not None and sd < BATTERY_MIN_SD and not note.get((bid, k)) and pair.get((bid, k)) is None
+        sentences[bid].append(dict(k=k, n_names=len(ps), mean=r4(mean(ps)), sd=r4(sd), uniform_ok=note.get((bid, k)), gap_with=pair.get((bid, k)),
+                                   flagged=bool(low and len(ps) >= BATTERY_MIN_NAMES), unresolved=bool(low and len(ps) < BATTERY_MIN_NAMES)))
     # The floor of a battery: its average over the names whose forward sentences all read near zero. Reversed sentences can carry a presupposition
     # ("X conducted war within the laws of war" is false of someone who never waged war), which lifts every average; the floor says by how much.
     floors = {}
@@ -949,8 +951,8 @@ def summarize(out_dir, items):
         if len(low) >= 3:
             floors[bid] = dict(n_names=len(low), names=[b["entity"] for b in low], mean_of_forward=r4(mean(mean(x["p_true"] for x in b["items"] if x["sign"] > 0) for b in low)), mean_of_battery=r4(mean(b["mean_aligned"] for b in low)))
     for b in bats:
-        judged = all(x["judged"] for x in sentences[b["battery_id"]])
-        b["clean"] = (not any(x["flagged"] for x in sentences[b["battery_id"]])) if judged else None      # None = too few names to judge the battery
+        L = sentences[b["battery_id"]]
+        b["clean"] = False if any(x["flagged"] for x in L) else (None if any(x["unresolved"] for x in L) else True)      # None = a flat sentence on too few names to judge
         b["forward_mean"] = r4(mean(x["p_true"] for x in b["items"] if x["sign"] > 0)) if any(x["sign"] > 0 for x in b["items"]) else None
     # The gate. A sentence marked `needs_battery` does not publish its single reading as a number on its own: a name is `publishable` there
     # only with a battery reading next to it. `flipped` = the single sentence and the battery land on different sides of 0.5.
