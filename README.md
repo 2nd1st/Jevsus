@@ -60,6 +60,7 @@ bank/                 ← the only thing you edit
   picks.json            forced picks between more than two parties ("Who is the legitimate government of Taiwan?")
   batteries.json        one judgement asked through many differently built sentences
   traits.json           66 adjectives asked about every person
+  self_rank.json        four scales the model scores every statement on (how contested, heated, taboo, answerable)
   translations.json     the same sentences in 10 more languages, with back-translations
   aliases.json          other spellings of the names ("Trump", "USA", "特朗普")
   personas/             the fixed stances used to measure stance sensitivity

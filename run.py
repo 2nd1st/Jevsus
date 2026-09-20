@@ -15,7 +15,7 @@ The same 8 anchor statements are injected into every column (backend x lang x pe
   python3 run.py --stats                               # item bank stats + lint
   python3 run.py --summarize results/2026-09-20        # rebuild summary.json, no network
 """
-import argparse, glob, hashlib, json, math, os, queue, random, statistics as st, sys, threading, time
+import argparse, glob, hashlib, json, math, os, queue, random, re, statistics as st, sys, threading, time
 import urllib.error, urllib.request
 from collections import defaultdict
 
@@ -268,6 +268,165 @@ def summarize_traits(out_dir):
     ok = sum(1 for p in people if all((p["controls"][c] >= 0.9) if ctl[c]["expect"] else (p["controls"][c] <= 0.1) for c in ctl))
     return dict(question=cfg["question"], n_people=len(people), n_traits=len(cfg["traits"]), controls_ok="%d/%d" % (ok, len(people)), group_mean={t: r4(v) for t, v in mu.items()},
                 mean_order_effect=r4(mean(p["order_effect"] for p in people if p["order_effect"] is not None)), people=people)
+
+
+# ── self-rank: the model scores the statements themselves ────────────────────
+def load_self_rank():
+    f = os.path.join(ROOT, "bank", "self_rank.json")
+    return json.load(open(f, encoding="utf-8")) if os.path.exists(f) else None
+
+
+def measurement(cfg, e):
+    """The measured numbers shown in the `informed` condition, taken from the published summary entry of the statement."""
+    m, bits = cfg["measurement"], []
+    if e.get("stance"):       # n_stances counts the plain reading too
+        bits.append(m["stance"].format(n=e["stance"]["n_stances"] - 1, v="%.2f" % e["stance"]["sensitivity"]))
+    bits.append(m["wording"].format(n=len(e["T1"]["per_phrasing"]), v="%.2f" % (e["T1"]["hi"] - e["T1"]["lo"])))
+    if e.get("T2"):
+        bits.append(m["decline"].format(v="%.2f" % e["T2"]["p_decline"]))
+    return m["lead"] + "; ".join(bits) + "."
+
+
+def run_self_rank(a, items, be, out_dir):
+    """One request per statement and condition: every dimension is a parallel `score` question on the same state.
+    blind = the statement only; informed = the statement plus its own measured numbers from summary.json."""
+    cfg, sp = load_self_rank(), os.path.join(out_dir, "summary.json")
+    if not os.path.exists(sp):
+        sys.exit("--self-rank reads the measured numbers from %s: run the main test first." % os.path.relpath(sp, ROOT))
+    meta = {i["id"]: i for i in items}
+    entries = [e for e in json.load(open(sp, encoding="utf-8"))["items"] if e["type"] == "stmt" and e["lang"] == "en" and e["backend"] == be.name and e.get("T1") and e["id"] in meta]
+    qs = {d["id"]: {"type": "score", "instructions": {"what": d["what"]}, "criteria": [{"what": x} for x in d["levels"]]} for d in cfg["dimensions"]}
+    cdir, rows, todo = os.path.join(ROOT, "cache"), [], []
+    for e in entries:
+        text = meta[e["id"]]["text_en"]
+        for cond, rp in [("blind", k) for k in range(cfg["blind_repeats"])] + [("informed", 0)]:      # blind is asked twice: the repeat is what the lists' stability is read from
+            state = {cfg["state_key"]: text, **({cfg["measurement_key"]: measurement(cfg, e)} if cond == "informed" else {})}
+            ck = hashlib.sha256(("self-rank|%s|%s|%s|%s%s" % (be.name, be.model, json.dumps(state, ensure_ascii=False), json.dumps(qs), "|r%d" % rp if rp else "")).encode()).hexdigest()
+            f = os.path.join(cdir, ck + ".json")
+            if not a.no_cache and os.path.exists(f):
+                rows.append(json.load(open(f, encoding="utf-8")))
+            else:
+                todo.append((e, cond, rp, state, ck))
+    print("self-rank: %d statements, blind x %d + informed = %d requests (%d questions each) · %d cached · %d to make (~$%.2f)" % (len(entries), cfg["blind_repeats"], len(entries) * (cfg["blind_repeats"] + 1), len(qs), len(rows), len(todo), len(todo) * 2.4 * JEV_MEAN_TOKENS * JEV_USD_PER_MTOK / 1e6), flush=True)
+    if a.dry_run:
+        return
+    os.makedirs(cdir, exist_ok=True)
+    lock = threading.Lock()
+
+    def one(job):
+        e, cond, rp, state, ck = job
+        t0 = time.time()
+        p, err = http_json(be.url, {"model": be.model, "state": state, "questions": qs}, be.key)
+        row = dict(id=e["id"], template_id=e["template_id"], entity=e["entity"], category=e["category"], type="self_rank", lang="en", persona="none", condition=cond, phrasing=state[cfg["state_key"]],
+                   measurement=state.get(cfg["measurement_key"]), test="SR", repeat=rp, backend=be.name, ok=p is not None, err=err, latency_ms=int((time.time() - t0) * 1000), ts=time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()))
+        if p:
+            try:      # `score` is the expected level, 0 .. len(levels)-1; stored on 0-1
+                row.update(scores={d["id"]: p["answers"][d["id"]]["score"] / (len(d["levels"]) - 1) for d in cfg["dimensions"]}, raw=p, jev_model=p.get("model"), tokens=(p.get("usage") or {}).get("input_tokens"))
+            except (KeyError, TypeError) as ex:
+                row.update(ok=False, err="bad response shape: %r" % ex)
+        with lock:
+            rows.append(row)
+            if row["ok"]:
+                json.dump(row, open(os.path.join(cdir, ck + ".json"), "w", encoding="utf-8"), ensure_ascii=False)
+
+    q = queue.Queue()
+    [q.put(j) for j in todo]
+
+    def worker():
+        while True:
+            try:
+                one(q.get_nowait())
+            except queue.Empty:
+                return
+    ths = [threading.Thread(target=worker, daemon=True) for _ in range(max(1, a.conc))]
+    [t.start() for t in ths]
+    [t.join() for t in ths]
+    path = os.path.join(out_dir, be.name + ".self-rank.jsonl")
+    with open(path, "w", encoding="utf-8") as f:
+        for r in sorted(rows, key=lambda r: (r["id"], r["condition"], r.get("repeat", 0))):
+            f.write(json.dumps(r, ensure_ascii=False) + "\n")
+    print("→ %s (%d rows, %d errors)" % (os.path.relpath(path, ROOT), len(rows), sum(not r["ok"] for r in rows)))
+
+
+def fold_keys(items):
+    """What a statement is about, for folding the lists: its own subject, every name of the bank that appears in it, and every other
+    run of capitalised words (a name the bank does not have, e.g. "Gaza"). A run is one key, so "the West Bank" never meets "the World Bank"."""
+    names = {}
+    for f in sorted(glob.glob(os.path.join(ROOT, "bank", "names", "*.json"))):
+        for n in json.load(open(f, encoding="utf-8")):
+            names.setdefault(re.sub(r"^the ", "", n["name"], flags=re.I).lower(), n["id"])
+    rx = re.compile(r"(?<![\w-])(%s)(?:'s)?(?![\w-])" % "|".join(re.escape(n) for n in sorted(names, key=len, reverse=True)), re.I)
+    run = re.compile(r"[A-Z][\w'’-]*(?: (?:of |the |de )?[A-Z][\w'’-]*)*")
+    out = {}
+    for it in items:
+        text = it["text_en"]
+        keys = {it["entity"]} | {names[m.group(1).lower()] for m in rx.finditer(text)}
+        rest = rx.sub(" | ", text)
+        for m in run.finditer(rest):
+            words = re.sub(r"['’]s$", "", m.group(0)).split(" ")
+            if words[0] in ("The", "A", "An"):
+                words = words[1:]
+            elif m.start() == 0 and len(words) == 1:      # a lone sentence-initial capital is grammar, not a name
+                continue
+            if words:
+                keys.add(" ".join(words).lower())
+        out[it["id"]] = sorted(keys)
+    return out
+
+
+def fold(rows, keys, score, reverse, n):
+    """From the top down, a statement enters the list only if none of its keys and not its sentence is already in it."""
+    seen_k, seen_t, out = set(), set(), []
+    for r in sorted(rows, key=lambda r: (-score(r) if reverse else score(r), r["id"])):
+        if seen_k & set(keys[r["id"]]) or r["template_id"] in seen_t:
+            continue
+        seen_k |= set(keys[r["id"]]); seen_t.add(r["template_id"]); out.append(r["id"])
+        if len(out) == n:
+            break
+    return out
+
+
+def pearson(xs, ys):
+    return round(st.correlation(xs, ys), 3) if len(xs) > 2 and st.pstdev(xs) and st.pstdev(ys) else None
+
+
+def summarize_self_rank(out_dir, entries, meta):
+    cfg, rows = load_self_rank(), []
+    for f in sorted(glob.glob(os.path.join(out_dir, "*.self-rank.jsonl"))):
+        rows += [json.loads(l) for l in open(f, encoding="utf-8")]
+    if not cfg or not rows:
+        return None
+    ent = {e["id"]: e for e in entries if e["type"] == "stmt" and e["lang"] == "en" and e.get("T1")}
+    # a row counts only if it shows the wording and the numbers that are published now
+    good = [r for r in rows if r["ok"] and r["id"] in ent and r["backend"] == ent[r["id"]]["backend"] and r["phrasing"] == meta[r["id"]]["text_en"]
+            and (r["condition"] == "blind" or r["measurement"] == measurement(cfg, ent[r["id"]]))]
+    by = defaultdict(lambda: defaultdict(list))
+    for r in sorted(good, key=lambda r: r.get("repeat", 0)):
+        by[r["id"]][r["condition"]].append(r)
+    dims, keys = [d["id"] for d in cfg["dimensions"]], fold_keys([meta[i] for i in by])
+    its = [dict(id=i, template_id=ent[i]["template_id"], fold_keys=keys[i], **{c: {d: r4(mean(r["scores"][d] for r in rs)) for d in dims} for c, rs in sorted(cs.items())},      # the score is the mean over repeats
+                **({"shown": cs["informed"][0]["measurement"]} if "informed" in cs else {})) for i, cs in sorted(by.items())]
+    # how well a score repeats, and how much of a folded list survives a repeat: the same statements, asked again
+    two = [(i, cs["blind"][0]["scores"], cs["blind"][1]["scores"]) for i, cs in sorted(by.items()) if len(cs.get("blind", [])) > 1]
+    repeat = None
+    if two:
+        rw, n = [dict(id=i, template_id=ent[i]["template_id"], a=a, b=b) for i, a, b in two], cfg["fold"]["list_length"]
+        same = [len(set(fold(rw, keys, lambda x: x["a"][d], end, n)) & set(fold(rw, keys, lambda x: x["b"][d], end, n))) / n for d in dims for end in (True, False)]
+        repeat = dict(n_items=len(two), per_scale={d: dict(r=round(st.correlation([a[d] for _, a, _ in two], [b[d] for _, _, b in two]), 4), mean_abs_diff=r4(mean(abs(a[d] - b[d]) for _, a, b in two)),
+                                                          max_abs_diff=r4(max(abs(a[d] - b[d]) for _, a, b in two))) for d in dims}, folded_list_overlap=dict(mean=round(mean(same), 3), min=round(min(same), 3), max=round(max(same), 3)))
+    measured = dict(sensitivity=lambda e: (e.get("stance") or {}).get("sensitivity"), wording_range=lambda e: e["T1"]["hi"] - e["T1"]["lo"], p_decline=lambda e: (e.get("T2") or {}).get("p_decline"))
+    corr, lists = {}, {}
+    for c in ("blind", "informed"):
+        have = [x for x in its if c in x]
+        corr[c] = {d: {m: pearson(*zip(*[(x[c][d], f(ent[x["id"]])) for x in have if f(ent[x["id"]]) is not None])) for m, f in measured.items()} for d in dims}
+        for d in dims:
+            for end in ("top", "bottom"):
+                lists["%s.%s.%s" % (c, d, end)] = fold(have, keys, lambda x: x[c][d], end == "top", cfg["fold"]["list_length"])
+    toks = sum(r.get("tokens") or 0 for r in rows if r["ok"])
+    return dict(state_key=cfg["state_key"], dimensions=cfg["dimensions"], conditions=["blind", "informed"], jev_model=sorted({r.get("jev_model") or "?" for r in good}), n_items=len(its),
+                n_calls=sum(r["ok"] for r in rows), n_err=sum(not r["ok"] for r in rows), stale_rows_ignored=sum(r["ok"] for r in rows) - len(good), tokens=toks, cost_usd=round(toks * JEV_USD_PER_MTOK / 1e6, 4),
+                blind_repeat=repeat, correlation_with_measured=corr, fold_rule="From the top down, a statement enters a list only if it shares no fold key and no sentence with a statement already in it. "
+                "Fold keys: the statement's own subject, every name of the bank that appears in it, and every other run of capitalised words.", lists=lists, items=its)
 
 
 def load_personas():
@@ -677,7 +836,7 @@ def summarize(out_dir, items):
     meta = {i["id"]: i for i in items}
     rows = []
     for f in sorted(glob.glob(os.path.join(out_dir, "*.jsonl"))):
-        if ".traits." in os.path.basename(f) or ".lang-" in os.path.basename(f):      # summarised separately (traits, languages)
+        if any(x in os.path.basename(f) for x in (".traits.", ".lang-", ".self-rank.")):      # summarised separately
             continue
         backend = os.path.basename(f).split(".")[0]
         for l in open(f, encoding="utf-8"):
@@ -731,7 +890,7 @@ def summarize(out_dir, items):
     entries = [e for e in entries if e["category"] != "battery"]      # battery sentences live in `batteries`, not in the map
     fl = [e["stance"]["sensitivity"] for e in entries if e["category"] == "anchor" and e.get("stance")]
     noise = dict(n_anchors=len(fl), mean=r4(mean(fl)), max=r4(max(fl))) if fl else None      # the same stances on settled facts = the floor to read sensitivity against
-    summary = dict(languages=summarize_languages(out_dir, entries, meta), traits=summarize_traits(out_dir), stance_noise_floor=noise, stance_bands=dict(held_as_fact_below=SENS_FACT, treated_as_opinion_above=SENS_OPINION), date=os.path.basename(os.path.normpath(out_dir)), generated_at=time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), range_wide_threshold=RANGE_WIDE,
+    summary = dict(languages=summarize_languages(out_dir, entries, meta), traits=summarize_traits(out_dir), self_rank=summarize_self_rank(out_dir, entries, meta), n_items=len(entries), stance_noise_floor=noise, stance_bands=dict(held_as_fact_below=SENS_FACT, treated_as_opinion_above=SENS_OPINION), date=os.path.basename(os.path.normpath(out_dir)), generated_at=time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), range_wide_threshold=RANGE_WIDE,
                    columns=columns, unknown_item_ids=unknown, stale_rows_ignored=stale, batteries=bats, items=entries)
     path = os.path.join(out_dir, "summary.json")
     if os.path.exists(path):      # rebuilding from the same rows changes nothing but the timestamp: keep the file as it is
@@ -770,6 +929,8 @@ def main():
     ap.add_argument("--translated", default="", metavar="LANGS", help="`all` or a comma list from bank/translations.json: the diode test with the statement translated, question and options in English")
     ap.add_argument("--traits", action="store_true", help="also run bank/traits.json: Jev's impression of every person in the item bank (one request per person and question order)")
     ap.add_argument("--batteries", action="store_true", help="also run bank/batteries.json (diode only)")
+    ap.add_argument("--self-rank", action="store_true", help="only run bank/self_rank.json: the model scores every statement itself (how contested, how heated, how taboo, how answerable), "
+                    "once blind and once shown the numbers measured in results/<date>/summary.json; then rebuilds that summary")
     ap.add_argument("--only", default="", help="comma list of template_id (anchors are always added)")
     ap.add_argument("--categories", default="", help="comma list of categories (anchors cannot be excluded)")
     ap.add_argument("--repeats", type=int, default=1)
@@ -801,6 +962,12 @@ def main():
     errs = lint(items)
     if errs:
         sys.exit("item lint failed:\n  " + "\n  ".join(errs))
+    if a.self_rank:
+        out_dir = os.path.join(ROOT, "results", a.date)
+        run_self_rank(a, items, SystemOne(a.backend, a), out_dir)
+        if not a.dry_run:
+            summarize(out_dir, items)
+        return
     if a.translated and a.backend != "chat-logprobs":
         run_translated(a, items, SystemOne(a.backend, a), os.path.join(ROOT, "results", a.date))
     if a.traits and a.backend != "chat-logprobs":

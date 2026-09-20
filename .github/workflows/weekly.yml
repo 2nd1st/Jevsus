@@ -20,6 +20,7 @@ jobs:
           TYPESAFE_API_KEY: ${{ secrets.TYPESAFE_API_KEY }}
         run: |
           python3 run.py --backend jev --personas none,probes --perspectives --batteries --traits --translated all 2> >(tee stderr.log >&2)
+          python3 run.py --backend jev --self-rank      # reads the summary the line above wrote
           { echo "### Calibration"; grep -E '^!!' stderr.log || echo "all enforced columns passed"; } >> "$GITHUB_STEP_SUMMARY"
           rm -f stderr.log
       - name: Commit results

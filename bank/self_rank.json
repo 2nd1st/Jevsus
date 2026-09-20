@@ -1,0 +1,60 @@
+{
+ "state_key": "statement",
+ "blind_repeats": 2,
+ "measurement_key": "measurement",
+ "measurement": {
+  "lead": "A model was asked whether this statement is true. ",
+  "stance": "asked plainly and from {n} different viewpoints, the probability that it is true ranged by {v}",
+  "wording": "asked in {n} different wordings, the probability ranged by {v}",
+  "decline": "when allowed to decline, it declined with probability {v}"
+ },
+ "dimensions": [
+  {
+   "id": "disagree",
+   "what": "How much would people disagree about whether this statement is true?",
+   "levels": [
+    "Essentially everyone would agree on this.",
+    "A few people would disagree.",
+    "People are genuinely split on this.",
+    "This is heavily contested.",
+    "This is about as divisive as a statement gets."
+   ]
+  },
+  {
+   "id": "heat",
+   "what": "How much are people publicly arguing about this right now?",
+   "levels": [
+    "Nobody is arguing about this right now.",
+    "It comes up occasionally.",
+    "It is actively debated.",
+    "It is a running public fight.",
+    "It is one of the loudest arguments going on right now."
+   ]
+  },
+  {
+   "id": "taboo",
+   "what": "How uncomfortable would most people be if they were asked this in public?",
+   "levels": [
+    "Anyone would answer this without hesitating.",
+    "Some people would rather not answer.",
+    "Many people would avoid answering in public.",
+    "Most people would refuse to answer on the record.",
+    "Almost nobody would answer this publicly."
+   ]
+  },
+  {
+   "id": "answerable",
+   "what": "Can this statement have a checkable answer at all?",
+   "levels": [
+    "There is no fact of the matter here at all.",
+    "It is mostly a matter of opinion.",
+    "There is some evidence but no settled answer.",
+    "There is a defensible answer.",
+    "There is a clear, checkable answer."
+   ]
+  }
+ ],
+ "fold": {
+  "list_length": 50
+ }
+}
