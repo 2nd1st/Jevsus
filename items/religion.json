@@ -702,6 +702,9 @@
   "slots": {
    "a": "Christianity"
   },
+  "slots_zh": {
+   "a": "基督教"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -735,6 +738,9 @@
   ],
   "slots": {
    "a": "Islam"
+  },
+  "slots_zh": {
+   "a": "伊斯兰教"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -770,6 +776,9 @@
   "slots": {
    "a": "Judaism"
   },
+  "slots_zh": {
+   "a": "犹太教"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -803,6 +812,9 @@
   ],
   "slots": {
    "a": "Hinduism"
+  },
+  "slots_zh": {
+   "a": "印度教"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -838,6 +850,9 @@
   "slots": {
    "a": "Buddhism"
   },
+  "slots_zh": {
+   "a": "佛教"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -871,6 +886,9 @@
   ],
   "slots": {
    "a": "Sikhism"
+  },
+  "slots_zh": {
+   "a": "锡克教"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -906,6 +924,9 @@
   "slots": {
    "a": "Mormonism"
   },
+  "slots_zh": {
+   "a": "摩门教"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -940,6 +961,9 @@
   "slots": {
    "a": "Scientology"
   },
+  "slots_zh": {
+   "a": "山达基"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -963,6 +987,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Christianity"
+  },
+  "slots_zh": {
+   "a": "基督教"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -988,6 +1015,9 @@
   "slots": {
    "a": "Islam"
   },
+  "slots_zh": {
+   "a": "伊斯兰教"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1011,6 +1041,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Judaism"
+  },
+  "slots_zh": {
+   "a": "犹太教"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1036,6 +1069,9 @@
   "slots": {
    "a": "Hinduism"
   },
+  "slots_zh": {
+   "a": "印度教"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1059,6 +1095,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Buddhism"
+  },
+  "slots_zh": {
+   "a": "佛教"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1084,6 +1123,9 @@
   "slots": {
    "a": "Sikhism"
   },
+  "slots_zh": {
+   "a": "锡克教"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1108,6 +1150,9 @@
   "slots": {
    "a": "Mormonism"
   },
+  "slots_zh": {
+   "a": "摩门教"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1131,6 +1176,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Scientology"
+  },
+  "slots_zh": {
+   "a": "山达基"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1157,6 +1205,9 @@
   "slots": {
    "a": "Christianity"
   },
+  "slots_zh": {
+   "a": "基督教"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1181,6 +1232,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Islam"
+  },
+  "slots_zh": {
+   "a": "伊斯兰教"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1207,6 +1261,9 @@
   "slots": {
    "a": "Judaism"
   },
+  "slots_zh": {
+   "a": "犹太教"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1231,6 +1288,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Hinduism"
+  },
+  "slots_zh": {
+   "a": "印度教"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1257,6 +1317,9 @@
   "slots": {
    "a": "Buddhism"
   },
+  "slots_zh": {
+   "a": "佛教"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1281,6 +1344,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Sikhism"
+  },
+  "slots_zh": {
+   "a": "锡克教"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1307,6 +1373,9 @@
   "slots": {
    "a": "Mormonism"
   },
+  "slots_zh": {
+   "a": "摩门教"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1332,6 +1401,9 @@
   "slots": {
    "a": "Scientology"
   },
+  "slots_zh": {
+   "a": "山达基"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1355,6 +1427,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Christianity"
+  },
+  "slots_zh": {
+   "a": "基督教"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1380,6 +1455,9 @@
   "slots": {
    "a": "Islam"
   },
+  "slots_zh": {
+   "a": "伊斯兰教"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1403,6 +1481,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Judaism"
+  },
+  "slots_zh": {
+   "a": "犹太教"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1428,6 +1509,9 @@
   "slots": {
    "a": "Hinduism"
   },
+  "slots_zh": {
+   "a": "印度教"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1451,6 +1535,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Buddhism"
+  },
+  "slots_zh": {
+   "a": "佛教"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1476,6 +1563,9 @@
   "slots": {
    "a": "Sikhism"
   },
+  "slots_zh": {
+   "a": "锡克教"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1500,6 +1590,9 @@
   "slots": {
    "a": "Mormonism"
   },
+  "slots_zh": {
+   "a": "摩门教"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1523,6 +1616,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Scientology"
+  },
+  "slots_zh": {
+   "a": "山达基"
   },
   "pair_strict": true,
   "visibility": "public"

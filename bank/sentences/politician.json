@@ -24,14 +24,14 @@
    {"id": "opponent", "answer_as": "a political opponent of {a}"}
   ],
   "also": [
-   {"id": "bush", "name": "George W. Bush"},
-   {"id": "obama", "name": "Barack Obama"},
-   {"id": "kissinger", "name": "Henry Kissinger"},
-   {"id": "blair", "name": "Tony Blair"},
-   {"id": "assad", "name": "Bashar al-Assad"},
-   {"id": "sinwar", "name": "Yahya Sinwar"},
-   {"id": "truman", "name": "Harry Truman"},
-   {"id": "churchill", "name": "Winston Churchill"}
+   {"id": "bush", "name": "George W. Bush", "name_zh": "小布什"},
+   {"id": "obama", "name": "Barack Obama", "name_zh": "贝拉克·奥巴马"},
+   {"id": "kissinger", "name": "Henry Kissinger", "name_zh": "亨利·基辛格"},
+   {"id": "blair", "name": "Tony Blair", "name_zh": "托尼·布莱尔"},
+   {"id": "assad", "name": "Bashar al-Assad", "name_zh": "巴沙尔·阿萨德"},
+   {"id": "sinwar", "name": "Yahya Sinwar", "name_zh": "叶海亚·辛瓦尔"},
+   {"id": "truman", "name": "Harry Truman", "name_zh": "哈里·杜鲁门"},
+   {"id": "churchill", "name": "Winston Churchill", "name_zh": "温斯顿·丘吉尔"}
   ]
  },
  {

@@ -1,14 +1,14 @@
 [
- {"id": "aiimages", "name": "AI-generated imagery"},
- {"id": "nfts", "name": "NFT artwork"},
- {"id": "graffiti", "name": "Graffiti"},
- {"id": "videogames", "name": "Video game design"},
- {"id": "fashion", "name": "Fashion design"},
- {"id": "memes", "name": "Meme-making"},
- {"id": "photography", "name": "Photography"},
- {"id": "banana", "name": "A banana taped to a wall"},
- {"id": "tattoos", "name": "Tattooing"},
- {"id": "rap", "name": "Rap music"},
- {"id": "fanfic", "name": "Fan fiction"},
- {"id": "cooking", "name": "Fine cooking"}
+ {"id": "aiimages", "name": "AI-generated imagery", "name_zh": "AI 生成的图像"},
+ {"id": "nfts", "name": "NFT artwork", "name_zh": "NFT 艺术品"},
+ {"id": "graffiti", "name": "Graffiti", "name_zh": "涂鸦"},
+ {"id": "videogames", "name": "Video game design", "name_zh": "电子游戏设计"},
+ {"id": "fashion", "name": "Fashion design", "name_zh": "时装设计"},
+ {"id": "memes", "name": "Meme-making", "name_zh": "做表情包"},
+ {"id": "photography", "name": "Photography", "name_zh": "摄影"},
+ {"id": "banana", "name": "A banana taped to a wall", "name_zh": "用胶带贴在墙上的香蕉"},
+ {"id": "tattoos", "name": "Tattooing", "name_zh": "纹身"},
+ {"id": "rap", "name": "Rap music", "name_zh": "说唱音乐"},
+ {"id": "fanfic", "name": "Fan fiction", "name_zh": "同人小说"},
+ {"id": "cooking", "name": "Fine cooking", "name_zh": "高级烹饪"}
 ]

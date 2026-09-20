@@ -20,6 +20,9 @@
   "slots": {
    "a": "French"
   },
+  "slots_zh": {
+   "a": "法语"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -43,6 +46,9 @@
   "needs_zh": true,
   "slots": {
    "a": "German"
+  },
+  "slots_zh": {
+   "a": "德语"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -68,6 +74,9 @@
   "slots": {
    "a": "Mandarin Chinese"
   },
+  "slots_zh": {
+   "a": "普通话"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -91,6 +100,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Arabic"
+  },
+  "slots_zh": {
+   "a": "阿拉伯语"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -116,6 +128,9 @@
   "slots": {
    "a": "English"
   },
+  "slots_zh": {
+   "a": "英语"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -139,6 +154,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Italian"
+  },
+  "slots_zh": {
+   "a": "意大利语"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -164,6 +182,9 @@
   "slots": {
    "a": "Japanese"
   },
+  "slots_zh": {
+   "a": "日语"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -187,6 +208,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Russian"
+  },
+  "slots_zh": {
+   "a": "俄语"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -212,6 +236,9 @@
   "slots": {
    "a": "Korean"
   },
+  "slots_zh": {
+   "a": "韩语"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -235,6 +262,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Hindi"
+  },
+  "slots_zh": {
+   "a": "印地语"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -260,6 +290,9 @@
   "slots": {
    "a": "Dutch"
   },
+  "slots_zh": {
+   "a": "荷兰语"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -283,6 +316,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Cantonese"
+  },
+  "slots_zh": {
+   "a": "粤语"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -308,6 +344,9 @@
   "slots": {
    "a": "French"
   },
+  "slots_zh": {
+   "a": "法语"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -331,6 +370,9 @@
   "needs_zh": true,
   "slots": {
    "a": "German"
+  },
+  "slots_zh": {
+   "a": "德语"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -356,6 +398,9 @@
   "slots": {
    "a": "Mandarin Chinese"
   },
+  "slots_zh": {
+   "a": "普通话"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -379,6 +424,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Arabic"
+  },
+  "slots_zh": {
+   "a": "阿拉伯语"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -404,6 +452,9 @@
   "slots": {
    "a": "English"
   },
+  "slots_zh": {
+   "a": "英语"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -427,6 +478,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Italian"
+  },
+  "slots_zh": {
+   "a": "意大利语"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -452,6 +506,9 @@
   "slots": {
    "a": "Japanese"
   },
+  "slots_zh": {
+   "a": "日语"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -475,6 +532,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Russian"
+  },
+  "slots_zh": {
+   "a": "俄语"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -500,6 +560,9 @@
   "slots": {
    "a": "Korean"
   },
+  "slots_zh": {
+   "a": "韩语"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -523,6 +586,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Hindi"
+  },
+  "slots_zh": {
+   "a": "印地语"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -548,6 +614,9 @@
   "slots": {
    "a": "Dutch"
   },
+  "slots_zh": {
+   "a": "荷兰语"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -571,6 +640,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Cantonese"
+  },
+  "slots_zh": {
+   "a": "粤语"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -602,6 +674,9 @@
   "slots": {
    "a": "philosophy"
   },
+  "slots_zh": {
+   "a": "哲学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -631,6 +706,9 @@
   ],
   "slots": {
    "a": "art history"
+  },
+  "slots_zh": {
+   "a": "艺术史"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -662,6 +740,9 @@
   "slots": {
    "a": "computer science"
   },
+  "slots_zh": {
+   "a": "计算机科学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -691,6 +772,9 @@
   ],
   "slots": {
    "a": "law"
+  },
+  "slots_zh": {
+   "a": "法学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -722,6 +806,9 @@
   "slots": {
    "a": "journalism"
   },
+  "slots_zh": {
+   "a": "新闻学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -751,6 +838,9 @@
   ],
   "slots": {
    "a": "business"
+  },
+  "slots_zh": {
+   "a": "商科"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -782,6 +872,9 @@
   "slots": {
    "a": "gender studies"
   },
+  "slots_zh": {
+   "a": "性别研究"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -811,6 +904,9 @@
   ],
   "slots": {
    "a": "psychology"
+  },
+  "slots_zh": {
+   "a": "心理学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -842,6 +938,9 @@
   "slots": {
    "a": "English literature"
   },
+  "slots_zh": {
+   "a": "英国文学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -871,6 +970,9 @@
   ],
   "slots": {
    "a": "music"
+  },
+  "slots_zh": {
+   "a": "音乐"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -902,6 +1004,9 @@
   "slots": {
    "a": "medicine"
   },
+  "slots_zh": {
+   "a": "医学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -931,6 +1036,9 @@
   ],
   "slots": {
    "a": "theology"
+  },
+  "slots_zh": {
+   "a": "神学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -962,6 +1070,9 @@
   "slots": {
    "a": "Economics"
   },
+  "slots_zh": {
+   "a": "经济学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -991,6 +1102,9 @@
   ],
   "slots": {
    "a": "Sociology"
+  },
+  "slots_zh": {
+   "a": "社会学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1022,6 +1136,9 @@
   "slots": {
    "a": "Astrology"
   },
+  "slots_zh": {
+   "a": "占星术"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1051,6 +1168,9 @@
   ],
   "slots": {
    "a": "Nutrition science"
+  },
+  "slots_zh": {
+   "a": "营养学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1082,6 +1202,9 @@
   "slots": {
    "a": "Climate science"
   },
+  "slots_zh": {
+   "a": "气候科学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1111,6 +1234,9 @@
   ],
   "slots": {
    "a": "Political science"
+  },
+  "slots_zh": {
+   "a": "政治学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1142,6 +1268,9 @@
   "slots": {
    "a": "Psychoanalysis"
   },
+  "slots_zh": {
+   "a": "精神分析"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1171,6 +1300,9 @@
   ],
   "slots": {
    "a": "String theory"
+  },
+  "slots_zh": {
+   "a": "弦理论"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1202,6 +1334,9 @@
   "slots": {
    "a": "Machine learning"
   },
+  "slots_zh": {
+   "a": "机器学习"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1231,6 +1366,9 @@
   ],
   "slots": {
    "a": "Evolutionary psychology"
+  },
+  "slots_zh": {
+   "a": "进化心理学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1262,6 +1400,9 @@
   "slots": {
    "a": "Homeopathy"
   },
+  "slots_zh": {
+   "a": "顺势疗法"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1292,6 +1433,9 @@
   "slots": {
    "a": "Chiropractic"
   },
+  "slots_zh": {
+   "a": "整脊疗法"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1315,6 +1459,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Harvard"
+  },
+  "slots_zh": {
+   "a": "哈佛大学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1340,6 +1487,9 @@
   "slots": {
    "a": "Stanford"
   },
+  "slots_zh": {
+   "a": "斯坦福大学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1363,6 +1513,9 @@
   "needs_zh": true,
   "slots": {
    "a": "MIT"
+  },
+  "slots_zh": {
+   "a": "麻省理工学院"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1388,6 +1541,9 @@
   "slots": {
    "a": "Oxford"
   },
+  "slots_zh": {
+   "a": "牛津大学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1411,6 +1567,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Cambridge"
+  },
+  "slots_zh": {
+   "a": "剑桥大学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1436,6 +1595,9 @@
   "slots": {
    "a": "Yale"
   },
+  "slots_zh": {
+   "a": "耶鲁大学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1459,6 +1621,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Princeton"
+  },
+  "slots_zh": {
+   "a": "普林斯顿大学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1484,6 +1649,9 @@
   "slots": {
    "a": "Tsinghua University"
   },
+  "slots_zh": {
+   "a": "清华大学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1507,6 +1675,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Peking University"
+  },
+  "slots_zh": {
+   "a": "北京大学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1532,6 +1703,9 @@
   "slots": {
    "a": "the University of Tokyo"
   },
+  "slots_zh": {
+   "a": "东京大学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1555,6 +1729,9 @@
   "needs_zh": true,
   "slots": {
    "a": "ETH Zurich"
+  },
+  "slots_zh": {
+   "a": "苏黎世联邦理工学院"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1580,6 +1757,9 @@
   "slots": {
    "a": "the National University of Singapore"
   },
+  "slots_zh": {
+   "a": "新加坡国立大学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1603,6 +1783,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the Sorbonne"
+  },
+  "slots_zh": {
+   "a": "索邦大学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1628,6 +1811,9 @@
   "slots": {
    "a": "the Indian Institutes of Technology"
   },
+  "slots_zh": {
+   "a": "印度理工学院"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1651,6 +1837,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Harvard"
+  },
+  "slots_zh": {
+   "a": "哈佛大学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1676,6 +1865,9 @@
   "slots": {
    "a": "Stanford"
   },
+  "slots_zh": {
+   "a": "斯坦福大学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1699,6 +1891,9 @@
   "needs_zh": true,
   "slots": {
    "a": "MIT"
+  },
+  "slots_zh": {
+   "a": "麻省理工学院"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1724,6 +1919,9 @@
   "slots": {
    "a": "Oxford"
   },
+  "slots_zh": {
+   "a": "牛津大学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1747,6 +1945,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Cambridge"
+  },
+  "slots_zh": {
+   "a": "剑桥大学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1772,6 +1973,9 @@
   "slots": {
    "a": "Yale"
   },
+  "slots_zh": {
+   "a": "耶鲁大学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1795,6 +1999,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Princeton"
+  },
+  "slots_zh": {
+   "a": "普林斯顿大学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1820,6 +2027,9 @@
   "slots": {
    "a": "Tsinghua University"
   },
+  "slots_zh": {
+   "a": "清华大学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1843,6 +2053,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Peking University"
+  },
+  "slots_zh": {
+   "a": "北京大学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1868,6 +2081,9 @@
   "slots": {
    "a": "the University of Tokyo"
   },
+  "slots_zh": {
+   "a": "东京大学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1891,6 +2107,9 @@
   "needs_zh": true,
   "slots": {
    "a": "ETH Zurich"
+  },
+  "slots_zh": {
+   "a": "苏黎世联邦理工学院"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1916,6 +2135,9 @@
   "slots": {
    "a": "the National University of Singapore"
   },
+  "slots_zh": {
+   "a": "新加坡国立大学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1939,6 +2161,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the Sorbonne"
+  },
+  "slots_zh": {
+   "a": "索邦大学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1964,6 +2189,9 @@
   "slots": {
    "a": "the Indian Institutes of Technology"
   },
+  "slots_zh": {
+   "a": "印度理工学院"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1987,6 +2215,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Harvard"
+  },
+  "slots_zh": {
+   "a": "哈佛大学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2012,6 +2243,9 @@
   "slots": {
    "a": "Stanford"
   },
+  "slots_zh": {
+   "a": "斯坦福大学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2035,6 +2269,9 @@
   "needs_zh": true,
   "slots": {
    "a": "MIT"
+  },
+  "slots_zh": {
+   "a": "麻省理工学院"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2060,6 +2297,9 @@
   "slots": {
    "a": "Oxford"
   },
+  "slots_zh": {
+   "a": "牛津大学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2083,6 +2323,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Cambridge"
+  },
+  "slots_zh": {
+   "a": "剑桥大学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2108,6 +2351,9 @@
   "slots": {
    "a": "Yale"
   },
+  "slots_zh": {
+   "a": "耶鲁大学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2131,6 +2377,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Princeton"
+  },
+  "slots_zh": {
+   "a": "普林斯顿大学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2156,6 +2405,9 @@
   "slots": {
    "a": "Tsinghua University"
   },
+  "slots_zh": {
+   "a": "清华大学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2179,6 +2431,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Peking University"
+  },
+  "slots_zh": {
+   "a": "北京大学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2204,6 +2459,9 @@
   "slots": {
    "a": "the University of Tokyo"
   },
+  "slots_zh": {
+   "a": "东京大学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2227,6 +2485,9 @@
   "needs_zh": true,
   "slots": {
    "a": "ETH Zurich"
+  },
+  "slots_zh": {
+   "a": "苏黎世联邦理工学院"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2252,6 +2513,9 @@
   "slots": {
    "a": "the National University of Singapore"
   },
+  "slots_zh": {
+   "a": "新加坡国立大学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2275,6 +2539,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the Sorbonne"
+  },
+  "slots_zh": {
+   "a": "索邦大学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2300,6 +2567,9 @@
   "slots": {
    "a": "the Indian Institutes of Technology"
   },
+  "slots_zh": {
+   "a": "印度理工学院"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2323,6 +2593,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Harvard"
+  },
+  "slots_zh": {
+   "a": "哈佛大学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2348,6 +2621,9 @@
   "slots": {
    "a": "Stanford"
   },
+  "slots_zh": {
+   "a": "斯坦福大学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2371,6 +2647,9 @@
   "needs_zh": true,
   "slots": {
    "a": "MIT"
+  },
+  "slots_zh": {
+   "a": "麻省理工学院"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2396,6 +2675,9 @@
   "slots": {
    "a": "Oxford"
   },
+  "slots_zh": {
+   "a": "牛津大学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2419,6 +2701,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Cambridge"
+  },
+  "slots_zh": {
+   "a": "剑桥大学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2444,6 +2729,9 @@
   "slots": {
    "a": "Yale"
   },
+  "slots_zh": {
+   "a": "耶鲁大学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2467,6 +2755,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Princeton"
+  },
+  "slots_zh": {
+   "a": "普林斯顿大学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2492,6 +2783,9 @@
   "slots": {
    "a": "Tsinghua University"
   },
+  "slots_zh": {
+   "a": "清华大学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2515,6 +2809,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Peking University"
+  },
+  "slots_zh": {
+   "a": "北京大学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2540,6 +2837,9 @@
   "slots": {
    "a": "the University of Tokyo"
   },
+  "slots_zh": {
+   "a": "东京大学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2563,6 +2863,9 @@
   "needs_zh": true,
   "slots": {
    "a": "ETH Zurich"
+  },
+  "slots_zh": {
+   "a": "苏黎世联邦理工学院"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2588,6 +2891,9 @@
   "slots": {
    "a": "the National University of Singapore"
   },
+  "slots_zh": {
+   "a": "新加坡国立大学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2611,6 +2917,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the Sorbonne"
+  },
+  "slots_zh": {
+   "a": "索邦大学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2636,6 +2945,9 @@
   "slots": {
    "a": "the Indian Institutes of Technology"
   },
+  "slots_zh": {
+   "a": "印度理工学院"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2659,6 +2971,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Harvard"
+  },
+  "slots_zh": {
+   "a": "哈佛大学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2684,6 +2999,9 @@
   "slots": {
    "a": "Stanford"
   },
+  "slots_zh": {
+   "a": "斯坦福大学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2707,6 +3025,9 @@
   "needs_zh": true,
   "slots": {
    "a": "MIT"
+  },
+  "slots_zh": {
+   "a": "麻省理工学院"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2732,6 +3053,9 @@
   "slots": {
    "a": "Oxford"
   },
+  "slots_zh": {
+   "a": "牛津大学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2755,6 +3079,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Cambridge"
+  },
+  "slots_zh": {
+   "a": "剑桥大学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2780,6 +3107,9 @@
   "slots": {
    "a": "Yale"
   },
+  "slots_zh": {
+   "a": "耶鲁大学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2803,6 +3133,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Princeton"
+  },
+  "slots_zh": {
+   "a": "普林斯顿大学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2828,6 +3161,9 @@
   "slots": {
    "a": "Tsinghua University"
   },
+  "slots_zh": {
+   "a": "清华大学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2851,6 +3187,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Peking University"
+  },
+  "slots_zh": {
+   "a": "北京大学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2876,6 +3215,9 @@
   "slots": {
    "a": "the University of Tokyo"
   },
+  "slots_zh": {
+   "a": "东京大学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2899,6 +3241,9 @@
   "needs_zh": true,
   "slots": {
    "a": "ETH Zurich"
+  },
+  "slots_zh": {
+   "a": "苏黎世联邦理工学院"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2924,6 +3269,9 @@
   "slots": {
    "a": "the National University of Singapore"
   },
+  "slots_zh": {
+   "a": "新加坡国立大学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2948,6 +3296,9 @@
   "slots": {
    "a": "the Sorbonne"
   },
+  "slots_zh": {
+   "a": "索邦大学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2971,6 +3322,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the Indian Institutes of Technology"
+  },
+  "slots_zh": {
+   "a": "印度理工学院"
   },
   "pair_strict": true,
   "visibility": "public"

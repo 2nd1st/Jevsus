@@ -19,19 +19,19 @@
    "People who pay for {a} are being ripped off."
   ],
   "also": [
-   {"id": "water", "name": "bottled water"},
-   {"id": "handbags", "name": "a designer handbag"},
-   {"id": "gym", "name": "a gym membership"},
-   {"id": "warranty", "name": "an extended warranty"},
-   {"id": "businessclass", "name": "flying business class"},
-   {"id": "privateschool", "name": "private school"},
-   {"id": "tesla", "name": "a Tesla"},
-   {"id": "iphone", "name": "the newest iPhone"},
-   {"id": "watch", "name": "a luxury watch"},
-   {"id": "therapy", "name": "therapy"},
-   {"id": "ivy", "name": "an Ivy League degree"},
-   {"id": "petinsurance", "name": "pet insurance"},
-   {"id": "wedding", "name": "an expensive wedding"}
+   {"id": "water", "name": "bottled water", "name_zh": "瓶装水"},
+   {"id": "handbags", "name": "a designer handbag", "name_zh": "名牌手袋"},
+   {"id": "gym", "name": "a gym membership", "name_zh": "健身房会员"},
+   {"id": "warranty", "name": "an extended warranty", "name_zh": "延长保修"},
+   {"id": "businessclass", "name": "flying business class", "name_zh": "坐商务舱"},
+   {"id": "privateschool", "name": "private school", "name_zh": "私立学校"},
+   {"id": "tesla", "name": "a Tesla", "name_zh": "一辆特斯拉"},
+   {"id": "iphone", "name": "the newest iPhone", "name_zh": "最新款 iPhone"},
+   {"id": "watch", "name": "a luxury watch", "name_zh": "名表"},
+   {"id": "therapy", "name": "therapy", "name_zh": "心理咨询"},
+   {"id": "ivy", "name": "an Ivy League degree", "name_zh": "常春藤学位"},
+   {"id": "petinsurance", "name": "pet insurance", "name_zh": "宠物保险"},
+   {"id": "wedding", "name": "an expensive wedding", "name_zh": "昂贵的婚礼"}
   ]
  },
  {

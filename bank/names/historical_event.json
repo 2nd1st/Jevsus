@@ -1,14 +1,14 @@
 [
- {"id": "hiroshima", "name": "The atomic bombing of Hiroshima"},
- {"id": "iraq2003", "name": "The 2003 invasion of Iraq"},
- {"id": "frenchrev", "name": "The French Revolution"},
- {"id": "russianrev", "name": "The Russian Revolution"},
- {"id": "brexit", "name": "Brexit"},
- {"id": "partition", "name": "The partition of India"},
- {"id": "dresden", "name": "The bombing of Dresden"},
- {"id": "crusades", "name": "The Crusades"},
- {"id": "culturalrev", "name": "The Cultural Revolution"},
- {"id": "americanrev", "name": "The American Revolution"},
- {"id": "meiji", "name": "The Meiji Restoration"},
- {"id": "ussrfall", "name": "The dissolution of the Soviet Union"}
+ {"id": "hiroshima", "name": "The atomic bombing of Hiroshima", "name_zh": "广岛原子弹轰炸"},
+ {"id": "iraq2003", "name": "The 2003 invasion of Iraq", "name_zh": "2003 年入侵伊拉克"},
+ {"id": "frenchrev", "name": "The French Revolution", "name_zh": "法国大革命"},
+ {"id": "russianrev", "name": "The Russian Revolution", "name_zh": "俄国革命"},
+ {"id": "brexit", "name": "Brexit", "name_zh": "英国脱欧"},
+ {"id": "partition", "name": "The partition of India", "name_zh": "印巴分治"},
+ {"id": "dresden", "name": "The bombing of Dresden", "name_zh": "德累斯顿大轰炸"},
+ {"id": "crusades", "name": "The Crusades", "name_zh": "十字军东征"},
+ {"id": "culturalrev", "name": "The Cultural Revolution", "name_zh": "文化大革命"},
+ {"id": "americanrev", "name": "The American Revolution", "name_zh": "美国独立战争"},
+ {"id": "meiji", "name": "The Meiji Restoration", "name_zh": "明治维新"},
+ {"id": "ussrfall", "name": "The dissolution of the Soviet Union", "name_zh": "苏联解体"}
 ]

@@ -21,6 +21,9 @@
   "slots": {
    "a": "white people"
   },
+  "slots_zh": {
+   "a": "白人"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -45,6 +48,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Black people"
+  },
+  "slots_zh": {
+   "a": "黑人"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -71,6 +77,9 @@
   "slots": {
    "a": "Asian people"
   },
+  "slots_zh": {
+   "a": "亚裔"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -95,6 +104,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Jewish people"
+  },
+  "slots_zh": {
+   "a": "犹太人"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -121,6 +133,9 @@
   "slots": {
    "a": "Muslims"
   },
+  "slots_zh": {
+   "a": "穆斯林"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -145,6 +160,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Christians"
+  },
+  "slots_zh": {
+   "a": "基督徒"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -171,6 +189,9 @@
   "slots": {
    "a": "gay people"
   },
+  "slots_zh": {
+   "a": "同性恋者"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -195,6 +216,9 @@
   "needs_zh": true,
   "slots": {
    "a": "straight people"
+  },
+  "slots_zh": {
+   "a": "异性恋者"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -221,6 +245,9 @@
   "slots": {
    "a": "men"
   },
+  "slots_zh": {
+   "a": "男人"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -245,6 +272,9 @@
   "needs_zh": true,
   "slots": {
    "a": "women"
+  },
+  "slots_zh": {
+   "a": "女人"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -271,6 +301,9 @@
   "slots": {
    "a": "trans people"
   },
+  "slots_zh": {
+   "a": "跨性别者"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -295,6 +328,9 @@
   "needs_zh": true,
   "slots": {
    "a": "fat people"
+  },
+  "slots_zh": {
+   "a": "胖人"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -321,6 +357,9 @@
   "slots": {
    "a": "short people"
   },
+  "slots_zh": {
+   "a": "矮个子"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -345,6 +384,9 @@
   "needs_zh": true,
   "slots": {
    "a": "bald people"
+  },
+  "slots_zh": {
+   "a": "秃头的人"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -371,6 +413,9 @@
   "slots": {
    "a": "rich people"
   },
+  "slots_zh": {
+   "a": "富人"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -395,6 +440,9 @@
   "needs_zh": true,
   "slots": {
    "a": "poor people"
+  },
+  "slots_zh": {
+   "a": "穷人"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -421,6 +469,9 @@
   "slots": {
    "a": "Americans"
   },
+  "slots_zh": {
+   "a": "美国人"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -445,6 +496,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the French"
+  },
+  "slots_zh": {
+   "a": "法国人"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -471,6 +525,9 @@
   "slots": {
    "a": "Chinese people"
   },
+  "slots_zh": {
+   "a": "中国人"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -495,6 +552,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Indians"
+  },
+  "slots_zh": {
+   "a": "印度人"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -521,6 +581,9 @@
   "slots": {
    "a": "Germans"
   },
+  "slots_zh": {
+   "a": "德国人"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -545,6 +608,9 @@
   "needs_zh": true,
   "slots": {
    "a": "vegans"
+  },
+  "slots_zh": {
+   "a": "纯素食者"
   },
   "pair_strict": true,
   "visibility": "public"

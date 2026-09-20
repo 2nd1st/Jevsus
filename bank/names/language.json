@@ -1,14 +1,14 @@
 [
- {"id": "french", "name": "French"},
- {"id": "german", "name": "German"},
- {"id": "mandarin", "name": "Mandarin Chinese"},
- {"id": "arabic", "name": "Arabic"},
- {"id": "english", "name": "English"},
- {"id": "italian", "name": "Italian"},
- {"id": "japanese", "name": "Japanese"},
- {"id": "russian", "name": "Russian"},
- {"id": "korean", "name": "Korean"},
- {"id": "hindi", "name": "Hindi"},
- {"id": "dutch", "name": "Dutch"},
- {"id": "cantonese", "name": "Cantonese"}
+ {"id": "french", "name": "French", "name_zh": "法语"},
+ {"id": "german", "name": "German", "name_zh": "德语"},
+ {"id": "mandarin", "name": "Mandarin Chinese", "name_zh": "普通话"},
+ {"id": "arabic", "name": "Arabic", "name_zh": "阿拉伯语"},
+ {"id": "english", "name": "English", "name_zh": "英语"},
+ {"id": "italian", "name": "Italian", "name_zh": "意大利语"},
+ {"id": "japanese", "name": "Japanese", "name_zh": "日语"},
+ {"id": "russian", "name": "Russian", "name_zh": "俄语"},
+ {"id": "korean", "name": "Korean", "name_zh": "韩语"},
+ {"id": "hindi", "name": "Hindi", "name_zh": "印地语"},
+ {"id": "dutch", "name": "Dutch", "name_zh": "荷兰语"},
+ {"id": "cantonese", "name": "Cantonese", "name_zh": "粤语"}
 ]

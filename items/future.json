@@ -21,6 +21,9 @@
   "slots": {
    "a": "Israel"
   },
+  "slots_zh": {
+   "a": "以色列"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -45,6 +48,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Ukraine"
+  },
+  "slots_zh": {
+   "a": "乌克兰"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -71,6 +77,9 @@
   "slots": {
    "a": "the United States"
   },
+  "slots_zh": {
+   "a": "美国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -95,6 +104,9 @@
   "needs_zh": true,
   "slots": {
    "a": "China"
+  },
+  "slots_zh": {
+   "a": "中国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -121,6 +133,9 @@
   "slots": {
    "a": "Russia"
   },
+  "slots_zh": {
+   "a": "俄罗斯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -145,6 +160,9 @@
   "needs_zh": true,
   "slots": {
    "a": "India"
+  },
+  "slots_zh": {
+   "a": "印度"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -171,6 +189,9 @@
   "slots": {
    "a": "Japan"
   },
+  "slots_zh": {
+   "a": "日本"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -195,6 +216,9 @@
   "needs_zh": true,
   "slots": {
    "a": "France"
+  },
+  "slots_zh": {
+   "a": "法国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -221,6 +245,9 @@
   "slots": {
    "a": "Saudi Arabia"
   },
+  "slots_zh": {
+   "a": "沙特阿拉伯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -245,6 +272,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Singapore"
+  },
+  "slots_zh": {
+   "a": "新加坡"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -271,6 +301,9 @@
   "slots": {
    "a": "Turkey"
   },
+  "slots_zh": {
+   "a": "土耳其"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -295,6 +328,9 @@
   "needs_zh": true,
   "slots": {
    "a": "South Africa"
+  },
+  "slots_zh": {
+   "a": "南非"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -321,6 +357,9 @@
   "slots": {
    "a": "Hungary"
   },
+  "slots_zh": {
+   "a": "匈牙利"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -345,6 +384,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Germany"
+  },
+  "slots_zh": {
+   "a": "德国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -371,6 +413,9 @@
   "slots": {
    "a": "Brazil"
   },
+  "slots_zh": {
+   "a": "巴西"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -395,6 +440,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the United Kingdom"
+  },
+  "slots_zh": {
+   "a": "英国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -421,6 +469,9 @@
   "slots": {
    "a": "Italy"
   },
+  "slots_zh": {
+   "a": "意大利"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -445,6 +496,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Thailand"
+  },
+  "slots_zh": {
+   "a": "泰国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -471,6 +525,9 @@
   "slots": {
    "a": "South Korea"
   },
+  "slots_zh": {
+   "a": "韩国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -495,6 +552,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Mexico"
+  },
+  "slots_zh": {
+   "a": "墨西哥"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -521,6 +581,9 @@
   "slots": {
    "a": "Iran"
   },
+  "slots_zh": {
+   "a": "伊朗"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -545,6 +608,9 @@
   "needs_zh": true,
   "slots": {
    "a": "North Korea"
+  },
+  "slots_zh": {
+   "a": "朝鲜"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -571,6 +637,9 @@
   "slots": {
    "a": "Australia"
   },
+  "slots_zh": {
+   "a": "澳大利亚"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -595,6 +664,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Canada"
+  },
+  "slots_zh": {
+   "a": "加拿大"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -621,6 +693,9 @@
   "slots": {
    "a": "Sweden"
   },
+  "slots_zh": {
+   "a": "瑞典"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -645,6 +720,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Switzerland"
+  },
+  "slots_zh": {
+   "a": "瑞士"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -671,6 +749,9 @@
   "slots": {
    "a": "the United Arab Emirates"
   },
+  "slots_zh": {
+   "a": "阿联酋"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -695,6 +776,9 @@
   "needs_zh": true,
   "slots": {
    "a": "French"
+  },
+  "slots_zh": {
+   "a": "法语"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -721,6 +805,9 @@
   "slots": {
    "a": "German"
   },
+  "slots_zh": {
+   "a": "德语"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -745,6 +832,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Mandarin Chinese"
+  },
+  "slots_zh": {
+   "a": "普通话"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -771,6 +861,9 @@
   "slots": {
    "a": "Arabic"
   },
+  "slots_zh": {
+   "a": "阿拉伯语"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -795,6 +888,9 @@
   "needs_zh": true,
   "slots": {
    "a": "English"
+  },
+  "slots_zh": {
+   "a": "英语"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -821,6 +917,9 @@
   "slots": {
    "a": "Italian"
   },
+  "slots_zh": {
+   "a": "意大利语"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -845,6 +944,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Japanese"
+  },
+  "slots_zh": {
+   "a": "日语"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -871,6 +973,9 @@
   "slots": {
    "a": "Russian"
   },
+  "slots_zh": {
+   "a": "俄语"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -895,6 +1000,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Korean"
+  },
+  "slots_zh": {
+   "a": "韩语"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -921,6 +1029,9 @@
   "slots": {
    "a": "Hindi"
   },
+  "slots_zh": {
+   "a": "印地语"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -945,6 +1056,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Dutch"
+  },
+  "slots_zh": {
+   "a": "荷兰语"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -971,6 +1085,9 @@
   "slots": {
    "a": "Cantonese"
   },
+  "slots_zh": {
+   "a": "粤语"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -994,6 +1111,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Social media"
+  },
+  "slots_zh": {
+   "a": "社交媒体"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1019,6 +1139,9 @@
   "slots": {
    "a": "The smartphone"
   },
+  "slots_zh": {
+   "a": "智能手机"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1042,6 +1165,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Gaming"
+  },
+  "slots_zh": {
+   "a": "电子游戏"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1067,6 +1193,9 @@
   "slots": {
    "a": "Online pornography"
   },
+  "slots_zh": {
+   "a": "网络色情"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1090,6 +1219,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Online dating"
+  },
+  "slots_zh": {
+   "a": "网络交友"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1115,6 +1247,9 @@
   "slots": {
    "a": "Generative AI"
   },
+  "slots_zh": {
+   "a": "生成式 AI"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1138,6 +1273,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Cryptocurrency"
+  },
+  "slots_zh": {
+   "a": "加密货币"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1163,6 +1301,9 @@
   "slots": {
    "a": "Television"
   },
+  "slots_zh": {
+   "a": "电视"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1186,6 +1327,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The car"
+  },
+  "slots_zh": {
+   "a": "汽车"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1211,6 +1355,9 @@
   "slots": {
    "a": "The internet"
   },
+  "slots_zh": {
+   "a": "互联网"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1235,6 +1382,9 @@
   "slots": {
    "a": "Short-form video"
   },
+  "slots_zh": {
+   "a": "短视频"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1258,6 +1408,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Fast fashion"
+  },
+  "slots_zh": {
+   "a": "快时尚"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1284,6 +1437,9 @@
   "slots": {
    "a": "Social media"
   },
+  "slots_zh": {
+   "a": "社交媒体"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1308,6 +1464,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The smartphone"
+  },
+  "slots_zh": {
+   "a": "智能手机"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1334,6 +1493,9 @@
   "slots": {
    "a": "Gaming"
   },
+  "slots_zh": {
+   "a": "电子游戏"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1358,6 +1520,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Online pornography"
+  },
+  "slots_zh": {
+   "a": "网络色情"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1384,6 +1549,9 @@
   "slots": {
    "a": "Online dating"
   },
+  "slots_zh": {
+   "a": "网络交友"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1408,6 +1576,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Generative AI"
+  },
+  "slots_zh": {
+   "a": "生成式 AI"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1434,6 +1605,9 @@
   "slots": {
    "a": "Cryptocurrency"
   },
+  "slots_zh": {
+   "a": "加密货币"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1458,6 +1632,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Television"
+  },
+  "slots_zh": {
+   "a": "电视"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1484,6 +1661,9 @@
   "slots": {
    "a": "The car"
   },
+  "slots_zh": {
+   "a": "汽车"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1508,6 +1688,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The internet"
+  },
+  "slots_zh": {
+   "a": "互联网"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1534,6 +1717,9 @@
   "slots": {
    "a": "Short-form video"
   },
+  "slots_zh": {
+   "a": "短视频"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1559,6 +1745,9 @@
   "slots": {
    "a": "Fast fashion"
   },
+  "slots_zh": {
+   "a": "快时尚"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1582,6 +1771,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Bitcoin"
+  },
+  "slots_zh": {
+   "a": "比特币"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1607,6 +1799,9 @@
   "slots": {
    "a": "The NFT market"
   },
+  "slots_zh": {
+   "a": "NFT 市场"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1630,6 +1825,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Multi-level marketing"
+  },
+  "slots_zh": {
+   "a": "多层次传销"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1655,6 +1853,9 @@
   "slots": {
    "a": "A university degree"
   },
+  "slots_zh": {
+   "a": "大学学位"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1678,6 +1879,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Astrology"
+  },
+  "slots_zh": {
+   "a": "占星术"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1703,6 +1907,9 @@
   "slots": {
    "a": "Homeopathy"
   },
+  "slots_zh": {
+   "a": "顺势疗法"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1726,6 +1933,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Chiropractic"
+  },
+  "slots_zh": {
+   "a": "整脊疗法"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1751,6 +1961,9 @@
   "slots": {
    "a": "Life coaching"
   },
+  "slots_zh": {
+   "a": "人生教练"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1774,6 +1987,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The diamond engagement ring"
+  },
+  "slots_zh": {
+   "a": "钻石订婚戒指"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1799,6 +2015,9 @@
   "slots": {
    "a": "The wellness industry"
   },
+  "slots_zh": {
+   "a": "养生产业"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1823,6 +2042,9 @@
   "slots": {
    "a": "Organic food"
   },
+  "slots_zh": {
+   "a": "有机食品"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1846,6 +2068,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The supplement industry"
+  },
+  "slots_zh": {
+   "a": "保健品行业"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1872,6 +2097,9 @@
   "slots": {
    "a": "X (formerly Twitter)"
   },
+  "slots_zh": {
+   "a": "X（原推特）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1895,6 +2123,9 @@
   ],
   "needs_zh": true,
   "slots": {
+   "a": "Facebook"
+  },
+  "slots_zh": {
    "a": "Facebook"
   },
   "pair_strict": true,
@@ -1922,6 +2153,9 @@
   "slots": {
    "a": "Instagram"
   },
+  "slots_zh": {
+   "a": "Instagram"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1945,6 +2179,9 @@
   ],
   "needs_zh": true,
   "slots": {
+   "a": "TikTok"
+  },
+  "slots_zh": {
    "a": "TikTok"
   },
   "pair_strict": true,
@@ -1972,6 +2209,9 @@
   "slots": {
    "a": "YouTube"
   },
+  "slots_zh": {
+   "a": "YouTube"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1995,6 +2235,9 @@
   ],
   "needs_zh": true,
   "slots": {
+   "a": "Reddit"
+  },
+  "slots_zh": {
    "a": "Reddit"
   },
   "pair_strict": true,
@@ -2022,6 +2265,9 @@
   "slots": {
    "a": "WeChat"
   },
+  "slots_zh": {
+   "a": "微信"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2045,6 +2291,9 @@
   ],
   "needs_zh": true,
   "slots": {
+   "a": "Telegram"
+  },
+  "slots_zh": {
    "a": "Telegram"
   },
   "pair_strict": true,
@@ -2072,6 +2321,9 @@
   "slots": {
    "a": "LinkedIn"
   },
+  "slots_zh": {
+   "a": "领英"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2095,6 +2347,9 @@
   ],
   "needs_zh": true,
   "slots": {
+   "a": "Snapchat"
+  },
+  "slots_zh": {
    "a": "Snapchat"
   },
   "pair_strict": true,
@@ -2122,6 +2377,9 @@
   "slots": {
    "a": "Discord"
   },
+  "slots_zh": {
+   "a": "Discord"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2145,6 +2403,9 @@
   ],
   "needs_zh": true,
   "slots": {
+   "a": "Threads"
+  },
+  "slots_zh": {
    "a": "Threads"
   },
   "pair_strict": true,
@@ -2172,6 +2433,9 @@
   "slots": {
    "a": "the Republican Party"
   },
+  "slots_zh": {
+   "a": "美国共和党"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2196,6 +2460,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the Democratic Party"
+  },
+  "slots_zh": {
+   "a": "美国民主党"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2222,6 +2489,9 @@
   "slots": {
    "a": "the UK Conservative Party"
   },
+  "slots_zh": {
+   "a": "英国保守党"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2246,6 +2516,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the UK Labour Party"
+  },
+  "slots_zh": {
+   "a": "英国工党"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2272,6 +2545,9 @@
   "slots": {
    "a": "Alternative for Germany"
   },
+  "slots_zh": {
+   "a": "德国选择党"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2296,6 +2572,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the BJP"
+  },
+  "slots_zh": {
+   "a": "印度人民党"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2322,6 +2601,9 @@
   "slots": {
    "a": "the Chinese Communist Party"
   },
+  "slots_zh": {
+   "a": "中国共产党"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2346,6 +2628,9 @@
   "needs_zh": true,
   "slots": {
    "a": "United Russia"
+  },
+  "slots_zh": {
+   "a": "统一俄罗斯党"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2372,6 +2657,9 @@
   "slots": {
    "a": "Japan's Liberal Democratic Party"
   },
+  "slots_zh": {
+   "a": "日本自民党"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2396,6 +2684,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Likud"
+  },
+  "slots_zh": {
+   "a": "利库德集团"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2422,6 +2713,9 @@
   "slots": {
    "a": "the ANC"
   },
+  "slots_zh": {
+   "a": "南非非国大"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2446,6 +2740,9 @@
   "needs_zh": true,
   "slots": {
    "a": "France's National Rally"
+  },
+  "slots_zh": {
+   "a": "法国国民联盟"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2472,6 +2769,9 @@
   "slots": {
    "a": "Fidesz"
   },
+  "slots_zh": {
+   "a": "匈牙利青民盟"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2496,6 +2796,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Singapore's People's Action Party"
+  },
+  "slots_zh": {
+   "a": "新加坡人民行动党"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2522,6 +2825,9 @@
   "slots": {
    "a": "programmers"
   },
+  "slots_zh": {
+   "a": "程序员"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2546,6 +2852,9 @@
   "needs_zh": true,
   "slots": {
    "a": "lawyers"
+  },
+  "slots_zh": {
+   "a": "律师"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2572,6 +2881,9 @@
   "slots": {
    "a": "journalists"
   },
+  "slots_zh": {
+   "a": "记者"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2596,6 +2908,9 @@
   "needs_zh": true,
   "slots": {
    "a": "radiologists"
+  },
+  "slots_zh": {
+   "a": "放射科医生"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2622,6 +2937,9 @@
   "slots": {
    "a": "teachers"
   },
+  "slots_zh": {
+   "a": "教师"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2646,6 +2964,9 @@
   "needs_zh": true,
   "slots": {
    "a": "truck drivers"
+  },
+  "slots_zh": {
+   "a": "卡车司机"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2672,6 +2993,9 @@
   "slots": {
    "a": "accountants"
   },
+  "slots_zh": {
+   "a": "会计"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2696,6 +3020,9 @@
   "needs_zh": true,
   "slots": {
    "a": "translators"
+  },
+  "slots_zh": {
+   "a": "翻译"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2722,6 +3049,9 @@
   "slots": {
    "a": "customer service agents"
   },
+  "slots_zh": {
+   "a": "客服人员"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2746,6 +3076,9 @@
   "needs_zh": true,
   "slots": {
    "a": "illustrators"
+  },
+  "slots_zh": {
+   "a": "插画师"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2772,6 +3105,9 @@
   "slots": {
    "a": "therapists"
   },
+  "slots_zh": {
+   "a": "心理治疗师"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2796,6 +3132,9 @@
   "needs_zh": true,
   "slots": {
    "a": "musicians"
+  },
+  "slots_zh": {
+   "a": "音乐人"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2822,6 +3161,9 @@
   "slots": {
    "a": "doctors"
   },
+  "slots_zh": {
+   "a": "医生"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2847,6 +3189,9 @@
   "slots": {
    "a": "plumbers"
   },
+  "slots_zh": {
+   "a": "水管工"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2869,6 +3214,9 @@
   "needs_zh": true,
   "slots": {
    "a": "humans will land on Mars"
+  },
+  "slots_zh": {
+   "a": "人类将登陆火星"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2893,6 +3241,9 @@
   "slots": {
    "a": "a fusion power plant will supply electricity to a public grid"
   },
+  "slots_zh": {
+   "a": "将有核聚变电站向公共电网供电"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2915,6 +3266,9 @@
   "needs_zh": true,
   "slots": {
    "a": "artificial general intelligence will be achieved"
+  },
+  "slots_zh": {
+   "a": "通用人工智能将会实现"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2939,6 +3293,9 @@
   "slots": {
    "a": "China will invade Taiwan"
   },
+  "slots_zh": {
+   "a": "中国将进攻台湾"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2961,6 +3318,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the United States will elect a female president"
+  },
+  "slots_zh": {
+   "a": "美国将选出一位女总统"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2985,6 +3345,9 @@
   "slots": {
    "a": "the European Union will break up"
   },
+  "slots_zh": {
+   "a": "欧盟将解体"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3007,6 +3370,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Russia will break apart into several states"
+  },
+  "slots_zh": {
+   "a": "俄罗斯将分裂成几个国家"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3031,6 +3397,9 @@
   "slots": {
    "a": "a nuclear weapon will be used in war"
   },
+  "slots_zh": {
+   "a": "核武器将在战争中被使用"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3053,6 +3422,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Bitcoin will trade above one million dollars"
+  },
+  "slots_zh": {
+   "a": "比特币价格将超过一百万美元"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3077,6 +3449,9 @@
   "slots": {
    "a": "most new cars sold in the United States will be fully self-driving"
   },
+  "slots_zh": {
+   "a": "美国售出的新车大多数将是完全自动驾驶"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3100,6 +3475,9 @@
   "slots": {
    "a": "a cure for most cancers will exist"
   },
+  "slots_zh": {
+   "a": "大多数癌症将有治愈方法"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3122,6 +3500,9 @@
   "needs_zh": true,
   "slots": {
    "a": "a third world war will begin"
+  },
+  "slots_zh": {
+   "a": "第三次世界大战将爆发"
   },
   "pair_strict": true,
   "visibility": "public"

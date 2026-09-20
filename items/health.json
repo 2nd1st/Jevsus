@@ -20,6 +20,9 @@
   "slots": {
    "a": "Sushi"
   },
+  "slots_zh": {
+   "a": "寿司"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -43,6 +46,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Pizza"
+  },
+  "slots_zh": {
+   "a": "披萨"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -68,6 +74,9 @@
   "slots": {
    "a": "Durian"
   },
+  "slots_zh": {
+   "a": "榴莲"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -91,6 +100,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Pineapple pizza"
+  },
+  "slots_zh": {
+   "a": "菠萝披萨"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -116,6 +128,9 @@
   "slots": {
    "a": "Avocado toast"
   },
+  "slots_zh": {
+   "a": "牛油果吐司"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -139,6 +154,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Coffee"
+  },
+  "slots_zh": {
+   "a": "咖啡"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -164,6 +182,9 @@
   "slots": {
    "a": "Bubble tea"
   },
+  "slots_zh": {
+   "a": "珍珠奶茶"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -187,6 +208,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Kale"
+  },
+  "slots_zh": {
+   "a": "羽衣甘蓝"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -212,6 +236,9 @@
   "slots": {
    "a": "Tofu"
   },
+  "slots_zh": {
+   "a": "豆腐"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -235,6 +262,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Haggis"
+  },
+  "slots_zh": {
+   "a": "哈吉斯（苏格兰羊杂）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -260,6 +290,9 @@
   "slots": {
    "a": "Vegemite"
   },
+  "slots_zh": {
+   "a": "维吉麦酱"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -283,6 +316,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Natto"
+  },
+  "slots_zh": {
+   "a": "纳豆"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -308,6 +344,9 @@
   "slots": {
    "a": "Cilantro"
   },
+  "slots_zh": {
+   "a": "香菜"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -331,6 +370,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Oat milk"
+  },
+  "slots_zh": {
+   "a": "燕麦奶"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -356,6 +398,9 @@
   "slots": {
    "a": "Energy drinks"
   },
+  "slots_zh": {
+   "a": "能量饮料"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -379,6 +424,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Blue cheese"
+  },
+  "slots_zh": {
+   "a": "蓝纹奶酪"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -404,6 +452,9 @@
   "slots": {
    "a": "French food"
   },
+  "slots_zh": {
+   "a": "法国菜"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -427,6 +478,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Italian food"
+  },
+  "slots_zh": {
+   "a": "意大利菜"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -452,6 +506,9 @@
   "slots": {
    "a": "Chinese food"
   },
+  "slots_zh": {
+   "a": "中国菜"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -475,6 +532,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Japanese food"
+  },
+  "slots_zh": {
+   "a": "日本菜"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -500,6 +560,9 @@
   "slots": {
    "a": "Indian food"
   },
+  "slots_zh": {
+   "a": "印度菜"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -523,6 +586,9 @@
   "needs_zh": true,
   "slots": {
    "a": "British food"
+  },
+  "slots_zh": {
+   "a": "英国菜"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -548,6 +614,9 @@
   "slots": {
    "a": "American food"
   },
+  "slots_zh": {
+   "a": "美国菜"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -571,6 +640,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Mexican food"
+  },
+  "slots_zh": {
+   "a": "墨西哥菜"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -596,6 +668,9 @@
   "slots": {
    "a": "Korean food"
   },
+  "slots_zh": {
+   "a": "韩国菜"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -619,6 +694,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Thai food"
+  },
+  "slots_zh": {
+   "a": "泰国菜"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -644,6 +722,9 @@
   "slots": {
    "a": "eating sugar"
   },
+  "slots_zh": {
+   "a": "吃糖"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -667,6 +748,9 @@
   "needs_zh": true,
   "slots": {
    "a": "drinking coffee"
+  },
+  "slots_zh": {
+   "a": "喝咖啡"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -692,6 +776,9 @@
   "slots": {
    "a": "drinking alcohol in moderation"
   },
+  "slots_zh": {
+   "a": "适量饮酒"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -715,6 +802,9 @@
   "needs_zh": true,
   "slots": {
    "a": "eating red meat"
+  },
+  "slots_zh": {
+   "a": "吃红肉"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -740,6 +830,9 @@
   "slots": {
    "a": "eating gluten"
   },
+  "slots_zh": {
+   "a": "吃麸质"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -763,6 +856,9 @@
   "needs_zh": true,
   "slots": {
    "a": "consuming dairy"
+  },
+  "slots_zh": {
+   "a": "吃乳制品"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -788,6 +884,9 @@
   "slots": {
    "a": "using artificial sweeteners"
   },
+  "slots_zh": {
+   "a": "用人工甜味剂"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -811,6 +910,9 @@
   "needs_zh": true,
   "slots": {
    "a": "vaping"
+  },
+  "slots_zh": {
+   "a": "抽电子烟"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -836,6 +938,9 @@
   "slots": {
    "a": "using cannabis"
   },
+  "slots_zh": {
+   "a": "吸大麻"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -859,6 +964,9 @@
   "needs_zh": true,
   "slots": {
    "a": "eating ultra-processed food"
+  },
+  "slots_zh": {
+   "a": "吃超加工食品"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -884,6 +992,9 @@
   "slots": {
    "a": "drinking fluoridated tap water"
   },
+  "slots_zh": {
+   "a": "喝加氟自来水"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -907,6 +1018,9 @@
   "needs_zh": true,
   "slots": {
    "a": "eating microwaved food"
+  },
+  "slots_zh": {
+   "a": "吃微波炉加热的食物"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -932,6 +1046,9 @@
   "slots": {
    "a": "eating eggs"
   },
+  "slots_zh": {
+   "a": "吃鸡蛋"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -955,6 +1072,9 @@
   "needs_zh": true,
   "slots": {
    "a": "following a fully vegan diet"
+  },
+  "slots_zh": {
+   "a": "完全纯素饮食"
   },
   "pair_strict": true,
   "visibility": "public"

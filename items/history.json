@@ -30,6 +30,9 @@
   "slots": {
    "a": "Napoleon"
   },
+  "slots_zh": {
+   "a": "拿破仑"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -63,6 +66,9 @@
   ],
   "slots": {
    "a": "Winston Churchill"
+  },
+  "slots_zh": {
+   "a": "温斯顿·丘吉尔"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -98,6 +104,9 @@
   "slots": {
    "a": "Mao Zedong"
   },
+  "slots_zh": {
+   "a": "毛泽东"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -131,6 +140,9 @@
   ],
   "slots": {
    "a": "Genghis Khan"
+  },
+  "slots_zh": {
+   "a": "成吉思汗"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -166,6 +178,9 @@
   "slots": {
    "a": "Christopher Columbus"
   },
+  "slots_zh": {
+   "a": "哥伦布"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -199,6 +214,9 @@
   ],
   "slots": {
    "a": "Mahatma Gandhi"
+  },
+  "slots_zh": {
+   "a": "圣雄甘地"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -234,6 +252,9 @@
   "slots": {
    "a": "Joseph Stalin"
   },
+  "slots_zh": {
+   "a": "斯大林"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -267,6 +288,9 @@
   ],
   "slots": {
    "a": "Lee Kuan Yew"
+  },
+  "slots_zh": {
+   "a": "李光耀"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -302,6 +326,9 @@
   "slots": {
    "a": "Abraham Lincoln"
   },
+  "slots_zh": {
+   "a": "亚伯拉罕·林肯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -335,6 +362,9 @@
   ],
   "slots": {
    "a": "Che Guevara"
+  },
+  "slots_zh": {
+   "a": "切·格瓦拉"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -370,6 +400,9 @@
   "slots": {
    "a": "Margaret Thatcher"
   },
+  "slots_zh": {
+   "a": "玛格丽特·撒切尔"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -403,6 +436,9 @@
   ],
   "slots": {
    "a": "Ronald Reagan"
+  },
+  "slots_zh": {
+   "a": "罗纳德·里根"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -438,6 +474,9 @@
   "slots": {
    "a": "Vladimir Lenin"
   },
+  "slots_zh": {
+   "a": "列宁"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -471,6 +510,9 @@
   ],
   "slots": {
    "a": "Nelson Mandela"
+  },
+  "slots_zh": {
+   "a": "纳尔逊·曼德拉"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -506,6 +548,9 @@
   "slots": {
    "a": "Mother Teresa"
   },
+  "slots_zh": {
+   "a": "特蕾莎修女"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -539,6 +584,9 @@
   ],
   "slots": {
    "a": "Julius Caesar"
+  },
+  "slots_zh": {
+   "a": "尤利乌斯·凯撒"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -574,6 +622,9 @@
   "slots": {
    "a": "Napoleon"
   },
+  "slots_zh": {
+   "a": "拿破仑"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -607,6 +658,9 @@
   ],
   "slots": {
    "a": "Winston Churchill"
+  },
+  "slots_zh": {
+   "a": "温斯顿·丘吉尔"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -642,6 +696,9 @@
   "slots": {
    "a": "Mao Zedong"
   },
+  "slots_zh": {
+   "a": "毛泽东"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -675,6 +732,9 @@
   ],
   "slots": {
    "a": "Genghis Khan"
+  },
+  "slots_zh": {
+   "a": "成吉思汗"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -710,6 +770,9 @@
   "slots": {
    "a": "Christopher Columbus"
   },
+  "slots_zh": {
+   "a": "哥伦布"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -743,6 +806,9 @@
   ],
   "slots": {
    "a": "Mahatma Gandhi"
+  },
+  "slots_zh": {
+   "a": "圣雄甘地"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -778,6 +844,9 @@
   "slots": {
    "a": "Joseph Stalin"
   },
+  "slots_zh": {
+   "a": "斯大林"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -811,6 +880,9 @@
   ],
   "slots": {
    "a": "Lee Kuan Yew"
+  },
+  "slots_zh": {
+   "a": "李光耀"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -846,6 +918,9 @@
   "slots": {
    "a": "Abraham Lincoln"
   },
+  "slots_zh": {
+   "a": "亚伯拉罕·林肯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -879,6 +954,9 @@
   ],
   "slots": {
    "a": "Che Guevara"
+  },
+  "slots_zh": {
+   "a": "切·格瓦拉"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -914,6 +992,9 @@
   "slots": {
    "a": "Margaret Thatcher"
   },
+  "slots_zh": {
+   "a": "玛格丽特·撒切尔"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -947,6 +1028,9 @@
   ],
   "slots": {
    "a": "Ronald Reagan"
+  },
+  "slots_zh": {
+   "a": "罗纳德·里根"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -982,6 +1066,9 @@
   "slots": {
    "a": "Vladimir Lenin"
   },
+  "slots_zh": {
+   "a": "列宁"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1015,6 +1102,9 @@
   ],
   "slots": {
    "a": "Nelson Mandela"
+  },
+  "slots_zh": {
+   "a": "纳尔逊·曼德拉"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1050,6 +1140,9 @@
   "slots": {
    "a": "Mother Teresa"
   },
+  "slots_zh": {
+   "a": "特蕾莎修女"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1084,6 +1177,9 @@
   "slots": {
    "a": "Julius Caesar"
   },
+  "slots_zh": {
+   "a": "尤利乌斯·凯撒"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1107,6 +1203,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Napoleon"
+  },
+  "slots_zh": {
+   "a": "拿破仑"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1132,6 +1231,9 @@
   "slots": {
    "a": "Winston Churchill"
   },
+  "slots_zh": {
+   "a": "温斯顿·丘吉尔"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1155,6 +1257,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Mao Zedong"
+  },
+  "slots_zh": {
+   "a": "毛泽东"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1180,6 +1285,9 @@
   "slots": {
    "a": "Genghis Khan"
   },
+  "slots_zh": {
+   "a": "成吉思汗"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1203,6 +1311,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Christopher Columbus"
+  },
+  "slots_zh": {
+   "a": "哥伦布"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1228,6 +1339,9 @@
   "slots": {
    "a": "Mahatma Gandhi"
   },
+  "slots_zh": {
+   "a": "圣雄甘地"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1251,6 +1365,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Joseph Stalin"
+  },
+  "slots_zh": {
+   "a": "斯大林"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1276,6 +1393,9 @@
   "slots": {
    "a": "Lee Kuan Yew"
   },
+  "slots_zh": {
+   "a": "李光耀"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1299,6 +1419,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Abraham Lincoln"
+  },
+  "slots_zh": {
+   "a": "亚伯拉罕·林肯"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1324,6 +1447,9 @@
   "slots": {
    "a": "Che Guevara"
   },
+  "slots_zh": {
+   "a": "切·格瓦拉"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1347,6 +1473,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Margaret Thatcher"
+  },
+  "slots_zh": {
+   "a": "玛格丽特·撒切尔"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1372,6 +1501,9 @@
   "slots": {
    "a": "Ronald Reagan"
   },
+  "slots_zh": {
+   "a": "罗纳德·里根"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1395,6 +1527,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Vladimir Lenin"
+  },
+  "slots_zh": {
+   "a": "列宁"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1420,6 +1555,9 @@
   "slots": {
    "a": "Nelson Mandela"
   },
+  "slots_zh": {
+   "a": "纳尔逊·曼德拉"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1443,6 +1581,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Mother Teresa"
+  },
+  "slots_zh": {
+   "a": "特蕾莎修女"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1468,6 +1609,9 @@
   "slots": {
    "a": "Julius Caesar"
   },
+  "slots_zh": {
+   "a": "尤利乌斯·凯撒"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1491,6 +1635,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Napoleon"
+  },
+  "slots_zh": {
+   "a": "拿破仑"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1516,6 +1663,9 @@
   "slots": {
    "a": "Winston Churchill"
   },
+  "slots_zh": {
+   "a": "温斯顿·丘吉尔"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1539,6 +1689,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Mao Zedong"
+  },
+  "slots_zh": {
+   "a": "毛泽东"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1564,6 +1717,9 @@
   "slots": {
    "a": "Genghis Khan"
   },
+  "slots_zh": {
+   "a": "成吉思汗"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1587,6 +1743,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Christopher Columbus"
+  },
+  "slots_zh": {
+   "a": "哥伦布"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1612,6 +1771,9 @@
   "slots": {
    "a": "Mahatma Gandhi"
   },
+  "slots_zh": {
+   "a": "圣雄甘地"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1635,6 +1797,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Joseph Stalin"
+  },
+  "slots_zh": {
+   "a": "斯大林"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1660,6 +1825,9 @@
   "slots": {
    "a": "Lee Kuan Yew"
   },
+  "slots_zh": {
+   "a": "李光耀"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1683,6 +1851,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Abraham Lincoln"
+  },
+  "slots_zh": {
+   "a": "亚伯拉罕·林肯"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1708,6 +1879,9 @@
   "slots": {
    "a": "Che Guevara"
   },
+  "slots_zh": {
+   "a": "切·格瓦拉"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1731,6 +1905,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Margaret Thatcher"
+  },
+  "slots_zh": {
+   "a": "玛格丽特·撒切尔"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1756,6 +1933,9 @@
   "slots": {
    "a": "Ronald Reagan"
   },
+  "slots_zh": {
+   "a": "罗纳德·里根"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1779,6 +1959,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Vladimir Lenin"
+  },
+  "slots_zh": {
+   "a": "列宁"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1804,6 +1987,9 @@
   "slots": {
    "a": "Nelson Mandela"
   },
+  "slots_zh": {
+   "a": "纳尔逊·曼德拉"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1827,6 +2013,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Mother Teresa"
+  },
+  "slots_zh": {
+   "a": "特蕾莎修女"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1852,6 +2041,9 @@
   "slots": {
    "a": "Julius Caesar"
   },
+  "slots_zh": {
+   "a": "尤利乌斯·凯撒"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1875,6 +2067,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Napoleon"
+  },
+  "slots_zh": {
+   "a": "拿破仑"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1900,6 +2095,9 @@
   "slots": {
    "a": "Winston Churchill"
   },
+  "slots_zh": {
+   "a": "温斯顿·丘吉尔"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1923,6 +2121,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Mao Zedong"
+  },
+  "slots_zh": {
+   "a": "毛泽东"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1948,6 +2149,9 @@
   "slots": {
    "a": "Genghis Khan"
   },
+  "slots_zh": {
+   "a": "成吉思汗"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1971,6 +2175,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Christopher Columbus"
+  },
+  "slots_zh": {
+   "a": "哥伦布"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1996,6 +2203,9 @@
   "slots": {
    "a": "Mahatma Gandhi"
   },
+  "slots_zh": {
+   "a": "圣雄甘地"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2019,6 +2229,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Joseph Stalin"
+  },
+  "slots_zh": {
+   "a": "斯大林"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2044,6 +2257,9 @@
   "slots": {
    "a": "Lee Kuan Yew"
   },
+  "slots_zh": {
+   "a": "李光耀"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2067,6 +2283,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Abraham Lincoln"
+  },
+  "slots_zh": {
+   "a": "亚伯拉罕·林肯"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2092,6 +2311,9 @@
   "slots": {
    "a": "Che Guevara"
   },
+  "slots_zh": {
+   "a": "切·格瓦拉"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2115,6 +2337,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Margaret Thatcher"
+  },
+  "slots_zh": {
+   "a": "玛格丽特·撒切尔"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2140,6 +2365,9 @@
   "slots": {
    "a": "Ronald Reagan"
   },
+  "slots_zh": {
+   "a": "罗纳德·里根"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2163,6 +2391,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Vladimir Lenin"
+  },
+  "slots_zh": {
+   "a": "列宁"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2188,6 +2419,9 @@
   "slots": {
    "a": "Nelson Mandela"
   },
+  "slots_zh": {
+   "a": "纳尔逊·曼德拉"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2211,6 +2445,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Mother Teresa"
+  },
+  "slots_zh": {
+   "a": "特蕾莎修女"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2236,6 +2473,9 @@
   "slots": {
    "a": "Julius Caesar"
   },
+  "slots_zh": {
+   "a": "尤利乌斯·凯撒"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2259,6 +2499,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Napoleon"
+  },
+  "slots_zh": {
+   "a": "拿破仑"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2284,6 +2527,9 @@
   "slots": {
    "a": "Winston Churchill"
   },
+  "slots_zh": {
+   "a": "温斯顿·丘吉尔"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2307,6 +2553,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Mao Zedong"
+  },
+  "slots_zh": {
+   "a": "毛泽东"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2332,6 +2581,9 @@
   "slots": {
    "a": "Genghis Khan"
   },
+  "slots_zh": {
+   "a": "成吉思汗"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2355,6 +2607,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Christopher Columbus"
+  },
+  "slots_zh": {
+   "a": "哥伦布"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2380,6 +2635,9 @@
   "slots": {
    "a": "Mahatma Gandhi"
   },
+  "slots_zh": {
+   "a": "圣雄甘地"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2403,6 +2661,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Joseph Stalin"
+  },
+  "slots_zh": {
+   "a": "斯大林"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2428,6 +2689,9 @@
   "slots": {
    "a": "Lee Kuan Yew"
   },
+  "slots_zh": {
+   "a": "李光耀"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2451,6 +2715,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Abraham Lincoln"
+  },
+  "slots_zh": {
+   "a": "亚伯拉罕·林肯"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2476,6 +2743,9 @@
   "slots": {
    "a": "Che Guevara"
   },
+  "slots_zh": {
+   "a": "切·格瓦拉"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2499,6 +2769,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Margaret Thatcher"
+  },
+  "slots_zh": {
+   "a": "玛格丽特·撒切尔"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2524,6 +2797,9 @@
   "slots": {
    "a": "Ronald Reagan"
   },
+  "slots_zh": {
+   "a": "罗纳德·里根"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2547,6 +2823,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Vladimir Lenin"
+  },
+  "slots_zh": {
+   "a": "列宁"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2572,6 +2851,9 @@
   "slots": {
    "a": "Nelson Mandela"
   },
+  "slots_zh": {
+   "a": "纳尔逊·曼德拉"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2595,6 +2877,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Mother Teresa"
+  },
+  "slots_zh": {
+   "a": "特蕾莎修女"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2620,6 +2905,9 @@
   "slots": {
    "a": "Julius Caesar"
   },
+  "slots_zh": {
+   "a": "尤利乌斯·凯撒"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2643,6 +2931,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The atomic bombing of Hiroshima"
+  },
+  "slots_zh": {
+   "a": "广岛原子弹轰炸"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2668,6 +2959,9 @@
   "slots": {
    "a": "The 2003 invasion of Iraq"
   },
+  "slots_zh": {
+   "a": "2003 年入侵伊拉克"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2691,6 +2985,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The French Revolution"
+  },
+  "slots_zh": {
+   "a": "法国大革命"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2716,6 +3013,9 @@
   "slots": {
    "a": "The Russian Revolution"
   },
+  "slots_zh": {
+   "a": "俄国革命"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2739,6 +3039,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Brexit"
+  },
+  "slots_zh": {
+   "a": "英国脱欧"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2764,6 +3067,9 @@
   "slots": {
    "a": "The partition of India"
   },
+  "slots_zh": {
+   "a": "印巴分治"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2787,6 +3093,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The bombing of Dresden"
+  },
+  "slots_zh": {
+   "a": "德累斯顿大轰炸"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2812,6 +3121,9 @@
   "slots": {
    "a": "The Crusades"
   },
+  "slots_zh": {
+   "a": "十字军东征"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2835,6 +3147,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Cultural Revolution"
+  },
+  "slots_zh": {
+   "a": "文化大革命"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2860,6 +3175,9 @@
   "slots": {
    "a": "The American Revolution"
   },
+  "slots_zh": {
+   "a": "美国独立战争"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2883,6 +3201,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Meiji Restoration"
+  },
+  "slots_zh": {
+   "a": "明治维新"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2908,6 +3229,9 @@
   "slots": {
    "a": "The dissolution of the Soviet Union"
   },
+  "slots_zh": {
+   "a": "苏联解体"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2931,6 +3255,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The atomic bombing of Hiroshima"
+  },
+  "slots_zh": {
+   "a": "广岛原子弹轰炸"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2956,6 +3283,9 @@
   "slots": {
    "a": "The 2003 invasion of Iraq"
   },
+  "slots_zh": {
+   "a": "2003 年入侵伊拉克"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2979,6 +3309,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The French Revolution"
+  },
+  "slots_zh": {
+   "a": "法国大革命"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3004,6 +3337,9 @@
   "slots": {
    "a": "The Russian Revolution"
   },
+  "slots_zh": {
+   "a": "俄国革命"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3027,6 +3363,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Brexit"
+  },
+  "slots_zh": {
+   "a": "英国脱欧"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3052,6 +3391,9 @@
   "slots": {
    "a": "The partition of India"
   },
+  "slots_zh": {
+   "a": "印巴分治"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3075,6 +3417,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The bombing of Dresden"
+  },
+  "slots_zh": {
+   "a": "德累斯顿大轰炸"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3100,6 +3445,9 @@
   "slots": {
    "a": "The Crusades"
   },
+  "slots_zh": {
+   "a": "十字军东征"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3123,6 +3471,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Cultural Revolution"
+  },
+  "slots_zh": {
+   "a": "文化大革命"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3148,6 +3499,9 @@
   "slots": {
    "a": "The American Revolution"
   },
+  "slots_zh": {
+   "a": "美国独立战争"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3171,6 +3525,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Meiji Restoration"
+  },
+  "slots_zh": {
+   "a": "明治维新"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3196,6 +3553,9 @@
   "slots": {
    "a": "The dissolution of the Soviet Union"
   },
+  "slots_zh": {
+   "a": "苏联解体"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3219,6 +3579,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The atomic bombing of Hiroshima"
+  },
+  "slots_zh": {
+   "a": "广岛原子弹轰炸"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3244,6 +3607,9 @@
   "slots": {
    "a": "The 2003 invasion of Iraq"
   },
+  "slots_zh": {
+   "a": "2003 年入侵伊拉克"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3267,6 +3633,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The French Revolution"
+  },
+  "slots_zh": {
+   "a": "法国大革命"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3292,6 +3661,9 @@
   "slots": {
    "a": "The Russian Revolution"
   },
+  "slots_zh": {
+   "a": "俄国革命"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3315,6 +3687,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Brexit"
+  },
+  "slots_zh": {
+   "a": "英国脱欧"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3340,6 +3715,9 @@
   "slots": {
    "a": "The partition of India"
   },
+  "slots_zh": {
+   "a": "印巴分治"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3363,6 +3741,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The bombing of Dresden"
+  },
+  "slots_zh": {
+   "a": "德累斯顿大轰炸"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3388,6 +3769,9 @@
   "slots": {
    "a": "The Crusades"
   },
+  "slots_zh": {
+   "a": "十字军东征"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3411,6 +3795,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Cultural Revolution"
+  },
+  "slots_zh": {
+   "a": "文化大革命"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3436,6 +3823,9 @@
   "slots": {
    "a": "The American Revolution"
   },
+  "slots_zh": {
+   "a": "美国独立战争"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3460,6 +3850,9 @@
   "slots": {
    "a": "The Meiji Restoration"
   },
+  "slots_zh": {
+   "a": "明治维新"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3483,6 +3876,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The dissolution of the Soviet Union"
+  },
+  "slots_zh": {
+   "a": "苏联解体"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3515,6 +3911,10 @@
    "a": "Russia",
    "b": "the 2022 war in Ukraine"
   },
+  "slots_zh": {
+   "a": "俄罗斯",
+   "b": "2022 年乌克兰战争"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3545,6 +3945,10 @@
   "slots": {
    "a": "the United States",
    "b": "the 2003 Iraq War"
+  },
+  "slots_zh": {
+   "a": "美国",
+   "b": "2003 年伊拉克战争"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3577,6 +3981,10 @@
    "a": "Israel",
    "b": "the 2023 Gaza war"
   },
+  "slots_zh": {
+   "a": "以色列",
+   "b": "2023 年加沙战争"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3607,6 +4015,10 @@
   "slots": {
    "a": "Hamas",
    "b": "the 2023 Gaza war"
+  },
+  "slots_zh": {
+   "a": "哈马斯",
+   "b": "2023 年加沙战争"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3639,6 +4051,10 @@
    "a": "NATO",
    "b": "the 1999 Kosovo war"
   },
+  "slots_zh": {
+   "a": "北约",
+   "b": "1999 年科索沃战争"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3669,6 +4085,10 @@
   "slots": {
    "a": "Japan",
    "b": "the 1937 Sino-Japanese War"
+  },
+  "slots_zh": {
+   "a": "日本",
+   "b": "1937 年中日战争"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3701,6 +4121,10 @@
    "a": "the United States",
    "b": "the Vietnam War"
   },
+  "slots_zh": {
+   "a": "美国",
+   "b": "越南战争"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3731,6 +4155,10 @@
   "slots": {
    "a": "China",
    "b": "the 1962 Sino-Indian War"
+  },
+  "slots_zh": {
+   "a": "中国",
+   "b": "1962 年中印战争"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3763,6 +4191,10 @@
    "a": "North Korea",
    "b": "the Korean War"
   },
+  "slots_zh": {
+   "a": "朝鲜",
+   "b": "朝鲜战争"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3793,6 +4225,10 @@
   "slots": {
    "a": "Azerbaijan",
    "b": "the 2020 Nagorno-Karabakh war"
+  },
+  "slots_zh": {
+   "a": "阿塞拜疆",
+   "b": "2020 年纳卡战争"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3825,6 +4261,10 @@
    "a": "Saudi Arabia",
    "b": "the war in Yemen"
   },
+  "slots_zh": {
+   "a": "沙特阿拉伯",
+   "b": "也门战争"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3855,6 +4295,10 @@
   "slots": {
    "a": "Argentina",
    "b": "the Falklands War"
+  },
+  "slots_zh": {
+   "a": "阿根廷",
+   "b": "马岛战争"
   },
   "pair_strict": true,
   "visibility": "public"

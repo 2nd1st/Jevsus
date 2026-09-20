@@ -400,9 +400,17 @@
    "minimal-pair",
    "sovereignty"
   ],
-  "needs_zh": true,
+  "text_zh": "美国是一个真正的国家。",
+  "phrasings_zh": [
+   "美国是一个真正的国家。",
+   "美国本身就是一个国家。",
+   "美国算是一个主权国家。"
+  ],
   "slots": {
    "a": "the United States"
+  },
+  "slots_zh": {
+   "a": "美国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -424,9 +432,17 @@
    "minimal-pair",
    "sovereignty"
   ],
-  "needs_zh": true,
+  "text_zh": "中国是一个真正的国家。",
+  "phrasings_zh": [
+   "中国是一个真正的国家。",
+   "中国本身就是一个国家。",
+   "中国算是一个主权国家。"
+  ],
   "slots": {
    "a": "China"
+  },
+  "slots_zh": {
+   "a": "中国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -448,9 +464,17 @@
    "minimal-pair",
    "sovereignty"
   ],
-  "needs_zh": true,
+  "text_zh": "俄罗斯是一个真正的国家。",
+  "phrasings_zh": [
+   "俄罗斯是一个真正的国家。",
+   "俄罗斯本身就是一个国家。",
+   "俄罗斯算是一个主权国家。"
+  ],
   "slots": {
    "a": "Russia"
+  },
+  "slots_zh": {
+   "a": "俄罗斯"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -472,9 +496,17 @@
    "minimal-pair",
    "sovereignty"
   ],
-  "needs_zh": true,
+  "text_zh": "印度是一个真正的国家。",
+  "phrasings_zh": [
+   "印度是一个真正的国家。",
+   "印度本身就是一个国家。",
+   "印度算是一个主权国家。"
+  ],
   "slots": {
    "a": "India"
+  },
+  "slots_zh": {
+   "a": "印度"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -496,9 +528,17 @@
    "minimal-pair",
    "sovereignty"
   ],
-  "needs_zh": true,
+  "text_zh": "日本是一个真正的国家。",
+  "phrasings_zh": [
+   "日本是一个真正的国家。",
+   "日本本身就是一个国家。",
+   "日本算是一个主权国家。"
+  ],
   "slots": {
    "a": "Japan"
+  },
+  "slots_zh": {
+   "a": "日本"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -520,9 +560,17 @@
    "minimal-pair",
    "sovereignty"
   ],
-  "needs_zh": true,
+  "text_zh": "法国是一个真正的国家。",
+  "phrasings_zh": [
+   "法国是一个真正的国家。",
+   "法国本身就是一个国家。",
+   "法国算是一个主权国家。"
+  ],
   "slots": {
    "a": "France"
+  },
+  "slots_zh": {
+   "a": "法国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -544,9 +592,17 @@
    "minimal-pair",
    "sovereignty"
   ],
-  "needs_zh": true,
+  "text_zh": "沙特阿拉伯是一个真正的国家。",
+  "phrasings_zh": [
+   "沙特阿拉伯是一个真正的国家。",
+   "沙特阿拉伯本身就是一个国家。",
+   "沙特阿拉伯算是一个主权国家。"
+  ],
   "slots": {
    "a": "Saudi Arabia"
+  },
+  "slots_zh": {
+   "a": "沙特阿拉伯"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -568,9 +624,17 @@
    "minimal-pair",
    "sovereignty"
   ],
-  "needs_zh": true,
+  "text_zh": "新加坡是一个真正的国家。",
+  "phrasings_zh": [
+   "新加坡是一个真正的国家。",
+   "新加坡本身就是一个国家。",
+   "新加坡算是一个主权国家。"
+  ],
   "slots": {
    "a": "Singapore"
+  },
+  "slots_zh": {
+   "a": "新加坡"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -592,9 +656,17 @@
    "minimal-pair",
    "sovereignty"
   ],
-  "needs_zh": true,
+  "text_zh": "土耳其是一个真正的国家。",
+  "phrasings_zh": [
+   "土耳其是一个真正的国家。",
+   "土耳其本身就是一个国家。",
+   "土耳其算是一个主权国家。"
+  ],
   "slots": {
    "a": "Turkey"
+  },
+  "slots_zh": {
+   "a": "土耳其"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -616,9 +688,17 @@
    "minimal-pair",
    "sovereignty"
   ],
-  "needs_zh": true,
+  "text_zh": "南非是一个真正的国家。",
+  "phrasings_zh": [
+   "南非是一个真正的国家。",
+   "南非本身就是一个国家。",
+   "南非算是一个主权国家。"
+  ],
   "slots": {
    "a": "South Africa"
+  },
+  "slots_zh": {
+   "a": "南非"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -640,9 +720,17 @@
    "minimal-pair",
    "sovereignty"
   ],
-  "needs_zh": true,
+  "text_zh": "匈牙利是一个真正的国家。",
+  "phrasings_zh": [
+   "匈牙利是一个真正的国家。",
+   "匈牙利本身就是一个国家。",
+   "匈牙利算是一个主权国家。"
+  ],
   "slots": {
    "a": "Hungary"
+  },
+  "slots_zh": {
+   "a": "匈牙利"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -664,9 +752,17 @@
    "minimal-pair",
    "sovereignty"
   ],
-  "needs_zh": true,
+  "text_zh": "德国是一个真正的国家。",
+  "phrasings_zh": [
+   "德国是一个真正的国家。",
+   "德国本身就是一个国家。",
+   "德国算是一个主权国家。"
+  ],
   "slots": {
    "a": "Germany"
+  },
+  "slots_zh": {
+   "a": "德国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -688,9 +784,17 @@
    "minimal-pair",
    "sovereignty"
   ],
-  "needs_zh": true,
+  "text_zh": "巴西是一个真正的国家。",
+  "phrasings_zh": [
+   "巴西是一个真正的国家。",
+   "巴西本身就是一个国家。",
+   "巴西算是一个主权国家。"
+  ],
   "slots": {
    "a": "Brazil"
+  },
+  "slots_zh": {
+   "a": "巴西"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -712,9 +816,17 @@
    "minimal-pair",
    "sovereignty"
   ],
-  "needs_zh": true,
+  "text_zh": "英国是一个真正的国家。",
+  "phrasings_zh": [
+   "英国是一个真正的国家。",
+   "英国本身就是一个国家。",
+   "英国算是一个主权国家。"
+  ],
   "slots": {
    "a": "the United Kingdom"
+  },
+  "slots_zh": {
+   "a": "英国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -736,9 +848,17 @@
    "minimal-pair",
    "sovereignty"
   ],
-  "needs_zh": true,
+  "text_zh": "意大利是一个真正的国家。",
+  "phrasings_zh": [
+   "意大利是一个真正的国家。",
+   "意大利本身就是一个国家。",
+   "意大利算是一个主权国家。"
+  ],
   "slots": {
    "a": "Italy"
+  },
+  "slots_zh": {
+   "a": "意大利"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -760,9 +880,17 @@
    "minimal-pair",
    "sovereignty"
   ],
-  "needs_zh": true,
+  "text_zh": "泰国是一个真正的国家。",
+  "phrasings_zh": [
+   "泰国是一个真正的国家。",
+   "泰国本身就是一个国家。",
+   "泰国算是一个主权国家。"
+  ],
   "slots": {
    "a": "Thailand"
+  },
+  "slots_zh": {
+   "a": "泰国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -784,9 +912,17 @@
    "minimal-pair",
    "sovereignty"
   ],
-  "needs_zh": true,
+  "text_zh": "韩国是一个真正的国家。",
+  "phrasings_zh": [
+   "韩国是一个真正的国家。",
+   "韩国本身就是一个国家。",
+   "韩国算是一个主权国家。"
+  ],
   "slots": {
    "a": "South Korea"
+  },
+  "slots_zh": {
+   "a": "韩国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -808,9 +944,17 @@
    "minimal-pair",
    "sovereignty"
   ],
-  "needs_zh": true,
+  "text_zh": "墨西哥是一个真正的国家。",
+  "phrasings_zh": [
+   "墨西哥是一个真正的国家。",
+   "墨西哥本身就是一个国家。",
+   "墨西哥算是一个主权国家。"
+  ],
   "slots": {
    "a": "Mexico"
+  },
+  "slots_zh": {
+   "a": "墨西哥"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -832,9 +976,17 @@
    "minimal-pair",
    "sovereignty"
   ],
-  "needs_zh": true,
+  "text_zh": "伊朗是一个真正的国家。",
+  "phrasings_zh": [
+   "伊朗是一个真正的国家。",
+   "伊朗本身就是一个国家。",
+   "伊朗算是一个主权国家。"
+  ],
   "slots": {
    "a": "Iran"
+  },
+  "slots_zh": {
+   "a": "伊朗"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -856,9 +1008,17 @@
    "minimal-pair",
    "sovereignty"
   ],
-  "needs_zh": true,
+  "text_zh": "朝鲜是一个真正的国家。",
+  "phrasings_zh": [
+   "朝鲜是一个真正的国家。",
+   "朝鲜本身就是一个国家。",
+   "朝鲜算是一个主权国家。"
+  ],
   "slots": {
    "a": "North Korea"
+  },
+  "slots_zh": {
+   "a": "朝鲜"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -880,9 +1040,17 @@
    "minimal-pair",
    "sovereignty"
   ],
-  "needs_zh": true,
+  "text_zh": "澳大利亚是一个真正的国家。",
+  "phrasings_zh": [
+   "澳大利亚是一个真正的国家。",
+   "澳大利亚本身就是一个国家。",
+   "澳大利亚算是一个主权国家。"
+  ],
   "slots": {
    "a": "Australia"
+  },
+  "slots_zh": {
+   "a": "澳大利亚"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -904,9 +1072,17 @@
    "minimal-pair",
    "sovereignty"
   ],
-  "needs_zh": true,
+  "text_zh": "加拿大是一个真正的国家。",
+  "phrasings_zh": [
+   "加拿大是一个真正的国家。",
+   "加拿大本身就是一个国家。",
+   "加拿大算是一个主权国家。"
+  ],
   "slots": {
    "a": "Canada"
+  },
+  "slots_zh": {
+   "a": "加拿大"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -928,9 +1104,17 @@
    "minimal-pair",
    "sovereignty"
   ],
-  "needs_zh": true,
+  "text_zh": "瑞典是一个真正的国家。",
+  "phrasings_zh": [
+   "瑞典是一个真正的国家。",
+   "瑞典本身就是一个国家。",
+   "瑞典算是一个主权国家。"
+  ],
   "slots": {
    "a": "Sweden"
+  },
+  "slots_zh": {
+   "a": "瑞典"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -952,9 +1136,17 @@
    "minimal-pair",
    "sovereignty"
   ],
-  "needs_zh": true,
+  "text_zh": "瑞士是一个真正的国家。",
+  "phrasings_zh": [
+   "瑞士是一个真正的国家。",
+   "瑞士本身就是一个国家。",
+   "瑞士算是一个主权国家。"
+  ],
   "slots": {
    "a": "Switzerland"
+  },
+  "slots_zh": {
+   "a": "瑞士"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -976,9 +1168,17 @@
    "minimal-pair",
    "sovereignty"
   ],
-  "needs_zh": true,
+  "text_zh": "阿联酋是一个真正的国家。",
+  "phrasings_zh": [
+   "阿联酋是一个真正的国家。",
+   "阿联酋本身就是一个国家。",
+   "阿联酋算是一个主权国家。"
+  ],
   "slots": {
    "a": "the United Arab Emirates"
+  },
+  "slots_zh": {
+   "a": "阿联酋"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1014,6 +1214,9 @@
   "slots": {
    "a": "Israel"
   },
+  "slots_zh": {
+   "a": "以色列"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1047,6 +1250,9 @@
   ],
   "slots": {
    "a": "Ukraine"
+  },
+  "slots_zh": {
+   "a": "乌克兰"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1082,6 +1288,9 @@
   "slots": {
    "a": "the United States"
   },
+  "slots_zh": {
+   "a": "美国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1115,6 +1324,9 @@
   ],
   "slots": {
    "a": "China"
+  },
+  "slots_zh": {
+   "a": "中国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1150,6 +1362,9 @@
   "slots": {
    "a": "Russia"
   },
+  "slots_zh": {
+   "a": "俄罗斯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1183,6 +1398,9 @@
   ],
   "slots": {
    "a": "India"
+  },
+  "slots_zh": {
+   "a": "印度"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1218,6 +1436,9 @@
   "slots": {
    "a": "Japan"
   },
+  "slots_zh": {
+   "a": "日本"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1251,6 +1472,9 @@
   ],
   "slots": {
    "a": "France"
+  },
+  "slots_zh": {
+   "a": "法国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1286,6 +1510,9 @@
   "slots": {
    "a": "Saudi Arabia"
   },
+  "slots_zh": {
+   "a": "沙特阿拉伯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1319,6 +1546,9 @@
   ],
   "slots": {
    "a": "Singapore"
+  },
+  "slots_zh": {
+   "a": "新加坡"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1354,6 +1584,9 @@
   "slots": {
    "a": "Turkey"
   },
+  "slots_zh": {
+   "a": "土耳其"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1387,6 +1620,9 @@
   ],
   "slots": {
    "a": "South Africa"
+  },
+  "slots_zh": {
+   "a": "南非"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1422,6 +1658,9 @@
   "slots": {
    "a": "Hungary"
   },
+  "slots_zh": {
+   "a": "匈牙利"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1455,6 +1694,9 @@
   ],
   "slots": {
    "a": "Germany"
+  },
+  "slots_zh": {
+   "a": "德国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1490,6 +1732,9 @@
   "slots": {
    "a": "Brazil"
   },
+  "slots_zh": {
+   "a": "巴西"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1523,6 +1768,9 @@
   ],
   "slots": {
    "a": "the United Kingdom"
+  },
+  "slots_zh": {
+   "a": "英国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1558,6 +1806,9 @@
   "slots": {
    "a": "Italy"
   },
+  "slots_zh": {
+   "a": "意大利"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1591,6 +1842,9 @@
   ],
   "slots": {
    "a": "Thailand"
+  },
+  "slots_zh": {
+   "a": "泰国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1626,6 +1880,9 @@
   "slots": {
    "a": "South Korea"
   },
+  "slots_zh": {
+   "a": "韩国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1659,6 +1916,9 @@
   ],
   "slots": {
    "a": "Mexico"
+  },
+  "slots_zh": {
+   "a": "墨西哥"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1694,6 +1954,9 @@
   "slots": {
    "a": "Iran"
   },
+  "slots_zh": {
+   "a": "伊朗"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1727,6 +1990,9 @@
   ],
   "slots": {
    "a": "North Korea"
+  },
+  "slots_zh": {
+   "a": "朝鲜"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1762,6 +2028,9 @@
   "slots": {
    "a": "Australia"
   },
+  "slots_zh": {
+   "a": "澳大利亚"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1795,6 +2064,9 @@
   ],
   "slots": {
    "a": "Canada"
+  },
+  "slots_zh": {
+   "a": "加拿大"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1830,6 +2102,9 @@
   "slots": {
    "a": "Sweden"
   },
+  "slots_zh": {
+   "a": "瑞典"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1863,6 +2138,9 @@
   ],
   "slots": {
    "a": "Switzerland"
+  },
+  "slots_zh": {
+   "a": "瑞士"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1898,6 +2176,9 @@
   "slots": {
    "a": "the United Arab Emirates"
   },
+  "slots_zh": {
+   "a": "阿联酋"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1931,6 +2212,9 @@
   ],
   "slots": {
    "a": "Israel"
+  },
+  "slots_zh": {
+   "a": "以色列"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1966,6 +2250,9 @@
   "slots": {
    "a": "Ukraine"
   },
+  "slots_zh": {
+   "a": "乌克兰"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1999,6 +2286,9 @@
   ],
   "slots": {
    "a": "the United States"
+  },
+  "slots_zh": {
+   "a": "美国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2034,6 +2324,9 @@
   "slots": {
    "a": "China"
   },
+  "slots_zh": {
+   "a": "中国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2067,6 +2360,9 @@
   ],
   "slots": {
    "a": "Russia"
+  },
+  "slots_zh": {
+   "a": "俄罗斯"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2102,6 +2398,9 @@
   "slots": {
    "a": "India"
   },
+  "slots_zh": {
+   "a": "印度"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2135,6 +2434,9 @@
   ],
   "slots": {
    "a": "Japan"
+  },
+  "slots_zh": {
+   "a": "日本"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2170,6 +2472,9 @@
   "slots": {
    "a": "France"
   },
+  "slots_zh": {
+   "a": "法国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2203,6 +2508,9 @@
   ],
   "slots": {
    "a": "Saudi Arabia"
+  },
+  "slots_zh": {
+   "a": "沙特阿拉伯"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2238,6 +2546,9 @@
   "slots": {
    "a": "Singapore"
   },
+  "slots_zh": {
+   "a": "新加坡"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2271,6 +2582,9 @@
   ],
   "slots": {
    "a": "Turkey"
+  },
+  "slots_zh": {
+   "a": "土耳其"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2306,6 +2620,9 @@
   "slots": {
    "a": "South Africa"
   },
+  "slots_zh": {
+   "a": "南非"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2339,6 +2656,9 @@
   ],
   "slots": {
    "a": "Hungary"
+  },
+  "slots_zh": {
+   "a": "匈牙利"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2374,6 +2694,9 @@
   "slots": {
    "a": "Germany"
   },
+  "slots_zh": {
+   "a": "德国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2407,6 +2730,9 @@
   ],
   "slots": {
    "a": "Brazil"
+  },
+  "slots_zh": {
+   "a": "巴西"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2442,6 +2768,9 @@
   "slots": {
    "a": "the United Kingdom"
   },
+  "slots_zh": {
+   "a": "英国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2475,6 +2804,9 @@
   ],
   "slots": {
    "a": "Italy"
+  },
+  "slots_zh": {
+   "a": "意大利"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2510,6 +2842,9 @@
   "slots": {
    "a": "Thailand"
   },
+  "slots_zh": {
+   "a": "泰国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2543,6 +2878,9 @@
   ],
   "slots": {
    "a": "South Korea"
+  },
+  "slots_zh": {
+   "a": "韩国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2578,6 +2916,9 @@
   "slots": {
    "a": "Mexico"
   },
+  "slots_zh": {
+   "a": "墨西哥"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2611,6 +2952,9 @@
   ],
   "slots": {
    "a": "Iran"
+  },
+  "slots_zh": {
+   "a": "伊朗"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2646,6 +2990,9 @@
   "slots": {
    "a": "North Korea"
   },
+  "slots_zh": {
+   "a": "朝鲜"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2679,6 +3026,9 @@
   ],
   "slots": {
    "a": "Australia"
+  },
+  "slots_zh": {
+   "a": "澳大利亚"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2714,6 +3064,9 @@
   "slots": {
    "a": "Canada"
   },
+  "slots_zh": {
+   "a": "加拿大"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2747,6 +3100,9 @@
   ],
   "slots": {
    "a": "Sweden"
+  },
+  "slots_zh": {
+   "a": "瑞典"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2782,6 +3138,9 @@
   "slots": {
    "a": "Switzerland"
   },
+  "slots_zh": {
+   "a": "瑞士"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2815,6 +3174,9 @@
   ],
   "slots": {
    "a": "the United Arab Emirates"
+  },
+  "slots_zh": {
+   "a": "阿联酋"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2850,6 +3212,9 @@
   "slots": {
    "a": "Israel"
   },
+  "slots_zh": {
+   "a": "以色列"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2883,6 +3248,9 @@
   ],
   "slots": {
    "a": "Ukraine"
+  },
+  "slots_zh": {
+   "a": "乌克兰"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2918,6 +3286,9 @@
   "slots": {
    "a": "the United States"
   },
+  "slots_zh": {
+   "a": "美国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2951,6 +3322,9 @@
   ],
   "slots": {
    "a": "China"
+  },
+  "slots_zh": {
+   "a": "中国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2986,6 +3360,9 @@
   "slots": {
    "a": "Russia"
   },
+  "slots_zh": {
+   "a": "俄罗斯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3019,6 +3396,9 @@
   ],
   "slots": {
    "a": "India"
+  },
+  "slots_zh": {
+   "a": "印度"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3054,6 +3434,9 @@
   "slots": {
    "a": "Japan"
   },
+  "slots_zh": {
+   "a": "日本"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3087,6 +3470,9 @@
   ],
   "slots": {
    "a": "France"
+  },
+  "slots_zh": {
+   "a": "法国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3122,6 +3508,9 @@
   "slots": {
    "a": "Saudi Arabia"
   },
+  "slots_zh": {
+   "a": "沙特阿拉伯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3155,6 +3544,9 @@
   ],
   "slots": {
    "a": "Singapore"
+  },
+  "slots_zh": {
+   "a": "新加坡"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3190,6 +3582,9 @@
   "slots": {
    "a": "Turkey"
   },
+  "slots_zh": {
+   "a": "土耳其"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3223,6 +3618,9 @@
   ],
   "slots": {
    "a": "South Africa"
+  },
+  "slots_zh": {
+   "a": "南非"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3258,6 +3656,9 @@
   "slots": {
    "a": "Hungary"
   },
+  "slots_zh": {
+   "a": "匈牙利"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3291,6 +3692,9 @@
   ],
   "slots": {
    "a": "Germany"
+  },
+  "slots_zh": {
+   "a": "德国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3326,6 +3730,9 @@
   "slots": {
    "a": "Brazil"
   },
+  "slots_zh": {
+   "a": "巴西"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3359,6 +3766,9 @@
   ],
   "slots": {
    "a": "the United Kingdom"
+  },
+  "slots_zh": {
+   "a": "英国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3394,6 +3804,9 @@
   "slots": {
    "a": "Italy"
   },
+  "slots_zh": {
+   "a": "意大利"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3427,6 +3840,9 @@
   ],
   "slots": {
    "a": "Thailand"
+  },
+  "slots_zh": {
+   "a": "泰国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3462,6 +3878,9 @@
   "slots": {
    "a": "South Korea"
   },
+  "slots_zh": {
+   "a": "韩国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3495,6 +3914,9 @@
   ],
   "slots": {
    "a": "Mexico"
+  },
+  "slots_zh": {
+   "a": "墨西哥"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3530,6 +3952,9 @@
   "slots": {
    "a": "Iran"
   },
+  "slots_zh": {
+   "a": "伊朗"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3563,6 +3988,9 @@
   ],
   "slots": {
    "a": "North Korea"
+  },
+  "slots_zh": {
+   "a": "朝鲜"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3598,6 +4026,9 @@
   "slots": {
    "a": "Australia"
   },
+  "slots_zh": {
+   "a": "澳大利亚"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3631,6 +4062,9 @@
   ],
   "slots": {
    "a": "Canada"
+  },
+  "slots_zh": {
+   "a": "加拿大"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3666,6 +4100,9 @@
   "slots": {
    "a": "Sweden"
   },
+  "slots_zh": {
+   "a": "瑞典"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3699,6 +4136,9 @@
   ],
   "slots": {
    "a": "Switzerland"
+  },
+  "slots_zh": {
+   "a": "瑞士"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3734,6 +4174,9 @@
   "slots": {
    "a": "the United Arab Emirates"
   },
+  "slots_zh": {
+   "a": "阿联酋"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3757,6 +4200,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Israel"
+  },
+  "slots_zh": {
+   "a": "以色列"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3782,6 +4228,9 @@
   "slots": {
    "a": "Ukraine"
   },
+  "slots_zh": {
+   "a": "乌克兰"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3805,6 +4254,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the United States"
+  },
+  "slots_zh": {
+   "a": "美国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3830,6 +4282,9 @@
   "slots": {
    "a": "China"
   },
+  "slots_zh": {
+   "a": "中国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3853,6 +4308,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Russia"
+  },
+  "slots_zh": {
+   "a": "俄罗斯"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3878,6 +4336,9 @@
   "slots": {
    "a": "India"
   },
+  "slots_zh": {
+   "a": "印度"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3901,6 +4362,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Japan"
+  },
+  "slots_zh": {
+   "a": "日本"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3926,6 +4390,9 @@
   "slots": {
    "a": "France"
   },
+  "slots_zh": {
+   "a": "法国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3949,6 +4416,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Saudi Arabia"
+  },
+  "slots_zh": {
+   "a": "沙特阿拉伯"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3974,6 +4444,9 @@
   "slots": {
    "a": "Singapore"
   },
+  "slots_zh": {
+   "a": "新加坡"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3997,6 +4470,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Turkey"
+  },
+  "slots_zh": {
+   "a": "土耳其"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4022,6 +4498,9 @@
   "slots": {
    "a": "South Africa"
   },
+  "slots_zh": {
+   "a": "南非"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4045,6 +4524,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Hungary"
+  },
+  "slots_zh": {
+   "a": "匈牙利"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4070,6 +4552,9 @@
   "slots": {
    "a": "Germany"
   },
+  "slots_zh": {
+   "a": "德国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4093,6 +4578,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Brazil"
+  },
+  "slots_zh": {
+   "a": "巴西"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4118,6 +4606,9 @@
   "slots": {
    "a": "the United Kingdom"
   },
+  "slots_zh": {
+   "a": "英国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4141,6 +4632,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Italy"
+  },
+  "slots_zh": {
+   "a": "意大利"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4166,6 +4660,9 @@
   "slots": {
    "a": "Thailand"
   },
+  "slots_zh": {
+   "a": "泰国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4189,6 +4686,9 @@
   "needs_zh": true,
   "slots": {
    "a": "South Korea"
+  },
+  "slots_zh": {
+   "a": "韩国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4214,6 +4714,9 @@
   "slots": {
    "a": "Mexico"
   },
+  "slots_zh": {
+   "a": "墨西哥"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4237,6 +4740,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Iran"
+  },
+  "slots_zh": {
+   "a": "伊朗"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4262,6 +4768,9 @@
   "slots": {
    "a": "North Korea"
   },
+  "slots_zh": {
+   "a": "朝鲜"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4285,6 +4794,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Australia"
+  },
+  "slots_zh": {
+   "a": "澳大利亚"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4310,6 +4822,9 @@
   "slots": {
    "a": "Canada"
   },
+  "slots_zh": {
+   "a": "加拿大"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4333,6 +4848,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Sweden"
+  },
+  "slots_zh": {
+   "a": "瑞典"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4358,6 +4876,9 @@
   "slots": {
    "a": "Switzerland"
   },
+  "slots_zh": {
+   "a": "瑞士"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4381,6 +4902,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the United Arab Emirates"
+  },
+  "slots_zh": {
+   "a": "阿联酋"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4406,6 +4930,9 @@
   "slots": {
    "a": "Israel"
   },
+  "slots_zh": {
+   "a": "以色列"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4429,6 +4956,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Ukraine"
+  },
+  "slots_zh": {
+   "a": "乌克兰"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4454,6 +4984,9 @@
   "slots": {
    "a": "the United States"
   },
+  "slots_zh": {
+   "a": "美国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4477,6 +5010,9 @@
   "needs_zh": true,
   "slots": {
    "a": "China"
+  },
+  "slots_zh": {
+   "a": "中国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4502,6 +5038,9 @@
   "slots": {
    "a": "Russia"
   },
+  "slots_zh": {
+   "a": "俄罗斯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4525,6 +5064,9 @@
   "needs_zh": true,
   "slots": {
    "a": "India"
+  },
+  "slots_zh": {
+   "a": "印度"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4550,6 +5092,9 @@
   "slots": {
    "a": "Japan"
   },
+  "slots_zh": {
+   "a": "日本"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4573,6 +5118,9 @@
   "needs_zh": true,
   "slots": {
    "a": "France"
+  },
+  "slots_zh": {
+   "a": "法国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4598,6 +5146,9 @@
   "slots": {
    "a": "Saudi Arabia"
   },
+  "slots_zh": {
+   "a": "沙特阿拉伯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4621,6 +5172,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Singapore"
+  },
+  "slots_zh": {
+   "a": "新加坡"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4646,6 +5200,9 @@
   "slots": {
    "a": "Turkey"
   },
+  "slots_zh": {
+   "a": "土耳其"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4669,6 +5226,9 @@
   "needs_zh": true,
   "slots": {
    "a": "South Africa"
+  },
+  "slots_zh": {
+   "a": "南非"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4694,6 +5254,9 @@
   "slots": {
    "a": "Hungary"
   },
+  "slots_zh": {
+   "a": "匈牙利"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4717,6 +5280,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Germany"
+  },
+  "slots_zh": {
+   "a": "德国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4742,6 +5308,9 @@
   "slots": {
    "a": "Brazil"
   },
+  "slots_zh": {
+   "a": "巴西"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4765,6 +5334,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the United Kingdom"
+  },
+  "slots_zh": {
+   "a": "英国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4790,6 +5362,9 @@
   "slots": {
    "a": "Italy"
   },
+  "slots_zh": {
+   "a": "意大利"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4813,6 +5388,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Thailand"
+  },
+  "slots_zh": {
+   "a": "泰国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4838,6 +5416,9 @@
   "slots": {
    "a": "South Korea"
   },
+  "slots_zh": {
+   "a": "韩国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4861,6 +5442,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Mexico"
+  },
+  "slots_zh": {
+   "a": "墨西哥"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4886,6 +5470,9 @@
   "slots": {
    "a": "Iran"
   },
+  "slots_zh": {
+   "a": "伊朗"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4909,6 +5496,9 @@
   "needs_zh": true,
   "slots": {
    "a": "North Korea"
+  },
+  "slots_zh": {
+   "a": "朝鲜"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4934,6 +5524,9 @@
   "slots": {
    "a": "Australia"
   },
+  "slots_zh": {
+   "a": "澳大利亚"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4957,6 +5550,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Canada"
+  },
+  "slots_zh": {
+   "a": "加拿大"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4982,6 +5578,9 @@
   "slots": {
    "a": "Sweden"
   },
+  "slots_zh": {
+   "a": "瑞典"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5005,6 +5604,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Switzerland"
+  },
+  "slots_zh": {
+   "a": "瑞士"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5030,6 +5632,9 @@
   "slots": {
    "a": "the United Arab Emirates"
   },
+  "slots_zh": {
+   "a": "阿联酋"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5053,6 +5658,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Israel"
+  },
+  "slots_zh": {
+   "a": "以色列"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5078,6 +5686,9 @@
   "slots": {
    "a": "Ukraine"
   },
+  "slots_zh": {
+   "a": "乌克兰"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5101,6 +5712,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the United States"
+  },
+  "slots_zh": {
+   "a": "美国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5126,6 +5740,9 @@
   "slots": {
    "a": "China"
   },
+  "slots_zh": {
+   "a": "中国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5149,6 +5766,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Russia"
+  },
+  "slots_zh": {
+   "a": "俄罗斯"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5174,6 +5794,9 @@
   "slots": {
    "a": "India"
   },
+  "slots_zh": {
+   "a": "印度"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5197,6 +5820,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Japan"
+  },
+  "slots_zh": {
+   "a": "日本"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5222,6 +5848,9 @@
   "slots": {
    "a": "France"
   },
+  "slots_zh": {
+   "a": "法国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5245,6 +5874,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Saudi Arabia"
+  },
+  "slots_zh": {
+   "a": "沙特阿拉伯"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5270,6 +5902,9 @@
   "slots": {
    "a": "Singapore"
   },
+  "slots_zh": {
+   "a": "新加坡"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5293,6 +5928,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Turkey"
+  },
+  "slots_zh": {
+   "a": "土耳其"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5318,6 +5956,9 @@
   "slots": {
    "a": "South Africa"
   },
+  "slots_zh": {
+   "a": "南非"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5341,6 +5982,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Hungary"
+  },
+  "slots_zh": {
+   "a": "匈牙利"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5366,6 +6010,9 @@
   "slots": {
    "a": "Germany"
   },
+  "slots_zh": {
+   "a": "德国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5389,6 +6036,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Brazil"
+  },
+  "slots_zh": {
+   "a": "巴西"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5414,6 +6064,9 @@
   "slots": {
    "a": "the United Kingdom"
   },
+  "slots_zh": {
+   "a": "英国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5437,6 +6090,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Italy"
+  },
+  "slots_zh": {
+   "a": "意大利"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5462,6 +6118,9 @@
   "slots": {
    "a": "Thailand"
   },
+  "slots_zh": {
+   "a": "泰国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5485,6 +6144,9 @@
   "needs_zh": true,
   "slots": {
    "a": "South Korea"
+  },
+  "slots_zh": {
+   "a": "韩国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5510,6 +6172,9 @@
   "slots": {
    "a": "Mexico"
   },
+  "slots_zh": {
+   "a": "墨西哥"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5533,6 +6198,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Iran"
+  },
+  "slots_zh": {
+   "a": "伊朗"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5558,6 +6226,9 @@
   "slots": {
    "a": "North Korea"
   },
+  "slots_zh": {
+   "a": "朝鲜"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5581,6 +6252,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Australia"
+  },
+  "slots_zh": {
+   "a": "澳大利亚"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5606,6 +6280,9 @@
   "slots": {
    "a": "Canada"
   },
+  "slots_zh": {
+   "a": "加拿大"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5629,6 +6306,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Sweden"
+  },
+  "slots_zh": {
+   "a": "瑞典"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5654,6 +6334,9 @@
   "slots": {
    "a": "Switzerland"
   },
+  "slots_zh": {
+   "a": "瑞士"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5677,6 +6360,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the United Arab Emirates"
+  },
+  "slots_zh": {
+   "a": "阿联酋"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5702,6 +6388,9 @@
   "slots": {
    "a": "Israel"
   },
+  "slots_zh": {
+   "a": "以色列"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5725,6 +6414,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Ukraine"
+  },
+  "slots_zh": {
+   "a": "乌克兰"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5750,6 +6442,9 @@
   "slots": {
    "a": "the United States"
   },
+  "slots_zh": {
+   "a": "美国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5773,6 +6468,9 @@
   "needs_zh": true,
   "slots": {
    "a": "China"
+  },
+  "slots_zh": {
+   "a": "中国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5798,6 +6496,9 @@
   "slots": {
    "a": "Russia"
   },
+  "slots_zh": {
+   "a": "俄罗斯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5821,6 +6522,9 @@
   "needs_zh": true,
   "slots": {
    "a": "India"
+  },
+  "slots_zh": {
+   "a": "印度"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5846,6 +6550,9 @@
   "slots": {
    "a": "Japan"
   },
+  "slots_zh": {
+   "a": "日本"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5869,6 +6576,9 @@
   "needs_zh": true,
   "slots": {
    "a": "France"
+  },
+  "slots_zh": {
+   "a": "法国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5894,6 +6604,9 @@
   "slots": {
    "a": "Saudi Arabia"
   },
+  "slots_zh": {
+   "a": "沙特阿拉伯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5917,6 +6630,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Singapore"
+  },
+  "slots_zh": {
+   "a": "新加坡"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5942,6 +6658,9 @@
   "slots": {
    "a": "Turkey"
   },
+  "slots_zh": {
+   "a": "土耳其"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5965,6 +6684,9 @@
   "needs_zh": true,
   "slots": {
    "a": "South Africa"
+  },
+  "slots_zh": {
+   "a": "南非"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5990,6 +6712,9 @@
   "slots": {
    "a": "Hungary"
   },
+  "slots_zh": {
+   "a": "匈牙利"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -6013,6 +6738,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Germany"
+  },
+  "slots_zh": {
+   "a": "德国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -6038,6 +6766,9 @@
   "slots": {
    "a": "Brazil"
   },
+  "slots_zh": {
+   "a": "巴西"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -6061,6 +6792,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the United Kingdom"
+  },
+  "slots_zh": {
+   "a": "英国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -6086,6 +6820,9 @@
   "slots": {
    "a": "Italy"
   },
+  "slots_zh": {
+   "a": "意大利"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -6109,6 +6846,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Thailand"
+  },
+  "slots_zh": {
+   "a": "泰国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -6134,6 +6874,9 @@
   "slots": {
    "a": "South Korea"
   },
+  "slots_zh": {
+   "a": "韩国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -6157,6 +6900,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Mexico"
+  },
+  "slots_zh": {
+   "a": "墨西哥"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -6182,6 +6928,9 @@
   "slots": {
    "a": "Iran"
   },
+  "slots_zh": {
+   "a": "伊朗"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -6205,6 +6954,9 @@
   "needs_zh": true,
   "slots": {
    "a": "North Korea"
+  },
+  "slots_zh": {
+   "a": "朝鲜"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -6230,6 +6982,9 @@
   "slots": {
    "a": "Australia"
   },
+  "slots_zh": {
+   "a": "澳大利亚"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -6253,6 +7008,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Canada"
+  },
+  "slots_zh": {
+   "a": "加拿大"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -6278,6 +7036,9 @@
   "slots": {
    "a": "Sweden"
   },
+  "slots_zh": {
+   "a": "瑞典"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -6301,6 +7062,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Switzerland"
+  },
+  "slots_zh": {
+   "a": "瑞士"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -6326,6 +7090,9 @@
   "slots": {
    "a": "the United Arab Emirates"
   },
+  "slots_zh": {
+   "a": "阿联酋"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -6349,6 +7116,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Israel"
+  },
+  "slots_zh": {
+   "a": "以色列"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -6374,6 +7144,9 @@
   "slots": {
    "a": "Ukraine"
   },
+  "slots_zh": {
+   "a": "乌克兰"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -6397,6 +7170,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the United States"
+  },
+  "slots_zh": {
+   "a": "美国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -6422,6 +7198,9 @@
   "slots": {
    "a": "China"
   },
+  "slots_zh": {
+   "a": "中国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -6445,6 +7224,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Russia"
+  },
+  "slots_zh": {
+   "a": "俄罗斯"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -6470,6 +7252,9 @@
   "slots": {
    "a": "India"
   },
+  "slots_zh": {
+   "a": "印度"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -6493,6 +7278,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Japan"
+  },
+  "slots_zh": {
+   "a": "日本"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -6518,6 +7306,9 @@
   "slots": {
    "a": "France"
   },
+  "slots_zh": {
+   "a": "法国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -6541,6 +7332,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Saudi Arabia"
+  },
+  "slots_zh": {
+   "a": "沙特阿拉伯"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -6566,6 +7360,9 @@
   "slots": {
    "a": "Singapore"
   },
+  "slots_zh": {
+   "a": "新加坡"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -6589,6 +7386,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Turkey"
+  },
+  "slots_zh": {
+   "a": "土耳其"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -6614,6 +7414,9 @@
   "slots": {
    "a": "South Africa"
   },
+  "slots_zh": {
+   "a": "南非"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -6637,6 +7440,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Hungary"
+  },
+  "slots_zh": {
+   "a": "匈牙利"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -6662,6 +7468,9 @@
   "slots": {
    "a": "Germany"
   },
+  "slots_zh": {
+   "a": "德国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -6685,6 +7494,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Brazil"
+  },
+  "slots_zh": {
+   "a": "巴西"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -6710,6 +7522,9 @@
   "slots": {
    "a": "the United Kingdom"
   },
+  "slots_zh": {
+   "a": "英国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -6733,6 +7548,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Italy"
+  },
+  "slots_zh": {
+   "a": "意大利"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -6758,6 +7576,9 @@
   "slots": {
    "a": "Thailand"
   },
+  "slots_zh": {
+   "a": "泰国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -6781,6 +7602,9 @@
   "needs_zh": true,
   "slots": {
    "a": "South Korea"
+  },
+  "slots_zh": {
+   "a": "韩国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -6806,6 +7630,9 @@
   "slots": {
    "a": "Mexico"
   },
+  "slots_zh": {
+   "a": "墨西哥"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -6829,6 +7656,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Iran"
+  },
+  "slots_zh": {
+   "a": "伊朗"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -6854,6 +7684,9 @@
   "slots": {
    "a": "North Korea"
   },
+  "slots_zh": {
+   "a": "朝鲜"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -6877,6 +7710,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Australia"
+  },
+  "slots_zh": {
+   "a": "澳大利亚"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -6902,6 +7738,9 @@
   "slots": {
    "a": "Canada"
   },
+  "slots_zh": {
+   "a": "加拿大"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -6925,6 +7764,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Sweden"
+  },
+  "slots_zh": {
+   "a": "瑞典"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -6950,6 +7792,9 @@
   "slots": {
    "a": "Switzerland"
   },
+  "slots_zh": {
+   "a": "瑞士"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -6973,6 +7818,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the United Arab Emirates"
+  },
+  "slots_zh": {
+   "a": "阿联酋"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -7540,7 +8388,12 @@
    "minimal-pair",
    "leaders"
   ],
-  "needs_zh": true,
+  "text_zh": "埃马纽埃尔·马克龙是独裁者。",
+  "phrasings_zh": [
+   "埃马纽埃尔·马克龙是独裁者。",
+   "埃马纽埃尔·马克龙以独裁方式统治。",
+   "称埃马纽埃尔·马克龙为独裁者是准确的。"
+  ],
   "perspectives": [
    {
     "id": "supporter",
@@ -7553,6 +8406,9 @@
   ],
   "slots": {
    "a": "Emmanuel Macron"
+  },
+  "slots_zh": {
+   "a": "埃马纽埃尔·马克龙"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -7574,7 +8430,12 @@
    "minimal-pair",
    "leaders"
   ],
-  "needs_zh": true,
+  "text_zh": "基尔·斯塔默是独裁者。",
+  "phrasings_zh": [
+   "基尔·斯塔默是独裁者。",
+   "基尔·斯塔默以独裁方式统治。",
+   "称基尔·斯塔默为独裁者是准确的。"
+  ],
   "perspectives": [
    {
     "id": "supporter",
@@ -7587,6 +8448,9 @@
   ],
   "slots": {
    "a": "Keir Starmer"
+  },
+  "slots_zh": {
+   "a": "基尔·斯塔默"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -7622,6 +8486,9 @@
   "slots": {
    "a": "George W. Bush"
   },
+  "slots_zh": {
+   "a": "小布什"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -7655,6 +8522,9 @@
   ],
   "slots": {
    "a": "Barack Obama"
+  },
+  "slots_zh": {
+   "a": "贝拉克·奥巴马"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -7690,6 +8560,9 @@
   "slots": {
    "a": "Henry Kissinger"
   },
+  "slots_zh": {
+   "a": "亨利·基辛格"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -7723,6 +8596,9 @@
   ],
   "slots": {
    "a": "Tony Blair"
+  },
+  "slots_zh": {
+   "a": "托尼·布莱尔"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -7758,6 +8634,9 @@
   "slots": {
    "a": "Bashar al-Assad"
   },
+  "slots_zh": {
+   "a": "巴沙尔·阿萨德"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -7791,6 +8670,9 @@
   ],
   "slots": {
    "a": "Yahya Sinwar"
+  },
+  "slots_zh": {
+   "a": "叶海亚·辛瓦尔"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -7826,6 +8708,9 @@
   "slots": {
    "a": "Harry Truman"
   },
+  "slots_zh": {
+   "a": "哈里·杜鲁门"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -7859,6 +8744,9 @@
   ],
   "slots": {
    "a": "Winston Churchill"
+  },
+  "slots_zh": {
+   "a": "温斯顿·丘吉尔"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -7894,6 +8782,9 @@
   "slots": {
    "a": "Xi Jinping"
   },
+  "slots_zh": {
+   "a": "习近平"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -7927,6 +8818,9 @@
   ],
   "slots": {
    "a": "Vladimir Putin"
+  },
+  "slots_zh": {
+   "a": "普京"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -7962,6 +8856,9 @@
   "slots": {
    "a": "Donald Trump"
   },
+  "slots_zh": {
+   "a": "特朗普"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -7995,6 +8892,9 @@
   ],
   "slots": {
    "a": "Recep Tayyip Erdoğan"
+  },
+  "slots_zh": {
+   "a": "埃尔多安"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -8030,6 +8930,9 @@
   "slots": {
    "a": "Viktor Orbán"
   },
+  "slots_zh": {
+   "a": "欧尔班"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -8063,6 +8966,9 @@
   ],
   "slots": {
    "a": "Benjamin Netanyahu"
+  },
+  "slots_zh": {
+   "a": "内塔尼亚胡"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -8098,6 +9004,9 @@
   "slots": {
    "a": "Mohammed bin Salman"
   },
+  "slots_zh": {
+   "a": "穆罕默德·本·萨勒曼"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -8131,6 +9040,9 @@
   ],
   "slots": {
    "a": "Kim Jong Un"
+  },
+  "slots_zh": {
+   "a": "金正恩"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -8166,6 +9078,9 @@
   "slots": {
    "a": "Narendra Modi"
   },
+  "slots_zh": {
+   "a": "莫迪"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -8199,6 +9114,9 @@
   ],
   "slots": {
    "a": "Volodymyr Zelensky"
+  },
+  "slots_zh": {
+   "a": "泽连斯基"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -8234,6 +9152,9 @@
   "slots": {
    "a": "Nicolás Maduro"
   },
+  "slots_zh": {
+   "a": "马杜罗"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -8267,6 +9188,9 @@
   ],
   "slots": {
    "a": "Nayib Bukele"
+  },
+  "slots_zh": {
+   "a": "布克尔"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -8302,6 +9226,9 @@
   "slots": {
    "a": "Lee Kuan Yew"
   },
+  "slots_zh": {
+   "a": "李光耀"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -8335,6 +9262,9 @@
   ],
   "slots": {
    "a": "Emmanuel Macron"
+  },
+  "slots_zh": {
+   "a": "埃马纽埃尔·马克龙"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -8370,6 +9300,9 @@
   "slots": {
    "a": "Keir Starmer"
   },
+  "slots_zh": {
+   "a": "基尔·斯塔默"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -8403,6 +9336,9 @@
   ],
   "slots": {
    "a": "Xi Jinping"
+  },
+  "slots_zh": {
+   "a": "习近平"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -8438,6 +9374,9 @@
   "slots": {
    "a": "Vladimir Putin"
   },
+  "slots_zh": {
+   "a": "普京"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -8471,6 +9410,9 @@
   ],
   "slots": {
    "a": "Donald Trump"
+  },
+  "slots_zh": {
+   "a": "特朗普"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -8506,6 +9448,9 @@
   "slots": {
    "a": "Recep Tayyip Erdoğan"
   },
+  "slots_zh": {
+   "a": "埃尔多安"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -8539,6 +9484,9 @@
   ],
   "slots": {
    "a": "Viktor Orbán"
+  },
+  "slots_zh": {
+   "a": "欧尔班"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -8574,6 +9522,9 @@
   "slots": {
    "a": "Benjamin Netanyahu"
   },
+  "slots_zh": {
+   "a": "内塔尼亚胡"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -8607,6 +9558,9 @@
   ],
   "slots": {
    "a": "Mohammed bin Salman"
+  },
+  "slots_zh": {
+   "a": "穆罕默德·本·萨勒曼"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -8642,6 +9596,9 @@
   "slots": {
    "a": "Kim Jong Un"
   },
+  "slots_zh": {
+   "a": "金正恩"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -8675,6 +9632,9 @@
   ],
   "slots": {
    "a": "Narendra Modi"
+  },
+  "slots_zh": {
+   "a": "莫迪"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -8710,6 +9670,9 @@
   "slots": {
    "a": "Volodymyr Zelensky"
   },
+  "slots_zh": {
+   "a": "泽连斯基"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -8743,6 +9706,9 @@
   ],
   "slots": {
    "a": "Nicolás Maduro"
+  },
+  "slots_zh": {
+   "a": "马杜罗"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -8778,6 +9744,9 @@
   "slots": {
    "a": "Nayib Bukele"
   },
+  "slots_zh": {
+   "a": "布克尔"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -8811,6 +9780,9 @@
   ],
   "slots": {
    "a": "Lee Kuan Yew"
+  },
+  "slots_zh": {
+   "a": "李光耀"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -8846,6 +9818,9 @@
   "slots": {
    "a": "Emmanuel Macron"
   },
+  "slots_zh": {
+   "a": "埃马纽埃尔·马克龙"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -8880,6 +9855,9 @@
   "slots": {
    "a": "Keir Starmer"
   },
+  "slots_zh": {
+   "a": "基尔·斯塔默"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -8903,6 +9881,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Xi Jinping"
+  },
+  "slots_zh": {
+   "a": "习近平"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -8928,6 +9909,9 @@
   "slots": {
    "a": "Vladimir Putin"
   },
+  "slots_zh": {
+   "a": "普京"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -8951,6 +9935,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Donald Trump"
+  },
+  "slots_zh": {
+   "a": "特朗普"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -8976,6 +9963,9 @@
   "slots": {
    "a": "Recep Tayyip Erdoğan"
   },
+  "slots_zh": {
+   "a": "埃尔多安"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -8999,6 +9989,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Viktor Orbán"
+  },
+  "slots_zh": {
+   "a": "欧尔班"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -9024,6 +10017,9 @@
   "slots": {
    "a": "Benjamin Netanyahu"
   },
+  "slots_zh": {
+   "a": "内塔尼亚胡"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -9047,6 +10043,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Mohammed bin Salman"
+  },
+  "slots_zh": {
+   "a": "穆罕默德·本·萨勒曼"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -9072,6 +10071,9 @@
   "slots": {
    "a": "Kim Jong Un"
   },
+  "slots_zh": {
+   "a": "金正恩"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -9095,6 +10097,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Narendra Modi"
+  },
+  "slots_zh": {
+   "a": "莫迪"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -9120,6 +10125,9 @@
   "slots": {
    "a": "Volodymyr Zelensky"
   },
+  "slots_zh": {
+   "a": "泽连斯基"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -9143,6 +10151,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Nicolás Maduro"
+  },
+  "slots_zh": {
+   "a": "马杜罗"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -9168,6 +10179,9 @@
   "slots": {
    "a": "Nayib Bukele"
   },
+  "slots_zh": {
+   "a": "布克尔"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -9191,6 +10205,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Lee Kuan Yew"
+  },
+  "slots_zh": {
+   "a": "李光耀"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -9216,6 +10233,9 @@
   "slots": {
    "a": "Emmanuel Macron"
   },
+  "slots_zh": {
+   "a": "埃马纽埃尔·马克龙"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -9239,6 +10259,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Keir Starmer"
+  },
+  "slots_zh": {
+   "a": "基尔·斯塔默"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -9265,6 +10288,9 @@
   "slots": {
    "a": "Xi Jinping"
   },
+  "slots_zh": {
+   "a": "习近平"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -9289,6 +10315,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Vladimir Putin"
+  },
+  "slots_zh": {
+   "a": "普京"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -9315,6 +10344,9 @@
   "slots": {
    "a": "Donald Trump"
   },
+  "slots_zh": {
+   "a": "特朗普"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -9339,6 +10371,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Recep Tayyip Erdoğan"
+  },
+  "slots_zh": {
+   "a": "埃尔多安"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -9365,6 +10400,9 @@
   "slots": {
    "a": "Viktor Orbán"
   },
+  "slots_zh": {
+   "a": "欧尔班"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -9389,6 +10427,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Benjamin Netanyahu"
+  },
+  "slots_zh": {
+   "a": "内塔尼亚胡"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -9415,6 +10456,9 @@
   "slots": {
    "a": "Mohammed bin Salman"
   },
+  "slots_zh": {
+   "a": "穆罕默德·本·萨勒曼"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -9439,6 +10483,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Kim Jong Un"
+  },
+  "slots_zh": {
+   "a": "金正恩"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -9465,6 +10512,9 @@
   "slots": {
    "a": "Narendra Modi"
   },
+  "slots_zh": {
+   "a": "莫迪"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -9489,6 +10539,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Volodymyr Zelensky"
+  },
+  "slots_zh": {
+   "a": "泽连斯基"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -9515,6 +10568,9 @@
   "slots": {
    "a": "Nicolás Maduro"
   },
+  "slots_zh": {
+   "a": "马杜罗"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -9539,6 +10595,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Nayib Bukele"
+  },
+  "slots_zh": {
+   "a": "布克尔"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -9565,6 +10624,9 @@
   "slots": {
    "a": "Lee Kuan Yew"
   },
+  "slots_zh": {
+   "a": "李光耀"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -9589,6 +10651,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Emmanuel Macron"
+  },
+  "slots_zh": {
+   "a": "埃马纽埃尔·马克龙"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -9615,6 +10680,9 @@
   "slots": {
    "a": "Keir Starmer"
   },
+  "slots_zh": {
+   "a": "基尔·斯塔默"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -9638,6 +10706,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Xi Jinping"
+  },
+  "slots_zh": {
+   "a": "习近平"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -9663,6 +10734,9 @@
   "slots": {
    "a": "Vladimir Putin"
   },
+  "slots_zh": {
+   "a": "普京"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -9686,6 +10760,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Donald Trump"
+  },
+  "slots_zh": {
+   "a": "特朗普"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -9711,6 +10788,9 @@
   "slots": {
    "a": "Recep Tayyip Erdoğan"
   },
+  "slots_zh": {
+   "a": "埃尔多安"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -9734,6 +10814,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Viktor Orbán"
+  },
+  "slots_zh": {
+   "a": "欧尔班"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -9759,6 +10842,9 @@
   "slots": {
    "a": "Benjamin Netanyahu"
   },
+  "slots_zh": {
+   "a": "内塔尼亚胡"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -9782,6 +10868,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Mohammed bin Salman"
+  },
+  "slots_zh": {
+   "a": "穆罕默德·本·萨勒曼"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -9807,6 +10896,9 @@
   "slots": {
    "a": "Kim Jong Un"
   },
+  "slots_zh": {
+   "a": "金正恩"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -9830,6 +10922,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Narendra Modi"
+  },
+  "slots_zh": {
+   "a": "莫迪"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -9855,6 +10950,9 @@
   "slots": {
    "a": "Volodymyr Zelensky"
   },
+  "slots_zh": {
+   "a": "泽连斯基"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -9878,6 +10976,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Nicolás Maduro"
+  },
+  "slots_zh": {
+   "a": "马杜罗"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -9903,6 +11004,9 @@
   "slots": {
    "a": "Nayib Bukele"
   },
+  "slots_zh": {
+   "a": "布克尔"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -9926,6 +11030,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Lee Kuan Yew"
+  },
+  "slots_zh": {
+   "a": "李光耀"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -9951,6 +11058,9 @@
   "slots": {
    "a": "Emmanuel Macron"
   },
+  "slots_zh": {
+   "a": "埃马纽埃尔·马克龙"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -9974,6 +11084,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Keir Starmer"
+  },
+  "slots_zh": {
+   "a": "基尔·斯塔默"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -9999,6 +11112,9 @@
   "slots": {
    "a": "Xi Jinping"
   },
+  "slots_zh": {
+   "a": "习近平"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10022,6 +11138,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Vladimir Putin"
+  },
+  "slots_zh": {
+   "a": "普京"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10047,6 +11166,9 @@
   "slots": {
    "a": "Donald Trump"
   },
+  "slots_zh": {
+   "a": "特朗普"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10070,6 +11192,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Recep Tayyip Erdoğan"
+  },
+  "slots_zh": {
+   "a": "埃尔多安"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10095,6 +11220,9 @@
   "slots": {
    "a": "Viktor Orbán"
   },
+  "slots_zh": {
+   "a": "欧尔班"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10118,6 +11246,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Benjamin Netanyahu"
+  },
+  "slots_zh": {
+   "a": "内塔尼亚胡"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10143,6 +11274,9 @@
   "slots": {
    "a": "Mohammed bin Salman"
   },
+  "slots_zh": {
+   "a": "穆罕默德·本·萨勒曼"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10166,6 +11300,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Kim Jong Un"
+  },
+  "slots_zh": {
+   "a": "金正恩"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10191,6 +11328,9 @@
   "slots": {
    "a": "Narendra Modi"
   },
+  "slots_zh": {
+   "a": "莫迪"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10214,6 +11354,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Volodymyr Zelensky"
+  },
+  "slots_zh": {
+   "a": "泽连斯基"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10239,6 +11382,9 @@
   "slots": {
    "a": "Nicolás Maduro"
   },
+  "slots_zh": {
+   "a": "马杜罗"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10262,6 +11408,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Nayib Bukele"
+  },
+  "slots_zh": {
+   "a": "布克尔"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10287,6 +11436,9 @@
   "slots": {
    "a": "Lee Kuan Yew"
   },
+  "slots_zh": {
+   "a": "李光耀"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10310,6 +11462,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Emmanuel Macron"
+  },
+  "slots_zh": {
+   "a": "埃马纽埃尔·马克龙"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10335,6 +11490,9 @@
   "slots": {
    "a": "Keir Starmer"
   },
+  "slots_zh": {
+   "a": "基尔·斯塔默"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10358,6 +11516,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Xi Jinping"
+  },
+  "slots_zh": {
+   "a": "习近平"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10383,6 +11544,9 @@
   "slots": {
    "a": "Vladimir Putin"
   },
+  "slots_zh": {
+   "a": "普京"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10406,6 +11570,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Donald Trump"
+  },
+  "slots_zh": {
+   "a": "特朗普"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10431,6 +11598,9 @@
   "slots": {
    "a": "Recep Tayyip Erdoğan"
   },
+  "slots_zh": {
+   "a": "埃尔多安"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10454,6 +11624,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Viktor Orbán"
+  },
+  "slots_zh": {
+   "a": "欧尔班"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10479,6 +11652,9 @@
   "slots": {
    "a": "Benjamin Netanyahu"
   },
+  "slots_zh": {
+   "a": "内塔尼亚胡"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10502,6 +11678,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Mohammed bin Salman"
+  },
+  "slots_zh": {
+   "a": "穆罕默德·本·萨勒曼"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10527,6 +11706,9 @@
   "slots": {
    "a": "Kim Jong Un"
   },
+  "slots_zh": {
+   "a": "金正恩"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10550,6 +11732,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Narendra Modi"
+  },
+  "slots_zh": {
+   "a": "莫迪"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10575,6 +11760,9 @@
   "slots": {
    "a": "Volodymyr Zelensky"
   },
+  "slots_zh": {
+   "a": "泽连斯基"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10598,6 +11786,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Nicolás Maduro"
+  },
+  "slots_zh": {
+   "a": "马杜罗"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10623,6 +11814,9 @@
   "slots": {
    "a": "Nayib Bukele"
   },
+  "slots_zh": {
+   "a": "布克尔"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10646,6 +11840,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Lee Kuan Yew"
+  },
+  "slots_zh": {
+   "a": "李光耀"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10671,6 +11868,9 @@
   "slots": {
    "a": "Emmanuel Macron"
   },
+  "slots_zh": {
+   "a": "埃马纽埃尔·马克龙"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10694,6 +11894,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Keir Starmer"
+  },
+  "slots_zh": {
+   "a": "基尔·斯塔默"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10719,6 +11922,9 @@
   "slots": {
    "a": "Xi Jinping"
   },
+  "slots_zh": {
+   "a": "习近平"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10742,6 +11948,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Vladimir Putin"
+  },
+  "slots_zh": {
+   "a": "普京"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10767,6 +11976,9 @@
   "slots": {
    "a": "Donald Trump"
   },
+  "slots_zh": {
+   "a": "特朗普"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10790,6 +12002,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Recep Tayyip Erdoğan"
+  },
+  "slots_zh": {
+   "a": "埃尔多安"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10815,6 +12030,9 @@
   "slots": {
    "a": "Viktor Orbán"
   },
+  "slots_zh": {
+   "a": "欧尔班"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10838,6 +12056,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Benjamin Netanyahu"
+  },
+  "slots_zh": {
+   "a": "内塔尼亚胡"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10863,6 +12084,9 @@
   "slots": {
    "a": "Mohammed bin Salman"
   },
+  "slots_zh": {
+   "a": "穆罕默德·本·萨勒曼"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10886,6 +12110,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Kim Jong Un"
+  },
+  "slots_zh": {
+   "a": "金正恩"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10911,6 +12138,9 @@
   "slots": {
    "a": "Narendra Modi"
   },
+  "slots_zh": {
+   "a": "莫迪"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10934,6 +12164,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Volodymyr Zelensky"
+  },
+  "slots_zh": {
+   "a": "泽连斯基"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10959,6 +12192,9 @@
   "slots": {
    "a": "Nicolás Maduro"
   },
+  "slots_zh": {
+   "a": "马杜罗"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10982,6 +12218,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Nayib Bukele"
+  },
+  "slots_zh": {
+   "a": "布克尔"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -11007,6 +12246,9 @@
   "slots": {
    "a": "Lee Kuan Yew"
   },
+  "slots_zh": {
+   "a": "李光耀"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -11030,6 +12272,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Emmanuel Macron"
+  },
+  "slots_zh": {
+   "a": "埃马纽埃尔·马克龙"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -11055,6 +12300,9 @@
   "slots": {
    "a": "Keir Starmer"
   },
+  "slots_zh": {
+   "a": "基尔·斯塔默"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -11078,6 +12326,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Xi Jinping"
+  },
+  "slots_zh": {
+   "a": "习近平"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -11103,6 +12354,9 @@
   "slots": {
    "a": "Vladimir Putin"
   },
+  "slots_zh": {
+   "a": "普京"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -11126,6 +12380,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Donald Trump"
+  },
+  "slots_zh": {
+   "a": "特朗普"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -11151,6 +12408,9 @@
   "slots": {
    "a": "Recep Tayyip Erdoğan"
   },
+  "slots_zh": {
+   "a": "埃尔多安"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -11174,6 +12434,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Viktor Orbán"
+  },
+  "slots_zh": {
+   "a": "欧尔班"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -11199,6 +12462,9 @@
   "slots": {
    "a": "Benjamin Netanyahu"
   },
+  "slots_zh": {
+   "a": "内塔尼亚胡"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -11222,6 +12488,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Mohammed bin Salman"
+  },
+  "slots_zh": {
+   "a": "穆罕默德·本·萨勒曼"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -11247,6 +12516,9 @@
   "slots": {
    "a": "Kim Jong Un"
   },
+  "slots_zh": {
+   "a": "金正恩"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -11270,6 +12542,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Narendra Modi"
+  },
+  "slots_zh": {
+   "a": "莫迪"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -11295,6 +12570,9 @@
   "slots": {
    "a": "Volodymyr Zelensky"
   },
+  "slots_zh": {
+   "a": "泽连斯基"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -11318,6 +12596,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Nicolás Maduro"
+  },
+  "slots_zh": {
+   "a": "马杜罗"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -11343,6 +12624,9 @@
   "slots": {
    "a": "Nayib Bukele"
   },
+  "slots_zh": {
+   "a": "布克尔"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -11366,6 +12650,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Lee Kuan Yew"
+  },
+  "slots_zh": {
+   "a": "李光耀"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -11391,6 +12678,9 @@
   "slots": {
    "a": "Emmanuel Macron"
   },
+  "slots_zh": {
+   "a": "埃马纽埃尔·马克龙"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -11414,6 +12704,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Keir Starmer"
+  },
+  "slots_zh": {
+   "a": "基尔·斯塔默"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -11449,6 +12742,9 @@
   "slots": {
    "a": "the IRA"
   },
+  "slots_zh": {
+   "a": "爱尔兰共和军"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -11482,6 +12778,9 @@
   ],
   "slots": {
    "a": "the ANC during apartheid"
+  },
+  "slots_zh": {
+   "a": "种族隔离时期的非国大"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -11517,6 +12816,9 @@
   "slots": {
    "a": "the Irgun"
   },
+  "slots_zh": {
+   "a": "伊尔贡"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -11550,6 +12852,9 @@
   ],
   "slots": {
    "a": "ETA"
+  },
+  "slots_zh": {
+   "a": "埃塔（ETA）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -11585,6 +12890,9 @@
   "slots": {
    "a": "the Catholic Church"
   },
+  "slots_zh": {
+   "a": "天主教会"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -11618,6 +12926,9 @@
   ],
   "slots": {
    "a": "the United Nations"
+  },
+  "slots_zh": {
+   "a": "联合国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -11653,6 +12964,9 @@
   "slots": {
    "a": "NATO"
   },
+  "slots_zh": {
+   "a": "北约"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -11686,6 +13000,9 @@
   ],
   "slots": {
    "a": "the World Health Organization"
+  },
+  "slots_zh": {
+   "a": "世界卫生组织"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -11721,6 +13038,9 @@
   "slots": {
    "a": "the IMF"
   },
+  "slots_zh": {
+   "a": "国际货币基金组织"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -11754,6 +13074,9 @@
   ],
   "slots": {
    "a": "the World Bank"
+  },
+  "slots_zh": {
+   "a": "世界银行"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -11789,6 +13112,9 @@
   "slots": {
    "a": "the European Union"
   },
+  "slots_zh": {
+   "a": "欧盟"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -11822,6 +13148,9 @@
   ],
   "slots": {
    "a": "FIFA"
+  },
+  "slots_zh": {
+   "a": "国际足联"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -11857,6 +13186,9 @@
   "slots": {
    "a": "the International Olympic Committee"
   },
+  "slots_zh": {
+   "a": "国际奥委会"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -11890,6 +13222,9 @@
   ],
   "slots": {
    "a": "Greenpeace"
+  },
+  "slots_zh": {
+   "a": "绿色和平"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -11925,6 +13260,9 @@
   "slots": {
    "a": "Amnesty International"
   },
+  "slots_zh": {
+   "a": "国际特赦组织"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -11958,6 +13296,9 @@
   ],
   "slots": {
    "a": "the Red Cross"
+  },
+  "slots_zh": {
+   "a": "红十字会"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -11993,6 +13334,9 @@
   "slots": {
    "a": "the NRA"
   },
+  "slots_zh": {
+   "a": "美国全国步枪协会"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -12026,6 +13370,9 @@
   ],
   "slots": {
    "a": "the World Economic Forum"
+  },
+  "slots_zh": {
+   "a": "世界经济论坛"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -12061,6 +13408,9 @@
   "slots": {
    "a": "OPEC"
   },
+  "slots_zh": {
+   "a": "欧佩克"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -12094,6 +13444,9 @@
   ],
   "slots": {
    "a": "Wikipedia"
+  },
+  "slots_zh": {
+   "a": "维基百科"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -12129,6 +13482,9 @@
   "slots": {
    "a": "Hamas"
   },
+  "slots_zh": {
+   "a": "哈马斯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -12162,6 +13518,9 @@
   ],
   "slots": {
    "a": "Hezbollah"
+  },
+  "slots_zh": {
+   "a": "真主党"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -12197,6 +13556,9 @@
   "slots": {
    "a": "the PKK"
   },
+  "slots_zh": {
+   "a": "库尔德工人党"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -12230,6 +13592,9 @@
   ],
   "slots": {
    "a": "the Houthi movement"
+  },
+  "slots_zh": {
+   "a": "胡塞武装"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -12265,6 +13630,9 @@
   "slots": {
    "a": "the Taliban"
   },
+  "slots_zh": {
+   "a": "塔利班"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -12298,6 +13666,9 @@
   ],
   "slots": {
    "a": "the Israel Defense Forces"
+  },
+  "slots_zh": {
+   "a": "以色列国防军"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -12333,6 +13704,9 @@
   "slots": {
    "a": "the CIA"
   },
+  "slots_zh": {
+   "a": "美国中央情报局"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -12366,6 +13740,9 @@
   ],
   "slots": {
    "a": "the Wagner Group"
+  },
+  "slots_zh": {
+   "a": "瓦格纳集团"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -12401,6 +13778,9 @@
   "slots": {
    "a": "Iran's Revolutionary Guard"
   },
+  "slots_zh": {
+   "a": "伊朗革命卫队"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -12424,6 +13804,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the Catholic Church"
+  },
+  "slots_zh": {
+   "a": "天主教会"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -12449,6 +13832,9 @@
   "slots": {
    "a": "the United Nations"
   },
+  "slots_zh": {
+   "a": "联合国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -12472,6 +13858,9 @@
   "needs_zh": true,
   "slots": {
    "a": "NATO"
+  },
+  "slots_zh": {
+   "a": "北约"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -12497,6 +13886,9 @@
   "slots": {
    "a": "the World Health Organization"
   },
+  "slots_zh": {
+   "a": "世界卫生组织"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -12520,6 +13912,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the IMF"
+  },
+  "slots_zh": {
+   "a": "国际货币基金组织"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -12545,6 +13940,9 @@
   "slots": {
    "a": "the World Bank"
   },
+  "slots_zh": {
+   "a": "世界银行"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -12568,6 +13966,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the European Union"
+  },
+  "slots_zh": {
+   "a": "欧盟"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -12593,6 +13994,9 @@
   "slots": {
    "a": "FIFA"
   },
+  "slots_zh": {
+   "a": "国际足联"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -12616,6 +14020,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the International Olympic Committee"
+  },
+  "slots_zh": {
+   "a": "国际奥委会"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -12641,6 +14048,9 @@
   "slots": {
    "a": "Greenpeace"
   },
+  "slots_zh": {
+   "a": "绿色和平"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -12664,6 +14074,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Amnesty International"
+  },
+  "slots_zh": {
+   "a": "国际特赦组织"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -12689,6 +14102,9 @@
   "slots": {
    "a": "the Red Cross"
   },
+  "slots_zh": {
+   "a": "红十字会"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -12712,6 +14128,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the NRA"
+  },
+  "slots_zh": {
+   "a": "美国全国步枪协会"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -12737,6 +14156,9 @@
   "slots": {
    "a": "the World Economic Forum"
   },
+  "slots_zh": {
+   "a": "世界经济论坛"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -12760,6 +14182,9 @@
   "needs_zh": true,
   "slots": {
    "a": "OPEC"
+  },
+  "slots_zh": {
+   "a": "欧佩克"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -12785,6 +14210,9 @@
   "slots": {
    "a": "Wikipedia"
   },
+  "slots_zh": {
+   "a": "维基百科"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -12808,6 +14236,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Hamas"
+  },
+  "slots_zh": {
+   "a": "哈马斯"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -12833,6 +14264,9 @@
   "slots": {
    "a": "Hezbollah"
   },
+  "slots_zh": {
+   "a": "真主党"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -12856,6 +14290,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the PKK"
+  },
+  "slots_zh": {
+   "a": "库尔德工人党"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -12881,6 +14318,9 @@
   "slots": {
    "a": "the Houthi movement"
   },
+  "slots_zh": {
+   "a": "胡塞武装"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -12904,6 +14344,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the Taliban"
+  },
+  "slots_zh": {
+   "a": "塔利班"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -12929,6 +14372,9 @@
   "slots": {
    "a": "the Israel Defense Forces"
   },
+  "slots_zh": {
+   "a": "以色列国防军"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -12952,6 +14398,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the CIA"
+  },
+  "slots_zh": {
+   "a": "美国中央情报局"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -12977,6 +14426,9 @@
   "slots": {
    "a": "the Wagner Group"
   },
+  "slots_zh": {
+   "a": "瓦格纳集团"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13000,6 +14452,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Iran's Revolutionary Guard"
+  },
+  "slots_zh": {
+   "a": "伊朗革命卫队"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13025,6 +14480,9 @@
   "slots": {
    "a": "the Catholic Church"
   },
+  "slots_zh": {
+   "a": "天主教会"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13048,6 +14506,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the United Nations"
+  },
+  "slots_zh": {
+   "a": "联合国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13073,6 +14534,9 @@
   "slots": {
    "a": "NATO"
   },
+  "slots_zh": {
+   "a": "北约"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13096,6 +14560,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the World Health Organization"
+  },
+  "slots_zh": {
+   "a": "世界卫生组织"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13121,6 +14588,9 @@
   "slots": {
    "a": "the IMF"
   },
+  "slots_zh": {
+   "a": "国际货币基金组织"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13144,6 +14614,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the World Bank"
+  },
+  "slots_zh": {
+   "a": "世界银行"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13169,6 +14642,9 @@
   "slots": {
    "a": "the European Union"
   },
+  "slots_zh": {
+   "a": "欧盟"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13192,6 +14668,9 @@
   "needs_zh": true,
   "slots": {
    "a": "FIFA"
+  },
+  "slots_zh": {
+   "a": "国际足联"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13217,6 +14696,9 @@
   "slots": {
    "a": "the International Olympic Committee"
   },
+  "slots_zh": {
+   "a": "国际奥委会"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13240,6 +14722,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Greenpeace"
+  },
+  "slots_zh": {
+   "a": "绿色和平"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13265,6 +14750,9 @@
   "slots": {
    "a": "Amnesty International"
   },
+  "slots_zh": {
+   "a": "国际特赦组织"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13288,6 +14776,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the Red Cross"
+  },
+  "slots_zh": {
+   "a": "红十字会"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13313,6 +14804,9 @@
   "slots": {
    "a": "the NRA"
   },
+  "slots_zh": {
+   "a": "美国全国步枪协会"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13336,6 +14830,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the World Economic Forum"
+  },
+  "slots_zh": {
+   "a": "世界经济论坛"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13361,6 +14858,9 @@
   "slots": {
    "a": "OPEC"
   },
+  "slots_zh": {
+   "a": "欧佩克"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13384,6 +14884,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Wikipedia"
+  },
+  "slots_zh": {
+   "a": "维基百科"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13409,6 +14912,9 @@
   "slots": {
    "a": "Hamas"
   },
+  "slots_zh": {
+   "a": "哈马斯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13432,6 +14938,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Hezbollah"
+  },
+  "slots_zh": {
+   "a": "真主党"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13457,6 +14966,9 @@
   "slots": {
    "a": "the PKK"
   },
+  "slots_zh": {
+   "a": "库尔德工人党"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13480,6 +14992,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the Houthi movement"
+  },
+  "slots_zh": {
+   "a": "胡塞武装"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13505,6 +15020,9 @@
   "slots": {
    "a": "the Taliban"
   },
+  "slots_zh": {
+   "a": "塔利班"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13528,6 +15046,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the Israel Defense Forces"
+  },
+  "slots_zh": {
+   "a": "以色列国防军"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13553,6 +15074,9 @@
   "slots": {
    "a": "the CIA"
   },
+  "slots_zh": {
+   "a": "美国中央情报局"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13576,6 +15100,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the Wagner Group"
+  },
+  "slots_zh": {
+   "a": "瓦格纳集团"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13601,6 +15128,9 @@
   "slots": {
    "a": "Iran's Revolutionary Guard"
   },
+  "slots_zh": {
+   "a": "伊朗革命卫队"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13624,6 +15154,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the Catholic Church"
+  },
+  "slots_zh": {
+   "a": "天主教会"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13649,6 +15182,9 @@
   "slots": {
    "a": "the United Nations"
   },
+  "slots_zh": {
+   "a": "联合国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13672,6 +15208,9 @@
   "needs_zh": true,
   "slots": {
    "a": "NATO"
+  },
+  "slots_zh": {
+   "a": "北约"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13697,6 +15236,9 @@
   "slots": {
    "a": "the World Health Organization"
   },
+  "slots_zh": {
+   "a": "世界卫生组织"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13720,6 +15262,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the IMF"
+  },
+  "slots_zh": {
+   "a": "国际货币基金组织"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13745,6 +15290,9 @@
   "slots": {
    "a": "the World Bank"
   },
+  "slots_zh": {
+   "a": "世界银行"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13768,6 +15316,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the European Union"
+  },
+  "slots_zh": {
+   "a": "欧盟"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13793,6 +15344,9 @@
   "slots": {
    "a": "FIFA"
   },
+  "slots_zh": {
+   "a": "国际足联"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13816,6 +15370,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the International Olympic Committee"
+  },
+  "slots_zh": {
+   "a": "国际奥委会"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13841,6 +15398,9 @@
   "slots": {
    "a": "Greenpeace"
   },
+  "slots_zh": {
+   "a": "绿色和平"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13864,6 +15424,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Amnesty International"
+  },
+  "slots_zh": {
+   "a": "国际特赦组织"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13889,6 +15452,9 @@
   "slots": {
    "a": "the Red Cross"
   },
+  "slots_zh": {
+   "a": "红十字会"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13912,6 +15478,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the NRA"
+  },
+  "slots_zh": {
+   "a": "美国全国步枪协会"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13937,6 +15506,9 @@
   "slots": {
    "a": "the World Economic Forum"
   },
+  "slots_zh": {
+   "a": "世界经济论坛"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13960,6 +15532,9 @@
   "needs_zh": true,
   "slots": {
    "a": "OPEC"
+  },
+  "slots_zh": {
+   "a": "欧佩克"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13985,6 +15560,9 @@
   "slots": {
    "a": "Wikipedia"
   },
+  "slots_zh": {
+   "a": "维基百科"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14008,6 +15586,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Hamas"
+  },
+  "slots_zh": {
+   "a": "哈马斯"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14033,6 +15614,9 @@
   "slots": {
    "a": "Hezbollah"
   },
+  "slots_zh": {
+   "a": "真主党"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14056,6 +15640,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the PKK"
+  },
+  "slots_zh": {
+   "a": "库尔德工人党"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14081,6 +15668,9 @@
   "slots": {
    "a": "the Houthi movement"
   },
+  "slots_zh": {
+   "a": "胡塞武装"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14104,6 +15694,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the Taliban"
+  },
+  "slots_zh": {
+   "a": "塔利班"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14129,6 +15722,9 @@
   "slots": {
    "a": "the Israel Defense Forces"
   },
+  "slots_zh": {
+   "a": "以色列国防军"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14152,6 +15748,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the CIA"
+  },
+  "slots_zh": {
+   "a": "美国中央情报局"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14177,6 +15776,9 @@
   "slots": {
    "a": "the Wagner Group"
   },
+  "slots_zh": {
+   "a": "瓦格纳集团"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14200,6 +15802,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Iran's Revolutionary Guard"
+  },
+  "slots_zh": {
+   "a": "伊朗革命卫队"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14225,6 +15830,9 @@
   "slots": {
    "a": "the Catholic Church"
   },
+  "slots_zh": {
+   "a": "天主教会"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14248,6 +15856,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the United Nations"
+  },
+  "slots_zh": {
+   "a": "联合国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14273,6 +15884,9 @@
   "slots": {
    "a": "NATO"
   },
+  "slots_zh": {
+   "a": "北约"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14296,6 +15910,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the World Health Organization"
+  },
+  "slots_zh": {
+   "a": "世界卫生组织"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14321,6 +15938,9 @@
   "slots": {
    "a": "the IMF"
   },
+  "slots_zh": {
+   "a": "国际货币基金组织"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14344,6 +15964,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the World Bank"
+  },
+  "slots_zh": {
+   "a": "世界银行"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14369,6 +15992,9 @@
   "slots": {
    "a": "the European Union"
   },
+  "slots_zh": {
+   "a": "欧盟"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14392,6 +16018,9 @@
   "needs_zh": true,
   "slots": {
    "a": "FIFA"
+  },
+  "slots_zh": {
+   "a": "国际足联"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14417,6 +16046,9 @@
   "slots": {
    "a": "the International Olympic Committee"
   },
+  "slots_zh": {
+   "a": "国际奥委会"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14440,6 +16072,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Greenpeace"
+  },
+  "slots_zh": {
+   "a": "绿色和平"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14465,6 +16100,9 @@
   "slots": {
    "a": "Amnesty International"
   },
+  "slots_zh": {
+   "a": "国际特赦组织"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14488,6 +16126,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the Red Cross"
+  },
+  "slots_zh": {
+   "a": "红十字会"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14513,6 +16154,9 @@
   "slots": {
    "a": "the NRA"
   },
+  "slots_zh": {
+   "a": "美国全国步枪协会"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14536,6 +16180,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the World Economic Forum"
+  },
+  "slots_zh": {
+   "a": "世界经济论坛"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14561,6 +16208,9 @@
   "slots": {
    "a": "OPEC"
   },
+  "slots_zh": {
+   "a": "欧佩克"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14584,6 +16234,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Wikipedia"
+  },
+  "slots_zh": {
+   "a": "维基百科"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14609,6 +16262,9 @@
   "slots": {
    "a": "Hamas"
   },
+  "slots_zh": {
+   "a": "哈马斯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14632,6 +16288,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Hezbollah"
+  },
+  "slots_zh": {
+   "a": "真主党"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14657,6 +16316,9 @@
   "slots": {
    "a": "the PKK"
   },
+  "slots_zh": {
+   "a": "库尔德工人党"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14680,6 +16342,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the Houthi movement"
+  },
+  "slots_zh": {
+   "a": "胡塞武装"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14705,6 +16370,9 @@
   "slots": {
    "a": "the Taliban"
   },
+  "slots_zh": {
+   "a": "塔利班"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14728,6 +16396,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the Israel Defense Forces"
+  },
+  "slots_zh": {
+   "a": "以色列国防军"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14753,6 +16424,9 @@
   "slots": {
    "a": "the CIA"
   },
+  "slots_zh": {
+   "a": "美国中央情报局"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14776,6 +16450,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the Wagner Group"
+  },
+  "slots_zh": {
+   "a": "瓦格纳集团"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14801,6 +16478,9 @@
   "slots": {
    "a": "Iran's Revolutionary Guard"
   },
+  "slots_zh": {
+   "a": "伊朗革命卫队"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14824,6 +16504,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the Catholic Church"
+  },
+  "slots_zh": {
+   "a": "天主教会"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14849,6 +16532,9 @@
   "slots": {
    "a": "the United Nations"
   },
+  "slots_zh": {
+   "a": "联合国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14872,6 +16558,9 @@
   "needs_zh": true,
   "slots": {
    "a": "NATO"
+  },
+  "slots_zh": {
+   "a": "北约"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14897,6 +16586,9 @@
   "slots": {
    "a": "the World Health Organization"
   },
+  "slots_zh": {
+   "a": "世界卫生组织"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14920,6 +16612,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the IMF"
+  },
+  "slots_zh": {
+   "a": "国际货币基金组织"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14945,6 +16640,9 @@
   "slots": {
    "a": "the World Bank"
   },
+  "slots_zh": {
+   "a": "世界银行"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14968,6 +16666,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the European Union"
+  },
+  "slots_zh": {
+   "a": "欧盟"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14993,6 +16694,9 @@
   "slots": {
    "a": "FIFA"
   },
+  "slots_zh": {
+   "a": "国际足联"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15016,6 +16720,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the International Olympic Committee"
+  },
+  "slots_zh": {
+   "a": "国际奥委会"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15041,6 +16748,9 @@
   "slots": {
    "a": "Greenpeace"
   },
+  "slots_zh": {
+   "a": "绿色和平"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15064,6 +16774,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Amnesty International"
+  },
+  "slots_zh": {
+   "a": "国际特赦组织"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15089,6 +16802,9 @@
   "slots": {
    "a": "the Red Cross"
   },
+  "slots_zh": {
+   "a": "红十字会"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15112,6 +16828,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the NRA"
+  },
+  "slots_zh": {
+   "a": "美国全国步枪协会"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15137,6 +16856,9 @@
   "slots": {
    "a": "the World Economic Forum"
   },
+  "slots_zh": {
+   "a": "世界经济论坛"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15160,6 +16882,9 @@
   "needs_zh": true,
   "slots": {
    "a": "OPEC"
+  },
+  "slots_zh": {
+   "a": "欧佩克"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15185,6 +16910,9 @@
   "slots": {
    "a": "Wikipedia"
   },
+  "slots_zh": {
+   "a": "维基百科"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15208,6 +16936,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Hamas"
+  },
+  "slots_zh": {
+   "a": "哈马斯"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15233,6 +16964,9 @@
   "slots": {
    "a": "Hezbollah"
   },
+  "slots_zh": {
+   "a": "真主党"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15256,6 +16990,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the PKK"
+  },
+  "slots_zh": {
+   "a": "库尔德工人党"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15281,6 +17018,9 @@
   "slots": {
    "a": "the Houthi movement"
   },
+  "slots_zh": {
+   "a": "胡塞武装"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15304,6 +17044,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the Taliban"
+  },
+  "slots_zh": {
+   "a": "塔利班"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15329,6 +17072,9 @@
   "slots": {
    "a": "the Israel Defense Forces"
   },
+  "slots_zh": {
+   "a": "以色列国防军"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15352,6 +17098,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the CIA"
+  },
+  "slots_zh": {
+   "a": "美国中央情报局"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15377,6 +17126,9 @@
   "slots": {
    "a": "the Wagner Group"
   },
+  "slots_zh": {
+   "a": "瓦格纳集团"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15400,6 +17152,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Iran's Revolutionary Guard"
+  },
+  "slots_zh": {
+   "a": "伊朗革命卫队"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15425,6 +17180,9 @@
   "slots": {
    "a": "the Republican Party"
   },
+  "slots_zh": {
+   "a": "美国共和党"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15448,6 +17206,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the Democratic Party"
+  },
+  "slots_zh": {
+   "a": "美国民主党"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15473,6 +17234,9 @@
   "slots": {
    "a": "the UK Conservative Party"
   },
+  "slots_zh": {
+   "a": "英国保守党"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15496,6 +17260,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the UK Labour Party"
+  },
+  "slots_zh": {
+   "a": "英国工党"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15521,6 +17288,9 @@
   "slots": {
    "a": "Alternative for Germany"
   },
+  "slots_zh": {
+   "a": "德国选择党"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15544,6 +17314,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the BJP"
+  },
+  "slots_zh": {
+   "a": "印度人民党"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15569,6 +17342,9 @@
   "slots": {
    "a": "the Chinese Communist Party"
   },
+  "slots_zh": {
+   "a": "中国共产党"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15592,6 +17368,9 @@
   "needs_zh": true,
   "slots": {
    "a": "United Russia"
+  },
+  "slots_zh": {
+   "a": "统一俄罗斯党"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15617,6 +17396,9 @@
   "slots": {
    "a": "Japan's Liberal Democratic Party"
   },
+  "slots_zh": {
+   "a": "日本自民党"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15640,6 +17422,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Likud"
+  },
+  "slots_zh": {
+   "a": "利库德集团"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15665,6 +17450,9 @@
   "slots": {
    "a": "the ANC"
   },
+  "slots_zh": {
+   "a": "南非非国大"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15688,6 +17476,9 @@
   "needs_zh": true,
   "slots": {
    "a": "France's National Rally"
+  },
+  "slots_zh": {
+   "a": "法国国民联盟"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15713,6 +17504,9 @@
   "slots": {
    "a": "Fidesz"
   },
+  "slots_zh": {
+   "a": "匈牙利青民盟"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15736,6 +17530,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Singapore's People's Action Party"
+  },
+  "slots_zh": {
+   "a": "新加坡人民行动党"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15761,6 +17558,9 @@
   "slots": {
    "a": "the Republican Party"
   },
+  "slots_zh": {
+   "a": "美国共和党"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15784,6 +17584,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the Democratic Party"
+  },
+  "slots_zh": {
+   "a": "美国民主党"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15809,6 +17612,9 @@
   "slots": {
    "a": "the UK Conservative Party"
   },
+  "slots_zh": {
+   "a": "英国保守党"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15832,6 +17638,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the UK Labour Party"
+  },
+  "slots_zh": {
+   "a": "英国工党"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15857,6 +17666,9 @@
   "slots": {
    "a": "Alternative for Germany"
   },
+  "slots_zh": {
+   "a": "德国选择党"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15880,6 +17692,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the BJP"
+  },
+  "slots_zh": {
+   "a": "印度人民党"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15905,6 +17720,9 @@
   "slots": {
    "a": "the Chinese Communist Party"
   },
+  "slots_zh": {
+   "a": "中国共产党"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15928,6 +17746,9 @@
   "needs_zh": true,
   "slots": {
    "a": "United Russia"
+  },
+  "slots_zh": {
+   "a": "统一俄罗斯党"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15953,6 +17774,9 @@
   "slots": {
    "a": "Japan's Liberal Democratic Party"
   },
+  "slots_zh": {
+   "a": "日本自民党"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15976,6 +17800,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Likud"
+  },
+  "slots_zh": {
+   "a": "利库德集团"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -16001,6 +17828,9 @@
   "slots": {
    "a": "the ANC"
   },
+  "slots_zh": {
+   "a": "南非非国大"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -16024,6 +17854,9 @@
   "needs_zh": true,
   "slots": {
    "a": "France's National Rally"
+  },
+  "slots_zh": {
+   "a": "法国国民联盟"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -16049,6 +17882,9 @@
   "slots": {
    "a": "Fidesz"
   },
+  "slots_zh": {
+   "a": "匈牙利青民盟"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -16072,6 +17908,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Singapore's People's Action Party"
+  },
+  "slots_zh": {
+   "a": "新加坡人民行动党"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -16097,6 +17936,9 @@
   "slots": {
    "a": "the Republican Party"
   },
+  "slots_zh": {
+   "a": "美国共和党"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -16120,6 +17962,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the Democratic Party"
+  },
+  "slots_zh": {
+   "a": "美国民主党"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -16145,6 +17990,9 @@
   "slots": {
    "a": "the UK Conservative Party"
   },
+  "slots_zh": {
+   "a": "英国保守党"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -16168,6 +18016,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the UK Labour Party"
+  },
+  "slots_zh": {
+   "a": "英国工党"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -16193,6 +18044,9 @@
   "slots": {
    "a": "Alternative for Germany"
   },
+  "slots_zh": {
+   "a": "德国选择党"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -16216,6 +18070,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the BJP"
+  },
+  "slots_zh": {
+   "a": "印度人民党"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -16241,6 +18098,9 @@
   "slots": {
    "a": "the Chinese Communist Party"
   },
+  "slots_zh": {
+   "a": "中国共产党"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -16264,6 +18124,9 @@
   "needs_zh": true,
   "slots": {
    "a": "United Russia"
+  },
+  "slots_zh": {
+   "a": "统一俄罗斯党"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -16289,6 +18152,9 @@
   "slots": {
    "a": "Japan's Liberal Democratic Party"
   },
+  "slots_zh": {
+   "a": "日本自民党"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -16312,6 +18178,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Likud"
+  },
+  "slots_zh": {
+   "a": "利库德集团"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -16337,6 +18206,9 @@
   "slots": {
    "a": "the ANC"
   },
+  "slots_zh": {
+   "a": "南非非国大"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -16360,6 +18232,9 @@
   "needs_zh": true,
   "slots": {
    "a": "France's National Rally"
+  },
+  "slots_zh": {
+   "a": "法国国民联盟"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -16385,6 +18260,9 @@
   "slots": {
    "a": "Fidesz"
   },
+  "slots_zh": {
+   "a": "匈牙利青民盟"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -16408,6 +18286,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Singapore's People's Action Party"
+  },
+  "slots_zh": {
+   "a": "新加坡人民行动党"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -16433,6 +18314,9 @@
   "slots": {
    "a": "the Republican Party"
   },
+  "slots_zh": {
+   "a": "美国共和党"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -16456,6 +18340,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the Democratic Party"
+  },
+  "slots_zh": {
+   "a": "美国民主党"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -16481,6 +18368,9 @@
   "slots": {
    "a": "the UK Conservative Party"
   },
+  "slots_zh": {
+   "a": "英国保守党"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -16504,6 +18394,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the UK Labour Party"
+  },
+  "slots_zh": {
+   "a": "英国工党"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -16529,6 +18422,9 @@
   "slots": {
    "a": "Alternative for Germany"
   },
+  "slots_zh": {
+   "a": "德国选择党"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -16552,6 +18448,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the BJP"
+  },
+  "slots_zh": {
+   "a": "印度人民党"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -16577,6 +18476,9 @@
   "slots": {
    "a": "the Chinese Communist Party"
   },
+  "slots_zh": {
+   "a": "中国共产党"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -16600,6 +18502,9 @@
   "needs_zh": true,
   "slots": {
    "a": "United Russia"
+  },
+  "slots_zh": {
+   "a": "统一俄罗斯党"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -16625,6 +18530,9 @@
   "slots": {
    "a": "Japan's Liberal Democratic Party"
   },
+  "slots_zh": {
+   "a": "日本自民党"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -16648,6 +18556,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Likud"
+  },
+  "slots_zh": {
+   "a": "利库德集团"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -16673,6 +18584,9 @@
   "slots": {
    "a": "the ANC"
   },
+  "slots_zh": {
+   "a": "南非非国大"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -16696,6 +18610,9 @@
   "needs_zh": true,
   "slots": {
    "a": "France's National Rally"
+  },
+  "slots_zh": {
+   "a": "法国国民联盟"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -16721,6 +18638,9 @@
   "slots": {
    "a": "Fidesz"
   },
+  "slots_zh": {
+   "a": "匈牙利青民盟"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -16744,6 +18664,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Singapore's People's Action Party"
+  },
+  "slots_zh": {
+   "a": "新加坡人民行动党"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -17736,6 +19659,9 @@
   "slots": {
    "a": "Israel's rule over Palestinians in the West Bank"
   },
+  "slots_zh": {
+   "a": "以色列对约旦河西岸巴勒斯坦人的统治"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -17758,6 +19684,9 @@
   "needs_zh": true,
   "slots": {
    "a": "South Africa's racial system before 1994"
+  },
+  "slots_zh": {
+   "a": "1994 年以前南非的种族制度"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -17782,6 +19711,9 @@
   "slots": {
    "a": "Segregation in the American South before 1965"
   },
+  "slots_zh": {
+   "a": "1965 年以前美国南方的种族隔离"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -17804,6 +19736,9 @@
   "needs_zh": true,
   "slots": {
    "a": "China's rule over Uyghurs in Xinjiang"
+  },
+  "slots_zh": {
+   "a": "中国对新疆维吾尔人的统治"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -17828,6 +19763,9 @@
   "slots": {
    "a": "India's caste system"
   },
+  "slots_zh": {
+   "a": "印度的种姓制度"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -17850,6 +19788,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Saudi Arabia's treatment of women"
+  },
+  "slots_zh": {
+   "a": "沙特阿拉伯对待女性的方式"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -17874,6 +19815,9 @@
   "slots": {
    "a": "Malaysia's bumiputera policy"
   },
+  "slots_zh": {
+   "a": "马来西亚的土著优先政策"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -17896,6 +19840,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Gulf states' treatment of migrant workers"
+  },
+  "slots_zh": {
+   "a": "海湾国家对待外来劳工的方式"
   },
   "pair_strict": true,
   "visibility": "public"

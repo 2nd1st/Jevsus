@@ -20,6 +20,9 @@
   "slots": {
    "a": "Israel"
   },
+  "slots_zh": {
+   "a": "以色列"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -43,6 +46,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Ukraine"
+  },
+  "slots_zh": {
+   "a": "乌克兰"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -68,6 +74,9 @@
   "slots": {
    "a": "the United States"
   },
+  "slots_zh": {
+   "a": "美国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -91,6 +100,9 @@
   "needs_zh": true,
   "slots": {
    "a": "China"
+  },
+  "slots_zh": {
+   "a": "中国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -116,6 +128,9 @@
   "slots": {
    "a": "Russia"
   },
+  "slots_zh": {
+   "a": "俄罗斯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -139,6 +154,9 @@
   "needs_zh": true,
   "slots": {
    "a": "India"
+  },
+  "slots_zh": {
+   "a": "印度"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -164,6 +182,9 @@
   "slots": {
    "a": "Japan"
   },
+  "slots_zh": {
+   "a": "日本"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -187,6 +208,9 @@
   "needs_zh": true,
   "slots": {
    "a": "France"
+  },
+  "slots_zh": {
+   "a": "法国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -212,6 +236,9 @@
   "slots": {
    "a": "Saudi Arabia"
   },
+  "slots_zh": {
+   "a": "沙特阿拉伯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -235,6 +262,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Singapore"
+  },
+  "slots_zh": {
+   "a": "新加坡"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -260,6 +290,9 @@
   "slots": {
    "a": "Turkey"
   },
+  "slots_zh": {
+   "a": "土耳其"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -283,6 +316,9 @@
   "needs_zh": true,
   "slots": {
    "a": "South Africa"
+  },
+  "slots_zh": {
+   "a": "南非"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -308,6 +344,9 @@
   "slots": {
    "a": "Hungary"
   },
+  "slots_zh": {
+   "a": "匈牙利"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -331,6 +370,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Germany"
+  },
+  "slots_zh": {
+   "a": "德国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -356,6 +398,9 @@
   "slots": {
    "a": "Brazil"
   },
+  "slots_zh": {
+   "a": "巴西"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -379,6 +424,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the United Kingdom"
+  },
+  "slots_zh": {
+   "a": "英国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -404,6 +452,9 @@
   "slots": {
    "a": "Italy"
   },
+  "slots_zh": {
+   "a": "意大利"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -427,6 +478,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Thailand"
+  },
+  "slots_zh": {
+   "a": "泰国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -452,6 +506,9 @@
   "slots": {
    "a": "South Korea"
   },
+  "slots_zh": {
+   "a": "韩国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -475,6 +532,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Mexico"
+  },
+  "slots_zh": {
+   "a": "墨西哥"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -500,6 +560,9 @@
   "slots": {
    "a": "Iran"
   },
+  "slots_zh": {
+   "a": "伊朗"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -523,6 +586,9 @@
   "needs_zh": true,
   "slots": {
    "a": "North Korea"
+  },
+  "slots_zh": {
+   "a": "朝鲜"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -548,6 +614,9 @@
   "slots": {
    "a": "Australia"
   },
+  "slots_zh": {
+   "a": "澳大利亚"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -571,6 +640,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Canada"
+  },
+  "slots_zh": {
+   "a": "加拿大"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -596,6 +668,9 @@
   "slots": {
    "a": "Sweden"
   },
+  "slots_zh": {
+   "a": "瑞典"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -619,6 +694,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Switzerland"
+  },
+  "slots_zh": {
+   "a": "瑞士"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -644,6 +722,9 @@
   "slots": {
    "a": "the United Arab Emirates"
   },
+  "slots_zh": {
+   "a": "阿联酋"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -667,6 +748,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Israel"
+  },
+  "slots_zh": {
+   "a": "以色列"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -692,6 +776,9 @@
   "slots": {
    "a": "Ukraine"
   },
+  "slots_zh": {
+   "a": "乌克兰"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -715,6 +802,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the United States"
+  },
+  "slots_zh": {
+   "a": "美国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -740,6 +830,9 @@
   "slots": {
    "a": "China"
   },
+  "slots_zh": {
+   "a": "中国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -763,6 +856,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Russia"
+  },
+  "slots_zh": {
+   "a": "俄罗斯"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -788,6 +884,9 @@
   "slots": {
    "a": "India"
   },
+  "slots_zh": {
+   "a": "印度"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -811,6 +910,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Japan"
+  },
+  "slots_zh": {
+   "a": "日本"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -836,6 +938,9 @@
   "slots": {
    "a": "France"
   },
+  "slots_zh": {
+   "a": "法国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -859,6 +964,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Saudi Arabia"
+  },
+  "slots_zh": {
+   "a": "沙特阿拉伯"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -884,6 +992,9 @@
   "slots": {
    "a": "Singapore"
   },
+  "slots_zh": {
+   "a": "新加坡"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -907,6 +1018,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Turkey"
+  },
+  "slots_zh": {
+   "a": "土耳其"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -932,6 +1046,9 @@
   "slots": {
    "a": "South Africa"
   },
+  "slots_zh": {
+   "a": "南非"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -955,6 +1072,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Hungary"
+  },
+  "slots_zh": {
+   "a": "匈牙利"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -980,6 +1100,9 @@
   "slots": {
    "a": "Germany"
   },
+  "slots_zh": {
+   "a": "德国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1003,6 +1126,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Brazil"
+  },
+  "slots_zh": {
+   "a": "巴西"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1028,6 +1154,9 @@
   "slots": {
    "a": "the United Kingdom"
   },
+  "slots_zh": {
+   "a": "英国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1051,6 +1180,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Italy"
+  },
+  "slots_zh": {
+   "a": "意大利"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1076,6 +1208,9 @@
   "slots": {
    "a": "Thailand"
   },
+  "slots_zh": {
+   "a": "泰国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1099,6 +1234,9 @@
   "needs_zh": true,
   "slots": {
    "a": "South Korea"
+  },
+  "slots_zh": {
+   "a": "韩国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1124,6 +1262,9 @@
   "slots": {
    "a": "Mexico"
   },
+  "slots_zh": {
+   "a": "墨西哥"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1147,6 +1288,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Iran"
+  },
+  "slots_zh": {
+   "a": "伊朗"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1172,6 +1316,9 @@
   "slots": {
    "a": "North Korea"
   },
+  "slots_zh": {
+   "a": "朝鲜"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1195,6 +1342,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Australia"
+  },
+  "slots_zh": {
+   "a": "澳大利亚"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1220,6 +1370,9 @@
   "slots": {
    "a": "Canada"
   },
+  "slots_zh": {
+   "a": "加拿大"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1243,6 +1396,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Sweden"
+  },
+  "slots_zh": {
+   "a": "瑞典"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1268,6 +1424,9 @@
   "slots": {
    "a": "Switzerland"
   },
+  "slots_zh": {
+   "a": "瑞士"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1291,6 +1450,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the United Arab Emirates"
+  },
+  "slots_zh": {
+   "a": "阿联酋"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1316,6 +1478,9 @@
   "slots": {
    "a": "Israel"
   },
+  "slots_zh": {
+   "a": "以色列"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1339,6 +1504,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Ukraine"
+  },
+  "slots_zh": {
+   "a": "乌克兰"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1364,6 +1532,9 @@
   "slots": {
    "a": "the United States"
   },
+  "slots_zh": {
+   "a": "美国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1387,6 +1558,9 @@
   "needs_zh": true,
   "slots": {
    "a": "China"
+  },
+  "slots_zh": {
+   "a": "中国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1412,6 +1586,9 @@
   "slots": {
    "a": "Russia"
   },
+  "slots_zh": {
+   "a": "俄罗斯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1435,6 +1612,9 @@
   "needs_zh": true,
   "slots": {
    "a": "India"
+  },
+  "slots_zh": {
+   "a": "印度"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1460,6 +1640,9 @@
   "slots": {
    "a": "Japan"
   },
+  "slots_zh": {
+   "a": "日本"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1483,6 +1666,9 @@
   "needs_zh": true,
   "slots": {
    "a": "France"
+  },
+  "slots_zh": {
+   "a": "法国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1508,6 +1694,9 @@
   "slots": {
    "a": "Saudi Arabia"
   },
+  "slots_zh": {
+   "a": "沙特阿拉伯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1531,6 +1720,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Singapore"
+  },
+  "slots_zh": {
+   "a": "新加坡"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1556,6 +1748,9 @@
   "slots": {
    "a": "Turkey"
   },
+  "slots_zh": {
+   "a": "土耳其"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1579,6 +1774,9 @@
   "needs_zh": true,
   "slots": {
    "a": "South Africa"
+  },
+  "slots_zh": {
+   "a": "南非"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1604,6 +1802,9 @@
   "slots": {
    "a": "Hungary"
   },
+  "slots_zh": {
+   "a": "匈牙利"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1627,6 +1828,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Germany"
+  },
+  "slots_zh": {
+   "a": "德国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1652,6 +1856,9 @@
   "slots": {
    "a": "Brazil"
   },
+  "slots_zh": {
+   "a": "巴西"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1675,6 +1882,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the United Kingdom"
+  },
+  "slots_zh": {
+   "a": "英国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1700,6 +1910,9 @@
   "slots": {
    "a": "Italy"
   },
+  "slots_zh": {
+   "a": "意大利"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1723,6 +1936,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Thailand"
+  },
+  "slots_zh": {
+   "a": "泰国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1748,6 +1964,9 @@
   "slots": {
    "a": "South Korea"
   },
+  "slots_zh": {
+   "a": "韩国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1771,6 +1990,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Mexico"
+  },
+  "slots_zh": {
+   "a": "墨西哥"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1796,6 +2018,9 @@
   "slots": {
    "a": "Iran"
   },
+  "slots_zh": {
+   "a": "伊朗"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1819,6 +2044,9 @@
   "needs_zh": true,
   "slots": {
    "a": "North Korea"
+  },
+  "slots_zh": {
+   "a": "朝鲜"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1844,6 +2072,9 @@
   "slots": {
    "a": "Australia"
   },
+  "slots_zh": {
+   "a": "澳大利亚"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1867,6 +2098,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Canada"
+  },
+  "slots_zh": {
+   "a": "加拿大"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1892,6 +2126,9 @@
   "slots": {
    "a": "Sweden"
   },
+  "slots_zh": {
+   "a": "瑞典"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1915,6 +2152,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Switzerland"
+  },
+  "slots_zh": {
+   "a": "瑞士"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1940,6 +2180,9 @@
   "slots": {
    "a": "the United Arab Emirates"
   },
+  "slots_zh": {
+   "a": "阿联酋"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1963,6 +2206,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Israel"
+  },
+  "slots_zh": {
+   "a": "以色列"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1988,6 +2234,9 @@
   "slots": {
    "a": "Ukraine"
   },
+  "slots_zh": {
+   "a": "乌克兰"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2011,6 +2260,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the United States"
+  },
+  "slots_zh": {
+   "a": "美国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2036,6 +2288,9 @@
   "slots": {
    "a": "China"
   },
+  "slots_zh": {
+   "a": "中国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2059,6 +2314,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Russia"
+  },
+  "slots_zh": {
+   "a": "俄罗斯"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2084,6 +2342,9 @@
   "slots": {
    "a": "India"
   },
+  "slots_zh": {
+   "a": "印度"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2107,6 +2368,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Japan"
+  },
+  "slots_zh": {
+   "a": "日本"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2132,6 +2396,9 @@
   "slots": {
    "a": "France"
   },
+  "slots_zh": {
+   "a": "法国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2155,6 +2422,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Saudi Arabia"
+  },
+  "slots_zh": {
+   "a": "沙特阿拉伯"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2180,6 +2450,9 @@
   "slots": {
    "a": "Singapore"
   },
+  "slots_zh": {
+   "a": "新加坡"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2203,6 +2476,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Turkey"
+  },
+  "slots_zh": {
+   "a": "土耳其"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2228,6 +2504,9 @@
   "slots": {
    "a": "South Africa"
   },
+  "slots_zh": {
+   "a": "南非"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2251,6 +2530,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Hungary"
+  },
+  "slots_zh": {
+   "a": "匈牙利"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2276,6 +2558,9 @@
   "slots": {
    "a": "Germany"
   },
+  "slots_zh": {
+   "a": "德国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2299,6 +2584,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Brazil"
+  },
+  "slots_zh": {
+   "a": "巴西"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2324,6 +2612,9 @@
   "slots": {
    "a": "the United Kingdom"
   },
+  "slots_zh": {
+   "a": "英国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2347,6 +2638,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Italy"
+  },
+  "slots_zh": {
+   "a": "意大利"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2372,6 +2666,9 @@
   "slots": {
    "a": "Thailand"
   },
+  "slots_zh": {
+   "a": "泰国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2395,6 +2692,9 @@
   "needs_zh": true,
   "slots": {
    "a": "South Korea"
+  },
+  "slots_zh": {
+   "a": "韩国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2420,6 +2720,9 @@
   "slots": {
    "a": "Mexico"
   },
+  "slots_zh": {
+   "a": "墨西哥"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2443,6 +2746,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Iran"
+  },
+  "slots_zh": {
+   "a": "伊朗"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2468,6 +2774,9 @@
   "slots": {
    "a": "North Korea"
   },
+  "slots_zh": {
+   "a": "朝鲜"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2491,6 +2800,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Australia"
+  },
+  "slots_zh": {
+   "a": "澳大利亚"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2516,6 +2828,9 @@
   "slots": {
    "a": "Canada"
   },
+  "slots_zh": {
+   "a": "加拿大"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2539,6 +2854,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Sweden"
+  },
+  "slots_zh": {
+   "a": "瑞典"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2564,6 +2882,9 @@
   "slots": {
    "a": "Switzerland"
   },
+  "slots_zh": {
+   "a": "瑞士"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2587,6 +2908,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the United Arab Emirates"
+  },
+  "slots_zh": {
+   "a": "阿联酋"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2618,6 +2942,9 @@
   "slots": {
    "a": "New York"
   },
+  "slots_zh": {
+   "a": "纽约"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2647,6 +2974,9 @@
   ],
   "slots": {
    "a": "London"
+  },
+  "slots_zh": {
+   "a": "伦敦"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2678,6 +3008,9 @@
   "slots": {
    "a": "Paris"
   },
+  "slots_zh": {
+   "a": "巴黎"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2707,6 +3040,9 @@
   ],
   "slots": {
    "a": "Tokyo"
+  },
+  "slots_zh": {
+   "a": "东京"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2738,6 +3074,9 @@
   "slots": {
    "a": "Dubai"
   },
+  "slots_zh": {
+   "a": "迪拜"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2767,6 +3106,9 @@
   ],
   "slots": {
    "a": "San Francisco"
+  },
+  "slots_zh": {
+   "a": "旧金山"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2798,6 +3140,9 @@
   "slots": {
    "a": "Shanghai"
   },
+  "slots_zh": {
+   "a": "上海"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2827,6 +3172,9 @@
   ],
   "slots": {
    "a": "Singapore"
+  },
+  "slots_zh": {
+   "a": "新加坡"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2858,6 +3206,9 @@
   "slots": {
    "a": "Berlin"
   },
+  "slots_zh": {
+   "a": "柏林"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2887,6 +3238,9 @@
   ],
   "slots": {
    "a": "Sydney"
+  },
+  "slots_zh": {
+   "a": "悉尼"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2918,6 +3272,9 @@
   "slots": {
    "a": "Los Angeles"
   },
+  "slots_zh": {
+   "a": "洛杉矶"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2947,6 +3304,9 @@
   ],
   "slots": {
    "a": "Mumbai"
+  },
+  "slots_zh": {
+   "a": "孟买"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2978,6 +3338,9 @@
   "slots": {
    "a": "Hong Kong"
   },
+  "slots_zh": {
+   "a": "香港"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3007,6 +3370,9 @@
   ],
   "slots": {
    "a": "Bangkok"
+  },
+  "slots_zh": {
+   "a": "曼谷"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3038,6 +3404,9 @@
   "slots": {
    "a": "Johannesburg"
   },
+  "slots_zh": {
+   "a": "约翰内斯堡"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3067,6 +3436,9 @@
   ],
   "slots": {
    "a": "Rio de Janeiro"
+  },
+  "slots_zh": {
+   "a": "里约热内卢"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3098,6 +3470,9 @@
   "slots": {
    "a": "Chicago"
   },
+  "slots_zh": {
+   "a": "芝加哥"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3127,6 +3502,9 @@
   ],
   "slots": {
    "a": "Mexico City"
+  },
+  "slots_zh": {
+   "a": "墨西哥城"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3158,6 +3536,9 @@
   "slots": {
    "a": "New York"
   },
+  "slots_zh": {
+   "a": "纽约"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3187,6 +3568,9 @@
   ],
   "slots": {
    "a": "London"
+  },
+  "slots_zh": {
+   "a": "伦敦"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3218,6 +3602,9 @@
   "slots": {
    "a": "Paris"
   },
+  "slots_zh": {
+   "a": "巴黎"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3247,6 +3634,9 @@
   ],
   "slots": {
    "a": "Tokyo"
+  },
+  "slots_zh": {
+   "a": "东京"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3278,6 +3668,9 @@
   "slots": {
    "a": "Dubai"
   },
+  "slots_zh": {
+   "a": "迪拜"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3307,6 +3700,9 @@
   ],
   "slots": {
    "a": "San Francisco"
+  },
+  "slots_zh": {
+   "a": "旧金山"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3338,6 +3734,9 @@
   "slots": {
    "a": "Shanghai"
   },
+  "slots_zh": {
+   "a": "上海"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3367,6 +3766,9 @@
   ],
   "slots": {
    "a": "Singapore"
+  },
+  "slots_zh": {
+   "a": "新加坡"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3398,6 +3800,9 @@
   "slots": {
    "a": "Berlin"
   },
+  "slots_zh": {
+   "a": "柏林"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3427,6 +3832,9 @@
   ],
   "slots": {
    "a": "Sydney"
+  },
+  "slots_zh": {
+   "a": "悉尼"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3458,6 +3866,9 @@
   "slots": {
    "a": "Los Angeles"
   },
+  "slots_zh": {
+   "a": "洛杉矶"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3487,6 +3898,9 @@
   ],
   "slots": {
    "a": "Mumbai"
+  },
+  "slots_zh": {
+   "a": "孟买"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3518,6 +3932,9 @@
   "slots": {
    "a": "Hong Kong"
   },
+  "slots_zh": {
+   "a": "香港"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3547,6 +3964,9 @@
   ],
   "slots": {
    "a": "Bangkok"
+  },
+  "slots_zh": {
+   "a": "曼谷"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3578,6 +3998,9 @@
   "slots": {
    "a": "Johannesburg"
   },
+  "slots_zh": {
+   "a": "约翰内斯堡"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3607,6 +4030,9 @@
   ],
   "slots": {
    "a": "Rio de Janeiro"
+  },
+  "slots_zh": {
+   "a": "里约热内卢"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3638,6 +4064,9 @@
   "slots": {
    "a": "Chicago"
   },
+  "slots_zh": {
+   "a": "芝加哥"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3668,6 +4097,9 @@
   "slots": {
    "a": "Mexico City"
   },
+  "slots_zh": {
+   "a": "墨西哥城"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3691,6 +4123,9 @@
   "needs_zh": true,
   "slots": {
    "a": "New York"
+  },
+  "slots_zh": {
+   "a": "纽约"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3716,6 +4151,9 @@
   "slots": {
    "a": "London"
   },
+  "slots_zh": {
+   "a": "伦敦"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3739,6 +4177,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Paris"
+  },
+  "slots_zh": {
+   "a": "巴黎"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3764,6 +4205,9 @@
   "slots": {
    "a": "Tokyo"
   },
+  "slots_zh": {
+   "a": "东京"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3787,6 +4231,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Dubai"
+  },
+  "slots_zh": {
+   "a": "迪拜"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3812,6 +4259,9 @@
   "slots": {
    "a": "San Francisco"
   },
+  "slots_zh": {
+   "a": "旧金山"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3835,6 +4285,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Shanghai"
+  },
+  "slots_zh": {
+   "a": "上海"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3860,6 +4313,9 @@
   "slots": {
    "a": "Singapore"
   },
+  "slots_zh": {
+   "a": "新加坡"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3883,6 +4339,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Berlin"
+  },
+  "slots_zh": {
+   "a": "柏林"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3908,6 +4367,9 @@
   "slots": {
    "a": "Sydney"
   },
+  "slots_zh": {
+   "a": "悉尼"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3931,6 +4393,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Los Angeles"
+  },
+  "slots_zh": {
+   "a": "洛杉矶"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3956,6 +4421,9 @@
   "slots": {
    "a": "Mumbai"
   },
+  "slots_zh": {
+   "a": "孟买"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3979,6 +4447,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Hong Kong"
+  },
+  "slots_zh": {
+   "a": "香港"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4004,6 +4475,9 @@
   "slots": {
    "a": "Bangkok"
   },
+  "slots_zh": {
+   "a": "曼谷"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4027,6 +4501,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Johannesburg"
+  },
+  "slots_zh": {
+   "a": "约翰内斯堡"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4052,6 +4529,9 @@
   "slots": {
    "a": "Rio de Janeiro"
   },
+  "slots_zh": {
+   "a": "里约热内卢"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4075,6 +4555,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Chicago"
+  },
+  "slots_zh": {
+   "a": "芝加哥"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4100,6 +4583,9 @@
   "slots": {
    "a": "Mexico City"
   },
+  "slots_zh": {
+   "a": "墨西哥城"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4123,6 +4609,9 @@
   "needs_zh": true,
   "slots": {
    "a": "New York"
+  },
+  "slots_zh": {
+   "a": "纽约"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4148,6 +4637,9 @@
   "slots": {
    "a": "London"
   },
+  "slots_zh": {
+   "a": "伦敦"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4171,6 +4663,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Paris"
+  },
+  "slots_zh": {
+   "a": "巴黎"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4196,6 +4691,9 @@
   "slots": {
    "a": "Tokyo"
   },
+  "slots_zh": {
+   "a": "东京"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4219,6 +4717,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Dubai"
+  },
+  "slots_zh": {
+   "a": "迪拜"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4244,6 +4745,9 @@
   "slots": {
    "a": "San Francisco"
   },
+  "slots_zh": {
+   "a": "旧金山"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4267,6 +4771,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Shanghai"
+  },
+  "slots_zh": {
+   "a": "上海"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4292,6 +4799,9 @@
   "slots": {
    "a": "Singapore"
   },
+  "slots_zh": {
+   "a": "新加坡"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4315,6 +4825,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Berlin"
+  },
+  "slots_zh": {
+   "a": "柏林"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4340,6 +4853,9 @@
   "slots": {
    "a": "Sydney"
   },
+  "slots_zh": {
+   "a": "悉尼"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4363,6 +4879,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Los Angeles"
+  },
+  "slots_zh": {
+   "a": "洛杉矶"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4388,6 +4907,9 @@
   "slots": {
    "a": "Mumbai"
   },
+  "slots_zh": {
+   "a": "孟买"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4411,6 +4933,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Hong Kong"
+  },
+  "slots_zh": {
+   "a": "香港"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4436,6 +4961,9 @@
   "slots": {
    "a": "Bangkok"
   },
+  "slots_zh": {
+   "a": "曼谷"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4459,6 +4987,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Johannesburg"
+  },
+  "slots_zh": {
+   "a": "约翰内斯堡"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4484,6 +5015,9 @@
   "slots": {
    "a": "Rio de Janeiro"
   },
+  "slots_zh": {
+   "a": "里约热内卢"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4507,6 +5041,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Chicago"
+  },
+  "slots_zh": {
+   "a": "芝加哥"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4532,6 +5069,9 @@
   "slots": {
    "a": "Mexico City"
   },
+  "slots_zh": {
+   "a": "墨西哥城"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4555,6 +5095,9 @@
   "needs_zh": true,
   "slots": {
    "a": "New York"
+  },
+  "slots_zh": {
+   "a": "纽约"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4580,6 +5123,9 @@
   "slots": {
    "a": "London"
   },
+  "slots_zh": {
+   "a": "伦敦"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4603,6 +5149,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Paris"
+  },
+  "slots_zh": {
+   "a": "巴黎"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4628,6 +5177,9 @@
   "slots": {
    "a": "Tokyo"
   },
+  "slots_zh": {
+   "a": "东京"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4651,6 +5203,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Dubai"
+  },
+  "slots_zh": {
+   "a": "迪拜"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4676,6 +5231,9 @@
   "slots": {
    "a": "San Francisco"
   },
+  "slots_zh": {
+   "a": "旧金山"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4699,6 +5257,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Shanghai"
+  },
+  "slots_zh": {
+   "a": "上海"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4724,6 +5285,9 @@
   "slots": {
    "a": "Singapore"
   },
+  "slots_zh": {
+   "a": "新加坡"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4747,6 +5311,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Berlin"
+  },
+  "slots_zh": {
+   "a": "柏林"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4772,6 +5339,9 @@
   "slots": {
    "a": "Sydney"
   },
+  "slots_zh": {
+   "a": "悉尼"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4795,6 +5365,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Los Angeles"
+  },
+  "slots_zh": {
+   "a": "洛杉矶"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4820,6 +5393,9 @@
   "slots": {
    "a": "Mumbai"
   },
+  "slots_zh": {
+   "a": "孟买"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4843,6 +5419,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Hong Kong"
+  },
+  "slots_zh": {
+   "a": "香港"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4868,6 +5447,9 @@
   "slots": {
    "a": "Bangkok"
   },
+  "slots_zh": {
+   "a": "曼谷"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4891,6 +5473,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Johannesburg"
+  },
+  "slots_zh": {
+   "a": "约翰内斯堡"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4916,6 +5501,9 @@
   "slots": {
    "a": "Rio de Janeiro"
   },
+  "slots_zh": {
+   "a": "里约热内卢"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4939,6 +5527,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Chicago"
+  },
+  "slots_zh": {
+   "a": "芝加哥"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4964,6 +5555,9 @@
   "slots": {
    "a": "Mexico City"
   },
+  "slots_zh": {
+   "a": "墨西哥城"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4987,6 +5581,9 @@
   "needs_zh": true,
   "slots": {
    "a": "New York"
+  },
+  "slots_zh": {
+   "a": "纽约"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5012,6 +5609,9 @@
   "slots": {
    "a": "London"
   },
+  "slots_zh": {
+   "a": "伦敦"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5035,6 +5635,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Paris"
+  },
+  "slots_zh": {
+   "a": "巴黎"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5060,6 +5663,9 @@
   "slots": {
    "a": "Tokyo"
   },
+  "slots_zh": {
+   "a": "东京"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5083,6 +5689,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Dubai"
+  },
+  "slots_zh": {
+   "a": "迪拜"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5108,6 +5717,9 @@
   "slots": {
    "a": "San Francisco"
   },
+  "slots_zh": {
+   "a": "旧金山"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5131,6 +5743,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Shanghai"
+  },
+  "slots_zh": {
+   "a": "上海"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5156,6 +5771,9 @@
   "slots": {
    "a": "Singapore"
   },
+  "slots_zh": {
+   "a": "新加坡"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5179,6 +5797,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Berlin"
+  },
+  "slots_zh": {
+   "a": "柏林"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5204,6 +5825,9 @@
   "slots": {
    "a": "Sydney"
   },
+  "slots_zh": {
+   "a": "悉尼"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5227,6 +5851,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Los Angeles"
+  },
+  "slots_zh": {
+   "a": "洛杉矶"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5252,6 +5879,9 @@
   "slots": {
    "a": "Mumbai"
   },
+  "slots_zh": {
+   "a": "孟买"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5275,6 +5905,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Hong Kong"
+  },
+  "slots_zh": {
+   "a": "香港"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5300,6 +5933,9 @@
   "slots": {
    "a": "Bangkok"
   },
+  "slots_zh": {
+   "a": "曼谷"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5323,6 +5959,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Johannesburg"
+  },
+  "slots_zh": {
+   "a": "约翰内斯堡"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5348,6 +5987,9 @@
   "slots": {
    "a": "Rio de Janeiro"
   },
+  "slots_zh": {
+   "a": "里约热内卢"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5372,6 +6014,9 @@
   "slots": {
    "a": "Chicago"
   },
+  "slots_zh": {
+   "a": "芝加哥"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5395,6 +6040,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Mexico City"
+  },
+  "slots_zh": {
+   "a": "墨西哥城"
   },
   "pair_strict": true,
   "visibility": "public"

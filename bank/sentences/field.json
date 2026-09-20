@@ -25,18 +25,18 @@
   ],
   "perspectives": [{"id": "graduate", "answer_as": "someone with a degree in {a}"}],
   "also": [
-   {"id": "philosophy", "name": "philosophy"},
-   {"id": "arthistory", "name": "art history"},
-   {"id": "cs", "name": "computer science"},
-   {"id": "law", "name": "law"},
-   {"id": "journalism", "name": "journalism"},
-   {"id": "business", "name": "business"},
-   {"id": "genderstudies", "name": "gender studies"},
-   {"id": "psychology", "name": "psychology"},
-   {"id": "english", "name": "English literature"},
-   {"id": "music", "name": "music"},
-   {"id": "medicine", "name": "medicine"},
-   {"id": "theology", "name": "theology"}
+   {"id": "philosophy", "name": "philosophy", "name_zh": "哲学"},
+   {"id": "arthistory", "name": "art history", "name_zh": "艺术史"},
+   {"id": "cs", "name": "computer science", "name_zh": "计算机科学"},
+   {"id": "law", "name": "law", "name_zh": "法学"},
+   {"id": "journalism", "name": "journalism", "name_zh": "新闻学"},
+   {"id": "business", "name": "business", "name_zh": "商科"},
+   {"id": "genderstudies", "name": "gender studies", "name_zh": "性别研究"},
+   {"id": "psychology", "name": "psychology", "name_zh": "心理学"},
+   {"id": "english", "name": "English literature", "name_zh": "英国文学"},
+   {"id": "music", "name": "music", "name_zh": "音乐"},
+   {"id": "medicine", "name": "medicine", "name_zh": "医学"},
+   {"id": "theology", "name": "theology", "name_zh": "神学"}
   ]
  },
  {

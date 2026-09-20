@@ -30,6 +30,9 @@
   "slots": {
    "a": "The BBC"
   },
+  "slots_zh": {
+   "a": "BBC"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -62,6 +65,9 @@
    }
   ],
   "slots": {
+   "a": "CNN"
+  },
+  "slots_zh": {
    "a": "CNN"
   },
   "pair_strict": true,
@@ -98,6 +104,9 @@
   "slots": {
    "a": "Fox News"
   },
+  "slots_zh": {
+   "a": "福克斯新闻"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -131,6 +140,9 @@
   ],
   "slots": {
    "a": "The New York Times"
+  },
+  "slots_zh": {
+   "a": "《纽约时报》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -166,6 +178,9 @@
   "slots": {
    "a": "Al Jazeera"
   },
+  "slots_zh": {
+   "a": "半岛电视台"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -199,6 +214,9 @@
   ],
   "slots": {
    "a": "RT"
+  },
+  "slots_zh": {
+   "a": "今日俄罗斯（RT）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -234,6 +252,9 @@
   "slots": {
    "a": "Xinhua"
   },
+  "slots_zh": {
+   "a": "新华社"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -267,6 +288,9 @@
   ],
   "slots": {
    "a": "CGTN"
+  },
+  "slots_zh": {
+   "a": "中国国际电视台（CGTN）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -302,6 +326,9 @@
   "slots": {
    "a": "The Guardian"
   },
+  "slots_zh": {
+   "a": "《卫报》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -335,6 +362,9 @@
   ],
   "slots": {
    "a": "Wikipedia"
+  },
+  "slots_zh": {
+   "a": "维基百科"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -370,6 +400,9 @@
   "slots": {
    "a": "X (formerly Twitter)"
   },
+  "slots_zh": {
+   "a": "X（原推特）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -403,6 +436,9 @@
   ],
   "slots": {
    "a": "Joe Rogan's podcast"
+  },
+  "slots_zh": {
+   "a": "乔·罗根的播客"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -438,6 +474,9 @@
   "slots": {
    "a": "Reuters"
   },
+  "slots_zh": {
+   "a": "路透社"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -471,6 +510,9 @@
   ],
   "slots": {
    "a": "Breitbart"
+  },
+  "slots_zh": {
+   "a": "布赖特巴特新闻网"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -506,6 +548,9 @@
   "slots": {
    "a": "NPR"
   },
+  "slots_zh": {
+   "a": "美国全国公共广播电台（NPR）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -529,6 +574,9 @@
   "slots": {
    "a": "The BBC"
   },
+  "slots_zh": {
+   "a": "BBC"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -550,6 +598,9 @@
   ],
   "needs_zh": true,
   "slots": {
+   "a": "CNN"
+  },
+  "slots_zh": {
    "a": "CNN"
   },
   "pair_strict": true,
@@ -575,6 +626,9 @@
   "slots": {
    "a": "Fox News"
   },
+  "slots_zh": {
+   "a": "福克斯新闻"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -597,6 +651,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The New York Times"
+  },
+  "slots_zh": {
+   "a": "《纽约时报》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -621,6 +678,9 @@
   "slots": {
    "a": "Al Jazeera"
   },
+  "slots_zh": {
+   "a": "半岛电视台"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -643,6 +703,9 @@
   "needs_zh": true,
   "slots": {
    "a": "RT"
+  },
+  "slots_zh": {
+   "a": "今日俄罗斯（RT）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -667,6 +730,9 @@
   "slots": {
    "a": "Xinhua"
   },
+  "slots_zh": {
+   "a": "新华社"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -689,6 +755,9 @@
   "needs_zh": true,
   "slots": {
    "a": "CGTN"
+  },
+  "slots_zh": {
+   "a": "中国国际电视台（CGTN）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -713,6 +782,9 @@
   "slots": {
    "a": "The Guardian"
   },
+  "slots_zh": {
+   "a": "《卫报》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -735,6 +807,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Wikipedia"
+  },
+  "slots_zh": {
+   "a": "维基百科"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -759,6 +834,9 @@
   "slots": {
    "a": "X (formerly Twitter)"
   },
+  "slots_zh": {
+   "a": "X（原推特）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -781,6 +859,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Joe Rogan's podcast"
+  },
+  "slots_zh": {
+   "a": "乔·罗根的播客"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -805,6 +886,9 @@
   "slots": {
    "a": "Reuters"
   },
+  "slots_zh": {
+   "a": "路透社"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -827,6 +911,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Breitbart"
+  },
+  "slots_zh": {
+   "a": "布赖特巴特新闻网"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -851,6 +938,9 @@
   "slots": {
    "a": "NPR"
   },
+  "slots_zh": {
+   "a": "美国全国公共广播电台（NPR）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -874,6 +964,9 @@
   "slots": {
    "a": "The BBC"
   },
+  "slots_zh": {
+   "a": "BBC"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -895,6 +988,9 @@
   ],
   "needs_zh": true,
   "slots": {
+   "a": "CNN"
+  },
+  "slots_zh": {
    "a": "CNN"
   },
   "pair_strict": true,
@@ -920,6 +1016,9 @@
   "slots": {
    "a": "Fox News"
   },
+  "slots_zh": {
+   "a": "福克斯新闻"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -942,6 +1041,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The New York Times"
+  },
+  "slots_zh": {
+   "a": "《纽约时报》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -966,6 +1068,9 @@
   "slots": {
    "a": "Al Jazeera"
   },
+  "slots_zh": {
+   "a": "半岛电视台"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -988,6 +1093,9 @@
   "needs_zh": true,
   "slots": {
    "a": "RT"
+  },
+  "slots_zh": {
+   "a": "今日俄罗斯（RT）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1012,6 +1120,9 @@
   "slots": {
    "a": "Xinhua"
   },
+  "slots_zh": {
+   "a": "新华社"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1034,6 +1145,9 @@
   "needs_zh": true,
   "slots": {
    "a": "CGTN"
+  },
+  "slots_zh": {
+   "a": "中国国际电视台（CGTN）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1058,6 +1172,9 @@
   "slots": {
    "a": "The Guardian"
   },
+  "slots_zh": {
+   "a": "《卫报》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1080,6 +1197,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Wikipedia"
+  },
+  "slots_zh": {
+   "a": "维基百科"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1104,6 +1224,9 @@
   "slots": {
    "a": "X (formerly Twitter)"
   },
+  "slots_zh": {
+   "a": "X（原推特）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1126,6 +1249,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Joe Rogan's podcast"
+  },
+  "slots_zh": {
+   "a": "乔·罗根的播客"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1150,6 +1276,9 @@
   "slots": {
    "a": "Reuters"
   },
+  "slots_zh": {
+   "a": "路透社"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1172,6 +1301,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Breitbart"
+  },
+  "slots_zh": {
+   "a": "布赖特巴特新闻网"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1196,6 +1328,9 @@
   "slots": {
    "a": "NPR"
   },
+  "slots_zh": {
+   "a": "美国全国公共广播电台（NPR）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1219,6 +1354,9 @@
   "slots": {
    "a": "The BBC"
   },
+  "slots_zh": {
+   "a": "BBC"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1240,6 +1378,9 @@
   ],
   "needs_zh": true,
   "slots": {
+   "a": "CNN"
+  },
+  "slots_zh": {
    "a": "CNN"
   },
   "pair_strict": true,
@@ -1265,6 +1406,9 @@
   "slots": {
    "a": "Fox News"
   },
+  "slots_zh": {
+   "a": "福克斯新闻"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1287,6 +1431,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The New York Times"
+  },
+  "slots_zh": {
+   "a": "《纽约时报》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1311,6 +1458,9 @@
   "slots": {
    "a": "Al Jazeera"
   },
+  "slots_zh": {
+   "a": "半岛电视台"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1333,6 +1483,9 @@
   "needs_zh": true,
   "slots": {
    "a": "RT"
+  },
+  "slots_zh": {
+   "a": "今日俄罗斯（RT）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1357,6 +1510,9 @@
   "slots": {
    "a": "Xinhua"
   },
+  "slots_zh": {
+   "a": "新华社"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1379,6 +1535,9 @@
   "needs_zh": true,
   "slots": {
    "a": "CGTN"
+  },
+  "slots_zh": {
+   "a": "中国国际电视台（CGTN）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1403,6 +1562,9 @@
   "slots": {
    "a": "The Guardian"
   },
+  "slots_zh": {
+   "a": "《卫报》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1425,6 +1587,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Wikipedia"
+  },
+  "slots_zh": {
+   "a": "维基百科"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1449,6 +1614,9 @@
   "slots": {
    "a": "X (formerly Twitter)"
   },
+  "slots_zh": {
+   "a": "X（原推特）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1471,6 +1639,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Joe Rogan's podcast"
+  },
+  "slots_zh": {
+   "a": "乔·罗根的播客"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1495,6 +1666,9 @@
   "slots": {
    "a": "Reuters"
   },
+  "slots_zh": {
+   "a": "路透社"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1517,6 +1691,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Breitbart"
+  },
+  "slots_zh": {
+   "a": "布赖特巴特新闻网"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1541,6 +1718,9 @@
   "slots": {
    "a": "NPR"
   },
+  "slots_zh": {
+   "a": "美国全国公共广播电台（NPR）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1564,6 +1744,9 @@
   "slots": {
    "a": "The BBC"
   },
+  "slots_zh": {
+   "a": "BBC"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1585,6 +1768,9 @@
   ],
   "needs_zh": true,
   "slots": {
+   "a": "CNN"
+  },
+  "slots_zh": {
    "a": "CNN"
   },
   "pair_strict": true,
@@ -1610,6 +1796,9 @@
   "slots": {
    "a": "Fox News"
   },
+  "slots_zh": {
+   "a": "福克斯新闻"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1632,6 +1821,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The New York Times"
+  },
+  "slots_zh": {
+   "a": "《纽约时报》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1656,6 +1848,9 @@
   "slots": {
    "a": "Al Jazeera"
   },
+  "slots_zh": {
+   "a": "半岛电视台"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1678,6 +1873,9 @@
   "needs_zh": true,
   "slots": {
    "a": "RT"
+  },
+  "slots_zh": {
+   "a": "今日俄罗斯（RT）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1702,6 +1900,9 @@
   "slots": {
    "a": "Xinhua"
   },
+  "slots_zh": {
+   "a": "新华社"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1724,6 +1925,9 @@
   "needs_zh": true,
   "slots": {
    "a": "CGTN"
+  },
+  "slots_zh": {
+   "a": "中国国际电视台（CGTN）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1748,6 +1952,9 @@
   "slots": {
    "a": "The Guardian"
   },
+  "slots_zh": {
+   "a": "《卫报》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1770,6 +1977,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Wikipedia"
+  },
+  "slots_zh": {
+   "a": "维基百科"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1794,6 +2004,9 @@
   "slots": {
    "a": "X (formerly Twitter)"
   },
+  "slots_zh": {
+   "a": "X（原推特）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1816,6 +2029,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Joe Rogan's podcast"
+  },
+  "slots_zh": {
+   "a": "乔·罗根的播客"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1840,6 +2056,9 @@
   "slots": {
    "a": "Reuters"
   },
+  "slots_zh": {
+   "a": "路透社"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1863,6 +2082,9 @@
   "slots": {
    "a": "Breitbart"
   },
+  "slots_zh": {
+   "a": "布赖特巴特新闻网"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1885,6 +2107,9 @@
   "needs_zh": true,
   "slots": {
    "a": "NPR"
+  },
+  "slots_zh": {
+   "a": "美国全国公共广播电台（NPR）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1910,6 +2135,9 @@
   "slots": {
    "a": "X (formerly Twitter)"
   },
+  "slots_zh": {
+   "a": "X（原推特）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1932,6 +2160,9 @@
   ],
   "needs_zh": true,
   "slots": {
+   "a": "Facebook"
+  },
+  "slots_zh": {
    "a": "Facebook"
   },
   "pair_strict": true,
@@ -1958,6 +2189,9 @@
   "slots": {
    "a": "Instagram"
   },
+  "slots_zh": {
+   "a": "Instagram"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1980,6 +2214,9 @@
   ],
   "needs_zh": true,
   "slots": {
+   "a": "TikTok"
+  },
+  "slots_zh": {
    "a": "TikTok"
   },
   "pair_strict": true,
@@ -2006,6 +2243,9 @@
   "slots": {
    "a": "YouTube"
   },
+  "slots_zh": {
+   "a": "YouTube"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2028,6 +2268,9 @@
   ],
   "needs_zh": true,
   "slots": {
+   "a": "Reddit"
+  },
+  "slots_zh": {
    "a": "Reddit"
   },
   "pair_strict": true,
@@ -2054,6 +2297,9 @@
   "slots": {
    "a": "WeChat"
   },
+  "slots_zh": {
+   "a": "微信"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2076,6 +2322,9 @@
   ],
   "needs_zh": true,
   "slots": {
+   "a": "Telegram"
+  },
+  "slots_zh": {
    "a": "Telegram"
   },
   "pair_strict": true,
@@ -2102,6 +2351,9 @@
   "slots": {
    "a": "LinkedIn"
   },
+  "slots_zh": {
+   "a": "领英"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2124,6 +2376,9 @@
   ],
   "needs_zh": true,
   "slots": {
+   "a": "Snapchat"
+  },
+  "slots_zh": {
    "a": "Snapchat"
   },
   "pair_strict": true,
@@ -2150,6 +2405,9 @@
   "slots": {
    "a": "Discord"
   },
+  "slots_zh": {
+   "a": "Discord"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2172,6 +2430,9 @@
   ],
   "needs_zh": true,
   "slots": {
+   "a": "Threads"
+  },
+  "slots_zh": {
    "a": "Threads"
   },
   "pair_strict": true,
@@ -2198,6 +2459,9 @@
   "slots": {
    "a": "X (formerly Twitter)"
   },
+  "slots_zh": {
+   "a": "X（原推特）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2220,6 +2484,9 @@
   ],
   "needs_zh": true,
   "slots": {
+   "a": "Facebook"
+  },
+  "slots_zh": {
    "a": "Facebook"
   },
   "pair_strict": true,
@@ -2246,6 +2513,9 @@
   "slots": {
    "a": "Instagram"
   },
+  "slots_zh": {
+   "a": "Instagram"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2268,6 +2538,9 @@
   ],
   "needs_zh": true,
   "slots": {
+   "a": "TikTok"
+  },
+  "slots_zh": {
    "a": "TikTok"
   },
   "pair_strict": true,
@@ -2294,6 +2567,9 @@
   "slots": {
    "a": "YouTube"
   },
+  "slots_zh": {
+   "a": "YouTube"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2316,6 +2592,9 @@
   ],
   "needs_zh": true,
   "slots": {
+   "a": "Reddit"
+  },
+  "slots_zh": {
    "a": "Reddit"
   },
   "pair_strict": true,
@@ -2342,6 +2621,9 @@
   "slots": {
    "a": "WeChat"
   },
+  "slots_zh": {
+   "a": "微信"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2364,6 +2646,9 @@
   ],
   "needs_zh": true,
   "slots": {
+   "a": "Telegram"
+  },
+  "slots_zh": {
    "a": "Telegram"
   },
   "pair_strict": true,
@@ -2390,6 +2675,9 @@
   "slots": {
    "a": "LinkedIn"
   },
+  "slots_zh": {
+   "a": "领英"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2412,6 +2700,9 @@
   ],
   "needs_zh": true,
   "slots": {
+   "a": "Snapchat"
+  },
+  "slots_zh": {
    "a": "Snapchat"
   },
   "pair_strict": true,
@@ -2438,6 +2729,9 @@
   "slots": {
    "a": "Discord"
   },
+  "slots_zh": {
+   "a": "Discord"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2460,6 +2754,9 @@
   ],
   "needs_zh": true,
   "slots": {
+   "a": "Threads"
+  },
+  "slots_zh": {
    "a": "Threads"
   },
   "pair_strict": true,
@@ -2486,6 +2783,9 @@
   "slots": {
    "a": "X (formerly Twitter)"
   },
+  "slots_zh": {
+   "a": "X（原推特）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2508,6 +2808,9 @@
   ],
   "needs_zh": true,
   "slots": {
+   "a": "Facebook"
+  },
+  "slots_zh": {
    "a": "Facebook"
   },
   "pair_strict": true,
@@ -2534,6 +2837,9 @@
   "slots": {
    "a": "Instagram"
   },
+  "slots_zh": {
+   "a": "Instagram"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2556,6 +2862,9 @@
   ],
   "needs_zh": true,
   "slots": {
+   "a": "TikTok"
+  },
+  "slots_zh": {
    "a": "TikTok"
   },
   "pair_strict": true,
@@ -2582,6 +2891,9 @@
   "slots": {
    "a": "YouTube"
   },
+  "slots_zh": {
+   "a": "YouTube"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2604,6 +2916,9 @@
   ],
   "needs_zh": true,
   "slots": {
+   "a": "Reddit"
+  },
+  "slots_zh": {
    "a": "Reddit"
   },
   "pair_strict": true,
@@ -2630,6 +2945,9 @@
   "slots": {
    "a": "WeChat"
   },
+  "slots_zh": {
+   "a": "微信"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2652,6 +2970,9 @@
   ],
   "needs_zh": true,
   "slots": {
+   "a": "Telegram"
+  },
+  "slots_zh": {
    "a": "Telegram"
   },
   "pair_strict": true,
@@ -2678,6 +2999,9 @@
   "slots": {
    "a": "LinkedIn"
   },
+  "slots_zh": {
+   "a": "领英"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2700,6 +3024,9 @@
   ],
   "needs_zh": true,
   "slots": {
+   "a": "Snapchat"
+  },
+  "slots_zh": {
    "a": "Snapchat"
   },
   "pair_strict": true,
@@ -2726,6 +3053,9 @@
   "slots": {
    "a": "Discord"
   },
+  "slots_zh": {
+   "a": "Discord"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2748,6 +3078,9 @@
   ],
   "needs_zh": true,
   "slots": {
+   "a": "Threads"
+  },
+  "slots_zh": {
    "a": "Threads"
   },
   "pair_strict": true,

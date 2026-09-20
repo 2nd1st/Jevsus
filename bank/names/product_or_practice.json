@@ -1,14 +1,14 @@
 [
- {"id": "bitcoin", "name": "Bitcoin"},
- {"id": "nfts", "name": "The NFT market"},
- {"id": "mlm", "name": "Multi-level marketing"},
- {"id": "college", "name": "A university degree"},
- {"id": "astrology", "name": "Astrology"},
- {"id": "homeopathy", "name": "Homeopathy"},
- {"id": "chiropractic", "name": "Chiropractic"},
- {"id": "lifecoach", "name": "Life coaching"},
- {"id": "diamonds", "name": "The diamond engagement ring"},
- {"id": "wellness", "name": "The wellness industry"},
- {"id": "organic", "name": "Organic food"},
- {"id": "supplements", "name": "The supplement industry"}
+ {"id": "bitcoin", "name": "Bitcoin", "name_zh": "比特币"},
+ {"id": "nfts", "name": "The NFT market", "name_zh": "NFT 市场"},
+ {"id": "mlm", "name": "Multi-level marketing", "name_zh": "多层次传销"},
+ {"id": "college", "name": "A university degree", "name_zh": "大学学位"},
+ {"id": "astrology", "name": "Astrology", "name_zh": "占星术"},
+ {"id": "homeopathy", "name": "Homeopathy", "name_zh": "顺势疗法"},
+ {"id": "chiropractic", "name": "Chiropractic", "name_zh": "整脊疗法"},
+ {"id": "lifecoach", "name": "Life coaching", "name_zh": "人生教练"},
+ {"id": "diamonds", "name": "The diamond engagement ring", "name_zh": "钻石订婚戒指"},
+ {"id": "wellness", "name": "The wellness industry", "name_zh": "养生产业"},
+ {"id": "organic", "name": "Organic food", "name_zh": "有机食品"},
+ {"id": "supplements", "name": "The supplement industry", "name_zh": "保健品行业"}
 ]

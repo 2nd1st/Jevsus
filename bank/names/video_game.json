@@ -1,13 +1,13 @@
 [
- {"id": "minecraft", "name": "Minecraft"},
- {"id": "fortnite", "name": "Fortnite"},
- {"id": "tlou", "name": "The Last of Us"},
- {"id": "eldenring", "name": "Elden Ring"},
- {"id": "gtav", "name": "Grand Theft Auto V"},
- {"id": "botw", "name": "The Legend of Zelda: Breath of the Wild"},
- {"id": "lol", "name": "League of Legends"},
- {"id": "cod", "name": "Call of Duty"},
- {"id": "genshin", "name": "Genshin Impact"},
- {"id": "pokemon", "name": "Pokémon"},
- {"id": "sims", "name": "The Sims"}
+ {"id": "minecraft", "name": "Minecraft", "name_zh": "《我的世界》"},
+ {"id": "fortnite", "name": "Fortnite", "name_zh": "《堡垒之夜》"},
+ {"id": "tlou", "name": "The Last of Us", "name_zh": "《最后生还者》"},
+ {"id": "eldenring", "name": "Elden Ring", "name_zh": "《艾尔登法环》"},
+ {"id": "gtav", "name": "Grand Theft Auto V", "name_zh": "《GTA5》"},
+ {"id": "botw", "name": "The Legend of Zelda: Breath of the Wild", "name_zh": "《塞尔达传说：旷野之息》"},
+ {"id": "lol", "name": "League of Legends", "name_zh": "《英雄联盟》"},
+ {"id": "cod", "name": "Call of Duty", "name_zh": "《使命召唤》"},
+ {"id": "genshin", "name": "Genshin Impact", "name_zh": "《原神》"},
+ {"id": "pokemon", "name": "Pokémon", "name_zh": "《宝可梦》"},
+ {"id": "sims", "name": "The Sims", "name_zh": "《模拟人生》"}
 ]

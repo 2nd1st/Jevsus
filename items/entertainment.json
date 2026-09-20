@@ -21,6 +21,9 @@
   "slots": {
    "a": "Israel"
   },
+  "slots_zh": {
+   "a": "以色列"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -45,6 +48,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Ukraine"
+  },
+  "slots_zh": {
+   "a": "乌克兰"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -71,6 +77,9 @@
   "slots": {
    "a": "the United States"
   },
+  "slots_zh": {
+   "a": "美国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -95,6 +104,9 @@
   "needs_zh": true,
   "slots": {
    "a": "China"
+  },
+  "slots_zh": {
+   "a": "中国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -121,6 +133,9 @@
   "slots": {
    "a": "Russia"
   },
+  "slots_zh": {
+   "a": "俄罗斯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -145,6 +160,9 @@
   "needs_zh": true,
   "slots": {
    "a": "India"
+  },
+  "slots_zh": {
+   "a": "印度"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -171,6 +189,9 @@
   "slots": {
    "a": "Japan"
   },
+  "slots_zh": {
+   "a": "日本"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -195,6 +216,9 @@
   "needs_zh": true,
   "slots": {
    "a": "France"
+  },
+  "slots_zh": {
+   "a": "法国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -221,6 +245,9 @@
   "slots": {
    "a": "Saudi Arabia"
   },
+  "slots_zh": {
+   "a": "沙特阿拉伯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -245,6 +272,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Singapore"
+  },
+  "slots_zh": {
+   "a": "新加坡"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -271,6 +301,9 @@
   "slots": {
    "a": "Turkey"
   },
+  "slots_zh": {
+   "a": "土耳其"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -295,6 +328,9 @@
   "needs_zh": true,
   "slots": {
    "a": "South Africa"
+  },
+  "slots_zh": {
+   "a": "南非"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -321,6 +357,9 @@
   "slots": {
    "a": "Hungary"
   },
+  "slots_zh": {
+   "a": "匈牙利"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -345,6 +384,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Germany"
+  },
+  "slots_zh": {
+   "a": "德国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -371,6 +413,9 @@
   "slots": {
    "a": "Brazil"
   },
+  "slots_zh": {
+   "a": "巴西"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -395,6 +440,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the United Kingdom"
+  },
+  "slots_zh": {
+   "a": "英国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -421,6 +469,9 @@
   "slots": {
    "a": "Italy"
   },
+  "slots_zh": {
+   "a": "意大利"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -445,6 +496,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Thailand"
+  },
+  "slots_zh": {
+   "a": "泰国"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -471,6 +525,9 @@
   "slots": {
    "a": "South Korea"
   },
+  "slots_zh": {
+   "a": "韩国"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -495,6 +552,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Mexico"
+  },
+  "slots_zh": {
+   "a": "墨西哥"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -521,6 +581,9 @@
   "slots": {
    "a": "Iran"
   },
+  "slots_zh": {
+   "a": "伊朗"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -545,6 +608,9 @@
   "needs_zh": true,
   "slots": {
    "a": "North Korea"
+  },
+  "slots_zh": {
+   "a": "朝鲜"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -571,6 +637,9 @@
   "slots": {
    "a": "Australia"
   },
+  "slots_zh": {
+   "a": "澳大利亚"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -595,6 +664,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Canada"
+  },
+  "slots_zh": {
+   "a": "加拿大"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -621,6 +693,9 @@
   "slots": {
    "a": "Sweden"
   },
+  "slots_zh": {
+   "a": "瑞典"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -646,6 +721,9 @@
   "slots": {
    "a": "Switzerland"
   },
+  "slots_zh": {
+   "a": "瑞士"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -670,6 +748,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the United Arab Emirates"
+  },
+  "slots_zh": {
+   "a": "阿联酋"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -705,6 +786,9 @@
   "slots": {
    "a": "Elon Musk"
   },
+  "slots_zh": {
+   "a": "埃隆·马斯克"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -738,6 +822,9 @@
   ],
   "slots": {
    "a": "Donald Trump"
+  },
+  "slots_zh": {
+   "a": "唐纳德·特朗普"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -773,6 +860,9 @@
   "slots": {
    "a": "Taylor Swift"
   },
+  "slots_zh": {
+   "a": "泰勒·斯威夫特"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -806,6 +896,9 @@
   ],
   "slots": {
    "a": "Kanye West"
+  },
+  "slots_zh": {
+   "a": "坎耶·韦斯特"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -841,6 +934,9 @@
   "slots": {
    "a": "J.K. Rowling"
   },
+  "slots_zh": {
+   "a": "J.K. 罗琳"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -874,6 +970,9 @@
   ],
   "slots": {
    "a": "Andrew Tate"
+  },
+  "slots_zh": {
+   "a": "安德鲁·泰特"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -909,6 +1008,9 @@
   "slots": {
    "a": "Johnny Depp"
   },
+  "slots_zh": {
+   "a": "约翰尼·德普"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -942,6 +1044,9 @@
   ],
   "slots": {
    "a": "Amber Heard"
+  },
+  "slots_zh": {
+   "a": "艾梅柏·希尔德"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -977,6 +1082,9 @@
   "slots": {
    "a": "Kim Kardashian"
   },
+  "slots_zh": {
+   "a": "金·卡戴珊"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1010,6 +1118,9 @@
   ],
   "slots": {
    "a": "Mark Zuckerberg"
+  },
+  "slots_zh": {
+   "a": "马克·扎克伯格"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1045,6 +1156,9 @@
   "slots": {
    "a": "Jeff Bezos"
   },
+  "slots_zh": {
+   "a": "杰夫·贝索斯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1078,6 +1192,9 @@
   ],
   "slots": {
    "a": "Bill Gates"
+  },
+  "slots_zh": {
+   "a": "比尔·盖茨"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1113,6 +1230,9 @@
   "slots": {
    "a": "MrBeast"
   },
+  "slots_zh": {
+   "a": "野兽先生（MrBeast）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1146,6 +1266,9 @@
   ],
   "slots": {
    "a": "Logan Paul"
+  },
+  "slots_zh": {
+   "a": "洛根·保罗"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1181,6 +1304,9 @@
   "slots": {
    "a": "Justin Bieber"
   },
+  "slots_zh": {
+   "a": "贾斯汀·比伯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1214,6 +1340,9 @@
   ],
   "slots": {
    "a": "Greta Thunberg"
+  },
+  "slots_zh": {
+   "a": "格蕾塔·通贝里"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1249,6 +1378,9 @@
   "slots": {
    "a": "Steve Jobs"
   },
+  "slots_zh": {
+   "a": "史蒂夫·乔布斯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1282,6 +1414,9 @@
   ],
   "slots": {
    "a": "Sam Altman"
+  },
+  "slots_zh": {
+   "a": "萨姆·奥尔特曼"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1317,6 +1452,9 @@
   "slots": {
    "a": "Geoffrey Hinton"
   },
+  "slots_zh": {
+   "a": "杰弗里·辛顿"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1350,6 +1488,9 @@
   ],
   "slots": {
    "a": "Paris Hilton"
+  },
+  "slots_zh": {
+   "a": "帕丽斯·希尔顿"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1385,6 +1526,9 @@
   "slots": {
    "a": "Addison Rae"
   },
+  "slots_zh": {
+   "a": "艾迪生·蕾"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1418,6 +1562,9 @@
   ],
   "slots": {
    "a": "Ed Sheeran"
+  },
+  "slots_zh": {
+   "a": "艾德·希兰"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1453,6 +1600,9 @@
   "slots": {
    "a": "Cristiano Ronaldo"
   },
+  "slots_zh": {
+   "a": "C 罗（克里斯蒂亚诺·罗纳尔多）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1486,6 +1636,9 @@
   ],
   "slots": {
    "a": "Joe Rogan"
+  },
+  "slots_zh": {
+   "a": "乔·罗根"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1521,6 +1674,9 @@
   "slots": {
    "a": "Lionel Messi"
   },
+  "slots_zh": {
+   "a": "梅西"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1554,6 +1710,9 @@
   ],
   "slots": {
    "a": "Xi Jinping"
+  },
+  "slots_zh": {
+   "a": "习近平"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1589,6 +1748,9 @@
   "slots": {
    "a": "Vladimir Putin"
   },
+  "slots_zh": {
+   "a": "普京"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1622,6 +1784,9 @@
   ],
   "slots": {
    "a": "Recep Tayyip Erdoğan"
+  },
+  "slots_zh": {
+   "a": "埃尔多安"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1657,6 +1822,9 @@
   "slots": {
    "a": "Viktor Orbán"
   },
+  "slots_zh": {
+   "a": "欧尔班"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1690,6 +1858,9 @@
   ],
   "slots": {
    "a": "Benjamin Netanyahu"
+  },
+  "slots_zh": {
+   "a": "内塔尼亚胡"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1725,6 +1896,9 @@
   "slots": {
    "a": "Mohammed bin Salman"
   },
+  "slots_zh": {
+   "a": "穆罕默德·本·萨勒曼"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1758,6 +1932,9 @@
   ],
   "slots": {
    "a": "Kim Jong Un"
+  },
+  "slots_zh": {
+   "a": "金正恩"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1793,6 +1970,9 @@
   "slots": {
    "a": "Narendra Modi"
   },
+  "slots_zh": {
+   "a": "莫迪"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1826,6 +2006,9 @@
   ],
   "slots": {
    "a": "Volodymyr Zelensky"
+  },
+  "slots_zh": {
+   "a": "泽连斯基"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1861,6 +2044,9 @@
   "slots": {
    "a": "Nicolás Maduro"
   },
+  "slots_zh": {
+   "a": "马杜罗"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1894,6 +2080,9 @@
   ],
   "slots": {
    "a": "Nayib Bukele"
+  },
+  "slots_zh": {
+   "a": "布克尔"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1929,6 +2118,9 @@
   "slots": {
    "a": "Lee Kuan Yew"
   },
+  "slots_zh": {
+   "a": "李光耀"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1962,6 +2154,9 @@
   ],
   "slots": {
    "a": "Emmanuel Macron"
+  },
+  "slots_zh": {
+   "a": "埃马纽埃尔·马克龙"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1997,6 +2192,9 @@
   "slots": {
    "a": "Keir Starmer"
   },
+  "slots_zh": {
+   "a": "基尔·斯塔默"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2030,6 +2228,9 @@
   ],
   "slots": {
    "a": "Napoleon"
+  },
+  "slots_zh": {
+   "a": "拿破仑"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2065,6 +2266,9 @@
   "slots": {
    "a": "Winston Churchill"
   },
+  "slots_zh": {
+   "a": "温斯顿·丘吉尔"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2098,6 +2302,9 @@
   ],
   "slots": {
    "a": "Mao Zedong"
+  },
+  "slots_zh": {
+   "a": "毛泽东"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2133,6 +2340,9 @@
   "slots": {
    "a": "Genghis Khan"
   },
+  "slots_zh": {
+   "a": "成吉思汗"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2166,6 +2376,9 @@
   ],
   "slots": {
    "a": "Christopher Columbus"
+  },
+  "slots_zh": {
+   "a": "哥伦布"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2201,6 +2414,9 @@
   "slots": {
    "a": "Mahatma Gandhi"
   },
+  "slots_zh": {
+   "a": "圣雄甘地"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2234,6 +2450,9 @@
   ],
   "slots": {
    "a": "Joseph Stalin"
+  },
+  "slots_zh": {
+   "a": "斯大林"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2269,6 +2488,9 @@
   "slots": {
    "a": "Abraham Lincoln"
   },
+  "slots_zh": {
+   "a": "亚伯拉罕·林肯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2302,6 +2524,9 @@
   ],
   "slots": {
    "a": "Che Guevara"
+  },
+  "slots_zh": {
+   "a": "切·格瓦拉"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2337,6 +2562,9 @@
   "slots": {
    "a": "Margaret Thatcher"
   },
+  "slots_zh": {
+   "a": "玛格丽特·撒切尔"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2370,6 +2598,9 @@
   ],
   "slots": {
    "a": "Ronald Reagan"
+  },
+  "slots_zh": {
+   "a": "罗纳德·里根"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2405,6 +2636,9 @@
   "slots": {
    "a": "Vladimir Lenin"
   },
+  "slots_zh": {
+   "a": "列宁"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2438,6 +2672,9 @@
   ],
   "slots": {
    "a": "Nelson Mandela"
+  },
+  "slots_zh": {
+   "a": "纳尔逊·曼德拉"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2473,6 +2710,9 @@
   "slots": {
    "a": "Mother Teresa"
   },
+  "slots_zh": {
+   "a": "特蕾莎修女"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2506,6 +2746,9 @@
   ],
   "slots": {
    "a": "Julius Caesar"
+  },
+  "slots_zh": {
+   "a": "尤利乌斯·凯撒"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2541,6 +2784,9 @@
   "slots": {
    "a": "Elon Musk"
   },
+  "slots_zh": {
+   "a": "埃隆·马斯克"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2574,6 +2820,9 @@
   ],
   "slots": {
    "a": "Donald Trump"
+  },
+  "slots_zh": {
+   "a": "唐纳德·特朗普"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2609,6 +2858,9 @@
   "slots": {
    "a": "Taylor Swift"
   },
+  "slots_zh": {
+   "a": "泰勒·斯威夫特"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2642,6 +2894,9 @@
   ],
   "slots": {
    "a": "Kanye West"
+  },
+  "slots_zh": {
+   "a": "坎耶·韦斯特"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2677,6 +2932,9 @@
   "slots": {
    "a": "J.K. Rowling"
   },
+  "slots_zh": {
+   "a": "J.K. 罗琳"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2710,6 +2968,9 @@
   ],
   "slots": {
    "a": "Andrew Tate"
+  },
+  "slots_zh": {
+   "a": "安德鲁·泰特"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2745,6 +3006,9 @@
   "slots": {
    "a": "Johnny Depp"
   },
+  "slots_zh": {
+   "a": "约翰尼·德普"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2778,6 +3042,9 @@
   ],
   "slots": {
    "a": "Amber Heard"
+  },
+  "slots_zh": {
+   "a": "艾梅柏·希尔德"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2813,6 +3080,9 @@
   "slots": {
    "a": "Kim Kardashian"
   },
+  "slots_zh": {
+   "a": "金·卡戴珊"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2846,6 +3116,9 @@
   ],
   "slots": {
    "a": "Mark Zuckerberg"
+  },
+  "slots_zh": {
+   "a": "马克·扎克伯格"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2881,6 +3154,9 @@
   "slots": {
    "a": "Jeff Bezos"
   },
+  "slots_zh": {
+   "a": "杰夫·贝索斯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2914,6 +3190,9 @@
   ],
   "slots": {
    "a": "Bill Gates"
+  },
+  "slots_zh": {
+   "a": "比尔·盖茨"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -2949,6 +3228,9 @@
   "slots": {
    "a": "MrBeast"
   },
+  "slots_zh": {
+   "a": "野兽先生（MrBeast）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -2982,6 +3264,9 @@
   ],
   "slots": {
    "a": "Logan Paul"
+  },
+  "slots_zh": {
+   "a": "洛根·保罗"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3017,6 +3302,9 @@
   "slots": {
    "a": "Justin Bieber"
   },
+  "slots_zh": {
+   "a": "贾斯汀·比伯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3050,6 +3338,9 @@
   ],
   "slots": {
    "a": "Greta Thunberg"
+  },
+  "slots_zh": {
+   "a": "格蕾塔·通贝里"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3085,6 +3376,9 @@
   "slots": {
    "a": "Steve Jobs"
   },
+  "slots_zh": {
+   "a": "史蒂夫·乔布斯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3118,6 +3412,9 @@
   ],
   "slots": {
    "a": "Sam Altman"
+  },
+  "slots_zh": {
+   "a": "萨姆·奥尔特曼"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3153,6 +3450,9 @@
   "slots": {
    "a": "Geoffrey Hinton"
   },
+  "slots_zh": {
+   "a": "杰弗里·辛顿"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3186,6 +3486,9 @@
   ],
   "slots": {
    "a": "Paris Hilton"
+  },
+  "slots_zh": {
+   "a": "帕丽斯·希尔顿"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3221,6 +3524,9 @@
   "slots": {
    "a": "Addison Rae"
   },
+  "slots_zh": {
+   "a": "艾迪生·蕾"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3254,6 +3560,9 @@
   ],
   "slots": {
    "a": "Ed Sheeran"
+  },
+  "slots_zh": {
+   "a": "艾德·希兰"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3289,6 +3598,9 @@
   "slots": {
    "a": "Cristiano Ronaldo"
   },
+  "slots_zh": {
+   "a": "C 罗（克里斯蒂亚诺·罗纳尔多）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3322,6 +3634,9 @@
   ],
   "slots": {
    "a": "Joe Rogan"
+  },
+  "slots_zh": {
+   "a": "乔·罗根"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3357,6 +3672,9 @@
   "slots": {
    "a": "Lionel Messi"
   },
+  "slots_zh": {
+   "a": "梅西"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3390,6 +3708,9 @@
   ],
   "slots": {
    "a": "Xi Jinping"
+  },
+  "slots_zh": {
+   "a": "习近平"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3425,6 +3746,9 @@
   "slots": {
    "a": "Vladimir Putin"
   },
+  "slots_zh": {
+   "a": "普京"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3458,6 +3782,9 @@
   ],
   "slots": {
    "a": "Recep Tayyip Erdoğan"
+  },
+  "slots_zh": {
+   "a": "埃尔多安"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3493,6 +3820,9 @@
   "slots": {
    "a": "Viktor Orbán"
   },
+  "slots_zh": {
+   "a": "欧尔班"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3526,6 +3856,9 @@
   ],
   "slots": {
    "a": "Benjamin Netanyahu"
+  },
+  "slots_zh": {
+   "a": "内塔尼亚胡"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3561,6 +3894,9 @@
   "slots": {
    "a": "Mohammed bin Salman"
   },
+  "slots_zh": {
+   "a": "穆罕默德·本·萨勒曼"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3594,6 +3930,9 @@
   ],
   "slots": {
    "a": "Kim Jong Un"
+  },
+  "slots_zh": {
+   "a": "金正恩"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3629,6 +3968,9 @@
   "slots": {
    "a": "Narendra Modi"
   },
+  "slots_zh": {
+   "a": "莫迪"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3662,6 +4004,9 @@
   ],
   "slots": {
    "a": "Volodymyr Zelensky"
+  },
+  "slots_zh": {
+   "a": "泽连斯基"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3697,6 +4042,9 @@
   "slots": {
    "a": "Nicolás Maduro"
   },
+  "slots_zh": {
+   "a": "马杜罗"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3730,6 +4078,9 @@
   ],
   "slots": {
    "a": "Nayib Bukele"
+  },
+  "slots_zh": {
+   "a": "布克尔"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3765,6 +4116,9 @@
   "slots": {
    "a": "Lee Kuan Yew"
   },
+  "slots_zh": {
+   "a": "李光耀"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3798,6 +4152,9 @@
   ],
   "slots": {
    "a": "Emmanuel Macron"
+  },
+  "slots_zh": {
+   "a": "埃马纽埃尔·马克龙"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3833,6 +4190,9 @@
   "slots": {
    "a": "Keir Starmer"
   },
+  "slots_zh": {
+   "a": "基尔·斯塔默"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3866,6 +4226,9 @@
   ],
   "slots": {
    "a": "Napoleon"
+  },
+  "slots_zh": {
+   "a": "拿破仑"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3901,6 +4264,9 @@
   "slots": {
    "a": "Winston Churchill"
   },
+  "slots_zh": {
+   "a": "温斯顿·丘吉尔"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -3934,6 +4300,9 @@
   ],
   "slots": {
    "a": "Mao Zedong"
+  },
+  "slots_zh": {
+   "a": "毛泽东"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -3969,6 +4338,9 @@
   "slots": {
    "a": "Genghis Khan"
   },
+  "slots_zh": {
+   "a": "成吉思汗"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4002,6 +4374,9 @@
   ],
   "slots": {
    "a": "Christopher Columbus"
+  },
+  "slots_zh": {
+   "a": "哥伦布"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4037,6 +4412,9 @@
   "slots": {
    "a": "Mahatma Gandhi"
   },
+  "slots_zh": {
+   "a": "圣雄甘地"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4070,6 +4448,9 @@
   ],
   "slots": {
    "a": "Joseph Stalin"
+  },
+  "slots_zh": {
+   "a": "斯大林"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4105,6 +4486,9 @@
   "slots": {
    "a": "Abraham Lincoln"
   },
+  "slots_zh": {
+   "a": "亚伯拉罕·林肯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4138,6 +4522,9 @@
   ],
   "slots": {
    "a": "Che Guevara"
+  },
+  "slots_zh": {
+   "a": "切·格瓦拉"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4173,6 +4560,9 @@
   "slots": {
    "a": "Margaret Thatcher"
   },
+  "slots_zh": {
+   "a": "玛格丽特·撒切尔"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4206,6 +4596,9 @@
   ],
   "slots": {
    "a": "Ronald Reagan"
+  },
+  "slots_zh": {
+   "a": "罗纳德·里根"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4241,6 +4634,9 @@
   "slots": {
    "a": "Vladimir Lenin"
   },
+  "slots_zh": {
+   "a": "列宁"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4274,6 +4670,9 @@
   ],
   "slots": {
    "a": "Nelson Mandela"
+  },
+  "slots_zh": {
+   "a": "纳尔逊·曼德拉"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4309,6 +4708,9 @@
   "slots": {
    "a": "Mother Teresa"
   },
+  "slots_zh": {
+   "a": "特蕾莎修女"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4342,6 +4744,9 @@
   ],
   "slots": {
    "a": "Julius Caesar"
+  },
+  "slots_zh": {
+   "a": "尤利乌斯·凯撒"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4377,6 +4782,9 @@
   "slots": {
    "a": "Elon Musk"
   },
+  "slots_zh": {
+   "a": "埃隆·马斯克"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4410,6 +4818,9 @@
   ],
   "slots": {
    "a": "Donald Trump"
+  },
+  "slots_zh": {
+   "a": "唐纳德·特朗普"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4445,6 +4856,9 @@
   "slots": {
    "a": "Taylor Swift"
   },
+  "slots_zh": {
+   "a": "泰勒·斯威夫特"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4478,6 +4892,9 @@
   ],
   "slots": {
    "a": "Kanye West"
+  },
+  "slots_zh": {
+   "a": "坎耶·韦斯特"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4513,6 +4930,9 @@
   "slots": {
    "a": "J.K. Rowling"
   },
+  "slots_zh": {
+   "a": "J.K. 罗琳"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4546,6 +4966,9 @@
   ],
   "slots": {
    "a": "Andrew Tate"
+  },
+  "slots_zh": {
+   "a": "安德鲁·泰特"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4581,6 +5004,9 @@
   "slots": {
    "a": "Johnny Depp"
   },
+  "slots_zh": {
+   "a": "约翰尼·德普"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4614,6 +5040,9 @@
   ],
   "slots": {
    "a": "Amber Heard"
+  },
+  "slots_zh": {
+   "a": "艾梅柏·希尔德"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4649,6 +5078,9 @@
   "slots": {
    "a": "Kim Kardashian"
   },
+  "slots_zh": {
+   "a": "金·卡戴珊"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4682,6 +5114,9 @@
   ],
   "slots": {
    "a": "Mark Zuckerberg"
+  },
+  "slots_zh": {
+   "a": "马克·扎克伯格"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4717,6 +5152,9 @@
   "slots": {
    "a": "Jeff Bezos"
   },
+  "slots_zh": {
+   "a": "杰夫·贝索斯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4750,6 +5188,9 @@
   ],
   "slots": {
    "a": "Bill Gates"
+  },
+  "slots_zh": {
+   "a": "比尔·盖茨"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4785,6 +5226,9 @@
   "slots": {
    "a": "MrBeast"
   },
+  "slots_zh": {
+   "a": "野兽先生（MrBeast）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4818,6 +5262,9 @@
   ],
   "slots": {
    "a": "Logan Paul"
+  },
+  "slots_zh": {
+   "a": "洛根·保罗"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4853,6 +5300,9 @@
   "slots": {
    "a": "Justin Bieber"
   },
+  "slots_zh": {
+   "a": "贾斯汀·比伯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4886,6 +5336,9 @@
   ],
   "slots": {
    "a": "Greta Thunberg"
+  },
+  "slots_zh": {
+   "a": "格蕾塔·通贝里"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4921,6 +5374,9 @@
   "slots": {
    "a": "Steve Jobs"
   },
+  "slots_zh": {
+   "a": "史蒂夫·乔布斯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -4954,6 +5410,9 @@
   ],
   "slots": {
    "a": "Sam Altman"
+  },
+  "slots_zh": {
+   "a": "萨姆·奥尔特曼"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -4989,6 +5448,9 @@
   "slots": {
    "a": "Geoffrey Hinton"
   },
+  "slots_zh": {
+   "a": "杰弗里·辛顿"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5022,6 +5484,9 @@
   ],
   "slots": {
    "a": "Paris Hilton"
+  },
+  "slots_zh": {
+   "a": "帕丽斯·希尔顿"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5057,6 +5522,9 @@
   "slots": {
    "a": "Addison Rae"
   },
+  "slots_zh": {
+   "a": "艾迪生·蕾"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5090,6 +5558,9 @@
   ],
   "slots": {
    "a": "Ed Sheeran"
+  },
+  "slots_zh": {
+   "a": "艾德·希兰"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5125,6 +5596,9 @@
   "slots": {
    "a": "Cristiano Ronaldo"
   },
+  "slots_zh": {
+   "a": "C 罗（克里斯蒂亚诺·罗纳尔多）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5158,6 +5632,9 @@
   ],
   "slots": {
    "a": "Joe Rogan"
+  },
+  "slots_zh": {
+   "a": "乔·罗根"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5193,6 +5670,9 @@
   "slots": {
    "a": "Lionel Messi"
   },
+  "slots_zh": {
+   "a": "梅西"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5226,6 +5706,9 @@
   ],
   "slots": {
    "a": "Xi Jinping"
+  },
+  "slots_zh": {
+   "a": "习近平"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5261,6 +5744,9 @@
   "slots": {
    "a": "Vladimir Putin"
   },
+  "slots_zh": {
+   "a": "普京"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5294,6 +5780,9 @@
   ],
   "slots": {
    "a": "Recep Tayyip Erdoğan"
+  },
+  "slots_zh": {
+   "a": "埃尔多安"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5329,6 +5818,9 @@
   "slots": {
    "a": "Viktor Orbán"
   },
+  "slots_zh": {
+   "a": "欧尔班"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5362,6 +5854,9 @@
   ],
   "slots": {
    "a": "Benjamin Netanyahu"
+  },
+  "slots_zh": {
+   "a": "内塔尼亚胡"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5397,6 +5892,9 @@
   "slots": {
    "a": "Mohammed bin Salman"
   },
+  "slots_zh": {
+   "a": "穆罕默德·本·萨勒曼"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5430,6 +5928,9 @@
   ],
   "slots": {
    "a": "Kim Jong Un"
+  },
+  "slots_zh": {
+   "a": "金正恩"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5465,6 +5966,9 @@
   "slots": {
    "a": "Narendra Modi"
   },
+  "slots_zh": {
+   "a": "莫迪"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5498,6 +6002,9 @@
   ],
   "slots": {
    "a": "Volodymyr Zelensky"
+  },
+  "slots_zh": {
+   "a": "泽连斯基"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5533,6 +6040,9 @@
   "slots": {
    "a": "Nicolás Maduro"
   },
+  "slots_zh": {
+   "a": "马杜罗"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5566,6 +6076,9 @@
   ],
   "slots": {
    "a": "Nayib Bukele"
+  },
+  "slots_zh": {
+   "a": "布克尔"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5601,6 +6114,9 @@
   "slots": {
    "a": "Lee Kuan Yew"
   },
+  "slots_zh": {
+   "a": "李光耀"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5634,6 +6150,9 @@
   ],
   "slots": {
    "a": "Emmanuel Macron"
+  },
+  "slots_zh": {
+   "a": "埃马纽埃尔·马克龙"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5669,6 +6188,9 @@
   "slots": {
    "a": "Keir Starmer"
   },
+  "slots_zh": {
+   "a": "基尔·斯塔默"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5702,6 +6224,9 @@
   ],
   "slots": {
    "a": "Napoleon"
+  },
+  "slots_zh": {
+   "a": "拿破仑"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5737,6 +6262,9 @@
   "slots": {
    "a": "Winston Churchill"
   },
+  "slots_zh": {
+   "a": "温斯顿·丘吉尔"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5770,6 +6298,9 @@
   ],
   "slots": {
    "a": "Mao Zedong"
+  },
+  "slots_zh": {
+   "a": "毛泽东"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5805,6 +6336,9 @@
   "slots": {
    "a": "Genghis Khan"
   },
+  "slots_zh": {
+   "a": "成吉思汗"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5838,6 +6372,9 @@
   ],
   "slots": {
    "a": "Christopher Columbus"
+  },
+  "slots_zh": {
+   "a": "哥伦布"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5873,6 +6410,9 @@
   "slots": {
    "a": "Mahatma Gandhi"
   },
+  "slots_zh": {
+   "a": "圣雄甘地"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5906,6 +6446,9 @@
   ],
   "slots": {
    "a": "Joseph Stalin"
+  },
+  "slots_zh": {
+   "a": "斯大林"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -5941,6 +6484,9 @@
   "slots": {
    "a": "Abraham Lincoln"
   },
+  "slots_zh": {
+   "a": "亚伯拉罕·林肯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -5974,6 +6520,9 @@
   ],
   "slots": {
    "a": "Che Guevara"
+  },
+  "slots_zh": {
+   "a": "切·格瓦拉"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -6009,6 +6558,9 @@
   "slots": {
    "a": "Margaret Thatcher"
   },
+  "slots_zh": {
+   "a": "玛格丽特·撒切尔"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -6042,6 +6594,9 @@
   ],
   "slots": {
    "a": "Ronald Reagan"
+  },
+  "slots_zh": {
+   "a": "罗纳德·里根"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -6077,6 +6632,9 @@
   "slots": {
    "a": "Vladimir Lenin"
   },
+  "slots_zh": {
+   "a": "列宁"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -6110,6 +6668,9 @@
   ],
   "slots": {
    "a": "Nelson Mandela"
+  },
+  "slots_zh": {
+   "a": "纳尔逊·曼德拉"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -6145,6 +6706,9 @@
   "slots": {
    "a": "Mother Teresa"
   },
+  "slots_zh": {
+   "a": "特蕾莎修女"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -6178,6 +6742,9 @@
   ],
   "slots": {
    "a": "Julius Caesar"
+  },
+  "slots_zh": {
+   "a": "尤利乌斯·凯撒"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -6213,6 +6780,9 @@
   "slots": {
    "a": "Elon Musk"
   },
+  "slots_zh": {
+   "a": "埃隆·马斯克"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -6246,6 +6816,9 @@
   ],
   "slots": {
    "a": "Donald Trump"
+  },
+  "slots_zh": {
+   "a": "唐纳德·特朗普"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -6281,6 +6854,9 @@
   "slots": {
    "a": "Taylor Swift"
   },
+  "slots_zh": {
+   "a": "泰勒·斯威夫特"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -6314,6 +6890,9 @@
   ],
   "slots": {
    "a": "Kanye West"
+  },
+  "slots_zh": {
+   "a": "坎耶·韦斯特"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -6349,6 +6928,9 @@
   "slots": {
    "a": "J.K. Rowling"
   },
+  "slots_zh": {
+   "a": "J.K. 罗琳"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -6382,6 +6964,9 @@
   ],
   "slots": {
    "a": "Andrew Tate"
+  },
+  "slots_zh": {
+   "a": "安德鲁·泰特"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -6417,6 +7002,9 @@
   "slots": {
    "a": "Johnny Depp"
   },
+  "slots_zh": {
+   "a": "约翰尼·德普"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -6450,6 +7038,9 @@
   ],
   "slots": {
    "a": "Amber Heard"
+  },
+  "slots_zh": {
+   "a": "艾梅柏·希尔德"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -6485,6 +7076,9 @@
   "slots": {
    "a": "Kim Kardashian"
   },
+  "slots_zh": {
+   "a": "金·卡戴珊"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -6518,6 +7112,9 @@
   ],
   "slots": {
    "a": "Mark Zuckerberg"
+  },
+  "slots_zh": {
+   "a": "马克·扎克伯格"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -6553,6 +7150,9 @@
   "slots": {
    "a": "Jeff Bezos"
   },
+  "slots_zh": {
+   "a": "杰夫·贝索斯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -6586,6 +7186,9 @@
   ],
   "slots": {
    "a": "Bill Gates"
+  },
+  "slots_zh": {
+   "a": "比尔·盖茨"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -6621,6 +7224,9 @@
   "slots": {
    "a": "MrBeast"
   },
+  "slots_zh": {
+   "a": "野兽先生（MrBeast）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -6654,6 +7260,9 @@
   ],
   "slots": {
    "a": "Logan Paul"
+  },
+  "slots_zh": {
+   "a": "洛根·保罗"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -6689,6 +7298,9 @@
   "slots": {
    "a": "Justin Bieber"
   },
+  "slots_zh": {
+   "a": "贾斯汀·比伯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -6722,6 +7334,9 @@
   ],
   "slots": {
    "a": "Greta Thunberg"
+  },
+  "slots_zh": {
+   "a": "格蕾塔·通贝里"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -6757,6 +7372,9 @@
   "slots": {
    "a": "Steve Jobs"
   },
+  "slots_zh": {
+   "a": "史蒂夫·乔布斯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -6790,6 +7408,9 @@
   ],
   "slots": {
    "a": "Sam Altman"
+  },
+  "slots_zh": {
+   "a": "萨姆·奥尔特曼"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -6825,6 +7446,9 @@
   "slots": {
    "a": "Geoffrey Hinton"
   },
+  "slots_zh": {
+   "a": "杰弗里·辛顿"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -6858,6 +7482,9 @@
   ],
   "slots": {
    "a": "Paris Hilton"
+  },
+  "slots_zh": {
+   "a": "帕丽斯·希尔顿"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -6893,6 +7520,9 @@
   "slots": {
    "a": "Addison Rae"
   },
+  "slots_zh": {
+   "a": "艾迪生·蕾"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -6926,6 +7556,9 @@
   ],
   "slots": {
    "a": "Ed Sheeran"
+  },
+  "slots_zh": {
+   "a": "艾德·希兰"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -6961,6 +7594,9 @@
   "slots": {
    "a": "Cristiano Ronaldo"
   },
+  "slots_zh": {
+   "a": "C 罗（克里斯蒂亚诺·罗纳尔多）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -6994,6 +7630,9 @@
   ],
   "slots": {
    "a": "Joe Rogan"
+  },
+  "slots_zh": {
+   "a": "乔·罗根"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -7029,6 +7668,9 @@
   "slots": {
    "a": "Lionel Messi"
   },
+  "slots_zh": {
+   "a": "梅西"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -7062,6 +7704,9 @@
   ],
   "slots": {
    "a": "Xi Jinping"
+  },
+  "slots_zh": {
+   "a": "习近平"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -7097,6 +7742,9 @@
   "slots": {
    "a": "Vladimir Putin"
   },
+  "slots_zh": {
+   "a": "普京"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -7130,6 +7778,9 @@
   ],
   "slots": {
    "a": "Recep Tayyip Erdoğan"
+  },
+  "slots_zh": {
+   "a": "埃尔多安"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -7165,6 +7816,9 @@
   "slots": {
    "a": "Viktor Orbán"
   },
+  "slots_zh": {
+   "a": "欧尔班"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -7198,6 +7852,9 @@
   ],
   "slots": {
    "a": "Benjamin Netanyahu"
+  },
+  "slots_zh": {
+   "a": "内塔尼亚胡"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -7233,6 +7890,9 @@
   "slots": {
    "a": "Mohammed bin Salman"
   },
+  "slots_zh": {
+   "a": "穆罕默德·本·萨勒曼"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -7266,6 +7926,9 @@
   ],
   "slots": {
    "a": "Kim Jong Un"
+  },
+  "slots_zh": {
+   "a": "金正恩"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -7301,6 +7964,9 @@
   "slots": {
    "a": "Narendra Modi"
   },
+  "slots_zh": {
+   "a": "莫迪"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -7334,6 +8000,9 @@
   ],
   "slots": {
    "a": "Volodymyr Zelensky"
+  },
+  "slots_zh": {
+   "a": "泽连斯基"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -7369,6 +8038,9 @@
   "slots": {
    "a": "Nicolás Maduro"
   },
+  "slots_zh": {
+   "a": "马杜罗"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -7402,6 +8074,9 @@
   ],
   "slots": {
    "a": "Nayib Bukele"
+  },
+  "slots_zh": {
+   "a": "布克尔"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -7437,6 +8112,9 @@
   "slots": {
    "a": "Lee Kuan Yew"
   },
+  "slots_zh": {
+   "a": "李光耀"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -7470,6 +8148,9 @@
   ],
   "slots": {
    "a": "Emmanuel Macron"
+  },
+  "slots_zh": {
+   "a": "埃马纽埃尔·马克龙"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -7505,6 +8186,9 @@
   "slots": {
    "a": "Keir Starmer"
   },
+  "slots_zh": {
+   "a": "基尔·斯塔默"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -7538,6 +8222,9 @@
   ],
   "slots": {
    "a": "Napoleon"
+  },
+  "slots_zh": {
+   "a": "拿破仑"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -7573,6 +8260,9 @@
   "slots": {
    "a": "Winston Churchill"
   },
+  "slots_zh": {
+   "a": "温斯顿·丘吉尔"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -7606,6 +8296,9 @@
   ],
   "slots": {
    "a": "Mao Zedong"
+  },
+  "slots_zh": {
+   "a": "毛泽东"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -7641,6 +8334,9 @@
   "slots": {
    "a": "Genghis Khan"
   },
+  "slots_zh": {
+   "a": "成吉思汗"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -7674,6 +8370,9 @@
   ],
   "slots": {
    "a": "Christopher Columbus"
+  },
+  "slots_zh": {
+   "a": "哥伦布"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -7709,6 +8408,9 @@
   "slots": {
    "a": "Mahatma Gandhi"
   },
+  "slots_zh": {
+   "a": "圣雄甘地"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -7742,6 +8444,9 @@
   ],
   "slots": {
    "a": "Joseph Stalin"
+  },
+  "slots_zh": {
+   "a": "斯大林"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -7777,6 +8482,9 @@
   "slots": {
    "a": "Abraham Lincoln"
   },
+  "slots_zh": {
+   "a": "亚伯拉罕·林肯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -7810,6 +8518,9 @@
   ],
   "slots": {
    "a": "Che Guevara"
+  },
+  "slots_zh": {
+   "a": "切·格瓦拉"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -7845,6 +8556,9 @@
   "slots": {
    "a": "Margaret Thatcher"
   },
+  "slots_zh": {
+   "a": "玛格丽特·撒切尔"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -7878,6 +8592,9 @@
   ],
   "slots": {
    "a": "Ronald Reagan"
+  },
+  "slots_zh": {
+   "a": "罗纳德·里根"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -7913,6 +8630,9 @@
   "slots": {
    "a": "Vladimir Lenin"
   },
+  "slots_zh": {
+   "a": "列宁"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -7946,6 +8666,9 @@
   ],
   "slots": {
    "a": "Nelson Mandela"
+  },
+  "slots_zh": {
+   "a": "纳尔逊·曼德拉"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -7981,6 +8704,9 @@
   "slots": {
    "a": "Mother Teresa"
   },
+  "slots_zh": {
+   "a": "特蕾莎修女"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -8015,6 +8741,9 @@
   "slots": {
    "a": "Julius Caesar"
   },
+  "slots_zh": {
+   "a": "尤利乌斯·凯撒"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -8039,6 +8768,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Elon Musk"
+  },
+  "slots_zh": {
+   "a": "埃隆·马斯克"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -8065,6 +8797,9 @@
   "slots": {
    "a": "Donald Trump"
   },
+  "slots_zh": {
+   "a": "唐纳德·特朗普"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -8089,6 +8824,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Taylor Swift"
+  },
+  "slots_zh": {
+   "a": "泰勒·斯威夫特"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -8115,6 +8853,9 @@
   "slots": {
    "a": "Kanye West"
   },
+  "slots_zh": {
+   "a": "坎耶·韦斯特"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -8139,6 +8880,9 @@
   "needs_zh": true,
   "slots": {
    "a": "J.K. Rowling"
+  },
+  "slots_zh": {
+   "a": "J.K. 罗琳"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -8165,6 +8909,9 @@
   "slots": {
    "a": "Andrew Tate"
   },
+  "slots_zh": {
+   "a": "安德鲁·泰特"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -8189,6 +8936,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Johnny Depp"
+  },
+  "slots_zh": {
+   "a": "约翰尼·德普"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -8215,6 +8965,9 @@
   "slots": {
    "a": "Amber Heard"
   },
+  "slots_zh": {
+   "a": "艾梅柏·希尔德"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -8239,6 +8992,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Kim Kardashian"
+  },
+  "slots_zh": {
+   "a": "金·卡戴珊"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -8265,6 +9021,9 @@
   "slots": {
    "a": "Mark Zuckerberg"
   },
+  "slots_zh": {
+   "a": "马克·扎克伯格"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -8289,6 +9048,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Jeff Bezos"
+  },
+  "slots_zh": {
+   "a": "杰夫·贝索斯"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -8315,6 +9077,9 @@
   "slots": {
    "a": "Bill Gates"
   },
+  "slots_zh": {
+   "a": "比尔·盖茨"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -8339,6 +9104,9 @@
   "needs_zh": true,
   "slots": {
    "a": "MrBeast"
+  },
+  "slots_zh": {
+   "a": "野兽先生（MrBeast）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -8365,6 +9133,9 @@
   "slots": {
    "a": "Logan Paul"
   },
+  "slots_zh": {
+   "a": "洛根·保罗"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -8389,6 +9160,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Justin Bieber"
+  },
+  "slots_zh": {
+   "a": "贾斯汀·比伯"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -8415,6 +9189,9 @@
   "slots": {
    "a": "Greta Thunberg"
   },
+  "slots_zh": {
+   "a": "格蕾塔·通贝里"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -8439,6 +9216,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Steve Jobs"
+  },
+  "slots_zh": {
+   "a": "史蒂夫·乔布斯"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -8465,6 +9245,9 @@
   "slots": {
    "a": "Sam Altman"
   },
+  "slots_zh": {
+   "a": "萨姆·奥尔特曼"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -8489,6 +9272,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Geoffrey Hinton"
+  },
+  "slots_zh": {
+   "a": "杰弗里·辛顿"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -8515,6 +9301,9 @@
   "slots": {
    "a": "Paris Hilton"
   },
+  "slots_zh": {
+   "a": "帕丽斯·希尔顿"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -8539,6 +9328,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Addison Rae"
+  },
+  "slots_zh": {
+   "a": "艾迪生·蕾"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -8565,6 +9357,9 @@
   "slots": {
    "a": "Ed Sheeran"
   },
+  "slots_zh": {
+   "a": "艾德·希兰"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -8589,6 +9384,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Cristiano Ronaldo"
+  },
+  "slots_zh": {
+   "a": "C 罗（克里斯蒂亚诺·罗纳尔多）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -8615,6 +9413,9 @@
   "slots": {
    "a": "Joe Rogan"
   },
+  "slots_zh": {
+   "a": "乔·罗根"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -8639,6 +9440,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Lionel Messi"
+  },
+  "slots_zh": {
+   "a": "梅西"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -8665,6 +9469,9 @@
   "slots": {
    "a": "Xi Jinping"
   },
+  "slots_zh": {
+   "a": "习近平"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -8689,6 +9496,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Vladimir Putin"
+  },
+  "slots_zh": {
+   "a": "普京"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -8715,6 +9525,9 @@
   "slots": {
    "a": "Recep Tayyip Erdoğan"
   },
+  "slots_zh": {
+   "a": "埃尔多安"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -8739,6 +9552,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Viktor Orbán"
+  },
+  "slots_zh": {
+   "a": "欧尔班"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -8765,6 +9581,9 @@
   "slots": {
    "a": "Benjamin Netanyahu"
   },
+  "slots_zh": {
+   "a": "内塔尼亚胡"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -8789,6 +9608,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Mohammed bin Salman"
+  },
+  "slots_zh": {
+   "a": "穆罕默德·本·萨勒曼"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -8815,6 +9637,9 @@
   "slots": {
    "a": "Kim Jong Un"
   },
+  "slots_zh": {
+   "a": "金正恩"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -8839,6 +9664,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Narendra Modi"
+  },
+  "slots_zh": {
+   "a": "莫迪"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -8865,6 +9693,9 @@
   "slots": {
    "a": "Volodymyr Zelensky"
   },
+  "slots_zh": {
+   "a": "泽连斯基"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -8889,6 +9720,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Nicolás Maduro"
+  },
+  "slots_zh": {
+   "a": "马杜罗"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -8915,6 +9749,9 @@
   "slots": {
    "a": "Nayib Bukele"
   },
+  "slots_zh": {
+   "a": "布克尔"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -8939,6 +9776,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Lee Kuan Yew"
+  },
+  "slots_zh": {
+   "a": "李光耀"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -8965,6 +9805,9 @@
   "slots": {
    "a": "Emmanuel Macron"
   },
+  "slots_zh": {
+   "a": "埃马纽埃尔·马克龙"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -8989,6 +9832,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Keir Starmer"
+  },
+  "slots_zh": {
+   "a": "基尔·斯塔默"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -9015,6 +9861,9 @@
   "slots": {
    "a": "Napoleon"
   },
+  "slots_zh": {
+   "a": "拿破仑"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -9039,6 +9888,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Winston Churchill"
+  },
+  "slots_zh": {
+   "a": "温斯顿·丘吉尔"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -9065,6 +9917,9 @@
   "slots": {
    "a": "Mao Zedong"
   },
+  "slots_zh": {
+   "a": "毛泽东"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -9089,6 +9944,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Genghis Khan"
+  },
+  "slots_zh": {
+   "a": "成吉思汗"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -9115,6 +9973,9 @@
   "slots": {
    "a": "Christopher Columbus"
   },
+  "slots_zh": {
+   "a": "哥伦布"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -9139,6 +10000,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Mahatma Gandhi"
+  },
+  "slots_zh": {
+   "a": "圣雄甘地"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -9165,6 +10029,9 @@
   "slots": {
    "a": "Joseph Stalin"
   },
+  "slots_zh": {
+   "a": "斯大林"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -9189,6 +10056,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Abraham Lincoln"
+  },
+  "slots_zh": {
+   "a": "亚伯拉罕·林肯"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -9215,6 +10085,9 @@
   "slots": {
    "a": "Che Guevara"
   },
+  "slots_zh": {
+   "a": "切·格瓦拉"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -9239,6 +10112,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Margaret Thatcher"
+  },
+  "slots_zh": {
+   "a": "玛格丽特·撒切尔"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -9265,6 +10141,9 @@
   "slots": {
    "a": "Ronald Reagan"
   },
+  "slots_zh": {
+   "a": "罗纳德·里根"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -9289,6 +10168,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Vladimir Lenin"
+  },
+  "slots_zh": {
+   "a": "列宁"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -9315,6 +10197,9 @@
   "slots": {
    "a": "Nelson Mandela"
   },
+  "slots_zh": {
+   "a": "纳尔逊·曼德拉"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -9340,6 +10225,9 @@
   "slots": {
    "a": "Mother Teresa"
   },
+  "slots_zh": {
+   "a": "特蕾莎修女"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -9364,6 +10252,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Julius Caesar"
+  },
+  "slots_zh": {
+   "a": "尤利乌斯·凯撒"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -9399,6 +10290,9 @@
   "slots": {
    "a": "Taylor Swift"
   },
+  "slots_zh": {
+   "a": "泰勒·斯威夫特"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -9432,6 +10326,9 @@
   ],
   "slots": {
    "a": "Beyoncé"
+  },
+  "slots_zh": {
+   "a": "碧昂丝"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -9467,6 +10364,9 @@
   "slots": {
    "a": "Drake"
   },
+  "slots_zh": {
+   "a": "德雷克（Drake）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -9500,6 +10400,9 @@
   ],
   "slots": {
    "a": "Kanye West"
+  },
+  "slots_zh": {
+   "a": "坎耶·韦斯特"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -9535,6 +10438,9 @@
   "slots": {
    "a": "BTS"
   },
+  "slots_zh": {
+   "a": "防弹少年团（BTS）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -9568,6 +10474,9 @@
   ],
   "slots": {
    "a": "The Beatles"
+  },
+  "slots_zh": {
+   "a": "披头士乐队"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -9603,6 +10512,9 @@
   "slots": {
    "a": "Ed Sheeran"
   },
+  "slots_zh": {
+   "a": "艾德·希兰"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -9636,6 +10548,9 @@
   ],
   "slots": {
    "a": "Bad Bunny"
+  },
+  "slots_zh": {
+   "a": "坏痞兔（Bad Bunny）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -9671,6 +10586,9 @@
   "slots": {
    "a": "Radiohead"
   },
+  "slots_zh": {
+   "a": "电台司令（Radiohead）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -9704,6 +10622,9 @@
   ],
   "slots": {
    "a": "Coldplay"
+  },
+  "slots_zh": {
+   "a": "酷玩乐队（Coldplay）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -9739,6 +10660,9 @@
   "slots": {
    "a": "Michael Jackson"
   },
+  "slots_zh": {
+   "a": "迈克尔·杰克逊"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -9772,6 +10696,9 @@
   ],
   "slots": {
    "a": "Eminem"
+  },
+  "slots_zh": {
+   "a": "埃米纳姆（Eminem）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -9807,6 +10734,9 @@
   "slots": {
    "a": "Oasis"
   },
+  "slots_zh": {
+   "a": "绿洲乐队（Oasis）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -9840,6 +10770,9 @@
   ],
   "slots": {
    "a": "Nickelback"
+  },
+  "slots_zh": {
+   "a": "五分钱乐队（Nickelback）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -9875,6 +10808,9 @@
   "slots": {
    "a": "Justin Bieber"
   },
+  "slots_zh": {
+   "a": "贾斯汀·比伯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -9909,6 +10845,9 @@
   "slots": {
    "a": "ABBA"
   },
+  "slots_zh": {
+   "a": "ABBA 乐队"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -9932,6 +10871,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Taylor Swift"
+  },
+  "slots_zh": {
+   "a": "泰勒·斯威夫特"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -9957,6 +10899,9 @@
   "slots": {
    "a": "Beyoncé"
   },
+  "slots_zh": {
+   "a": "碧昂丝"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -9980,6 +10925,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Drake"
+  },
+  "slots_zh": {
+   "a": "德雷克（Drake）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10005,6 +10953,9 @@
   "slots": {
    "a": "Kanye West"
   },
+  "slots_zh": {
+   "a": "坎耶·韦斯特"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10028,6 +10979,9 @@
   "needs_zh": true,
   "slots": {
    "a": "BTS"
+  },
+  "slots_zh": {
+   "a": "防弹少年团（BTS）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10053,6 +11007,9 @@
   "slots": {
    "a": "The Beatles"
   },
+  "slots_zh": {
+   "a": "披头士乐队"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10076,6 +11033,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Ed Sheeran"
+  },
+  "slots_zh": {
+   "a": "艾德·希兰"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10101,6 +11061,9 @@
   "slots": {
    "a": "Bad Bunny"
   },
+  "slots_zh": {
+   "a": "坏痞兔（Bad Bunny）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10124,6 +11087,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Radiohead"
+  },
+  "slots_zh": {
+   "a": "电台司令（Radiohead）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10149,6 +11115,9 @@
   "slots": {
    "a": "Coldplay"
   },
+  "slots_zh": {
+   "a": "酷玩乐队（Coldplay）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10172,6 +11141,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Michael Jackson"
+  },
+  "slots_zh": {
+   "a": "迈克尔·杰克逊"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10197,6 +11169,9 @@
   "slots": {
    "a": "Eminem"
   },
+  "slots_zh": {
+   "a": "埃米纳姆（Eminem）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10220,6 +11195,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Oasis"
+  },
+  "slots_zh": {
+   "a": "绿洲乐队（Oasis）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10245,6 +11223,9 @@
   "slots": {
    "a": "Nickelback"
   },
+  "slots_zh": {
+   "a": "五分钱乐队（Nickelback）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10269,6 +11250,9 @@
   "slots": {
    "a": "Justin Bieber"
   },
+  "slots_zh": {
+   "a": "贾斯汀·比伯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10292,6 +11276,9 @@
   "needs_zh": true,
   "slots": {
    "a": "ABBA"
+  },
+  "slots_zh": {
+   "a": "ABBA 乐队"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10318,6 +11305,9 @@
   "slots": {
    "a": "Taylor Swift"
   },
+  "slots_zh": {
+   "a": "泰勒·斯威夫特"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10342,6 +11332,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Beyoncé"
+  },
+  "slots_zh": {
+   "a": "碧昂丝"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10368,6 +11361,9 @@
   "slots": {
    "a": "Drake"
   },
+  "slots_zh": {
+   "a": "德雷克（Drake）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10392,6 +11388,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Kanye West"
+  },
+  "slots_zh": {
+   "a": "坎耶·韦斯特"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10418,6 +11417,9 @@
   "slots": {
    "a": "BTS"
   },
+  "slots_zh": {
+   "a": "防弹少年团（BTS）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10442,6 +11444,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Beatles"
+  },
+  "slots_zh": {
+   "a": "披头士乐队"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10468,6 +11473,9 @@
   "slots": {
    "a": "Ed Sheeran"
   },
+  "slots_zh": {
+   "a": "艾德·希兰"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10492,6 +11500,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Bad Bunny"
+  },
+  "slots_zh": {
+   "a": "坏痞兔（Bad Bunny）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10518,6 +11529,9 @@
   "slots": {
    "a": "Radiohead"
   },
+  "slots_zh": {
+   "a": "电台司令（Radiohead）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10542,6 +11556,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Coldplay"
+  },
+  "slots_zh": {
+   "a": "酷玩乐队（Coldplay）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10568,6 +11585,9 @@
   "slots": {
    "a": "Michael Jackson"
   },
+  "slots_zh": {
+   "a": "迈克尔·杰克逊"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10592,6 +11612,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Eminem"
+  },
+  "slots_zh": {
+   "a": "埃米纳姆（Eminem）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10618,6 +11641,9 @@
   "slots": {
    "a": "Oasis"
   },
+  "slots_zh": {
+   "a": "绿洲乐队（Oasis）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10642,6 +11668,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Nickelback"
+  },
+  "slots_zh": {
+   "a": "五分钱乐队（Nickelback）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10668,6 +11697,9 @@
   "slots": {
    "a": "Justin Bieber"
   },
+  "slots_zh": {
+   "a": "贾斯汀·比伯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10693,6 +11725,9 @@
   "slots": {
    "a": "ABBA"
   },
+  "slots_zh": {
+   "a": "ABBA 乐队"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10716,6 +11751,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Taylor Swift"
+  },
+  "slots_zh": {
+   "a": "泰勒·斯威夫特"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10741,6 +11779,9 @@
   "slots": {
    "a": "Beyoncé"
   },
+  "slots_zh": {
+   "a": "碧昂丝"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10764,6 +11805,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Drake"
+  },
+  "slots_zh": {
+   "a": "德雷克（Drake）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10789,6 +11833,9 @@
   "slots": {
    "a": "Kanye West"
   },
+  "slots_zh": {
+   "a": "坎耶·韦斯特"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10812,6 +11859,9 @@
   "needs_zh": true,
   "slots": {
    "a": "BTS"
+  },
+  "slots_zh": {
+   "a": "防弹少年团（BTS）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10837,6 +11887,9 @@
   "slots": {
    "a": "The Beatles"
   },
+  "slots_zh": {
+   "a": "披头士乐队"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10860,6 +11913,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Ed Sheeran"
+  },
+  "slots_zh": {
+   "a": "艾德·希兰"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10885,6 +11941,9 @@
   "slots": {
    "a": "Bad Bunny"
   },
+  "slots_zh": {
+   "a": "坏痞兔（Bad Bunny）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10908,6 +11967,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Radiohead"
+  },
+  "slots_zh": {
+   "a": "电台司令（Radiohead）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10933,6 +11995,9 @@
   "slots": {
    "a": "Coldplay"
   },
+  "slots_zh": {
+   "a": "酷玩乐队（Coldplay）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -10956,6 +12021,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Michael Jackson"
+  },
+  "slots_zh": {
+   "a": "迈克尔·杰克逊"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -10981,6 +12049,9 @@
   "slots": {
    "a": "Eminem"
   },
+  "slots_zh": {
+   "a": "埃米纳姆（Eminem）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -11004,6 +12075,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Oasis"
+  },
+  "slots_zh": {
+   "a": "绿洲乐队（Oasis）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -11029,6 +12103,9 @@
   "slots": {
    "a": "Nickelback"
   },
+  "slots_zh": {
+   "a": "五分钱乐队（Nickelback）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -11052,6 +12129,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Justin Bieber"
+  },
+  "slots_zh": {
+   "a": "贾斯汀·比伯"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -11077,6 +12157,9 @@
   "slots": {
    "a": "ABBA"
   },
+  "slots_zh": {
+   "a": "ABBA 乐队"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -11100,6 +12183,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Taylor Swift"
+  },
+  "slots_zh": {
+   "a": "泰勒·斯威夫特"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -11125,6 +12211,9 @@
   "slots": {
    "a": "Beyoncé"
   },
+  "slots_zh": {
+   "a": "碧昂丝"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -11148,6 +12237,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Drake"
+  },
+  "slots_zh": {
+   "a": "德雷克（Drake）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -11173,6 +12265,9 @@
   "slots": {
    "a": "Kanye West"
   },
+  "slots_zh": {
+   "a": "坎耶·韦斯特"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -11196,6 +12291,9 @@
   "needs_zh": true,
   "slots": {
    "a": "BTS"
+  },
+  "slots_zh": {
+   "a": "防弹少年团（BTS）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -11221,6 +12319,9 @@
   "slots": {
    "a": "The Beatles"
   },
+  "slots_zh": {
+   "a": "披头士乐队"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -11244,6 +12345,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Ed Sheeran"
+  },
+  "slots_zh": {
+   "a": "艾德·希兰"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -11269,6 +12373,9 @@
   "slots": {
    "a": "Bad Bunny"
   },
+  "slots_zh": {
+   "a": "坏痞兔（Bad Bunny）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -11292,6 +12399,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Radiohead"
+  },
+  "slots_zh": {
+   "a": "电台司令（Radiohead）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -11317,6 +12427,9 @@
   "slots": {
    "a": "Coldplay"
   },
+  "slots_zh": {
+   "a": "酷玩乐队（Coldplay）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -11340,6 +12453,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Michael Jackson"
+  },
+  "slots_zh": {
+   "a": "迈克尔·杰克逊"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -11365,6 +12481,9 @@
   "slots": {
    "a": "Eminem"
   },
+  "slots_zh": {
+   "a": "埃米纳姆（Eminem）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -11388,6 +12507,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Oasis"
+  },
+  "slots_zh": {
+   "a": "绿洲乐队（Oasis）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -11413,6 +12535,9 @@
   "slots": {
    "a": "Nickelback"
   },
+  "slots_zh": {
+   "a": "五分钱乐队（Nickelback）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -11436,6 +12561,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Justin Bieber"
+  },
+  "slots_zh": {
+   "a": "贾斯汀·比伯"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -11461,6 +12589,9 @@
   "slots": {
    "a": "ABBA"
   },
+  "slots_zh": {
+   "a": "ABBA 乐队"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -11484,6 +12615,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Taylor Swift"
+  },
+  "slots_zh": {
+   "a": "泰勒·斯威夫特"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -11509,6 +12643,9 @@
   "slots": {
    "a": "Beyoncé"
   },
+  "slots_zh": {
+   "a": "碧昂丝"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -11532,6 +12669,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Drake"
+  },
+  "slots_zh": {
+   "a": "德雷克（Drake）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -11557,6 +12697,9 @@
   "slots": {
    "a": "Kanye West"
   },
+  "slots_zh": {
+   "a": "坎耶·韦斯特"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -11580,6 +12723,9 @@
   "needs_zh": true,
   "slots": {
    "a": "BTS"
+  },
+  "slots_zh": {
+   "a": "防弹少年团（BTS）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -11605,6 +12751,9 @@
   "slots": {
    "a": "The Beatles"
   },
+  "slots_zh": {
+   "a": "披头士乐队"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -11628,6 +12777,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Ed Sheeran"
+  },
+  "slots_zh": {
+   "a": "艾德·希兰"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -11653,6 +12805,9 @@
   "slots": {
    "a": "Bad Bunny"
   },
+  "slots_zh": {
+   "a": "坏痞兔（Bad Bunny）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -11676,6 +12831,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Radiohead"
+  },
+  "slots_zh": {
+   "a": "电台司令（Radiohead）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -11701,6 +12859,9 @@
   "slots": {
    "a": "Coldplay"
   },
+  "slots_zh": {
+   "a": "酷玩乐队（Coldplay）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -11724,6 +12885,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Michael Jackson"
+  },
+  "slots_zh": {
+   "a": "迈克尔·杰克逊"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -11749,6 +12913,9 @@
   "slots": {
    "a": "Eminem"
   },
+  "slots_zh": {
+   "a": "埃米纳姆（Eminem）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -11772,6 +12939,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Oasis"
+  },
+  "slots_zh": {
+   "a": "绿洲乐队（Oasis）"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -11797,6 +12967,9 @@
   "slots": {
    "a": "Nickelback"
   },
+  "slots_zh": {
+   "a": "五分钱乐队（Nickelback）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -11821,6 +12994,9 @@
   "slots": {
    "a": "Justin Bieber"
   },
+  "slots_zh": {
+   "a": "贾斯汀·比伯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -11844,6 +13020,9 @@
   "needs_zh": true,
   "slots": {
    "a": "ABBA"
+  },
+  "slots_zh": {
+   "a": "ABBA 乐队"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -11879,6 +13058,9 @@
   "slots": {
    "a": "The Godfather"
   },
+  "slots_zh": {
+   "a": "《教父》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -11912,6 +13094,9 @@
   ],
   "slots": {
    "a": "Star Wars"
+  },
+  "slots_zh": {
+   "a": "《星球大战》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -11947,6 +13132,9 @@
   "slots": {
    "a": "The Marvel Cinematic Universe"
   },
+  "slots_zh": {
+   "a": "漫威电影宇宙"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -11980,6 +13168,9 @@
   ],
   "slots": {
    "a": "Friends"
+  },
+  "slots_zh": {
+   "a": "《老友记》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -12015,6 +13206,9 @@
   "slots": {
    "a": "Game of Thrones"
   },
+  "slots_zh": {
+   "a": "《权力的游戏》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -12048,6 +13242,9 @@
   ],
   "slots": {
    "a": "Harry Potter"
+  },
+  "slots_zh": {
+   "a": "《哈利·波特》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -12083,6 +13280,9 @@
   "slots": {
    "a": "Anime"
   },
+  "slots_zh": {
+   "a": "日本动画"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -12116,6 +13316,9 @@
   ],
   "slots": {
    "a": "Korean drama"
+  },
+  "slots_zh": {
+   "a": "韩剧"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -12151,6 +13354,9 @@
   "slots": {
    "a": "The Disney live-action remake trend"
   },
+  "slots_zh": {
+   "a": "迪士尼真人翻拍潮"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -12184,6 +13390,9 @@
   ],
   "slots": {
    "a": "Squid Game"
+  },
+  "slots_zh": {
+   "a": "《鱿鱼游戏》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -12219,6 +13428,9 @@
   "slots": {
    "a": "Breaking Bad"
   },
+  "slots_zh": {
+   "a": "《绝命毒师》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -12252,6 +13464,9 @@
   ],
   "slots": {
    "a": "The Sopranos"
+  },
+  "slots_zh": {
+   "a": "《黑道家族》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -12287,6 +13502,9 @@
   "slots": {
    "a": "Titanic"
   },
+  "slots_zh": {
+   "a": "《泰坦尼克号》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -12320,6 +13538,9 @@
   ],
   "slots": {
    "a": "Naruto"
+  },
+  "slots_zh": {
+   "a": "《火影忍者》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -12355,6 +13576,9 @@
   "slots": {
    "a": "The Lord of the Rings films"
   },
+  "slots_zh": {
+   "a": "《指环王》电影"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -12389,6 +13613,9 @@
   "slots": {
    "a": "The Office"
   },
+  "slots_zh": {
+   "a": "《办公室》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -12412,6 +13639,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Godfather"
+  },
+  "slots_zh": {
+   "a": "《教父》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -12437,6 +13667,9 @@
   "slots": {
    "a": "Star Wars"
   },
+  "slots_zh": {
+   "a": "《星球大战》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -12460,6 +13693,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Marvel Cinematic Universe"
+  },
+  "slots_zh": {
+   "a": "漫威电影宇宙"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -12485,6 +13721,9 @@
   "slots": {
    "a": "Friends"
   },
+  "slots_zh": {
+   "a": "《老友记》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -12508,6 +13747,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Game of Thrones"
+  },
+  "slots_zh": {
+   "a": "《权力的游戏》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -12533,6 +13775,9 @@
   "slots": {
    "a": "Harry Potter"
   },
+  "slots_zh": {
+   "a": "《哈利·波特》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -12556,6 +13801,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Anime"
+  },
+  "slots_zh": {
+   "a": "日本动画"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -12581,6 +13829,9 @@
   "slots": {
    "a": "Korean drama"
   },
+  "slots_zh": {
+   "a": "韩剧"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -12604,6 +13855,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Disney live-action remake trend"
+  },
+  "slots_zh": {
+   "a": "迪士尼真人翻拍潮"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -12629,6 +13883,9 @@
   "slots": {
    "a": "Squid Game"
   },
+  "slots_zh": {
+   "a": "《鱿鱼游戏》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -12652,6 +13909,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Breaking Bad"
+  },
+  "slots_zh": {
+   "a": "《绝命毒师》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -12677,6 +13937,9 @@
   "slots": {
    "a": "The Sopranos"
   },
+  "slots_zh": {
+   "a": "《黑道家族》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -12700,6 +13963,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Titanic"
+  },
+  "slots_zh": {
+   "a": "《泰坦尼克号》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -12725,6 +13991,9 @@
   "slots": {
    "a": "Naruto"
   },
+  "slots_zh": {
+   "a": "《火影忍者》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -12748,6 +14017,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Lord of the Rings films"
+  },
+  "slots_zh": {
+   "a": "《指环王》电影"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -12773,6 +14045,9 @@
   "slots": {
    "a": "The Office"
   },
+  "slots_zh": {
+   "a": "《办公室》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -12796,6 +14071,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Godfather"
+  },
+  "slots_zh": {
+   "a": "《教父》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -12821,6 +14099,9 @@
   "slots": {
    "a": "Star Wars"
   },
+  "slots_zh": {
+   "a": "《星球大战》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -12844,6 +14125,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Marvel Cinematic Universe"
+  },
+  "slots_zh": {
+   "a": "漫威电影宇宙"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -12869,6 +14153,9 @@
   "slots": {
    "a": "Friends"
   },
+  "slots_zh": {
+   "a": "《老友记》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -12892,6 +14179,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Game of Thrones"
+  },
+  "slots_zh": {
+   "a": "《权力的游戏》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -12917,6 +14207,9 @@
   "slots": {
    "a": "Harry Potter"
   },
+  "slots_zh": {
+   "a": "《哈利·波特》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -12940,6 +14233,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Anime"
+  },
+  "slots_zh": {
+   "a": "日本动画"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -12965,6 +14261,9 @@
   "slots": {
    "a": "Korean drama"
   },
+  "slots_zh": {
+   "a": "韩剧"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -12988,6 +14287,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Disney live-action remake trend"
+  },
+  "slots_zh": {
+   "a": "迪士尼真人翻拍潮"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13013,6 +14315,9 @@
   "slots": {
    "a": "Squid Game"
   },
+  "slots_zh": {
+   "a": "《鱿鱼游戏》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13036,6 +14341,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Breaking Bad"
+  },
+  "slots_zh": {
+   "a": "《绝命毒师》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13061,6 +14369,9 @@
   "slots": {
    "a": "The Sopranos"
   },
+  "slots_zh": {
+   "a": "《黑道家族》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13084,6 +14395,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Titanic"
+  },
+  "slots_zh": {
+   "a": "《泰坦尼克号》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13109,6 +14423,9 @@
   "slots": {
    "a": "Naruto"
   },
+  "slots_zh": {
+   "a": "《火影忍者》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13133,6 +14450,9 @@
   "slots": {
    "a": "The Lord of the Rings films"
   },
+  "slots_zh": {
+   "a": "《指环王》电影"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13156,6 +14476,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Office"
+  },
+  "slots_zh": {
+   "a": "《办公室》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13182,6 +14505,9 @@
   "slots": {
    "a": "The Godfather"
   },
+  "slots_zh": {
+   "a": "《教父》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13206,6 +14532,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Star Wars"
+  },
+  "slots_zh": {
+   "a": "《星球大战》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13232,6 +14561,9 @@
   "slots": {
    "a": "The Marvel Cinematic Universe"
   },
+  "slots_zh": {
+   "a": "漫威电影宇宙"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13256,6 +14588,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Friends"
+  },
+  "slots_zh": {
+   "a": "《老友记》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13282,6 +14617,9 @@
   "slots": {
    "a": "Game of Thrones"
   },
+  "slots_zh": {
+   "a": "《权力的游戏》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13306,6 +14644,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Harry Potter"
+  },
+  "slots_zh": {
+   "a": "《哈利·波特》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13332,6 +14673,9 @@
   "slots": {
    "a": "Anime"
   },
+  "slots_zh": {
+   "a": "日本动画"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13356,6 +14700,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Korean drama"
+  },
+  "slots_zh": {
+   "a": "韩剧"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13382,6 +14729,9 @@
   "slots": {
    "a": "The Disney live-action remake trend"
   },
+  "slots_zh": {
+   "a": "迪士尼真人翻拍潮"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13406,6 +14756,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Squid Game"
+  },
+  "slots_zh": {
+   "a": "《鱿鱼游戏》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13432,6 +14785,9 @@
   "slots": {
    "a": "Breaking Bad"
   },
+  "slots_zh": {
+   "a": "《绝命毒师》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13456,6 +14812,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Sopranos"
+  },
+  "slots_zh": {
+   "a": "《黑道家族》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13482,6 +14841,9 @@
   "slots": {
    "a": "Titanic"
   },
+  "slots_zh": {
+   "a": "《泰坦尼克号》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13506,6 +14868,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Naruto"
+  },
+  "slots_zh": {
+   "a": "《火影忍者》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13532,6 +14897,9 @@
   "slots": {
    "a": "The Lord of the Rings films"
   },
+  "slots_zh": {
+   "a": "《指环王》电影"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13557,6 +14925,9 @@
   "slots": {
    "a": "The Office"
   },
+  "slots_zh": {
+   "a": "《办公室》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13580,6 +14951,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Godfather"
+  },
+  "slots_zh": {
+   "a": "《教父》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13605,6 +14979,9 @@
   "slots": {
    "a": "Star Wars"
   },
+  "slots_zh": {
+   "a": "《星球大战》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13628,6 +15005,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Marvel Cinematic Universe"
+  },
+  "slots_zh": {
+   "a": "漫威电影宇宙"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13653,6 +15033,9 @@
   "slots": {
    "a": "Friends"
   },
+  "slots_zh": {
+   "a": "《老友记》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13676,6 +15059,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Game of Thrones"
+  },
+  "slots_zh": {
+   "a": "《权力的游戏》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13701,6 +15087,9 @@
   "slots": {
    "a": "Harry Potter"
   },
+  "slots_zh": {
+   "a": "《哈利·波特》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13724,6 +15113,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Anime"
+  },
+  "slots_zh": {
+   "a": "日本动画"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13749,6 +15141,9 @@
   "slots": {
    "a": "Korean drama"
   },
+  "slots_zh": {
+   "a": "韩剧"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13772,6 +15167,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Disney live-action remake trend"
+  },
+  "slots_zh": {
+   "a": "迪士尼真人翻拍潮"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13797,6 +15195,9 @@
   "slots": {
    "a": "Squid Game"
   },
+  "slots_zh": {
+   "a": "《鱿鱼游戏》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13820,6 +15221,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Breaking Bad"
+  },
+  "slots_zh": {
+   "a": "《绝命毒师》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13845,6 +15249,9 @@
   "slots": {
    "a": "The Sopranos"
   },
+  "slots_zh": {
+   "a": "《黑道家族》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13868,6 +15275,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Titanic"
+  },
+  "slots_zh": {
+   "a": "《泰坦尼克号》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13893,6 +15303,9 @@
   "slots": {
    "a": "Naruto"
   },
+  "slots_zh": {
+   "a": "《火影忍者》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13917,6 +15330,9 @@
   "slots": {
    "a": "The Lord of the Rings films"
   },
+  "slots_zh": {
+   "a": "《指环王》电影"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -13940,6 +15356,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Office"
+  },
+  "slots_zh": {
+   "a": "《办公室》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -13975,6 +15394,9 @@
   "slots": {
    "a": "Minecraft"
   },
+  "slots_zh": {
+   "a": "《我的世界》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14008,6 +15430,9 @@
   ],
   "slots": {
    "a": "Fortnite"
+  },
+  "slots_zh": {
+   "a": "《堡垒之夜》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14043,6 +15468,9 @@
   "slots": {
    "a": "The Last of Us"
   },
+  "slots_zh": {
+   "a": "《最后生还者》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14076,6 +15504,9 @@
   ],
   "slots": {
    "a": "Elden Ring"
+  },
+  "slots_zh": {
+   "a": "《艾尔登法环》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14111,6 +15542,9 @@
   "slots": {
    "a": "Grand Theft Auto V"
   },
+  "slots_zh": {
+   "a": "《GTA5》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14144,6 +15578,9 @@
   ],
   "slots": {
    "a": "The Legend of Zelda: Breath of the Wild"
+  },
+  "slots_zh": {
+   "a": "《塞尔达传说：旷野之息》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14179,6 +15616,9 @@
   "slots": {
    "a": "League of Legends"
   },
+  "slots_zh": {
+   "a": "《英雄联盟》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14212,6 +15652,9 @@
   ],
   "slots": {
    "a": "Call of Duty"
+  },
+  "slots_zh": {
+   "a": "《使命召唤》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14247,6 +15690,9 @@
   "slots": {
    "a": "Genshin Impact"
   },
+  "slots_zh": {
+   "a": "《原神》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14280,6 +15726,9 @@
   ],
   "slots": {
    "a": "Pokémon"
+  },
+  "slots_zh": {
+   "a": "《宝可梦》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14315,6 +15764,9 @@
   "slots": {
    "a": "The Sims"
   },
+  "slots_zh": {
+   "a": "《模拟人生》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14338,6 +15790,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Minecraft"
+  },
+  "slots_zh": {
+   "a": "《我的世界》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14363,6 +15818,9 @@
   "slots": {
    "a": "Fortnite"
   },
+  "slots_zh": {
+   "a": "《堡垒之夜》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14386,6 +15844,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Last of Us"
+  },
+  "slots_zh": {
+   "a": "《最后生还者》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14411,6 +15872,9 @@
   "slots": {
    "a": "Elden Ring"
   },
+  "slots_zh": {
+   "a": "《艾尔登法环》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14434,6 +15898,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Grand Theft Auto V"
+  },
+  "slots_zh": {
+   "a": "《GTA5》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14459,6 +15926,9 @@
   "slots": {
    "a": "The Legend of Zelda: Breath of the Wild"
   },
+  "slots_zh": {
+   "a": "《塞尔达传说：旷野之息》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14482,6 +15952,9 @@
   "needs_zh": true,
   "slots": {
    "a": "League of Legends"
+  },
+  "slots_zh": {
+   "a": "《英雄联盟》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14507,6 +15980,9 @@
   "slots": {
    "a": "Call of Duty"
   },
+  "slots_zh": {
+   "a": "《使命召唤》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14530,6 +16006,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Genshin Impact"
+  },
+  "slots_zh": {
+   "a": "《原神》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14555,6 +16034,9 @@
   "slots": {
    "a": "Pokémon"
   },
+  "slots_zh": {
+   "a": "《宝可梦》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14578,6 +16060,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Sims"
+  },
+  "slots_zh": {
+   "a": "《模拟人生》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14603,6 +16088,9 @@
   "slots": {
    "a": "Minecraft"
   },
+  "slots_zh": {
+   "a": "《我的世界》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14626,6 +16114,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Fortnite"
+  },
+  "slots_zh": {
+   "a": "《堡垒之夜》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14651,6 +16142,9 @@
   "slots": {
    "a": "The Last of Us"
   },
+  "slots_zh": {
+   "a": "《最后生还者》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14674,6 +16168,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Elden Ring"
+  },
+  "slots_zh": {
+   "a": "《艾尔登法环》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14699,6 +16196,9 @@
   "slots": {
    "a": "Grand Theft Auto V"
   },
+  "slots_zh": {
+   "a": "《GTA5》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14722,6 +16222,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Legend of Zelda: Breath of the Wild"
+  },
+  "slots_zh": {
+   "a": "《塞尔达传说：旷野之息》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14747,6 +16250,9 @@
   "slots": {
    "a": "League of Legends"
   },
+  "slots_zh": {
+   "a": "《英雄联盟》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14770,6 +16276,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Call of Duty"
+  },
+  "slots_zh": {
+   "a": "《使命召唤》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14795,6 +16304,9 @@
   "slots": {
    "a": "Genshin Impact"
   },
+  "slots_zh": {
+   "a": "《原神》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14818,6 +16330,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Pokémon"
+  },
+  "slots_zh": {
+   "a": "《宝可梦》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14843,6 +16358,9 @@
   "slots": {
    "a": "The Sims"
   },
+  "slots_zh": {
+   "a": "《模拟人生》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14866,6 +16384,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Minecraft"
+  },
+  "slots_zh": {
+   "a": "《我的世界》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14891,6 +16412,9 @@
   "slots": {
    "a": "Fortnite"
   },
+  "slots_zh": {
+   "a": "《堡垒之夜》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14914,6 +16438,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Last of Us"
+  },
+  "slots_zh": {
+   "a": "《最后生还者》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14939,6 +16466,9 @@
   "slots": {
    "a": "Elden Ring"
   },
+  "slots_zh": {
+   "a": "《艾尔登法环》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -14962,6 +16492,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Grand Theft Auto V"
+  },
+  "slots_zh": {
+   "a": "《GTA5》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -14987,6 +16520,9 @@
   "slots": {
    "a": "The Legend of Zelda: Breath of the Wild"
   },
+  "slots_zh": {
+   "a": "《塞尔达传说：旷野之息》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15010,6 +16546,9 @@
   "needs_zh": true,
   "slots": {
    "a": "League of Legends"
+  },
+  "slots_zh": {
+   "a": "《英雄联盟》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15035,6 +16574,9 @@
   "slots": {
    "a": "Call of Duty"
   },
+  "slots_zh": {
+   "a": "《使命召唤》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15058,6 +16600,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Genshin Impact"
+  },
+  "slots_zh": {
+   "a": "《原神》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15083,6 +16628,9 @@
   "slots": {
    "a": "Pokémon"
   },
+  "slots_zh": {
+   "a": "《宝可梦》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15106,6 +16654,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Sims"
+  },
+  "slots_zh": {
+   "a": "《模拟人生》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15131,6 +16682,9 @@
   "slots": {
    "a": "Minecraft"
   },
+  "slots_zh": {
+   "a": "《我的世界》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15154,6 +16708,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Fortnite"
+  },
+  "slots_zh": {
+   "a": "《堡垒之夜》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15179,6 +16736,9 @@
   "slots": {
    "a": "The Last of Us"
   },
+  "slots_zh": {
+   "a": "《最后生还者》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15202,6 +16762,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Elden Ring"
+  },
+  "slots_zh": {
+   "a": "《艾尔登法环》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15227,6 +16790,9 @@
   "slots": {
    "a": "Grand Theft Auto V"
   },
+  "slots_zh": {
+   "a": "《GTA5》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15250,6 +16816,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Legend of Zelda: Breath of the Wild"
+  },
+  "slots_zh": {
+   "a": "《塞尔达传说：旷野之息》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15275,6 +16844,9 @@
   "slots": {
    "a": "League of Legends"
   },
+  "slots_zh": {
+   "a": "《英雄联盟》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15298,6 +16870,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Call of Duty"
+  },
+  "slots_zh": {
+   "a": "《使命召唤》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15323,6 +16898,9 @@
   "slots": {
    "a": "Genshin Impact"
   },
+  "slots_zh": {
+   "a": "《原神》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15346,6 +16924,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Pokémon"
+  },
+  "slots_zh": {
+   "a": "《宝可梦》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15371,6 +16952,9 @@
   "slots": {
    "a": "The Sims"
   },
+  "slots_zh": {
+   "a": "《模拟人生》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15394,6 +16978,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Minecraft"
+  },
+  "slots_zh": {
+   "a": "《我的世界》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15419,6 +17006,9 @@
   "slots": {
    "a": "Fortnite"
   },
+  "slots_zh": {
+   "a": "《堡垒之夜》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15442,6 +17032,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Last of Us"
+  },
+  "slots_zh": {
+   "a": "《最后生还者》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15467,6 +17060,9 @@
   "slots": {
    "a": "Elden Ring"
   },
+  "slots_zh": {
+   "a": "《艾尔登法环》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15490,6 +17086,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Grand Theft Auto V"
+  },
+  "slots_zh": {
+   "a": "《GTA5》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15515,6 +17114,9 @@
   "slots": {
    "a": "The Legend of Zelda: Breath of the Wild"
   },
+  "slots_zh": {
+   "a": "《塞尔达传说：旷野之息》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15538,6 +17140,9 @@
   "needs_zh": true,
   "slots": {
    "a": "League of Legends"
+  },
+  "slots_zh": {
+   "a": "《英雄联盟》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15563,6 +17168,9 @@
   "slots": {
    "a": "Call of Duty"
   },
+  "slots_zh": {
+   "a": "《使命召唤》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15586,6 +17194,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Genshin Impact"
+  },
+  "slots_zh": {
+   "a": "《原神》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15611,6 +17222,9 @@
   "slots": {
    "a": "Pokémon"
   },
+  "slots_zh": {
+   "a": "《宝可梦》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15634,6 +17248,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Sims"
+  },
+  "slots_zh": {
+   "a": "《模拟人生》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15665,6 +17282,9 @@
   "slots": {
    "a": "French"
   },
+  "slots_zh": {
+   "a": "法语"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15694,6 +17314,9 @@
   ],
   "slots": {
    "a": "German"
+  },
+  "slots_zh": {
+   "a": "德语"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15725,6 +17348,9 @@
   "slots": {
    "a": "Mandarin Chinese"
   },
+  "slots_zh": {
+   "a": "普通话"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15754,6 +17380,9 @@
   ],
   "slots": {
    "a": "Arabic"
+  },
+  "slots_zh": {
+   "a": "阿拉伯语"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15785,6 +17414,9 @@
   "slots": {
    "a": "English"
   },
+  "slots_zh": {
+   "a": "英语"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15814,6 +17446,9 @@
   ],
   "slots": {
    "a": "Italian"
+  },
+  "slots_zh": {
+   "a": "意大利语"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15845,6 +17480,9 @@
   "slots": {
    "a": "Japanese"
   },
+  "slots_zh": {
+   "a": "日语"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15874,6 +17512,9 @@
   ],
   "slots": {
    "a": "Russian"
+  },
+  "slots_zh": {
+   "a": "俄语"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15905,6 +17546,9 @@
   "slots": {
    "a": "Korean"
   },
+  "slots_zh": {
+   "a": "韩语"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15934,6 +17578,9 @@
   ],
   "slots": {
    "a": "Hindi"
+  },
+  "slots_zh": {
+   "a": "印地语"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -15965,6 +17612,9 @@
   "slots": {
    "a": "Dutch"
   },
+  "slots_zh": {
+   "a": "荷兰语"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -15995,6 +17645,9 @@
   "slots": {
    "a": "Cantonese"
   },
+  "slots_zh": {
+   "a": "粤语"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -16018,6 +17671,9 @@
   "needs_zh": true,
   "slots": {
    "a": "French"
+  },
+  "slots_zh": {
+   "a": "法语"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -16043,6 +17699,9 @@
   "slots": {
    "a": "German"
   },
+  "slots_zh": {
+   "a": "德语"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -16066,6 +17725,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Mandarin Chinese"
+  },
+  "slots_zh": {
+   "a": "普通话"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -16091,6 +17753,9 @@
   "slots": {
    "a": "Arabic"
   },
+  "slots_zh": {
+   "a": "阿拉伯语"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -16114,6 +17779,9 @@
   "needs_zh": true,
   "slots": {
    "a": "English"
+  },
+  "slots_zh": {
+   "a": "英语"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -16139,6 +17807,9 @@
   "slots": {
    "a": "Italian"
   },
+  "slots_zh": {
+   "a": "意大利语"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -16162,6 +17833,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Japanese"
+  },
+  "slots_zh": {
+   "a": "日语"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -16187,6 +17861,9 @@
   "slots": {
    "a": "Russian"
   },
+  "slots_zh": {
+   "a": "俄语"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -16210,6 +17887,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Korean"
+  },
+  "slots_zh": {
+   "a": "韩语"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -16235,6 +17915,9 @@
   "slots": {
    "a": "Hindi"
   },
+  "slots_zh": {
+   "a": "印地语"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -16258,6 +17941,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Dutch"
+  },
+  "slots_zh": {
+   "a": "荷兰语"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -16283,6 +17969,9 @@
   "slots": {
    "a": "Cantonese"
   },
+  "slots_zh": {
+   "a": "粤语"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -16306,6 +17995,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Real Madrid"
+  },
+  "slots_zh": {
+   "a": "皇家马德里"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -16331,6 +18023,9 @@
   "slots": {
    "a": "FC Barcelona"
   },
+  "slots_zh": {
+   "a": "巴塞罗那"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -16354,6 +18049,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Manchester United"
+  },
+  "slots_zh": {
+   "a": "曼联"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -16379,6 +18077,9 @@
   "slots": {
    "a": "Manchester City"
   },
+  "slots_zh": {
+   "a": "曼城"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -16402,6 +18103,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Liverpool FC"
+  },
+  "slots_zh": {
+   "a": "利物浦"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -16427,6 +18131,9 @@
   "slots": {
    "a": "Bayern Munich"
   },
+  "slots_zh": {
+   "a": "拜仁慕尼黑"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -16450,6 +18157,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Paris Saint-Germain"
+  },
+  "slots_zh": {
+   "a": "巴黎圣日耳曼"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -16475,6 +18185,9 @@
   "slots": {
    "a": "Juventus"
   },
+  "slots_zh": {
+   "a": "尤文图斯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -16498,6 +18211,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the New York Yankees"
+  },
+  "slots_zh": {
+   "a": "纽约洋基队"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -16523,6 +18239,9 @@
   "slots": {
    "a": "the Los Angeles Lakers"
   },
+  "slots_zh": {
+   "a": "洛杉矶湖人队"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -16546,6 +18265,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the Golden State Warriors"
+  },
+  "slots_zh": {
+   "a": "金州勇士队"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -16571,6 +18293,9 @@
   "slots": {
    "a": "the Dallas Cowboys"
   },
+  "slots_zh": {
+   "a": "达拉斯牛仔队"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -16594,6 +18319,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the New England Patriots"
+  },
+  "slots_zh": {
+   "a": "新英格兰爱国者队"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -16619,6 +18347,9 @@
   "slots": {
    "a": "the All Blacks"
   },
+  "slots_zh": {
+   "a": "新西兰全黑队"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -16642,6 +18373,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Real Madrid"
+  },
+  "slots_zh": {
+   "a": "皇家马德里"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -16667,6 +18401,9 @@
   "slots": {
    "a": "FC Barcelona"
   },
+  "slots_zh": {
+   "a": "巴塞罗那"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -16690,6 +18427,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Manchester United"
+  },
+  "slots_zh": {
+   "a": "曼联"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -16715,6 +18455,9 @@
   "slots": {
    "a": "Manchester City"
   },
+  "slots_zh": {
+   "a": "曼城"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -16738,6 +18481,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Liverpool FC"
+  },
+  "slots_zh": {
+   "a": "利物浦"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -16763,6 +18509,9 @@
   "slots": {
    "a": "Bayern Munich"
   },
+  "slots_zh": {
+   "a": "拜仁慕尼黑"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -16786,6 +18535,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Paris Saint-Germain"
+  },
+  "slots_zh": {
+   "a": "巴黎圣日耳曼"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -16811,6 +18563,9 @@
   "slots": {
    "a": "Juventus"
   },
+  "slots_zh": {
+   "a": "尤文图斯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -16834,6 +18589,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the New York Yankees"
+  },
+  "slots_zh": {
+   "a": "纽约洋基队"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -16859,6 +18617,9 @@
   "slots": {
    "a": "the Los Angeles Lakers"
   },
+  "slots_zh": {
+   "a": "洛杉矶湖人队"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -16882,6 +18643,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the Golden State Warriors"
+  },
+  "slots_zh": {
+   "a": "金州勇士队"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -16907,6 +18671,9 @@
   "slots": {
    "a": "the Dallas Cowboys"
   },
+  "slots_zh": {
+   "a": "达拉斯牛仔队"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -16930,6 +18697,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the New England Patriots"
+  },
+  "slots_zh": {
+   "a": "新英格兰爱国者队"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -16955,6 +18725,9 @@
   "slots": {
    "a": "the All Blacks"
   },
+  "slots_zh": {
+   "a": "新西兰全黑队"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -16978,6 +18751,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Real Madrid"
+  },
+  "slots_zh": {
+   "a": "皇家马德里"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -17003,6 +18779,9 @@
   "slots": {
    "a": "FC Barcelona"
   },
+  "slots_zh": {
+   "a": "巴塞罗那"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -17026,6 +18805,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Manchester United"
+  },
+  "slots_zh": {
+   "a": "曼联"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -17051,6 +18833,9 @@
   "slots": {
    "a": "Manchester City"
   },
+  "slots_zh": {
+   "a": "曼城"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -17074,6 +18859,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Liverpool FC"
+  },
+  "slots_zh": {
+   "a": "利物浦"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -17099,6 +18887,9 @@
   "slots": {
    "a": "Bayern Munich"
   },
+  "slots_zh": {
+   "a": "拜仁慕尼黑"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -17122,6 +18913,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Paris Saint-Germain"
+  },
+  "slots_zh": {
+   "a": "巴黎圣日耳曼"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -17147,6 +18941,9 @@
   "slots": {
    "a": "Juventus"
   },
+  "slots_zh": {
+   "a": "尤文图斯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -17170,6 +18967,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the New York Yankees"
+  },
+  "slots_zh": {
+   "a": "纽约洋基队"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -17195,6 +18995,9 @@
   "slots": {
    "a": "the Los Angeles Lakers"
   },
+  "slots_zh": {
+   "a": "洛杉矶湖人队"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -17218,6 +19021,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the Golden State Warriors"
+  },
+  "slots_zh": {
+   "a": "金州勇士队"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -17243,6 +19049,9 @@
   "slots": {
    "a": "the Dallas Cowboys"
   },
+  "slots_zh": {
+   "a": "达拉斯牛仔队"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -17266,6 +19075,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the New England Patriots"
+  },
+  "slots_zh": {
+   "a": "新英格兰爱国者队"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -17291,6 +19103,9 @@
   "slots": {
    "a": "the All Blacks"
   },
+  "slots_zh": {
+   "a": "新西兰全黑队"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -17314,6 +19129,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Real Madrid"
+  },
+  "slots_zh": {
+   "a": "皇家马德里"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -17339,6 +19157,9 @@
   "slots": {
    "a": "FC Barcelona"
   },
+  "slots_zh": {
+   "a": "巴塞罗那"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -17362,6 +19183,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Manchester United"
+  },
+  "slots_zh": {
+   "a": "曼联"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -17387,6 +19211,9 @@
   "slots": {
    "a": "Manchester City"
   },
+  "slots_zh": {
+   "a": "曼城"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -17410,6 +19237,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Liverpool FC"
+  },
+  "slots_zh": {
+   "a": "利物浦"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -17435,6 +19265,9 @@
   "slots": {
    "a": "Bayern Munich"
   },
+  "slots_zh": {
+   "a": "拜仁慕尼黑"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -17458,6 +19291,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Paris Saint-Germain"
+  },
+  "slots_zh": {
+   "a": "巴黎圣日耳曼"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -17483,6 +19319,9 @@
   "slots": {
    "a": "Juventus"
   },
+  "slots_zh": {
+   "a": "尤文图斯"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -17506,6 +19345,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the New York Yankees"
+  },
+  "slots_zh": {
+   "a": "纽约洋基队"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -17531,6 +19373,9 @@
   "slots": {
    "a": "the Los Angeles Lakers"
   },
+  "slots_zh": {
+   "a": "洛杉矶湖人队"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -17554,6 +19399,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the Golden State Warriors"
+  },
+  "slots_zh": {
+   "a": "金州勇士队"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -17579,6 +19427,9 @@
   "slots": {
    "a": "the Dallas Cowboys"
   },
+  "slots_zh": {
+   "a": "达拉斯牛仔队"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -17602,6 +19453,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the New England Patriots"
+  },
+  "slots_zh": {
+   "a": "新英格兰爱国者队"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -17627,6 +19481,9 @@
   "slots": {
    "a": "the All Blacks"
   },
+  "slots_zh": {
+   "a": "新西兰全黑队"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -17650,6 +19507,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Sushi"
+  },
+  "slots_zh": {
+   "a": "寿司"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -17675,6 +19535,9 @@
   "slots": {
    "a": "Pizza"
   },
+  "slots_zh": {
+   "a": "披萨"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -17698,6 +19561,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Durian"
+  },
+  "slots_zh": {
+   "a": "榴莲"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -17723,6 +19589,9 @@
   "slots": {
    "a": "Pineapple pizza"
   },
+  "slots_zh": {
+   "a": "菠萝披萨"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -17746,6 +19615,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Avocado toast"
+  },
+  "slots_zh": {
+   "a": "牛油果吐司"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -17771,6 +19643,9 @@
   "slots": {
    "a": "Coffee"
   },
+  "slots_zh": {
+   "a": "咖啡"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -17794,6 +19669,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Bubble tea"
+  },
+  "slots_zh": {
+   "a": "珍珠奶茶"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -17819,6 +19697,9 @@
   "slots": {
    "a": "Kale"
   },
+  "slots_zh": {
+   "a": "羽衣甘蓝"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -17842,6 +19723,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Tofu"
+  },
+  "slots_zh": {
+   "a": "豆腐"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -17867,6 +19751,9 @@
   "slots": {
    "a": "Haggis"
   },
+  "slots_zh": {
+   "a": "哈吉斯（苏格兰羊杂）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -17890,6 +19777,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Vegemite"
+  },
+  "slots_zh": {
+   "a": "维吉麦酱"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -17915,6 +19805,9 @@
   "slots": {
    "a": "Natto"
   },
+  "slots_zh": {
+   "a": "纳豆"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -17938,6 +19831,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Cilantro"
+  },
+  "slots_zh": {
+   "a": "香菜"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -17963,6 +19859,9 @@
   "slots": {
    "a": "Oat milk"
   },
+  "slots_zh": {
+   "a": "燕麦奶"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -17986,6 +19885,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Energy drinks"
+  },
+  "slots_zh": {
+   "a": "能量饮料"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -18011,6 +19913,9 @@
   "slots": {
    "a": "Blue cheese"
   },
+  "slots_zh": {
+   "a": "蓝纹奶酪"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -18034,6 +19939,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Sushi"
+  },
+  "slots_zh": {
+   "a": "寿司"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -18059,6 +19967,9 @@
   "slots": {
    "a": "Pizza"
   },
+  "slots_zh": {
+   "a": "披萨"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -18082,6 +19993,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Durian"
+  },
+  "slots_zh": {
+   "a": "榴莲"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -18107,6 +20021,9 @@
   "slots": {
    "a": "Pineapple pizza"
   },
+  "slots_zh": {
+   "a": "菠萝披萨"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -18130,6 +20047,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Avocado toast"
+  },
+  "slots_zh": {
+   "a": "牛油果吐司"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -18155,6 +20075,9 @@
   "slots": {
    "a": "Coffee"
   },
+  "slots_zh": {
+   "a": "咖啡"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -18178,6 +20101,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Bubble tea"
+  },
+  "slots_zh": {
+   "a": "珍珠奶茶"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -18203,6 +20129,9 @@
   "slots": {
    "a": "Kale"
   },
+  "slots_zh": {
+   "a": "羽衣甘蓝"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -18226,6 +20155,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Tofu"
+  },
+  "slots_zh": {
+   "a": "豆腐"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -18251,6 +20183,9 @@
   "slots": {
    "a": "Haggis"
   },
+  "slots_zh": {
+   "a": "哈吉斯（苏格兰羊杂）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -18274,6 +20209,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Vegemite"
+  },
+  "slots_zh": {
+   "a": "维吉麦酱"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -18299,6 +20237,9 @@
   "slots": {
    "a": "Natto"
   },
+  "slots_zh": {
+   "a": "纳豆"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -18322,6 +20263,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Cilantro"
+  },
+  "slots_zh": {
+   "a": "香菜"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -18347,6 +20291,9 @@
   "slots": {
    "a": "Oat milk"
   },
+  "slots_zh": {
+   "a": "燕麦奶"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -18370,6 +20317,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Energy drinks"
+  },
+  "slots_zh": {
+   "a": "能量饮料"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -18395,6 +20345,9 @@
   "slots": {
    "a": "Blue cheese"
   },
+  "slots_zh": {
+   "a": "蓝纹奶酪"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -18418,6 +20371,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Sushi"
+  },
+  "slots_zh": {
+   "a": "寿司"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -18443,6 +20399,9 @@
   "slots": {
    "a": "Pizza"
   },
+  "slots_zh": {
+   "a": "披萨"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -18466,6 +20425,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Durian"
+  },
+  "slots_zh": {
+   "a": "榴莲"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -18491,6 +20453,9 @@
   "slots": {
    "a": "Pineapple pizza"
   },
+  "slots_zh": {
+   "a": "菠萝披萨"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -18514,6 +20479,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Avocado toast"
+  },
+  "slots_zh": {
+   "a": "牛油果吐司"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -18539,6 +20507,9 @@
   "slots": {
    "a": "Coffee"
   },
+  "slots_zh": {
+   "a": "咖啡"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -18562,6 +20533,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Bubble tea"
+  },
+  "slots_zh": {
+   "a": "珍珠奶茶"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -18587,6 +20561,9 @@
   "slots": {
    "a": "Kale"
   },
+  "slots_zh": {
+   "a": "羽衣甘蓝"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -18610,6 +20587,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Tofu"
+  },
+  "slots_zh": {
+   "a": "豆腐"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -18635,6 +20615,9 @@
   "slots": {
    "a": "Haggis"
   },
+  "slots_zh": {
+   "a": "哈吉斯（苏格兰羊杂）"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -18658,6 +20641,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Vegemite"
+  },
+  "slots_zh": {
+   "a": "维吉麦酱"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -18683,6 +20669,9 @@
   "slots": {
    "a": "Natto"
   },
+  "slots_zh": {
+   "a": "纳豆"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -18706,6 +20695,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Cilantro"
+  },
+  "slots_zh": {
+   "a": "香菜"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -18731,6 +20723,9 @@
   "slots": {
    "a": "Oat milk"
   },
+  "slots_zh": {
+   "a": "燕麦奶"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -18755,6 +20750,9 @@
   "slots": {
    "a": "Energy drinks"
   },
+  "slots_zh": {
+   "a": "能量饮料"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -18778,6 +20776,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Blue cheese"
+  },
+  "slots_zh": {
+   "a": "蓝纹奶酪"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -19183,6 +21184,9 @@
   "slots": {
    "a": "French food"
   },
+  "slots_zh": {
+   "a": "法国菜"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -19206,6 +21210,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Italian food"
+  },
+  "slots_zh": {
+   "a": "意大利菜"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -19231,6 +21238,9 @@
   "slots": {
    "a": "Chinese food"
   },
+  "slots_zh": {
+   "a": "中国菜"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -19254,6 +21264,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Japanese food"
+  },
+  "slots_zh": {
+   "a": "日本菜"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -19279,6 +21292,9 @@
   "slots": {
    "a": "Indian food"
   },
+  "slots_zh": {
+   "a": "印度菜"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -19302,6 +21318,9 @@
   "needs_zh": true,
   "slots": {
    "a": "British food"
+  },
+  "slots_zh": {
+   "a": "英国菜"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -19327,6 +21346,9 @@
   "slots": {
    "a": "American food"
   },
+  "slots_zh": {
+   "a": "美国菜"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -19350,6 +21372,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Mexican food"
+  },
+  "slots_zh": {
+   "a": "墨西哥菜"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -19375,6 +21400,9 @@
   "slots": {
    "a": "Korean food"
   },
+  "slots_zh": {
+   "a": "韩国菜"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -19398,6 +21426,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Thai food"
+  },
+  "slots_zh": {
+   "a": "泰国菜"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -19423,6 +21454,9 @@
   "slots": {
    "a": "the Bible"
   },
+  "slots_zh": {
+   "a": "《圣经》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -19446,6 +21480,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the Quran"
+  },
+  "slots_zh": {
+   "a": "《古兰经》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -19471,6 +21508,9 @@
   "slots": {
    "a": "Das Kapital"
   },
+  "slots_zh": {
+   "a": "《资本论》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -19494,6 +21534,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Atlas Shrugged"
+  },
+  "slots_zh": {
+   "a": "《阿特拉斯耸耸肩》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -19519,6 +21562,9 @@
   "slots": {
    "a": "the Harry Potter books"
   },
+  "slots_zh": {
+   "a": "《哈利·波特》系列小说"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -19542,6 +21588,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Lord of the Rings"
+  },
+  "slots_zh": {
+   "a": "《魔戒》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -19567,6 +21616,9 @@
   "slots": {
    "a": "Nineteen Eighty-Four"
   },
+  "slots_zh": {
+   "a": "《一九八四》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -19590,6 +21642,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Art of War"
+  },
+  "slots_zh": {
+   "a": "《孙子兵法》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -19615,6 +21670,9 @@
   "slots": {
    "a": "The Catcher in the Rye"
   },
+  "slots_zh": {
+   "a": "《麦田里的守望者》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -19638,6 +21696,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Sapiens"
+  },
+  "slots_zh": {
+   "a": "《人类简史》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -19663,6 +21724,9 @@
   "slots": {
    "a": "Rich Dad Poor Dad"
   },
+  "slots_zh": {
+   "a": "《富爸爸穷爸爸》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -19686,6 +21750,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Quotations from Chairman Mao"
+  },
+  "slots_zh": {
+   "a": "《毛主席语录》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -19711,6 +21778,9 @@
   "slots": {
    "a": "Infinite Jest"
   },
+  "slots_zh": {
+   "a": "《无尽的玩笑》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -19734,6 +21804,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Three-Body Problem"
+  },
+  "slots_zh": {
+   "a": "《三体》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -19759,6 +21832,9 @@
   "slots": {
    "a": "the Bible"
   },
+  "slots_zh": {
+   "a": "《圣经》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -19782,6 +21858,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the Quran"
+  },
+  "slots_zh": {
+   "a": "《古兰经》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -19807,6 +21886,9 @@
   "slots": {
    "a": "Das Kapital"
   },
+  "slots_zh": {
+   "a": "《资本论》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -19830,6 +21912,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Atlas Shrugged"
+  },
+  "slots_zh": {
+   "a": "《阿特拉斯耸耸肩》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -19855,6 +21940,9 @@
   "slots": {
    "a": "the Harry Potter books"
   },
+  "slots_zh": {
+   "a": "《哈利·波特》系列小说"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -19878,6 +21966,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Lord of the Rings"
+  },
+  "slots_zh": {
+   "a": "《魔戒》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -19903,6 +21994,9 @@
   "slots": {
    "a": "Nineteen Eighty-Four"
   },
+  "slots_zh": {
+   "a": "《一九八四》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -19926,6 +22020,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Art of War"
+  },
+  "slots_zh": {
+   "a": "《孙子兵法》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -19951,6 +22048,9 @@
   "slots": {
    "a": "The Catcher in the Rye"
   },
+  "slots_zh": {
+   "a": "《麦田里的守望者》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -19974,6 +22074,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Sapiens"
+  },
+  "slots_zh": {
+   "a": "《人类简史》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -19999,6 +22102,9 @@
   "slots": {
    "a": "Rich Dad Poor Dad"
   },
+  "slots_zh": {
+   "a": "《富爸爸穷爸爸》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -20022,6 +22128,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Quotations from Chairman Mao"
+  },
+  "slots_zh": {
+   "a": "《毛主席语录》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -20047,6 +22156,9 @@
   "slots": {
    "a": "Infinite Jest"
   },
+  "slots_zh": {
+   "a": "《无尽的玩笑》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -20070,6 +22182,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Three-Body Problem"
+  },
+  "slots_zh": {
+   "a": "《三体》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -20095,6 +22210,9 @@
   "slots": {
    "a": "the Bible"
   },
+  "slots_zh": {
+   "a": "《圣经》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -20118,6 +22236,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the Quran"
+  },
+  "slots_zh": {
+   "a": "《古兰经》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -20143,6 +22264,9 @@
   "slots": {
    "a": "Das Kapital"
   },
+  "slots_zh": {
+   "a": "《资本论》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -20166,6 +22290,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Atlas Shrugged"
+  },
+  "slots_zh": {
+   "a": "《阿特拉斯耸耸肩》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -20191,6 +22318,9 @@
   "slots": {
    "a": "the Harry Potter books"
   },
+  "slots_zh": {
+   "a": "《哈利·波特》系列小说"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -20214,6 +22344,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Lord of the Rings"
+  },
+  "slots_zh": {
+   "a": "《魔戒》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -20239,6 +22372,9 @@
   "slots": {
    "a": "Nineteen Eighty-Four"
   },
+  "slots_zh": {
+   "a": "《一九八四》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -20262,6 +22398,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Art of War"
+  },
+  "slots_zh": {
+   "a": "《孙子兵法》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -20287,6 +22426,9 @@
   "slots": {
    "a": "The Catcher in the Rye"
   },
+  "slots_zh": {
+   "a": "《麦田里的守望者》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -20310,6 +22452,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Sapiens"
+  },
+  "slots_zh": {
+   "a": "《人类简史》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -20335,6 +22480,9 @@
   "slots": {
    "a": "Rich Dad Poor Dad"
   },
+  "slots_zh": {
+   "a": "《富爸爸穷爸爸》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -20358,6 +22506,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Quotations from Chairman Mao"
+  },
+  "slots_zh": {
+   "a": "《毛主席语录》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -20383,6 +22534,9 @@
   "slots": {
    "a": "Infinite Jest"
   },
+  "slots_zh": {
+   "a": "《无尽的玩笑》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -20406,6 +22560,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Three-Body Problem"
+  },
+  "slots_zh": {
+   "a": "《三体》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -20431,6 +22588,9 @@
   "slots": {
    "a": "the Bible"
   },
+  "slots_zh": {
+   "a": "《圣经》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -20454,6 +22614,9 @@
   "needs_zh": true,
   "slots": {
    "a": "the Quran"
+  },
+  "slots_zh": {
+   "a": "《古兰经》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -20479,6 +22642,9 @@
   "slots": {
    "a": "Das Kapital"
   },
+  "slots_zh": {
+   "a": "《资本论》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -20502,6 +22668,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Atlas Shrugged"
+  },
+  "slots_zh": {
+   "a": "《阿特拉斯耸耸肩》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -20527,6 +22696,9 @@
   "slots": {
    "a": "the Harry Potter books"
   },
+  "slots_zh": {
+   "a": "《哈利·波特》系列小说"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -20550,6 +22722,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Lord of the Rings"
+  },
+  "slots_zh": {
+   "a": "《魔戒》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -20575,6 +22750,9 @@
   "slots": {
    "a": "Nineteen Eighty-Four"
   },
+  "slots_zh": {
+   "a": "《一九八四》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -20598,6 +22776,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Art of War"
+  },
+  "slots_zh": {
+   "a": "《孙子兵法》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -20623,6 +22804,9 @@
   "slots": {
    "a": "The Catcher in the Rye"
   },
+  "slots_zh": {
+   "a": "《麦田里的守望者》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -20646,6 +22830,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Sapiens"
+  },
+  "slots_zh": {
+   "a": "《人类简史》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -20671,6 +22858,9 @@
   "slots": {
    "a": "Rich Dad Poor Dad"
   },
+  "slots_zh": {
+   "a": "《富爸爸穷爸爸》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -20694,6 +22884,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Quotations from Chairman Mao"
+  },
+  "slots_zh": {
+   "a": "《毛主席语录》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -20719,6 +22912,9 @@
   "slots": {
    "a": "Infinite Jest"
   },
+  "slots_zh": {
+   "a": "《无尽的玩笑》"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -20742,6 +22938,9 @@
   "needs_zh": true,
   "slots": {
    "a": "The Three-Body Problem"
+  },
+  "slots_zh": {
+   "a": "《三体》"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -20773,6 +22972,9 @@
   "slots": {
    "a": "Esports"
   },
+  "slots_zh": {
+   "a": "电子竞技"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -20802,6 +23004,9 @@
   ],
   "slots": {
    "a": "Chess"
+  },
+  "slots_zh": {
+   "a": "国际象棋"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -20833,6 +23038,9 @@
   "slots": {
    "a": "Golf"
   },
+  "slots_zh": {
+   "a": "高尔夫"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -20862,6 +23070,9 @@
   ],
   "slots": {
    "a": "Formula 1"
+  },
+  "slots_zh": {
+   "a": "一级方程式赛车"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -20893,6 +23104,9 @@
   "slots": {
    "a": "Cheerleading"
   },
+  "slots_zh": {
+   "a": "啦啦队"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -20922,6 +23136,9 @@
   ],
   "slots": {
    "a": "Poker"
+  },
+  "slots_zh": {
+   "a": "扑克"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -20953,6 +23170,9 @@
   "slots": {
    "a": "Darts"
   },
+  "slots_zh": {
+   "a": "飞镖"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -20982,6 +23202,9 @@
   ],
   "slots": {
    "a": "Bodybuilding"
+  },
+  "slots_zh": {
+   "a": "健美"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -21013,6 +23236,9 @@
   "slots": {
    "a": "Figure skating"
   },
+  "slots_zh": {
+   "a": "花样滑冰"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -21042,6 +23268,9 @@
   ],
   "slots": {
    "a": "Breakdancing"
+  },
+  "slots_zh": {
+   "a": "霹雳舞"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -21073,6 +23302,9 @@
   "slots": {
    "a": "Equestrian"
   },
+  "slots_zh": {
+   "a": "马术"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -21103,6 +23335,9 @@
   "slots": {
    "a": "Competitive eating"
   },
+  "slots_zh": {
+   "a": "大胃王比赛"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -21126,6 +23361,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Esports"
+  },
+  "slots_zh": {
+   "a": "电子竞技"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -21151,6 +23389,9 @@
   "slots": {
    "a": "Chess"
   },
+  "slots_zh": {
+   "a": "国际象棋"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -21174,6 +23415,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Golf"
+  },
+  "slots_zh": {
+   "a": "高尔夫"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -21199,6 +23443,9 @@
   "slots": {
    "a": "Formula 1"
   },
+  "slots_zh": {
+   "a": "一级方程式赛车"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -21222,6 +23469,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Cheerleading"
+  },
+  "slots_zh": {
+   "a": "啦啦队"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -21247,6 +23497,9 @@
   "slots": {
    "a": "Poker"
   },
+  "slots_zh": {
+   "a": "扑克"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -21270,6 +23523,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Darts"
+  },
+  "slots_zh": {
+   "a": "飞镖"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -21295,6 +23551,9 @@
   "slots": {
    "a": "Bodybuilding"
   },
+  "slots_zh": {
+   "a": "健美"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -21318,6 +23577,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Figure skating"
+  },
+  "slots_zh": {
+   "a": "花样滑冰"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -21343,6 +23605,9 @@
   "slots": {
    "a": "Breakdancing"
   },
+  "slots_zh": {
+   "a": "霹雳舞"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -21366,6 +23631,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Equestrian"
+  },
+  "slots_zh": {
+   "a": "马术"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -21391,6 +23659,9 @@
   "slots": {
    "a": "Competitive eating"
   },
+  "slots_zh": {
+   "a": "大胃王比赛"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -21414,6 +23685,9 @@
   "needs_zh": true,
   "slots": {
    "a": "AI-generated imagery"
+  },
+  "slots_zh": {
+   "a": "AI 生成的图像"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -21439,6 +23713,9 @@
   "slots": {
    "a": "NFT artwork"
   },
+  "slots_zh": {
+   "a": "NFT 艺术品"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -21462,6 +23739,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Graffiti"
+  },
+  "slots_zh": {
+   "a": "涂鸦"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -21487,6 +23767,9 @@
   "slots": {
    "a": "Video game design"
   },
+  "slots_zh": {
+   "a": "电子游戏设计"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -21510,6 +23793,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Fashion design"
+  },
+  "slots_zh": {
+   "a": "时装设计"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -21535,6 +23821,9 @@
   "slots": {
    "a": "Meme-making"
   },
+  "slots_zh": {
+   "a": "做表情包"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -21558,6 +23847,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Photography"
+  },
+  "slots_zh": {
+   "a": "摄影"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -21583,6 +23875,9 @@
   "slots": {
    "a": "A banana taped to a wall"
   },
+  "slots_zh": {
+   "a": "用胶带贴在墙上的香蕉"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -21606,6 +23901,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Tattooing"
+  },
+  "slots_zh": {
+   "a": "纹身"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -21631,6 +23929,9 @@
   "slots": {
    "a": "Rap music"
   },
+  "slots_zh": {
+   "a": "说唱音乐"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -21655,6 +23956,9 @@
   "slots": {
    "a": "Fan fiction"
   },
+  "slots_zh": {
+   "a": "同人小说"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -21678,6 +23982,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Fine cooking"
+  },
+  "slots_zh": {
+   "a": "高级烹饪"
   },
   "pair_strict": true,
   "visibility": "public"

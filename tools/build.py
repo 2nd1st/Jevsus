@@ -47,7 +47,7 @@ def statement(tpl, entity, a, b=None, a_zh=None, b_zh=None):
     if tpl.get("perspectives"):      # the parties to the sentence, generated from its slots
         it["perspectives"] = [dict(id=p["id"], answer_as=fill(p["answer_as"], a, b)) for p in tpl["perspectives"]]
     it["slots"] = {"a": a, **({"b": b} if b else {})}
-    if "phrasings_zh" in it:
+    if a_zh and (b is None or b_zh):      # the Chinese names are display names; a sentence is only tested in Chinese when it has wordings_zh
         it["slots_zh"] = {"a": a_zh, **({"b": b_zh} if b_zh else {})}
     it.update(pair_strict=True, visibility="public")
     return it

@@ -26,6 +26,9 @@
   "slots": {
    "a": "Economics"
   },
+  "slots_zh": {
+   "a": "经济学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -55,6 +58,9 @@
   ],
   "slots": {
    "a": "Psychology"
+  },
+  "slots_zh": {
+   "a": "心理学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -86,6 +92,9 @@
   "slots": {
    "a": "Sociology"
   },
+  "slots_zh": {
+   "a": "社会学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -115,6 +124,9 @@
   ],
   "slots": {
    "a": "Astrology"
+  },
+  "slots_zh": {
+   "a": "占星术"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -146,6 +158,9 @@
   "slots": {
    "a": "Nutrition science"
   },
+  "slots_zh": {
+   "a": "营养学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -175,6 +190,9 @@
   ],
   "slots": {
    "a": "Climate science"
+  },
+  "slots_zh": {
+   "a": "气候科学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -206,6 +224,9 @@
   "slots": {
    "a": "Political science"
   },
+  "slots_zh": {
+   "a": "政治学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -235,6 +256,9 @@
   ],
   "slots": {
    "a": "Psychoanalysis"
+  },
+  "slots_zh": {
+   "a": "精神分析"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -266,6 +290,9 @@
   "slots": {
    "a": "String theory"
   },
+  "slots_zh": {
+   "a": "弦理论"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -295,6 +322,9 @@
   ],
   "slots": {
    "a": "Machine learning"
+  },
+  "slots_zh": {
+   "a": "机器学习"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -326,6 +356,9 @@
   "slots": {
    "a": "Evolutionary psychology"
   },
+  "slots_zh": {
+   "a": "进化心理学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -355,6 +388,9 @@
   ],
   "slots": {
    "a": "Gender studies"
+  },
+  "slots_zh": {
+   "a": "性别研究"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -386,6 +422,9 @@
   "slots": {
    "a": "Homeopathy"
   },
+  "slots_zh": {
+   "a": "顺势疗法"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -416,6 +455,9 @@
   "slots": {
    "a": "Chiropractic"
   },
+  "slots_zh": {
+   "a": "整脊疗法"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -439,6 +481,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Economics"
+  },
+  "slots_zh": {
+   "a": "经济学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -464,6 +509,9 @@
   "slots": {
    "a": "Psychology"
   },
+  "slots_zh": {
+   "a": "心理学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -487,6 +535,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Sociology"
+  },
+  "slots_zh": {
+   "a": "社会学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -512,6 +563,9 @@
   "slots": {
    "a": "Astrology"
   },
+  "slots_zh": {
+   "a": "占星术"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -535,6 +589,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Nutrition science"
+  },
+  "slots_zh": {
+   "a": "营养学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -560,6 +617,9 @@
   "slots": {
    "a": "Climate science"
   },
+  "slots_zh": {
+   "a": "气候科学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -583,6 +643,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Political science"
+  },
+  "slots_zh": {
+   "a": "政治学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -608,6 +671,9 @@
   "slots": {
    "a": "Psychoanalysis"
   },
+  "slots_zh": {
+   "a": "精神分析"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -631,6 +697,9 @@
   "needs_zh": true,
   "slots": {
    "a": "String theory"
+  },
+  "slots_zh": {
+   "a": "弦理论"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -656,6 +725,9 @@
   "slots": {
    "a": "Machine learning"
   },
+  "slots_zh": {
+   "a": "机器学习"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -679,6 +751,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Evolutionary psychology"
+  },
+  "slots_zh": {
+   "a": "进化心理学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -704,6 +779,9 @@
   "slots": {
    "a": "Gender studies"
   },
+  "slots_zh": {
+   "a": "性别研究"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -727,6 +805,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Homeopathy"
+  },
+  "slots_zh": {
+   "a": "顺势疗法"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -752,6 +833,9 @@
   "slots": {
    "a": "Chiropractic"
   },
+  "slots_zh": {
+   "a": "整脊疗法"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -775,6 +859,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Economics"
+  },
+  "slots_zh": {
+   "a": "经济学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -800,6 +887,9 @@
   "slots": {
    "a": "Psychology"
   },
+  "slots_zh": {
+   "a": "心理学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -823,6 +913,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Sociology"
+  },
+  "slots_zh": {
+   "a": "社会学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -848,6 +941,9 @@
   "slots": {
    "a": "Astrology"
   },
+  "slots_zh": {
+   "a": "占星术"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -871,6 +967,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Nutrition science"
+  },
+  "slots_zh": {
+   "a": "营养学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -896,6 +995,9 @@
   "slots": {
    "a": "Climate science"
   },
+  "slots_zh": {
+   "a": "气候科学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -919,6 +1021,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Political science"
+  },
+  "slots_zh": {
+   "a": "政治学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -944,6 +1049,9 @@
   "slots": {
    "a": "Psychoanalysis"
   },
+  "slots_zh": {
+   "a": "精神分析"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -967,6 +1075,9 @@
   "needs_zh": true,
   "slots": {
    "a": "String theory"
+  },
+  "slots_zh": {
+   "a": "弦理论"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -992,6 +1103,9 @@
   "slots": {
    "a": "Machine learning"
   },
+  "slots_zh": {
+   "a": "机器学习"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1015,6 +1129,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Evolutionary psychology"
+  },
+  "slots_zh": {
+   "a": "进化心理学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1040,6 +1157,9 @@
   "slots": {
    "a": "Gender studies"
   },
+  "slots_zh": {
+   "a": "性别研究"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1063,6 +1183,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Homeopathy"
+  },
+  "slots_zh": {
+   "a": "顺势疗法"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1088,6 +1211,9 @@
   "slots": {
    "a": "Chiropractic"
   },
+  "slots_zh": {
+   "a": "整脊疗法"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1111,6 +1237,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Economics"
+  },
+  "slots_zh": {
+   "a": "经济学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1136,6 +1265,9 @@
   "slots": {
    "a": "Psychology"
   },
+  "slots_zh": {
+   "a": "心理学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1159,6 +1291,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Sociology"
+  },
+  "slots_zh": {
+   "a": "社会学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1184,6 +1319,9 @@
   "slots": {
    "a": "Astrology"
   },
+  "slots_zh": {
+   "a": "占星术"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1207,6 +1345,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Nutrition science"
+  },
+  "slots_zh": {
+   "a": "营养学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1232,6 +1373,9 @@
   "slots": {
    "a": "Climate science"
   },
+  "slots_zh": {
+   "a": "气候科学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1255,6 +1399,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Political science"
+  },
+  "slots_zh": {
+   "a": "政治学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1280,6 +1427,9 @@
   "slots": {
    "a": "Psychoanalysis"
   },
+  "slots_zh": {
+   "a": "精神分析"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1303,6 +1453,9 @@
   "needs_zh": true,
   "slots": {
    "a": "String theory"
+  },
+  "slots_zh": {
+   "a": "弦理论"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1328,6 +1481,9 @@
   "slots": {
    "a": "Machine learning"
   },
+  "slots_zh": {
+   "a": "机器学习"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1351,6 +1507,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Evolutionary psychology"
+  },
+  "slots_zh": {
+   "a": "进化心理学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1376,6 +1535,9 @@
   "slots": {
    "a": "Gender studies"
   },
+  "slots_zh": {
+   "a": "性别研究"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1399,6 +1561,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Homeopathy"
+  },
+  "slots_zh": {
+   "a": "顺势疗法"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1424,6 +1589,9 @@
   "slots": {
    "a": "Chiropractic"
   },
+  "slots_zh": {
+   "a": "整脊疗法"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1447,6 +1615,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Economics"
+  },
+  "slots_zh": {
+   "a": "经济学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1472,6 +1643,9 @@
   "slots": {
    "a": "Psychology"
   },
+  "slots_zh": {
+   "a": "心理学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1495,6 +1669,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Sociology"
+  },
+  "slots_zh": {
+   "a": "社会学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1520,6 +1697,9 @@
   "slots": {
    "a": "Astrology"
   },
+  "slots_zh": {
+   "a": "占星术"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1543,6 +1723,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Nutrition science"
+  },
+  "slots_zh": {
+   "a": "营养学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1568,6 +1751,9 @@
   "slots": {
    "a": "Climate science"
   },
+  "slots_zh": {
+   "a": "气候科学"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1591,6 +1777,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Political science"
+  },
+  "slots_zh": {
+   "a": "政治学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1616,6 +1805,9 @@
   "slots": {
    "a": "Psychoanalysis"
   },
+  "slots_zh": {
+   "a": "精神分析"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1639,6 +1831,9 @@
   "needs_zh": true,
   "slots": {
    "a": "String theory"
+  },
+  "slots_zh": {
+   "a": "弦理论"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1664,6 +1859,9 @@
   "slots": {
    "a": "Machine learning"
   },
+  "slots_zh": {
+   "a": "机器学习"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1687,6 +1885,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Evolutionary psychology"
+  },
+  "slots_zh": {
+   "a": "进化心理学"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -1712,6 +1913,9 @@
   "slots": {
    "a": "Gender studies"
   },
+  "slots_zh": {
+   "a": "性别研究"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1736,6 +1940,9 @@
   "slots": {
    "a": "Homeopathy"
   },
+  "slots_zh": {
+   "a": "顺势疗法"
+  },
   "pair_strict": true,
   "visibility": "public"
  },
@@ -1759,6 +1966,9 @@
   "needs_zh": true,
   "slots": {
    "a": "Chiropractic"
+  },
+  "slots_zh": {
+   "a": "整脊疗法"
   },
   "pair_strict": true,
   "visibility": "public"

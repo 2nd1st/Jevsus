@@ -1,14 +1,14 @@
 [
- {"id": "esports", "name": "Esports"},
- {"id": "chess", "name": "Chess"},
- {"id": "golf", "name": "Golf"},
- {"id": "f1", "name": "Formula 1"},
- {"id": "cheer", "name": "Cheerleading"},
- {"id": "poker", "name": "Poker"},
- {"id": "darts", "name": "Darts"},
- {"id": "bodybuilding", "name": "Bodybuilding"},
- {"id": "skating", "name": "Figure skating"},
- {"id": "breaking", "name": "Breakdancing"},
- {"id": "equestrian", "name": "Equestrian"},
- {"id": "eating", "name": "Competitive eating"}
+ {"id": "esports", "name": "Esports", "name_zh": "电子竞技"},
+ {"id": "chess", "name": "Chess", "name_zh": "国际象棋"},
+ {"id": "golf", "name": "Golf", "name_zh": "高尔夫"},
+ {"id": "f1", "name": "Formula 1", "name_zh": "一级方程式赛车"},
+ {"id": "cheer", "name": "Cheerleading", "name_zh": "啦啦队"},
+ {"id": "poker", "name": "Poker", "name_zh": "扑克"},
+ {"id": "darts", "name": "Darts", "name_zh": "飞镖"},
+ {"id": "bodybuilding", "name": "Bodybuilding", "name_zh": "健美"},
+ {"id": "skating", "name": "Figure skating", "name_zh": "花样滑冰"},
+ {"id": "breaking", "name": "Breakdancing", "name_zh": "霹雳舞"},
+ {"id": "equestrian", "name": "Equestrian", "name_zh": "马术"},
+ {"id": "eating", "name": "Competitive eating", "name_zh": "大胃王比赛"}
 ]

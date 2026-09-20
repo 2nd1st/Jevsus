@@ -1,6 +1,6 @@
 [
- {"id": "boomers", "name": "Baby boomers"},
- {"id": "genx", "name": "Generation X"},
- {"id": "millennials", "name": "Millennials"},
- {"id": "genz", "name": "Generation Z"}
+ {"id": "boomers", "name": "Baby boomers", "name_zh": "婴儿潮一代"},
+ {"id": "genx", "name": "Generation X", "name_zh": "X 世代"},
+ {"id": "millennials", "name": "Millennials", "name_zh": "千禧一代"},
+ {"id": "genz", "name": "Generation Z", "name_zh": "Z 世代"}
 ]

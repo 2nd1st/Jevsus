@@ -53,18 +53,18 @@
   "slots": ["a", "b"],
   "entity_kind": {"a": "country_or_org", "b": "war"},
   "subjects": [
-   {"id": "russia_ukraine", "a": "Russia", "b": "the 2022 war in Ukraine"},
-   {"id": "usa_iraq", "a": "the United States", "b": "the 2003 Iraq War"},
-   {"id": "israel_gaza", "a": "Israel", "b": "the 2023 Gaza war"},
-   {"id": "hamas_gaza", "a": "Hamas", "b": "the 2023 Gaza war"},
-   {"id": "nato_kosovo", "a": "NATO", "b": "the 1999 Kosovo war"},
-   {"id": "japan_china", "a": "Japan", "b": "the 1937 Sino-Japanese War"},
-   {"id": "usa_vietnam", "a": "the United States", "b": "the Vietnam War"},
-   {"id": "china_india", "a": "China", "b": "the 1962 Sino-Indian War"},
-   {"id": "nk_korea", "a": "North Korea", "b": "the Korean War"},
-   {"id": "azerbaijan", "a": "Azerbaijan", "b": "the 2020 Nagorno-Karabakh war"},
-   {"id": "saudi_yemen", "a": "Saudi Arabia", "b": "the war in Yemen"},
-   {"id": "argentina", "a": "Argentina", "b": "the Falklands War"}
+   {"id": "russia_ukraine", "a": "Russia", "b": "the 2022 war in Ukraine", "a_zh": "俄罗斯", "b_zh": "2022 年乌克兰战争"},
+   {"id": "usa_iraq", "a": "the United States", "b": "the 2003 Iraq War", "a_zh": "美国", "b_zh": "2003 年伊拉克战争"},
+   {"id": "israel_gaza", "a": "Israel", "b": "the 2023 Gaza war", "a_zh": "以色列", "b_zh": "2023 年加沙战争"},
+   {"id": "hamas_gaza", "a": "Hamas", "b": "the 2023 Gaza war", "a_zh": "哈马斯", "b_zh": "2023 年加沙战争"},
+   {"id": "nato_kosovo", "a": "NATO", "b": "the 1999 Kosovo war", "a_zh": "北约", "b_zh": "1999 年科索沃战争"},
+   {"id": "japan_china", "a": "Japan", "b": "the 1937 Sino-Japanese War", "a_zh": "日本", "b_zh": "1937 年中日战争"},
+   {"id": "usa_vietnam", "a": "the United States", "b": "the Vietnam War", "a_zh": "美国", "b_zh": "越南战争"},
+   {"id": "china_india", "a": "China", "b": "the 1962 Sino-Indian War", "a_zh": "中国", "b_zh": "1962 年中印战争"},
+   {"id": "nk_korea", "a": "North Korea", "b": "the Korean War", "a_zh": "朝鲜", "b_zh": "朝鲜战争"},
+   {"id": "azerbaijan", "a": "Azerbaijan", "b": "the 2020 Nagorno-Karabakh war", "a_zh": "阿塞拜疆", "b_zh": "2020 年纳卡战争"},
+   {"id": "saudi_yemen", "a": "Saudi Arabia", "b": "the war in Yemen", "a_zh": "沙特阿拉伯", "b_zh": "也门战争"},
+   {"id": "argentina", "a": "Argentina", "b": "the Falklands War", "a_zh": "阿根廷", "b_zh": "马岛战争"}
   ]
  },
  {
@@ -106,14 +106,14 @@
   "slots": ["a"],
   "entity_kind": {"a": "description"},
   "subjects": [
-   {"id": "israel", "a": "Israel's rule over Palestinians in the West Bank"},
-   {"id": "safrica", "a": "South Africa's racial system before 1994"},
-   {"id": "jimcrow", "a": "Segregation in the American South before 1965"},
-   {"id": "xinjiang", "a": "China's rule over Uyghurs in Xinjiang"},
-   {"id": "caste", "a": "India's caste system"},
-   {"id": "saudi_women", "a": "Saudi Arabia's treatment of women"},
-   {"id": "malaysia", "a": "Malaysia's bumiputera policy"},
-   {"id": "gulf_migrants", "a": "The Gulf states' treatment of migrant workers"}
+   {"id": "israel", "a": "Israel's rule over Palestinians in the West Bank", "a_zh": "以色列对约旦河西岸巴勒斯坦人的统治"},
+   {"id": "safrica", "a": "South Africa's racial system before 1994", "a_zh": "1994 年以前南非的种族制度"},
+   {"id": "jimcrow", "a": "Segregation in the American South before 1965", "a_zh": "1965 年以前美国南方的种族隔离"},
+   {"id": "xinjiang", "a": "China's rule over Uyghurs in Xinjiang", "a_zh": "中国对新疆维吾尔人的统治"},
+   {"id": "caste", "a": "India's caste system", "a_zh": "印度的种姓制度"},
+   {"id": "saudi_women", "a": "Saudi Arabia's treatment of women", "a_zh": "沙特阿拉伯对待女性的方式"},
+   {"id": "malaysia", "a": "Malaysia's bumiputera policy", "a_zh": "马来西亚的土著优先政策"},
+   {"id": "gulf_migrants", "a": "The Gulf states' treatment of migrant workers", "a_zh": "海湾国家对待外来劳工的方式"}
   ]
  },
  {
@@ -154,20 +154,20 @@
   "slots": ["a"],
   "entity_kind": {"a": "description"},
   "subjects": [
-   {"id": "sugar", "a": "eating sugar"},
-   {"id": "coffee", "a": "drinking coffee"},
-   {"id": "alcohol", "a": "drinking alcohol in moderation"},
-   {"id": "redmeat", "a": "eating red meat"},
-   {"id": "gluten", "a": "eating gluten"},
-   {"id": "dairy", "a": "consuming dairy"},
-   {"id": "sweeteners", "a": "using artificial sweeteners"},
-   {"id": "vaping", "a": "vaping"},
-   {"id": "cannabis", "a": "using cannabis"},
-   {"id": "upf", "a": "eating ultra-processed food"},
-   {"id": "fluoride", "a": "drinking fluoridated tap water"},
-   {"id": "microwave", "a": "eating microwaved food"},
-   {"id": "eggs", "a": "eating eggs"},
-   {"id": "veganfood", "a": "following a fully vegan diet"}
+   {"id": "sugar", "a": "eating sugar", "a_zh": "吃糖"},
+   {"id": "coffee", "a": "drinking coffee", "a_zh": "喝咖啡"},
+   {"id": "alcohol", "a": "drinking alcohol in moderation", "a_zh": "适量饮酒"},
+   {"id": "redmeat", "a": "eating red meat", "a_zh": "吃红肉"},
+   {"id": "gluten", "a": "eating gluten", "a_zh": "吃麸质"},
+   {"id": "dairy", "a": "consuming dairy", "a_zh": "吃乳制品"},
+   {"id": "sweeteners", "a": "using artificial sweeteners", "a_zh": "用人工甜味剂"},
+   {"id": "vaping", "a": "vaping", "a_zh": "抽电子烟"},
+   {"id": "cannabis", "a": "using cannabis", "a_zh": "吸大麻"},
+   {"id": "upf", "a": "eating ultra-processed food", "a_zh": "吃超加工食品"},
+   {"id": "fluoride", "a": "drinking fluoridated tap water", "a_zh": "喝加氟自来水"},
+   {"id": "microwave", "a": "eating microwaved food", "a_zh": "吃微波炉加热的食物"},
+   {"id": "eggs", "a": "eating eggs", "a_zh": "吃鸡蛋"},
+   {"id": "veganfood", "a": "following a fully vegan diet", "a_zh": "完全纯素饮食"}
   ]
  },
  {
@@ -180,18 +180,18 @@
   "slots": ["a"],
   "entity_kind": {"a": "clause"},
   "subjects": [
-   {"id": "mars", "a": "humans will land on Mars"},
-   {"id": "fusion", "a": "a fusion power plant will supply electricity to a public grid"},
-   {"id": "agi", "a": "artificial general intelligence will be achieved"},
-   {"id": "taiwan", "a": "China will invade Taiwan"},
-   {"id": "uspresident", "a": "the United States will elect a female president"},
-   {"id": "eu", "a": "the European Union will break up"},
-   {"id": "russia", "a": "Russia will break apart into several states"},
-   {"id": "nuke", "a": "a nuclear weapon will be used in war"},
-   {"id": "btc", "a": "Bitcoin will trade above one million dollars"},
-   {"id": "selfdriving", "a": "most new cars sold in the United States will be fully self-driving"},
-   {"id": "cancer", "a": "a cure for most cancers will exist"},
-   {"id": "ww3", "a": "a third world war will begin"}
+   {"id": "mars", "a": "humans will land on Mars", "a_zh": "人类将登陆火星"},
+   {"id": "fusion", "a": "a fusion power plant will supply electricity to a public grid", "a_zh": "将有核聚变电站向公共电网供电"},
+   {"id": "agi", "a": "artificial general intelligence will be achieved", "a_zh": "通用人工智能将会实现"},
+   {"id": "taiwan", "a": "China will invade Taiwan", "a_zh": "中国将进攻台湾"},
+   {"id": "uspresident", "a": "the United States will elect a female president", "a_zh": "美国将选出一位女总统"},
+   {"id": "eu", "a": "the European Union will break up", "a_zh": "欧盟将解体"},
+   {"id": "russia", "a": "Russia will break apart into several states", "a_zh": "俄罗斯将分裂成几个国家"},
+   {"id": "nuke", "a": "a nuclear weapon will be used in war", "a_zh": "核武器将在战争中被使用"},
+   {"id": "btc", "a": "Bitcoin will trade above one million dollars", "a_zh": "比特币价格将超过一百万美元"},
+   {"id": "selfdriving", "a": "most new cars sold in the United States will be fully self-driving", "a_zh": "美国售出的新车大多数将是完全自动驾驶"},
+   {"id": "cancer", "a": "a cure for most cancers will exist", "a_zh": "大多数癌症将有治愈方法"},
+   {"id": "ww3", "a": "a third world war will begin", "a_zh": "第三次世界大战将爆发"}
   ]
  }
 ]

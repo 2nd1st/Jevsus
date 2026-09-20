@@ -1,14 +1,14 @@
 [
- {"id": "socialmedia", "name": "Social media"},
- {"id": "smartphones", "name": "The smartphone"},
- {"id": "videogames", "name": "Gaming"},
- {"id": "porn", "name": "Online pornography"},
- {"id": "datingapps", "name": "Online dating"},
- {"id": "genai", "name": "Generative AI"},
- {"id": "crypto", "name": "Cryptocurrency"},
- {"id": "tv", "name": "Television"},
- {"id": "cars", "name": "The car"},
- {"id": "internet", "name": "The internet"},
- {"id": "shortvideo", "name": "Short-form video"},
- {"id": "fastfashion", "name": "Fast fashion"}
+ {"id": "socialmedia", "name": "Social media", "name_zh": "社交媒体"},
+ {"id": "smartphones", "name": "The smartphone", "name_zh": "智能手机"},
+ {"id": "videogames", "name": "Gaming", "name_zh": "电子游戏"},
+ {"id": "porn", "name": "Online pornography", "name_zh": "网络色情"},
+ {"id": "datingapps", "name": "Online dating", "name_zh": "网络交友"},
+ {"id": "genai", "name": "Generative AI", "name_zh": "生成式 AI"},
+ {"id": "crypto", "name": "Cryptocurrency", "name_zh": "加密货币"},
+ {"id": "tv", "name": "Television", "name_zh": "电视"},
+ {"id": "cars", "name": "The car", "name_zh": "汽车"},
+ {"id": "internet", "name": "The internet", "name_zh": "互联网"},
+ {"id": "shortvideo", "name": "Short-form video", "name_zh": "短视频"},
+ {"id": "fastfashion", "name": "Fast fashion", "name_zh": "快时尚"}
 ]

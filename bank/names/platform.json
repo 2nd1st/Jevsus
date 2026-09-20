@@ -1,14 +1,14 @@
 [
- {"id": "x", "name": "X (formerly Twitter)"},
- {"id": "facebook", "name": "Facebook"},
- {"id": "instagram", "name": "Instagram"},
- {"id": "tiktok", "name": "TikTok"},
- {"id": "youtube", "name": "YouTube"},
- {"id": "reddit", "name": "Reddit"},
- {"id": "wechat", "name": "WeChat"},
- {"id": "telegram", "name": "Telegram"},
- {"id": "linkedin", "name": "LinkedIn"},
- {"id": "snapchat", "name": "Snapchat"},
- {"id": "discord", "name": "Discord"},
- {"id": "threads", "name": "Threads"}
+ {"id": "x", "name": "X (formerly Twitter)", "name_zh": "X（原推特）"},
+ {"id": "facebook", "name": "Facebook", "name_zh": "Facebook"},
+ {"id": "instagram", "name": "Instagram", "name_zh": "Instagram"},
+ {"id": "tiktok", "name": "TikTok", "name_zh": "TikTok"},
+ {"id": "youtube", "name": "YouTube", "name_zh": "YouTube"},
+ {"id": "reddit", "name": "Reddit", "name_zh": "Reddit"},
+ {"id": "wechat", "name": "WeChat", "name_zh": "微信"},
+ {"id": "telegram", "name": "Telegram", "name_zh": "Telegram"},
+ {"id": "linkedin", "name": "LinkedIn", "name_zh": "领英"},
+ {"id": "snapchat", "name": "Snapchat", "name_zh": "Snapchat"},
+ {"id": "discord", "name": "Discord", "name_zh": "Discord"},
+ {"id": "threads", "name": "Threads", "name_zh": "Threads"}
 ]

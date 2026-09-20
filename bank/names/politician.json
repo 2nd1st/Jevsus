@@ -12,6 +12,6 @@
  {"id": "maduro", "name": "Nicolás Maduro", "name_zh": "马杜罗"},
  {"id": "bukele", "name": "Nayib Bukele", "name_zh": "布克尔"},
  {"id": "lky", "name": "Lee Kuan Yew", "name_zh": "李光耀"},
- {"id": "macron", "name": "Emmanuel Macron"},
- {"id": "starmer", "name": "Keir Starmer"}
+ {"id": "macron", "name": "Emmanuel Macron", "name_zh": "埃马纽埃尔·马克龙"},
+ {"id": "starmer", "name": "Keir Starmer", "name_zh": "基尔·斯塔默"}
 ]
