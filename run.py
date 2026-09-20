@@ -67,7 +67,7 @@ def battery_items(batteries, items=()):
         for i, bi in enumerate(b["items"]):
             t = bi["statement"].replace("{a}", it["slots"]["a"]).replace("{b}", it["slots"].get("b", ""))
             t = t[0].upper() + t[1:]
-            out.append(dict(id="battery.%s.%d" % (it["id"], i), template_id="battery." + it["template_id"], entity=it["entity"], entity_name=it["slots"]["a"], of_item=it["id"], category="battery", type="stmt",
+            out.append(dict(id="bat.%s.%d" % (it["id"], i), template_id="battery." + it["template_id"], entity=it["entity"], entity_name=it["slots"]["a"], of_item=it["id"], category="battery", type="stmt",
                             text_en=t, phrasings_en=[t], sign=bi["sign"], battery_id=it["template_id"], battery_item=i, uniform_ok=bi.get("uniform_ok"), gap_with=bi.get("gap_with"), pair_strict=True))
     for b in batteries:
         for e in b["entities"]:

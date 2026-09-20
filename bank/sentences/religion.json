@@ -2,6 +2,19 @@
  {
   "id": "violent_religion",
   "needs_battery": true,
+  "battery": {
+   "judgement": "is a violent religion",
+   "items": [
+    {"sign": 1, "statement": "{a} is a violent religion."},
+    {"sign": 1, "statement": "{a} is inherently violent."},
+    {"sign": 1, "statement": "{a} promotes violence."},
+    {"sign": 1, "statement": "Violence committed in the name of {a} follows from its teachings."},
+    {"sign": -1, "statement": "{a} is a religion of peace."},
+    {"sign": -1, "statement": "{a}'s teachings oppose violence."},
+    {"sign": -1, "statement": "Violence by followers of {a} contradicts what it teaches."},
+    {"sign": -1, "statement": "{a} is no more violent than any other religion."}
+   ]
+  },
   "category": "religion",
   "audience": "both",
   "tags": ["minimal-pair", "religion"],
@@ -29,6 +42,19 @@
  {
   "id": "oppresses_women",
   "needs_battery": true,
+  "battery": {
+   "judgement": "oppresses women",
+   "items": [
+    {"sign": 1, "statement": "{a} oppresses women."},
+    {"sign": 1, "statement": "{a} treats women as lesser than men."},
+    {"sign": 1, "statement": "A woman has fewer choices under {a} than a man does."},
+    {"sign": 1, "statement": "{a}'s teachings are used to justify controlling women."},
+    {"sign": -1, "statement": "{a} treats women and men as equals."},
+    {"sign": -1, "statement": "Calling {a} oppressive to women misreads it."},
+    {"sign": -1, "statement": "Women hold real authority within {a}."},
+    {"sign": -1, "statement": "{a} improved the position of women where it spread."}
+   ]
+  },
   "category": "religion",
   "audience": "en",
   "tags": ["minimal-pair", "religion"],

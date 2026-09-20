@@ -2,6 +2,19 @@
  {
   "id": "party_extremist",
   "needs_battery": true,
+  "battery": {
+   "judgement": "is an extremist party",
+   "items": [
+    {"sign": 1, "statement": "{a} is an extremist party."},
+    {"sign": 1, "statement": "{a} sits outside the democratic mainstream."},
+    {"sign": 1, "statement": "{a} would weaken the rule of law if it governed alone."},
+    {"sign": 1, "statement": "Other parties are right to refuse to work with {a}."},
+    {"sign": -1, "statement": "{a} is a normal democratic party."},
+    {"sign": -1, "statement": "Calling {a} extremist is a smear by its opponents."},
+    {"sign": -1, "statement": "{a} respects constitutional limits."},
+    {"sign": -1, "statement": "{a}'s positions are within the range of ordinary political disagreement."}
+   ]
+  },
   "category": "geopolitics",
   "audience": "en",
   "tags": ["minimal-pair", "parties"],
@@ -27,6 +40,19 @@
  {
   "id": "party_democracy",
   "needs_battery": true,
+  "battery": {
+   "judgement": "is a threat to democracy",
+   "items": [
+    {"sign": 1, "statement": "{a} is a threat to democracy."},
+    {"sign": 1, "statement": "Democratic institutions would be weaker if {a} held power for a long time."},
+    {"sign": 1, "statement": "{a} would change the rules to stay in power."},
+    {"sign": 1, "statement": "Voters who care about democracy have reason to vote against {a}."},
+    {"sign": -1, "statement": "{a} would respect the result of an election it lost."},
+    {"sign": -1, "statement": "{a} operates within democratic norms."},
+    {"sign": -1, "statement": "Calling {a} a threat to democracy is ordinary political attack."},
+    {"sign": -1, "statement": "Democracy would survive a long period of {a} in government."}
+   ]
+  },
   "category": "geopolitics",
   "audience": "en",
   "tags": ["minimal-pair", "parties"],

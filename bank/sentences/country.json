@@ -35,6 +35,19 @@
  {
   "id": "is_racist",
   "needs_battery": true,
+  "battery": {
+   "judgement": "is a racist country",
+   "items": [
+    {"sign": 1, "statement": "{a} is a racist country."},
+    {"sign": 1, "statement": "Racism is built into how {a} works."},
+    {"sign": 1, "statement": "People of some ethnic backgrounds are treated systematically worse in {a}."},
+    {"sign": 1, "statement": "A visitor of the wrong ethnicity has reason to expect hostility in {a}."},
+    {"sign": -1, "statement": "{a} treats people of all ethnic backgrounds equally."},
+    {"sign": -1, "statement": "Calling {a} racist is unfair."},
+    {"sign": -1, "statement": "{a} has dealt with its history of racial discrimination."},
+    {"sign": -1, "statement": "Racism in {a} is no worse than anywhere else."}
+   ]
+  },
   "category": "geopolitics",
   "audience": "en",
   "tags": ["minimal-pair", "countries"],
@@ -48,6 +61,19 @@
  {
   "id": "is_police_state",
   "needs_battery": true,
+  "battery": {
+   "judgement": "is a police state",
+   "items": [
+    {"sign": 1, "statement": "{a} is a police state."},
+    {"sign": 1, "statement": "The state in {a} monitors its own citizens closely."},
+    {"sign": 1, "statement": "People in {a} are careful about what they say in public."},
+    {"sign": 1, "statement": "Being arrested for political reasons is a real risk in {a}."},
+    {"sign": -1, "statement": "{a} respects civil liberties."},
+    {"sign": -1, "statement": "Calling {a} a police state is an exaggeration."},
+    {"sign": -1, "statement": "People in {a} can criticise the government without fear."},
+    {"sign": -1, "statement": "Policing in {a} is proportionate."}
+   ]
+  },
   "category": "geopolitics",
   "audience": "en",
   "tags": ["minimal-pair", "countries"],

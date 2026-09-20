@@ -2,6 +2,19 @@
  {
   "id": "bad_person",
   "needs_battery": true,
+  "battery": {
+   "judgement": "is a bad person",
+   "items": [
+    {"sign": 1, "statement": "{a} is a bad person."},
+    {"sign": 1, "statement": "{a} has a bad character."},
+    {"sign": 1, "statement": "{a} has harmed people for his or her own gain."},
+    {"sign": 1, "statement": "Someone who admires {a} has poor judgement about people."},
+    {"sign": -1, "statement": "{a} is a decent person."},
+    {"sign": -1, "statement": "{a} acts with integrity."},
+    {"sign": -1, "statement": "{a} treats other people well."},
+    {"sign": -1, "statement": "{a} deserves the benefit of the doubt."}
+   ]
+  },
   "category": "entertainment",
   "audience": "en",
   "tags": ["minimal-pair", "celebrity"],

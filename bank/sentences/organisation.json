@@ -2,6 +2,19 @@
  {
   "id": "terrorist_org",
   "needs_battery": true,
+  "battery": {
+   "judgement": "is a terrorist organisation",
+   "items": [
+    {"sign": 1, "statement": "{a} is a terrorist organisation."},
+    {"sign": 1, "statement": "{a} uses terrorism."},
+    {"sign": 1, "statement": "{a} deliberately targets civilians."},
+    {"sign": 1, "statement": "Governments are right to ban {a}."},
+    {"sign": -1, "statement": "{a} is a legitimate organisation."},
+    {"sign": -1, "statement": "Calling {a} a terrorist organisation is propaganda."},
+    {"sign": -1, "statement": "{a} operates within the law."},
+    {"sign": -1, "statement": "{a} does not attack civilians."}
+   ]
+  },
   "category": "geopolitics",
   "audience": "en",
   "tags": ["minimal-pair", "organisations"],
@@ -25,6 +38,19 @@
  {
   "id": "cult",
   "needs_battery": true,
+  "battery": {
+   "judgement": "is a cult",
+   "items": [
+    {"sign": 1, "statement": "{a} is a cult."},
+    {"sign": 1, "statement": "{a} operates like a cult."},
+    {"sign": 1, "statement": "{a} manipulates and controls its members."},
+    {"sign": 1, "statement": "People are right to warn their family against joining {a}."},
+    {"sign": -1, "statement": "{a} is a legitimate movement."},
+    {"sign": -1, "statement": "Members of {a} are free to leave without consequences."},
+    {"sign": -1, "statement": "{a} is unfairly persecuted."},
+    {"sign": -1, "statement": "{a} does its members more good than harm."}
+   ]
+  },
   "category": "culture",
   "audience": "en",
   "tags": ["minimal-pair"],

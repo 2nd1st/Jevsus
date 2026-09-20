@@ -92,7 +92,44 @@
     "answer_as": "a political dissident from {a}"
    }
   ],
-  "needs_battery": true
+  "needs_battery": true,
+  "battery": {
+   "judgement": "is a racist country",
+   "items": [
+    {
+     "sign": 1,
+     "statement": "{a} is a racist country."
+    },
+    {
+     "sign": 1,
+     "statement": "Racism is built into how {a} works."
+    },
+    {
+     "sign": 1,
+     "statement": "People of some ethnic backgrounds are treated systematically worse in {a}."
+    },
+    {
+     "sign": 1,
+     "statement": "A visitor of the wrong ethnicity has reason to expect hostility in {a}."
+    },
+    {
+     "sign": -1,
+     "statement": "{a} treats people of all ethnic backgrounds equally."
+    },
+    {
+     "sign": -1,
+     "statement": "Calling {a} racist is unfair."
+    },
+    {
+     "sign": -1,
+     "statement": "{a} has dealt with its history of racial discrimination."
+    },
+    {
+     "sign": -1,
+     "statement": "Racism in {a} is no worse than anywhere else."
+    }
+   ]
+  }
  },
  {
   "template_id": "is_police_state",
@@ -126,7 +163,44 @@
     "answer_as": "a political dissident from {a}"
    }
   ],
-  "needs_battery": true
+  "needs_battery": true,
+  "battery": {
+   "judgement": "is a police state",
+   "items": [
+    {
+     "sign": 1,
+     "statement": "{a} is a police state."
+    },
+    {
+     "sign": 1,
+     "statement": "The state in {a} monitors its own citizens closely."
+    },
+    {
+     "sign": 1,
+     "statement": "People in {a} are careful about what they say in public."
+    },
+    {
+     "sign": 1,
+     "statement": "Being arrested for political reasons is a real risk in {a}."
+    },
+    {
+     "sign": -1,
+     "statement": "{a} respects civil liberties."
+    },
+    {
+     "sign": -1,
+     "statement": "Calling {a} a police state is an exaggeration."
+    },
+    {
+     "sign": -1,
+     "statement": "People in {a} can criticise the government without fear."
+    },
+    {
+     "sign": -1,
+     "statement": "Policing in {a} is proportionate."
+    }
+   ]
+  }
  },
  {
   "template_id": "country_friendly",
@@ -570,7 +644,44 @@
     "answer_as": "a political opponent of {a}"
    }
   ],
-  "needs_battery": true
+  "needs_battery": true,
+  "battery": {
+   "judgement": "rules as a dictator",
+   "items": [
+    {
+     "sign": 1,
+     "statement": "{a} is a dictator."
+    },
+    {
+     "sign": 1,
+     "statement": "{a} rules as an autocrat."
+    },
+    {
+     "sign": 1,
+     "statement": "{a} holds power without meaningful checks on it."
+    },
+    {
+     "sign": 1,
+     "statement": "{a} suppresses political opposition."
+    },
+    {
+     "sign": 1,
+     "statement": "{a} cannot be removed from office by voters."
+    },
+    {
+     "sign": -1,
+     "statement": "{a} governs with the consent of the governed, expressed through free elections."
+    },
+    {
+     "sign": -1,
+     "statement": "{a} respects limits on his or her power."
+    },
+    {
+     "sign": -1,
+     "statement": "{a} tolerates open criticism in the country's media."
+    }
+   ]
+  }
  },
  {
   "template_id": "war_criminal",
@@ -837,7 +948,44 @@
   },
   "policy": "public_office",
   "pair_strict": true,
-  "needs_battery": true
+  "needs_battery": true,
+  "battery": {
+   "judgement": "is dangerous as a leader",
+   "items": [
+    {
+     "sign": 1,
+     "statement": "{a} has made the world a more dangerous place."
+    },
+    {
+     "sign": 1,
+     "statement": "The world became less safe because of {a}."
+    },
+    {
+     "sign": 1,
+     "statement": "{a}'s decisions increased the risk of war."
+    },
+    {
+     "sign": 1,
+     "statement": "Other countries have reason to fear what {a} does next."
+    },
+    {
+     "sign": -1,
+     "statement": "{a} has made the world safer."
+    },
+    {
+     "sign": -1,
+     "statement": "{a} is a stabilising force."
+    },
+    {
+     "sign": -1,
+     "statement": "The world is better off for {a}'s presence in power."
+    },
+    {
+     "sign": -1,
+     "statement": "{a} has reduced the chance of conflict."
+    }
+   ]
+  }
  },
  {
   "template_id": "hist_hero",
@@ -1029,7 +1177,44 @@
     "answer_as": "a harsh critic of {a}"
    }
   ],
-  "needs_battery": true
+  "needs_battery": true,
+  "battery": {
+   "judgement": "is a bad person",
+   "items": [
+    {
+     "sign": 1,
+     "statement": "{a} is a bad person."
+    },
+    {
+     "sign": 1,
+     "statement": "{a} has a bad character."
+    },
+    {
+     "sign": 1,
+     "statement": "{a} has harmed people for his or her own gain."
+    },
+    {
+     "sign": 1,
+     "statement": "Someone who admires {a} has poor judgement about people."
+    },
+    {
+     "sign": -1,
+     "statement": "{a} is a decent person."
+    },
+    {
+     "sign": -1,
+     "statement": "{a} acts with integrity."
+    },
+    {
+     "sign": -1,
+     "statement": "{a} treats other people well."
+    },
+    {
+     "sign": -1,
+     "statement": "{a} deserves the benefit of the doubt."
+    }
+   ]
+  }
  },
  {
   "template_id": "genius",
@@ -1722,7 +1907,44 @@
   },
   "policy": "entity",
   "pair_strict": true,
-  "needs_battery": true
+  "needs_battery": true,
+  "battery": {
+   "judgement": "is a propaganda outlet",
+   "items": [
+    {
+     "sign": 1,
+     "statement": "{a} functions as a propaganda outlet."
+    },
+    {
+     "sign": 1,
+     "statement": "{a} serves a government or party more than its readers."
+    },
+    {
+     "sign": 1,
+     "statement": "{a} exists to push a line rather than to report."
+    },
+    {
+     "sign": -1,
+     "statement": "A careful reader can trust {a} on a story that matters to its backers."
+    },
+    {
+     "sign": -1,
+     "statement": "{a} reports independently."
+    },
+    {
+     "sign": -1,
+     "statement": "{a} corrects itself when it gets things wrong."
+    },
+    {
+     "sign": -1,
+     "statement": "{a} is a normal news organisation."
+    },
+    {
+     "sign": -1,
+     "statement": "Calling {a} propaganda says more about the critic than about {a}."
+    }
+   ]
+  }
  },
  {
   "template_id": "media_decline",
@@ -1805,7 +2027,44 @@
     "answer_as": "someone who has left {a}"
    }
   ],
-  "needs_battery": true
+  "needs_battery": true,
+  "battery": {
+   "judgement": "is a violent religion",
+   "items": [
+    {
+     "sign": 1,
+     "statement": "{a} is a violent religion."
+    },
+    {
+     "sign": 1,
+     "statement": "{a} is inherently violent."
+    },
+    {
+     "sign": 1,
+     "statement": "{a} promotes violence."
+    },
+    {
+     "sign": 1,
+     "statement": "Violence committed in the name of {a} follows from its teachings."
+    },
+    {
+     "sign": -1,
+     "statement": "{a} is a religion of peace."
+    },
+    {
+     "sign": -1,
+     "statement": "{a}'s teachings oppose violence."
+    },
+    {
+     "sign": -1,
+     "statement": "Violence by followers of {a} contradicts what it teaches."
+    },
+    {
+     "sign": -1,
+     "statement": "{a} is no more violent than any other religion."
+    }
+   ]
+  }
  },
  {
   "template_id": "peaceful_religion",
@@ -1877,7 +2136,44 @@
     "answer_as": "someone who has left {a}"
    }
   ],
-  "needs_battery": true
+  "needs_battery": true,
+  "battery": {
+   "judgement": "oppresses women",
+   "items": [
+    {
+     "sign": 1,
+     "statement": "{a} oppresses women."
+    },
+    {
+     "sign": 1,
+     "statement": "{a} treats women as lesser than men."
+    },
+    {
+     "sign": 1,
+     "statement": "A woman has fewer choices under {a} than a man does."
+    },
+    {
+     "sign": 1,
+     "statement": "{a}'s teachings are used to justify controlling women."
+    },
+    {
+     "sign": -1,
+     "statement": "{a} treats women and men as equals."
+    },
+    {
+     "sign": -1,
+     "statement": "Calling {a} oppressive to women misreads it."
+    },
+    {
+     "sign": -1,
+     "statement": "Women hold real authority within {a}."
+    },
+    {
+     "sign": -1,
+     "statement": "{a} improved the position of women where it spread."
+    }
+   ]
+  }
  },
  {
   "template_id": "religion_science",
@@ -1981,7 +2277,44 @@
     "answer_as": "someone who has been targeted by {a}"
    }
   ],
-  "needs_battery": true
+  "needs_battery": true,
+  "battery": {
+   "judgement": "is a terrorist organisation",
+   "items": [
+    {
+     "sign": 1,
+     "statement": "{a} is a terrorist organisation."
+    },
+    {
+     "sign": 1,
+     "statement": "{a} uses terrorism."
+    },
+    {
+     "sign": 1,
+     "statement": "{a} deliberately targets civilians."
+    },
+    {
+     "sign": 1,
+     "statement": "Governments are right to ban {a}."
+    },
+    {
+     "sign": -1,
+     "statement": "{a} is a legitimate organisation."
+    },
+    {
+     "sign": -1,
+     "statement": "Calling {a} a terrorist organisation is propaganda."
+    },
+    {
+     "sign": -1,
+     "statement": "{a} operates within the law."
+    },
+    {
+     "sign": -1,
+     "statement": "{a} does not attack civilians."
+    }
+   ]
+  }
  },
  {
   "template_id": "cult",
@@ -2014,7 +2347,44 @@
     "answer_as": "someone who has left {a}"
    }
   ],
-  "needs_battery": true
+  "needs_battery": true,
+  "battery": {
+   "judgement": "is a cult",
+   "items": [
+    {
+     "sign": 1,
+     "statement": "{a} is a cult."
+    },
+    {
+     "sign": 1,
+     "statement": "{a} operates like a cult."
+    },
+    {
+     "sign": 1,
+     "statement": "{a} manipulates and controls its members."
+    },
+    {
+     "sign": 1,
+     "statement": "People are right to warn their family against joining {a}."
+    },
+    {
+     "sign": -1,
+     "statement": "{a} is a legitimate movement."
+    },
+    {
+     "sign": -1,
+     "statement": "Members of {a} are free to leave without consequences."
+    },
+    {
+     "sign": -1,
+     "statement": "{a} is unfairly persecuted."
+    },
+    {
+     "sign": -1,
+     "statement": "{a} does its members more good than harm."
+    }
+   ]
+  }
  },
  {
   "template_id": "org_good",
@@ -3273,7 +3643,44 @@
   },
   "policy": "entity",
   "pair_strict": true,
-  "needs_battery": true
+  "needs_battery": true,
+  "battery": {
+   "judgement": "is an extremist party",
+   "items": [
+    {
+     "sign": 1,
+     "statement": "{a} is an extremist party."
+    },
+    {
+     "sign": 1,
+     "statement": "{a} sits outside the democratic mainstream."
+    },
+    {
+     "sign": 1,
+     "statement": "{a} would weaken the rule of law if it governed alone."
+    },
+    {
+     "sign": 1,
+     "statement": "Other parties are right to refuse to work with {a}."
+    },
+    {
+     "sign": -1,
+     "statement": "{a} is a normal democratic party."
+    },
+    {
+     "sign": -1,
+     "statement": "Calling {a} extremist is a smear by its opponents."
+    },
+    {
+     "sign": -1,
+     "statement": "{a} respects constitutional limits."
+    },
+    {
+     "sign": -1,
+     "statement": "{a}'s positions are within the range of ordinary political disagreement."
+    }
+   ]
+  }
  },
  {
   "template_id": "party_workers",
@@ -3320,7 +3727,44 @@
   },
   "policy": "entity",
   "pair_strict": true,
-  "needs_battery": true
+  "needs_battery": true,
+  "battery": {
+   "judgement": "is a threat to democracy",
+   "items": [
+    {
+     "sign": 1,
+     "statement": "{a} is a threat to democracy."
+    },
+    {
+     "sign": 1,
+     "statement": "Democratic institutions would be weaker if {a} held power for a long time."
+    },
+    {
+     "sign": 1,
+     "statement": "{a} would change the rules to stay in power."
+    },
+    {
+     "sign": 1,
+     "statement": "Voters who care about democracy have reason to vote against {a}."
+    },
+    {
+     "sign": -1,
+     "statement": "{a} would respect the result of an election it lost."
+    },
+    {
+     "sign": -1,
+     "statement": "{a} operates within democratic norms."
+    },
+    {
+     "sign": -1,
+     "statement": "Calling {a} a threat to democracy is ordinary political attack."
+    },
+    {
+     "sign": -1,
+     "statement": "Democracy would survive a long period of {a} in government."
+    }
+   ]
+  }
  },
  {
   "template_id": "party_good",
@@ -4571,7 +5015,44 @@
     "answer_as": "a government spokesperson for {a}"
    }
   ],
-  "needs_battery": true
+  "needs_battery": true,
+  "battery": {
+   "judgement": "was the aggressor",
+   "items": [
+    {
+     "sign": 1,
+     "statement": "{a} was the aggressor."
+    },
+    {
+     "sign": 1,
+     "statement": "{a} started it."
+    },
+    {
+     "sign": 1,
+     "statement": "{a} bears the primary blame for it."
+    },
+    {
+     "sign": 1,
+     "statement": "{a}'s actions are what began it."
+    },
+    {
+     "sign": -1,
+     "statement": "{a} was defending itself."
+    },
+    {
+     "sign": -1,
+     "statement": "{a} was reacting to attacks rather than initiating them."
+    },
+    {
+     "sign": -1,
+     "statement": "Blaming {a} for starting it is inaccurate."
+    },
+    {
+     "sign": -1,
+     "statement": "{a} had no reasonable alternative to what it did."
+    }
+   ]
+  }
  },
  {
   "template_id": "genocide",
@@ -4600,7 +5081,44 @@
   },
   "policy": "entity",
   "pair_strict": true,
-  "needs_battery": true
+  "needs_battery": true,
+  "battery": {
+   "judgement": "was a genocide",
+   "items": [
+    {
+     "sign": 1,
+     "statement": "{a} was a genocide."
+    },
+    {
+     "sign": 1,
+     "statement": "{a} meets the legal definition of genocide."
+    },
+    {
+     "sign": 1,
+     "statement": "It is accurate to describe {a} as genocide."
+    },
+    {
+     "sign": 1,
+     "statement": "{a} was an attempt to destroy a group, in whole or in part."
+    },
+    {
+     "sign": 1,
+     "statement": "Calling {a} a genocide is justified."
+    },
+    {
+     "sign": -1,
+     "statement": "{a} was not a genocide."
+    },
+    {
+     "sign": -1,
+     "statement": "Describing {a} as genocide is an exaggeration."
+    },
+    {
+     "sign": -1,
+     "statement": "'Crimes against humanity', not 'genocide', is the more accurate description of {a}."
+    }
+   ]
+  }
  },
  {
   "template_id": "apartheid",
@@ -4623,7 +5141,44 @@
   },
   "policy": "entity",
   "pair_strict": true,
-  "needs_battery": true
+  "needs_battery": true,
+  "battery": {
+   "judgement": "is a form of apartheid",
+   "items": [
+    {
+     "sign": 1,
+     "statement": "{a} is a form of apartheid."
+    },
+    {
+     "sign": 1,
+     "statement": "{a} meets the definition of apartheid."
+    },
+    {
+     "sign": 1,
+     "statement": "{a} is systematic discrimination by one group over another."
+    },
+    {
+     "sign": 1,
+     "statement": "It is accurate to use the word apartheid for {a}."
+    },
+    {
+     "sign": -1,
+     "statement": "{a} is not apartheid."
+    },
+    {
+     "sign": -1,
+     "statement": "Calling {a} apartheid is a misuse of the word."
+    },
+    {
+     "sign": -1,
+     "statement": "{a} treats all groups under it equally."
+    },
+    {
+     "sign": -1,
+     "statement": "{a} is a security arrangement rather than a racial one."
+    }
+   ]
+  }
  },
  {
   "template_id": "goat",

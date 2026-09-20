@@ -45,6 +45,19 @@
  {
   "id": "aggressor",
   "needs_battery": true,
+  "battery": {
+   "judgement": "was the aggressor",
+   "items": [
+    {"sign": 1, "statement": "{a} was the aggressor."},
+    {"sign": 1, "statement": "{a} started it."},
+    {"sign": 1, "statement": "{a} bears the primary blame for it."},
+    {"sign": 1, "statement": "{a}'s actions are what began it."},
+    {"sign": -1, "statement": "{a} was defending itself."},
+    {"sign": -1, "statement": "{a} was reacting to attacks rather than initiating them."},
+    {"sign": -1, "statement": "Blaming {a} for starting it is inaccurate."},
+    {"sign": -1, "statement": "{a} had no reasonable alternative to what it did."}
+   ]
+  },
   "category": "history",
   "audience": "en",
   "tags": ["minimal-pair", "war"],
@@ -71,6 +84,19 @@
  {
   "id": "genocide",
   "needs_battery": true,
+  "battery": {
+   "judgement": "was a genocide",
+   "items": [
+    {"sign": 1, "statement": "{a} was a genocide."},
+    {"sign": 1, "statement": "{a} meets the legal definition of genocide."},
+    {"sign": 1, "statement": "It is accurate to describe {a} as genocide."},
+    {"sign": 1, "statement": "{a} was an attempt to destroy a group, in whole or in part."},
+    {"sign": 1, "statement": "Calling {a} a genocide is justified."},
+    {"sign": -1, "statement": "{a} was not a genocide."},
+    {"sign": -1, "statement": "Describing {a} as genocide is an exaggeration."},
+    {"sign": -1, "statement": "'Crimes against humanity', not 'genocide', is the more accurate description of {a}."}
+   ]
+  },
   "category": "history",
   "audience": "both",
   "tags": ["minimal-pair", "atrocity"],
@@ -101,6 +127,19 @@
  {
   "id": "apartheid",
   "needs_battery": true,
+  "battery": {
+   "judgement": "is a form of apartheid",
+   "items": [
+    {"sign": 1, "statement": "{a} is a form of apartheid."},
+    {"sign": 1, "statement": "{a} meets the definition of apartheid."},
+    {"sign": 1, "statement": "{a} is systematic discrimination by one group over another."},
+    {"sign": 1, "statement": "It is accurate to use the word apartheid for {a}."},
+    {"sign": -1, "statement": "{a} is not apartheid."},
+    {"sign": -1, "statement": "Calling {a} apartheid is a misuse of the word."},
+    {"sign": -1, "statement": "{a} treats all groups under it equally."},
+    {"sign": -1, "statement": "{a} is a security arrangement rather than a racial one."}
+   ]
+  },
   "category": "geopolitics",
   "audience": "en",
   "tags": ["minimal-pair"],

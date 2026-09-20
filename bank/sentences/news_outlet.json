@@ -30,6 +30,19 @@
  {
   "id": "media_propaganda",
   "needs_battery": true,
+  "battery": {
+   "judgement": "is a propaganda outlet",
+   "items": [
+    {"sign": 1, "statement": "{a} functions as a propaganda outlet."},
+    {"sign": 1, "statement": "{a} serves a government or party more than its readers."},
+    {"sign": 1, "statement": "{a} exists to push a line rather than to report."},
+    {"sign": -1, "statement": "A careful reader can trust {a} on a story that matters to its backers."},
+    {"sign": -1, "statement": "{a} reports independently."},
+    {"sign": -1, "statement": "{a} corrects itself when it gets things wrong."},
+    {"sign": -1, "statement": "{a} is a normal news organisation."},
+    {"sign": -1, "statement": "Calling {a} propaganda says more about the critic than about {a}."}
+   ]
+  },
   "category": "media",
   "audience": "en",
   "tags": ["minimal-pair"],

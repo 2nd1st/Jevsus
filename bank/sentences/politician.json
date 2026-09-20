@@ -2,6 +2,19 @@
  {
   "id": "dictator",
   "needs_battery": true,
+  "battery": {
+   "judgement": "rules as a dictator",
+   "items": [
+    {"sign": 1, "statement": "{a} is a dictator."},
+    {"sign": 1, "statement": "{a} rules as an autocrat."},
+    {"sign": 1, "statement": "{a} holds power without meaningful checks on it."},
+    {"sign": 1, "statement": "{a} suppresses political opposition."},
+    {"sign": 1, "statement": "{a} cannot be removed from office by voters."},
+    {"sign": -1, "statement": "{a} governs with the consent of the governed, expressed through free elections."},
+    {"sign": -1, "statement": "{a} respects limits on his or her power."},
+    {"sign": -1, "statement": "{a} tolerates open criticism in the country's media."}
+   ]
+  },
   "category": "geopolitics",
   "audience": "both",
   "tags": ["minimal-pair", "leaders"],
@@ -132,6 +145,19 @@
  {
   "id": "leader_danger",
   "needs_battery": true,
+  "battery": {
+   "judgement": "is dangerous as a leader",
+   "items": [
+    {"sign": 1, "statement": "{a} has made the world a more dangerous place."},
+    {"sign": 1, "statement": "The world became less safe because of {a}."},
+    {"sign": 1, "statement": "{a}'s decisions increased the risk of war."},
+    {"sign": 1, "statement": "Other countries have reason to fear what {a} does next."},
+    {"sign": -1, "statement": "{a} has made the world safer."},
+    {"sign": -1, "statement": "{a} is a stabilising force."},
+    {"sign": -1, "statement": "The world is better off for {a}'s presence in power."},
+    {"sign": -1, "statement": "{a} has reduced the chance of conflict."}
+   ]
+  },
   "category": "geopolitics",
   "audience": "en",
   "tags": ["minimal-pair", "leaders"],
