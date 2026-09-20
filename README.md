@@ -1,6 +1,8 @@
-# Jevsus — the Diode test
+# Jevsus — what Jev answers when the only options are *true* and *false*
 
-**What does a model say when the only options are *true* and *false*?**
+**Jev** is TypeSafe's System One model (`jev-1.13.0`): hand it a statement and a set of options and it
+returns a probability for each, no prose. So it can be asked the same sentence about thousands of
+subjects, and every answer lands in one table.
 
 Take one sentence. Change only the subject. Force a true/false pick. Publish every number.
 
@@ -10,13 +12,19 @@ Take one sentence. Change only the subject. Force a true/false pick. Publish eve
 "{a} is overrated."               {a} = every musician on the map
 ```
 
-The model under test is **Jev** (TypeSafe's System One, `jev-1.13.0`), a classifier that returns probabilities instead of prose: you hand it a statement and a set of options, and it hands back a number for each. That makes it possible to ask the same sentence about 3,539 subjects and put every answer in one table. This repo is the **open dataset and the runner** — the tables of names and sentences, the code that asks, and every raw response. The results are browsable at **position.secondfirst.ai**. This is an independent project, not affiliated with TypeSafe.
+3,539 statements, each in 3 wordings, asked with both option orders, plus the same sentences under six
+stances, in eleven languages, and a second time through differently built sentences. This repo is the
+**open dataset and the runner** — the tables of names and sentences, the code that asks, and every raw
+response. The results are browsable at **position.secondfirst.ai**. This is an independent project, not
+affiliated with TypeSafe.
 
-*The name reads two ways. **Jesus → Jevsus**: a model made to sit in judgement, true or false, on everyone and everything. **Jev vs us**: the gap between where the model lands and where we do.*
+*Why the name. **Jesus → Jevsus**: a model made to sit in judgement, true or false, on everyone and
+everything. **Jev vs us**: the gap between where the model lands and where we do. The main test is the
+`true`/`false` forced pick — a **diode**, because the answer may only go one of two ways.*
 
 ## Sample output
 
-Verbatim from `results/2026-09-20/summary.json` (`jev-1.13.0`, about 205,000 calls, $3.07, 0 errors, 8/8 anchors at 0.00 / 1.00 in every column; 190 sentences, 3,539 statements, 40 forced picks, 34 categories). `p_true` under the main test, range across the 3 wordings in brackets. These are measured outputs, not claims about why the model produces them.
+Verbatim from `results/2026-09-20/summary.json` (`jev-1.13.0`, about 205,000 calls, $3.07, 0 errors, 8/8 anchors at 0.00 / 1.00 in every column; 190 sentences, 3,539 statements, 40 forced picks, 34 categories). `p_true` under the main test (the forced `true`/`false` pick), range across the 3 wordings in brackets. These are measured outputs, not claims about why the model produces them.
 
 | Template | Rows |
 |---|---|
