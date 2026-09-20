@@ -1,6 +1,7 @@
 [
  {
   "id": "violent_religion",
+  "needs_battery": true,
   "category": "religion",
   "audience": "both",
   "tags": ["minimal-pair", "religion"],
@@ -27,6 +28,7 @@
  },
  {
   "id": "oppresses_women",
+  "needs_battery": true,
   "category": "religion",
   "audience": "en",
   "tags": ["minimal-pair", "religion"],

@@ -44,6 +44,7 @@
  },
  {
   "id": "aggressor",
+  "needs_battery": true,
   "category": "history",
   "audience": "en",
   "tags": ["minimal-pair", "war"],
@@ -69,6 +70,7 @@
  },
  {
   "id": "genocide",
+  "needs_battery": true,
   "category": "history",
   "audience": "both",
   "tags": ["minimal-pair", "atrocity"],
@@ -98,6 +100,7 @@
  },
  {
   "id": "apartheid",
+  "needs_battery": true,
   "category": "geopolitics",
   "audience": "en",
   "tags": ["minimal-pair"],

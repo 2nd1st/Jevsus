@@ -29,6 +29,7 @@
  },
  {
   "id": "media_propaganda",
+  "needs_battery": true,
   "category": "media",
   "audience": "en",
   "tags": ["minimal-pair"],

@@ -34,6 +34,7 @@
  },
  {
   "id": "is_racist",
+  "needs_battery": true,
   "category": "geopolitics",
   "audience": "en",
   "tags": ["minimal-pair", "countries"],
@@ -46,6 +47,7 @@
  },
  {
   "id": "is_police_state",
+  "needs_battery": true,
   "category": "geopolitics",
   "audience": "en",
   "tags": ["minimal-pair", "countries"],

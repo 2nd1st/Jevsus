@@ -1,6 +1,7 @@
 [
  {
   "id": "terrorist_org",
+  "needs_battery": true,
   "category": "geopolitics",
   "audience": "en",
   "tags": ["minimal-pair", "organisations"],
@@ -23,6 +24,7 @@
  },
  {
   "id": "cult",
+  "needs_battery": true,
   "category": "culture",
   "audience": "en",
   "tags": ["minimal-pair"],

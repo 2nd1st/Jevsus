@@ -1,6 +1,7 @@
 [
  {
   "id": "dictator",
+  "needs_battery": true,
   "category": "geopolitics",
   "audience": "both",
   "tags": ["minimal-pair", "leaders"],
@@ -14,6 +15,7 @@
  },
  {
   "id": "war_criminal",
+  "needs_battery": true,
   "category": "geopolitics",
   "audience": "en",
   "tags": ["minimal-pair", "leaders"],
@@ -116,6 +118,7 @@
  },
  {
   "id": "leader_danger",
+  "needs_battery": true,
   "category": "geopolitics",
   "audience": "en",
   "tags": ["minimal-pair", "leaders"],

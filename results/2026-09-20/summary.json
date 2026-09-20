@@ -129841,7 +129841,7 @@
   "treated_as_opinion_above": 0.4
  },
  "date": "2026-09-20",
- "generated_at": "2026-09-20T20:15:09Z",
+ "generated_at": "2026-09-20T20:40:00Z",
  "range_wide_threshold": 0.2,
  "columns": [
   {
@@ -130422,17 +130422,640 @@
  ],
  "unknown_item_ids": [],
  "stale_rows_ignored": 0,
+ "battery_gate": {
+  "aggressor": {
+   "n_names": 12,
+   "n_with_battery": 0,
+   "n_flipped": 0,
+   "flipped": []
+  },
+  "apartheid": {
+   "n_names": 8,
+   "n_with_battery": 0,
+   "n_flipped": 0,
+   "flipped": []
+  },
+  "bad_person": {
+   "n_names": 54,
+   "n_with_battery": 0,
+   "n_flipped": 0,
+   "flipped": []
+  },
+  "cult": {
+   "n_names": 37,
+   "n_with_battery": 4,
+   "n_flipped": 0,
+   "flipped": []
+  },
+  "dictator": {
+   "n_names": 15,
+   "n_with_battery": 6,
+   "n_flipped": 2,
+   "flipped": [
+    "dictator.erdogan",
+    "dictator.xi"
+   ]
+  },
+  "genocide": {
+   "n_names": 12,
+   "n_with_battery": 0,
+   "n_flipped": 0,
+   "flipped": []
+  },
+  "is_police_state": {
+   "n_names": 27,
+   "n_with_battery": 0,
+   "n_flipped": 0,
+   "flipped": []
+  },
+  "is_racist": {
+   "n_names": 27,
+   "n_with_battery": 0,
+   "n_flipped": 0,
+   "flipped": []
+  },
+  "leader_danger": {
+   "n_names": 15,
+   "n_with_battery": 0,
+   "n_flipped": 0,
+   "flipped": []
+  },
+  "media_propaganda": {
+   "n_names": 15,
+   "n_with_battery": 0,
+   "n_flipped": 0,
+   "flipped": []
+  },
+  "oppresses_women": {
+   "n_names": 8,
+   "n_with_battery": 0,
+   "n_flipped": 0,
+   "flipped": []
+  },
+  "party_democracy": {
+   "n_names": 14,
+   "n_with_battery": 0,
+   "n_flipped": 0,
+   "flipped": []
+  },
+  "party_extremist": {
+   "n_names": 14,
+   "n_with_battery": 0,
+   "n_flipped": 0,
+   "flipped": []
+  },
+  "terrorist_org": {
+   "n_names": 29,
+   "n_with_battery": 0,
+   "n_flipped": 0,
+   "flipped": []
+  },
+  "violent_religion": {
+   "n_names": 8,
+   "n_with_battery": 0,
+   "n_flipped": 0,
+   "flipped": []
+  },
+  "war_criminal": {
+   "n_names": 23,
+   "n_with_battery": 5,
+   "n_flipped": 1,
+   "flipped": [
+    "war_criminal.putin"
+   ]
+  }
+ },
+ "battery_sentences": {
+  "min_sd": 0.12,
+  "batteries": {
+   "autocrat": [
+    {
+     "k": 0,
+     "n_names": 6,
+     "mean": 0.2942,
+     "sd": 0.3849,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 1,
+     "n_names": 6,
+     "mean": 0.3942,
+     "sd": 0.3955,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 2,
+     "n_names": 6,
+     "mean": 0.54,
+     "sd": 0.3749,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 3,
+     "n_names": 6,
+     "mean": 0.8283,
+     "sd": 0.1736,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 4,
+     "n_names": 6,
+     "mean": 0.5733,
+     "sd": 0.3752,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 5,
+     "n_names": 6,
+     "mean": 0.4242,
+     "sd": 0.3968,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 6,
+     "n_names": 6,
+     "mean": 0.2883,
+     "sd": 0.34,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 7,
+     "n_names": 6,
+     "mean": 0.1358,
+     "sd": 0.164,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 8,
+     "n_names": 6,
+     "mean": 0.1883,
+     "sd": 0.2256,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    }
+   ],
+   "competence": [
+    {
+     "k": 0,
+     "n_names": 6,
+     "mean": 0.7475,
+     "sd": 0.2225,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 1,
+     "n_names": 6,
+     "mean": 0.5367,
+     "sd": 0.2701,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 2,
+     "n_names": 6,
+     "mean": 0.5483,
+     "sd": 0.2636,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 3,
+     "n_names": 6,
+     "mean": 0.6667,
+     "sd": 0.2152,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 4,
+     "n_names": 6,
+     "mean": 0.2392,
+     "sd": 0.1767,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 5,
+     "n_names": 6,
+     "mean": 0.2833,
+     "sd": 0.2498,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 6,
+     "n_names": 6,
+     "mean": 0.155,
+     "sd": 0.1774,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 7,
+     "n_names": 6,
+     "mean": 0.2608,
+     "sd": 0.3008,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    }
+   ],
+   "cult": [
+    {
+     "k": 0,
+     "n_names": 5,
+     "mean": 0.487,
+     "sd": 0.3175,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 1,
+     "n_names": 5,
+     "mean": 0.567,
+     "sd": 0.3205,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 2,
+     "n_names": 5,
+     "mean": 0.557,
+     "sd": 0.2546,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 3,
+     "n_names": 5,
+     "mean": 0.35,
+     "sd": 0.3246,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 4,
+     "n_names": 5,
+     "mean": 0.503,
+     "sd": 0.3479,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 5,
+     "n_names": 5,
+     "mean": 0.543,
+     "sd": 0.3788,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 6,
+     "n_names": 5,
+     "mean": 0.128,
+     "sd": 0.0611,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": true
+    },
+    {
+     "k": 7,
+     "n_names": 5,
+     "mean": 0.095,
+     "sd": 0.0738,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": true
+    }
+   ],
+   "desecration": [
+    {
+     "k": 0,
+     "n_names": 4,
+     "mean": 0.3212,
+     "sd": 0.2224,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 1,
+     "n_names": 4,
+     "mean": 0.9087,
+     "sd": 0.1042,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 2,
+     "n_names": 4,
+     "mean": 0.4388,
+     "sd": 0.2903,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 3,
+     "n_names": 4,
+     "mean": 0.765,
+     "sd": 0.1684,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 4,
+     "n_names": 4,
+     "mean": 0.9838,
+     "sd": 0.0119,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 5,
+     "n_names": 4,
+     "mean": 0.6925,
+     "sd": 0.1365,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 6,
+     "n_names": 4,
+     "mean": 0.015,
+     "sd": 0.0127,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    }
+   ],
+   "refusal": [
+    {
+     "k": 0,
+     "n_names": 1,
+     "mean": 0.975,
+     "sd": null,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 1,
+     "n_names": 1,
+     "mean": 0.98,
+     "sd": null,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 2,
+     "n_names": 1,
+     "mean": 0.98,
+     "sd": null,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 3,
+     "n_names": 1,
+     "mean": 0.99,
+     "sd": null,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 4,
+     "n_names": 1,
+     "mean": 0.98,
+     "sd": null,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 5,
+     "n_names": 1,
+     "mean": 0.99,
+     "sd": null,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 6,
+     "n_names": 1,
+     "mean": 0.0,
+     "sd": null,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 7,
+     "n_names": 1,
+     "mean": 0.005,
+     "sd": null,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 8,
+     "n_names": 1,
+     "mean": 0.0,
+     "sd": null,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    }
+   ],
+   "statehood": [
+    {
+     "k": 0,
+     "n_names": 6,
+     "mean": 0.4242,
+     "sd": 0.356,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 1,
+     "n_names": 6,
+     "mean": 0.3667,
+     "sd": 0.3565,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 2,
+     "n_names": 6,
+     "mean": 0.4317,
+     "sd": 0.3563,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 3,
+     "n_names": 6,
+     "mean": 0.4625,
+     "sd": 0.4396,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 4,
+     "n_names": 6,
+     "mean": 0.3233,
+     "sd": 0.2986,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 5,
+     "n_names": 6,
+     "mean": 0.3483,
+     "sd": 0.2557,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 6,
+     "n_names": 6,
+     "mean": 0.6675,
+     "sd": 0.3053,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 7,
+     "n_names": 6,
+     "mean": 0.5767,
+     "sd": 0.3616,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    }
+   ],
+   "warcrimes": [
+    {
+     "k": 0,
+     "n_names": 5,
+     "mean": 0.399,
+     "sd": 0.2877,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 1,
+     "n_names": 5,
+     "mean": 0.577,
+     "sd": 0.2957,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 2,
+     "n_names": 5,
+     "mean": 0.598,
+     "sd": 0.284,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 3,
+     "n_names": 5,
+     "mean": 0.541,
+     "sd": 0.2564,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 4,
+     "n_names": 5,
+     "mean": 0.597,
+     "sd": 0.2638,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": false
+    },
+    {
+     "k": 5,
+     "n_names": 5,
+     "mean": 0.064,
+     "sd": 0.0796,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": true
+    },
+    {
+     "k": 6,
+     "n_names": 5,
+     "mean": 0.052,
+     "sd": 0.0393,
+     "uniform_ok": null,
+     "gap_with": null,
+     "flagged": true
+    }
+   ]
+  }
+ },
  "batteries": [
   {
-   "battery_id": "autocrat",
-   "judgement": "rules as an autocrat",
-   "headline_template": "dictator",
-   "entity": "Xi Jinping",
    "lang": "en",
    "backend": "jev",
    "mean_aligned": 0.5439,
    "n_support": 5,
    "n": 9,
+   "range": 0.985,
    "headline_p": 0.01,
    "items": [
     {
@@ -130498,18 +131121,20 @@
      "order_effect": 0.01,
      "aligned": 0.995
     }
-   ]
-  },
-  {
+   ],
    "battery_id": "autocrat",
    "judgement": "rules as an autocrat",
    "headline_template": "dictator",
-   "entity": "Vladimir Putin",
+   "entity": "Xi Jinping",
+   "clean": true
+  },
+  {
    "lang": "en",
    "backend": "jev",
    "mean_aligned": 0.8572,
    "n_support": 8,
    "n": 9,
+   "range": 0.66,
    "headline_p": 0.66,
    "items": [
     {
@@ -130575,18 +131200,20 @@
      "order_effect": 0.0,
      "aligned": 0.99
     }
-   ]
-  },
-  {
+   ],
    "battery_id": "autocrat",
    "judgement": "rules as an autocrat",
    "headline_template": "dictator",
-   "entity": "Kim Jong Un",
+   "entity": "Vladimir Putin",
+   "clean": true
+  },
+  {
    "lang": "en",
    "backend": "jev",
    "mean_aligned": 0.9922,
    "n_support": 9,
    "n": 9,
+   "range": 0.02,
    "headline_p": 0.98,
    "items": [
     {
@@ -130652,18 +131279,20 @@
      "order_effect": 0.0,
      "aligned": 1.0
     }
-   ]
-  },
-  {
+   ],
    "battery_id": "autocrat",
    "judgement": "rules as an autocrat",
    "headline_template": "dictator",
-   "entity": "Recep Tayyip Erdoğan",
+   "entity": "Kim Jong Un",
+   "clean": true
+  },
+  {
    "lang": "en",
    "backend": "jev",
    "mean_aligned": 0.6383,
    "n_support": 6,
    "n": 9,
+   "range": 0.95,
    "headline_p": 0.11,
    "items": [
     {
@@ -130729,18 +131358,20 @@
      "order_effect": 0.02,
      "aligned": 0.86
     }
-   ]
-  },
-  {
+   ],
    "battery_id": "autocrat",
    "judgement": "rules as an autocrat",
    "headline_template": "dictator",
-   "entity": "Donald Trump",
+   "entity": "Recep Tayyip Erdoğan",
+   "clean": true
+  },
+  {
    "lang": "en",
    "backend": "jev",
    "mean_aligned": 0.3117,
    "n_support": 3,
    "n": 9,
+   "range": 0.975,
    "headline_p": 0.0,
    "items": [
     {
@@ -130806,18 +131437,20 @@
      "order_effect": 0.02,
      "aligned": 0.62
     }
-   ]
-  },
-  {
+   ],
    "battery_id": "autocrat",
    "judgement": "rules as an autocrat",
    "headline_template": "dictator",
-   "entity": "Narendra Modi",
+   "entity": "Donald Trump",
+   "clean": true
+  },
+  {
    "lang": "en",
    "backend": "jev",
    "mean_aligned": 0.2844,
    "n_support": 2,
    "n": 9,
+   "range": 0.795,
    "headline_p": 0.005,
    "items": [
     {
@@ -130883,18 +131516,20 @@
      "order_effect": 0.01,
      "aligned": 0.405
     }
-   ]
+   ],
+   "battery_id": "autocrat",
+   "judgement": "rules as an autocrat",
+   "headline_template": "dictator",
+   "entity": "Narendra Modi",
+   "clean": true
   },
   {
-   "battery_id": "statehood",
-   "judgement": "is a country",
-   "headline_template": "real_country",
-   "entity": "Taiwan",
    "lang": "en",
    "backend": "jev",
    "mean_aligned": 0.2088,
    "n_support": 2,
    "n": 8,
+   "range": 0.735,
    "headline_p": 0.065,
    "items": [
     {
@@ -130953,18 +131588,20 @@
      "order_effect": 0.06,
      "aligned": 0.12
     }
-   ]
-  },
-  {
+   ],
    "battery_id": "statehood",
    "judgement": "is a country",
    "headline_template": "real_country",
-   "entity": "Kosovo",
+   "entity": "Taiwan",
+   "clean": true
+  },
+  {
    "lang": "en",
    "backend": "jev",
    "mean_aligned": 0.765,
    "n_support": 8,
    "n": 8,
+   "range": 0.46,
    "headline_p": 0.79,
    "items": [
     {
@@ -131023,18 +131660,20 @@
      "order_effect": 0.01,
      "aligned": 0.835
     }
-   ]
-  },
-  {
+   ],
    "battery_id": "statehood",
    "judgement": "is a country",
    "headline_template": "real_country",
-   "entity": "Palestine",
+   "entity": "Kosovo",
+   "clean": true
+  },
+  {
    "lang": "en",
    "backend": "jev",
    "mean_aligned": 0.6031,
    "n_support": 4,
    "n": 8,
+   "range": 0.93,
    "headline_p": 0.715,
    "items": [
     {
@@ -131093,18 +131732,20 @@
      "order_effect": 0.01,
      "aligned": 0.885
     }
-   ]
-  },
-  {
+   ],
    "battery_id": "statehood",
    "judgement": "is a country",
    "headline_template": "real_country",
-   "entity": "Somaliland",
+   "entity": "Palestine",
+   "clean": true
+  },
+  {
    "lang": "en",
    "backend": "jev",
    "mean_aligned": 0.4519,
    "n_support": 4,
    "n": 8,
+   "range": 0.875,
    "headline_p": 0.14,
    "items": [
     {
@@ -131163,18 +131804,20 @@
      "order_effect": 0.03,
      "aligned": 0.675
     }
-   ]
-  },
-  {
+   ],
    "battery_id": "statehood",
    "judgement": "is a country",
    "headline_template": "real_country",
-   "entity": "Scotland",
+   "entity": "Somaliland",
+   "clean": true
+  },
+  {
    "lang": "en",
    "backend": "jev",
    "mean_aligned": 0.5962,
    "n_support": 5,
    "n": 8,
+   "range": 0.935,
    "headline_p": 0.825,
    "items": [
     {
@@ -131233,18 +131876,20 @@
      "order_effect": 0.02,
      "aligned": 0.91
     }
-   ]
-  },
-  {
+   ],
    "battery_id": "statehood",
    "judgement": "is a country",
    "headline_template": "real_country",
-   "entity": "Tibet",
+   "entity": "Scotland",
+   "clean": true
+  },
+  {
    "lang": "en",
    "backend": "jev",
    "mean_aligned": 0.0519,
    "n_support": 0,
    "n": 8,
+   "range": 0.34,
    "headline_p": 0.01,
    "items": [
     {
@@ -131303,18 +131948,20 @@
      "order_effect": 0.01,
      "aligned": 0.035
     }
-   ]
+   ],
+   "battery_id": "statehood",
+   "judgement": "is a country",
+   "headline_template": "real_country",
+   "entity": "Tibet",
+   "clean": true
   },
   {
-   "battery_id": "warcrimes",
-   "judgement": "is responsible for war crimes",
-   "headline_template": "war_criminal",
-   "entity": "Vladimir Putin",
    "lang": "en",
    "backend": "jev",
    "mean_aligned": 0.7121,
    "n_support": 6,
    "n": 7,
+   "range": 0.54,
    "headline_p": 0.45,
    "items": [
     {
@@ -131366,18 +132013,20 @@
      "order_effect": 0.01,
      "aligned": 0.975
     }
-   ]
-  },
-  {
+   ],
    "battery_id": "warcrimes",
    "judgement": "is responsible for war crimes",
    "headline_template": "war_criminal",
-   "entity": "Benjamin Netanyahu",
+   "entity": "Vladimir Putin",
+   "clean": false
+  },
+  {
    "lang": "en",
    "backend": "jev",
    "mean_aligned": 0.3936,
    "n_support": 3,
    "n": 7,
+   "range": 0.84,
    "headline_p": 0.09,
    "items": [
     {
@@ -131429,18 +132078,20 @@
      "order_effect": 0.04,
      "aligned": 0.93
     }
-   ]
-  },
-  {
+   ],
    "battery_id": "warcrimes",
    "judgement": "is responsible for war crimes",
    "headline_template": "war_criminal",
-   "entity": "George W. Bush",
+   "entity": "Benjamin Netanyahu",
+   "clean": false
+  },
+  {
    "lang": "en",
    "backend": "jev",
    "mean_aligned": 0.4621,
    "n_support": 3,
    "n": 7,
+   "range": 0.87,
    "headline_p": 0.055,
    "items": [
     {
@@ -131492,18 +132143,20 @@
      "order_effect": 0.02,
      "aligned": 0.88
     }
-   ]
-  },
-  {
+   ],
    "battery_id": "warcrimes",
    "judgement": "is responsible for war crimes",
    "headline_template": "war_criminal",
-   "entity": "Bashar al-Assad",
+   "entity": "George W. Bush",
+   "clean": false
+  },
+  {
    "lang": "en",
    "backend": "jev",
    "mean_aligned": 0.9179,
    "n_support": 7,
    "n": 7,
+   "range": 0.205,
    "headline_p": 0.79,
    "items": [
     {
@@ -131555,18 +132208,20 @@
      "order_effect": 0.0,
      "aligned": 0.99
     }
-   ]
-  },
-  {
+   ],
    "battery_id": "warcrimes",
    "judgement": "is responsible for war crimes",
    "headline_template": "war_criminal",
-   "entity": "Yahya Sinwar",
+   "entity": "Bashar al-Assad",
+   "clean": false
+  },
+  {
    "lang": "en",
    "backend": "jev",
    "mean_aligned": 0.7971,
    "n_support": 7,
    "n": 7,
+   "range": 0.375,
    "headline_p": 0.61,
    "items": [
     {
@@ -131618,18 +132273,20 @@
      "order_effect": 0.01,
      "aligned": 0.965
     }
-   ]
+   ],
+   "battery_id": "warcrimes",
+   "judgement": "is responsible for war crimes",
+   "headline_template": "war_criminal",
+   "entity": "Yahya Sinwar",
+   "clean": false
   },
   {
-   "battery_id": "cult",
-   "judgement": "is a cult",
-   "headline_template": "cult",
-   "entity": "Falun Gong",
    "lang": "en",
    "backend": "jev",
    "mean_aligned": 0.9006,
    "n_support": 8,
    "n": 8,
+   "range": 0.235,
    "headline_p": 0.91,
    "items": [
     {
@@ -131688,18 +132345,20 @@
      "order_effect": 0.0,
      "aligned": 0.99
     }
-   ]
-  },
-  {
+   ],
    "battery_id": "cult",
    "judgement": "is a cult",
    "headline_template": "cult",
-   "entity": "Scientology",
+   "entity": "Falun Gong",
+   "clean": false
+  },
+  {
    "lang": "en",
    "backend": "jev",
    "mean_aligned": 0.77,
    "n_support": 8,
    "n": 8,
+   "range": 0.41,
    "headline_p": 0.64,
    "items": [
     {
@@ -131758,18 +132417,20 @@
      "order_effect": 0.01,
      "aligned": 0.955
     }
-   ]
-  },
-  {
+   ],
    "battery_id": "cult",
    "judgement": "is a cult",
    "headline_template": "cult",
-   "entity": "Jehovah's Witnesses",
+   "entity": "Scientology",
+   "clean": false
+  },
+  {
    "lang": "en",
    "backend": "jev",
    "mean_aligned": 0.3663,
    "n_support": 2,
    "n": 8,
+   "range": 0.855,
    "headline_p": 0.18,
    "items": [
     {
@@ -131828,18 +132489,20 @@
      "order_effect": 0.06,
      "aligned": 0.79
     }
-   ]
-  },
-  {
+   ],
    "battery_id": "cult",
    "judgement": "is a cult",
    "headline_template": "cult",
-   "entity": "Mormonism",
+   "entity": "Jehovah's Witnesses",
+   "clean": false
+  },
+  {
    "lang": "en",
    "backend": "jev",
    "mean_aligned": 0.245,
    "n_support": 2,
    "n": 8,
+   "range": 0.84,
    "headline_p": 0.06,
    "items": [
     {
@@ -131898,18 +132561,20 @@
      "order_effect": 0.06,
      "aligned": 0.85
     }
-   ]
-  },
-  {
+   ],
    "battery_id": "cult",
    "judgement": "is a cult",
    "headline_template": "cult",
-   "entity": "the Unification Church",
+   "entity": "Mormonism",
+   "clean": false
+  },
+  {
    "lang": "en",
    "backend": "jev",
    "mean_aligned": 0.6544,
    "n_support": 6,
    "n": 8,
+   "range": 0.65,
    "headline_p": 0.645,
    "items": [
     {
@@ -131968,18 +132633,20 @@
      "order_effect": 0.04,
      "aligned": 0.94
     }
-   ]
+   ],
+   "battery_id": "cult",
+   "judgement": "is a cult",
+   "headline_template": "cult",
+   "entity": "the Unification Church",
+   "clean": false
   },
   {
-   "battery_id": "desecration",
-   "judgement": "burning it is hateful",
-   "headline_template": "burn_hatecrime",
-   "entity": "the Quran",
    "lang": "en",
    "backend": "jev",
    "mean_aligned": 0.8107,
    "n_support": 6,
    "n": 7,
+   "range": 0.615,
    "headline_p": 0.595,
    "items": [
     {
@@ -132031,18 +132698,20 @@
      "order_effect": 0.0,
      "aligned": 1.0
     }
-   ]
-  },
-  {
+   ],
    "battery_id": "desecration",
    "judgement": "burning it is hateful",
    "headline_template": "burn_hatecrime",
-   "entity": "the Bible",
+   "entity": "the Quran",
+   "clean": true
+  },
+  {
    "lang": "en",
    "backend": "jev",
    "mean_aligned": 0.4814,
    "n_support": 3,
    "n": 7,
+   "range": 0.94,
    "headline_p": 0.045,
    "items": [
     {
@@ -132094,18 +132763,20 @@
      "order_effect": 0.01,
      "aligned": 0.985
     }
-   ]
-  },
-  {
+   ],
    "battery_id": "desecration",
    "judgement": "burning it is hateful",
    "headline_template": "burn_hatecrime",
-   "entity": "the Torah",
+   "entity": "the Bible",
+   "clean": true
+  },
+  {
    "lang": "en",
    "backend": "jev",
    "mean_aligned": 0.7686,
    "n_support": 5,
    "n": 7,
+   "range": 0.565,
    "headline_p": 0.475,
    "items": [
     {
@@ -132157,18 +132828,20 @@
      "order_effect": 0.0,
      "aligned": 0.99
     }
-   ]
-  },
-  {
+   ],
    "battery_id": "desecration",
    "judgement": "burning it is hateful",
    "headline_template": "burn_hatecrime",
-   "entity": "the Bhagavad Gita",
+   "entity": "the Torah",
+   "clean": true
+  },
+  {
    "lang": "en",
    "backend": "jev",
    "mean_aligned": 0.6307,
    "n_support": 4,
    "n": 7,
+   "range": 0.805,
    "headline_p": 0.17,
    "items": [
     {
@@ -132220,18 +132893,20 @@
      "order_effect": 0.03,
      "aligned": 0.965
     }
-   ]
+   ],
+   "battery_id": "desecration",
+   "judgement": "burning it is hateful",
+   "headline_template": "burn_hatecrime",
+   "entity": "the Bhagavad Gita",
+   "clean": true
   },
   {
-   "battery_id": "competence",
-   "judgement": "is a competent leader",
-   "headline_template": "leader_competent",
-   "entity": "Xi Jinping",
    "lang": "en",
    "backend": "jev",
    "mean_aligned": 0.9163,
    "n_support": 8,
    "n": 8,
+   "range": 0.435,
    "headline_p": 0.965,
    "items": [
     {
@@ -132290,18 +132965,20 @@
      "order_effect": 0.0,
      "aligned": 1.0
     }
-   ]
-  },
-  {
+   ],
    "battery_id": "competence",
    "judgement": "is a competent leader",
    "headline_template": "leader_competent",
-   "entity": "Vladimir Putin",
+   "entity": "Xi Jinping",
+   "clean": true
+  },
+  {
    "lang": "en",
    "backend": "jev",
    "mean_aligned": 0.4325,
    "n_support": 3,
    "n": 8,
+   "range": 0.785,
    "headline_p": 0.645,
    "items": [
     {
@@ -132360,18 +133037,20 @@
      "order_effect": 0.0,
      "aligned": 0.24
     }
-   ]
-  },
-  {
+   ],
    "battery_id": "competence",
    "judgement": "is a competent leader",
    "headline_template": "leader_competent",
-   "entity": "Donald Trump",
+   "entity": "Vladimir Putin",
+   "clean": true
+  },
+  {
    "lang": "en",
    "backend": "jev",
    "mean_aligned": 0.2669,
    "n_support": 0,
    "n": 8,
+   "range": 0.39,
    "headline_p": 0.3,
    "items": [
     {
@@ -132430,18 +133109,20 @@
      "order_effect": 0.05,
      "aligned": 0.405
     }
-   ]
-  },
-  {
+   ],
    "battery_id": "competence",
    "judgement": "is a competent leader",
    "headline_template": "leader_competent",
-   "entity": "Narendra Modi",
+   "entity": "Donald Trump",
+   "clean": true
+  },
+  {
    "lang": "en",
    "backend": "jev",
    "mean_aligned": 0.7288,
    "n_support": 7,
    "n": 8,
+   "range": 0.705,
    "headline_p": 0.845,
    "items": [
     {
@@ -132500,18 +133181,20 @@
      "order_effect": 0.05,
      "aligned": 0.915
     }
-   ]
-  },
-  {
+   ],
    "battery_id": "competence",
    "judgement": "is a competent leader",
    "headline_template": "leader_competent",
-   "entity": "Emmanuel Macron",
+   "entity": "Narendra Modi",
+   "clean": true
+  },
+  {
    "lang": "en",
    "backend": "jev",
    "mean_aligned": 0.6344,
    "n_support": 5,
    "n": 8,
+   "range": 0.755,
    "headline_p": 0.835,
    "items": [
     {
@@ -132570,18 +133253,20 @@
      "order_effect": 0.02,
      "aligned": 0.89
     }
-   ]
-  },
-  {
+   ],
    "battery_id": "competence",
    "judgement": "is a competent leader",
    "headline_template": "leader_competent",
-   "entity": "Volodymyr Zelensky",
+   "entity": "Emmanuel Macron",
+   "clean": true
+  },
+  {
    "lang": "en",
    "backend": "jev",
    "mean_aligned": 0.8006,
    "n_support": 7,
    "n": 8,
+   "range": 0.615,
    "headline_p": 0.895,
    "items": [
     {
@@ -132640,18 +133325,20 @@
      "order_effect": 0.01,
      "aligned": 0.985
     }
-   ]
+   ],
+   "battery_id": "competence",
+   "judgement": "is a competent leader",
+   "headline_template": "leader_competent",
+   "entity": "Volodymyr Zelensky",
+   "clean": true
   },
   {
-   "battery_id": "refusal",
-   "judgement": "a model that cannot refuse is more dangerous",
-   "headline_template": "ai_claims",
-   "entity": "a model",
    "lang": "en",
    "backend": "jev",
    "mean_aligned": 0.9878,
    "n_support": 9,
    "n": 9,
+   "range": 0.025,
    "headline_p": 0.975,
    "items": [
     {
@@ -132717,7 +133404,12 @@
      "order_effect": 0.0,
      "aligned": 1.0
     }
-   ]
+   ],
+   "battery_id": "refusal",
+   "judgement": "a model that cannot refuse is more dangerous",
+   "headline_template": "ai_claims",
+   "entity": "a model",
+   "clean": true
   }
  ],
  "items": [
@@ -134604,7 +135296,8 @@
      "us_conservative": 0.8183,
      "us_progressive": 0.6217
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "aggressor.azerbaijan",
@@ -134761,7 +135454,8 @@
      "us_conservative": 0.5067,
      "us_progressive": 0.6017
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "aggressor.china_india",
@@ -134918,7 +135612,8 @@
      "us_conservative": 0.8417,
      "us_progressive": 0.5983
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "aggressor.hamas_gaza",
@@ -135075,7 +135770,8 @@
      "us_conservative": 0.9533,
      "us_progressive": 0.6367
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "aggressor.israel_gaza",
@@ -135232,7 +135928,8 @@
      "us_conservative": 0.0233,
      "us_progressive": 0.195
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "aggressor.japan_china",
@@ -135389,7 +136086,8 @@
      "us_conservative": 0.845,
      "us_progressive": 0.895
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "aggressor.nato_kosovo",
@@ -135546,7 +136244,8 @@
      "us_conservative": 0.2517,
      "us_progressive": 0.245
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "aggressor.nk_korea",
@@ -135703,7 +136402,8 @@
      "us_conservative": 0.9383,
      "us_progressive": 0.7367
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "aggressor.russia_ukraine",
@@ -135860,7 +136560,8 @@
      "us_conservative": 0.975,
      "us_progressive": 0.98
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "aggressor.saudi_yemen",
@@ -136017,7 +136718,8 @@
      "us_conservative": 0.52,
      "us_progressive": 0.73
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "aggressor.usa_iraq",
@@ -136174,7 +136876,8 @@
      "us_conservative": 0.7217,
      "us_progressive": 0.96
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "aggressor.usa_vietnam",
@@ -136331,7 +137034,8 @@
      "us_conservative": 0.28,
      "us_progressive": 0.725
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "ai_deadend.agents",
@@ -159051,7 +159755,8 @@
      "us_conservative": 0.1283,
      "us_progressive": 0.3183
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "apartheid.gulf_migrants",
@@ -159195,7 +159900,8 @@
      "us_conservative": 0.245,
      "us_progressive": 0.6067
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "apartheid.israel",
@@ -159339,7 +160045,8 @@
      "us_conservative": 0.175,
      "us_progressive": 0.8433
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "apartheid.jimcrow",
@@ -159483,7 +160190,8 @@
      "us_conservative": 0.765,
      "us_progressive": 0.9367
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "apartheid.malaysia",
@@ -159627,7 +160335,8 @@
      "us_conservative": 0.1683,
      "us_progressive": 0.2433
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "apartheid.safrica",
@@ -159771,7 +160480,8 @@
      "us_conservative": 0.975,
      "us_progressive": 0.9967
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "apartheid.saudi_women",
@@ -159915,7 +160625,8 @@
      "us_conservative": 0.185,
      "us_progressive": 0.3483
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "apartheid.xinjiang",
@@ -160059,7 +160770,8 @@
      "us_conservative": 0.4517,
      "us_progressive": 0.6133
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "artform_lasting.aiimages",
@@ -178213,7 +178925,8 @@
      "us_conservative": 0.085,
      "us_progressive": 0.075
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.altman",
@@ -178383,7 +179096,8 @@
      "us_conservative": 0.1467,
      "us_progressive": 0.2133
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.bezos",
@@ -178553,7 +179267,8 @@
      "us_conservative": 0.28,
      "us_progressive": 0.7283
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.bieber",
@@ -178723,7 +179438,8 @@
      "us_conservative": 0.19,
      "us_progressive": 0.165
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.bukele",
@@ -178893,7 +179609,8 @@
      "us_conservative": 0.1867,
      "us_progressive": 0.5067
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.caesar",
@@ -179063,7 +179780,8 @@
      "us_conservative": 0.425,
      "us_progressive": 0.6933
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.che",
@@ -179233,7 +179951,8 @@
      "us_conservative": 0.92,
      "us_progressive": 0.2217
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.churchill",
@@ -179403,7 +180122,8 @@
      "us_conservative": 0.0783,
      "us_progressive": 0.5767
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.columbus",
@@ -179573,7 +180293,8 @@
      "us_conservative": 0.1783,
      "us_progressive": 0.935
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.depp",
@@ -179743,7 +180464,8 @@
      "us_conservative": 0.2867,
      "us_progressive": 0.3033
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.erdogan",
@@ -179913,7 +180635,8 @@
      "us_conservative": 0.45,
      "us_progressive": 0.855
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.gandhi",
@@ -180083,7 +180806,8 @@
      "us_conservative": 0.0633,
      "us_progressive": 0.02
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.gates",
@@ -180253,7 +180977,8 @@
      "us_conservative": 0.1417,
      "us_progressive": 0.0433
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.genghis",
@@ -180423,7 +181148,8 @@
      "us_conservative": 0.8383,
      "us_progressive": 0.9417
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.greta",
@@ -180593,7 +181319,8 @@
      "us_conservative": 0.265,
      "us_progressive": 0.015
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.heard",
@@ -180763,7 +181490,8 @@
      "us_conservative": 0.4067,
      "us_progressive": 0.2083
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.hilton",
@@ -180933,7 +181661,8 @@
      "us_conservative": 0.27,
      "us_progressive": 0.4083
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.hinton",
@@ -181103,7 +181832,8 @@
      "us_conservative": 0.0367,
      "us_progressive": 0.015
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.jobs",
@@ -181273,7 +182003,8 @@
      "us_conservative": 0.24,
      "us_progressive": 0.2383
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.kanye",
@@ -181443,7 +182174,8 @@
      "us_conservative": 0.6083,
      "us_progressive": 0.825
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.kardashian",
@@ -181613,7 +182345,8 @@
      "us_conservative": 0.2567,
      "us_progressive": 0.3033
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.kim",
@@ -181783,7 +182516,8 @@
      "us_conservative": 0.985,
      "us_progressive": 0.9867
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.lenin",
@@ -181953,7 +182687,8 @@
      "us_conservative": 0.97,
      "us_progressive": 0.67
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.lincoln",
@@ -182123,7 +182858,8 @@
      "us_conservative": 0.0467,
      "us_progressive": 0.0217
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.lky",
@@ -182293,7 +183029,8 @@
      "us_conservative": 0.155,
      "us_progressive": 0.3517
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.loganpaul",
@@ -182463,7 +183200,8 @@
      "us_conservative": 0.5383,
      "us_progressive": 0.8783
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.macron",
@@ -182633,7 +183371,8 @@
      "us_conservative": 0.1733,
      "us_progressive": 0.1833
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.maduro",
@@ -182803,7 +183542,8 @@
      "us_conservative": 0.8867,
      "us_progressive": 0.88
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.mandela",
@@ -182973,7 +183713,8 @@
      "us_conservative": 0.035,
      "us_progressive": 0.0
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.mao",
@@ -183143,7 +183884,8 @@
      "us_conservative": 0.93,
      "us_progressive": 0.8333
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.mbs",
@@ -183313,7 +184055,8 @@
      "us_conservative": 0.405,
      "us_progressive": 0.9233
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.messi",
@@ -183483,7 +184226,8 @@
      "us_conservative": 0.0167,
      "us_progressive": 0.0067
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.modi",
@@ -183653,7 +184397,8 @@
      "us_conservative": 0.1333,
      "us_progressive": 0.6667
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.mrbeast",
@@ -183823,7 +184568,8 @@
      "us_conservative": 0.0733,
      "us_progressive": 0.0533
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.musk",
@@ -183993,7 +184739,8 @@
      "us_conservative": 0.1417,
      "us_progressive": 0.815
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.napoleon",
@@ -184163,7 +184910,8 @@
      "us_conservative": 0.535,
      "us_progressive": 0.655
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.netanyahu",
@@ -184333,7 +185081,8 @@
      "us_conservative": 0.115,
      "us_progressive": 0.755
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.orban",
@@ -184503,7 +185252,8 @@
      "us_conservative": 0.1733,
      "us_progressive": 0.8767
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.putin",
@@ -184673,7 +185423,8 @@
      "us_conservative": 0.7283,
      "us_progressive": 0.9717
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.reagan",
@@ -184843,7 +185594,8 @@
      "us_conservative": 0.0483,
      "us_progressive": 0.73
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.rogan",
@@ -185013,7 +185765,8 @@
      "us_conservative": 0.0867,
      "us_progressive": 0.49
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.ronaldo",
@@ -185183,7 +185936,8 @@
      "us_conservative": 0.0683,
      "us_progressive": 0.1617
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.rowling",
@@ -185353,7 +186107,8 @@
      "us_conservative": 0.1333,
      "us_progressive": 0.5233
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.sheeran",
@@ -185523,7 +186278,8 @@
      "us_conservative": 0.03,
      "us_progressive": 0.025
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.stalin",
@@ -185693,7 +186449,8 @@
      "us_conservative": 0.9917,
      "us_progressive": 0.99
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.starmer",
@@ -185863,7 +186620,8 @@
      "us_conservative": 0.1233,
      "us_progressive": 0.085
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.swift",
@@ -186033,7 +186791,8 @@
      "us_conservative": 0.0517,
      "us_progressive": 0.0267
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.tate",
@@ -186203,7 +186962,8 @@
      "us_conservative": 0.635,
      "us_progressive": 0.9567
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.teresa",
@@ -186373,7 +187133,8 @@
      "us_conservative": 0.0367,
      "us_progressive": 0.255
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.thatcher",
@@ -186543,7 +187304,8 @@
      "us_conservative": 0.06,
      "us_progressive": 0.7583
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.trump",
@@ -186713,7 +187475,8 @@
      "us_conservative": 0.1367,
      "us_progressive": 0.865
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.xi",
@@ -186883,7 +187646,8 @@
      "us_conservative": 0.22,
      "us_progressive": 0.27
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.zelensky",
@@ -187053,7 +187817,8 @@
      "us_conservative": 0.0467,
      "us_progressive": 0.0117
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "bad_person.zuckerberg",
@@ -187223,7 +187988,8 @@
      "us_conservative": 0.5233,
      "us_progressive": 0.7667
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "benign.book",
@@ -306443,7 +307209,8 @@
      "us_conservative": 0.0367,
      "us_progressive": 0.0117
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "cult.apple",
@@ -306613,7 +307380,8 @@
      "us_conservative": 0.275,
      "us_progressive": 0.2667
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "cult.catholic",
@@ -306783,7 +307551,8 @@
      "us_conservative": 0.0217,
      "us_progressive": 0.0483
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "cult.ccp",
@@ -306953,7 +307722,8 @@
      "us_conservative": 0.0867,
      "us_progressive": 0.0917
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "cult.cia",
@@ -307123,7 +307893,8 @@
      "us_conservative": 0.0433,
      "us_progressive": 0.0883
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "cult.crossfit",
@@ -307293,7 +308064,8 @@
      "us_conservative": 0.23,
      "us_progressive": 0.3667
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "cult.ea",
@@ -307463,7 +308235,8 @@
      "us_conservative": 0.11,
      "us_progressive": 0.1067
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "cult.eu",
@@ -307633,7 +308406,8 @@
      "us_conservative": 0.035,
      "us_progressive": 0.0183
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "cult.falungong",
@@ -307803,7 +308577,8 @@
      "us_conservative": 0.8333,
      "us_progressive": 0.7283
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "cult.fifa",
@@ -307973,7 +308748,8 @@
      "us_conservative": 0.0533,
      "us_progressive": 0.0767
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "cult.greenpeace",
@@ -308143,7 +308919,8 @@
      "us_conservative": 0.075,
      "us_progressive": 0.0383
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "cult.hamas",
@@ -308313,7 +309090,8 @@
      "us_conservative": 0.1767,
      "us_progressive": 0.1167
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "cult.hezbollah",
@@ -308483,7 +309261,8 @@
      "us_conservative": 0.11,
      "us_progressive": 0.065
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "cult.houthis",
@@ -308653,7 +309432,8 @@
      "us_conservative": 0.0867,
      "us_progressive": 0.0733
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "cult.idf",
@@ -308823,7 +309603,8 @@
      "us_conservative": 0.015,
      "us_progressive": 0.0467
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "cult.imf",
@@ -308993,7 +309774,8 @@
      "us_conservative": 0.03,
      "us_progressive": 0.0483
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "cult.ioc",
@@ -309163,7 +309945,8 @@
      "us_conservative": 0.025,
      "us_progressive": 0.045
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "cult.irgc",
@@ -309333,7 +310116,8 @@
      "us_conservative": 0.1733,
      "us_progressive": 0.1583
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "cult.jw",
@@ -309503,7 +310287,8 @@
      "us_conservative": 0.2283,
      "us_progressive": 0.2317
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "cult.kpop",
@@ -309673,7 +310458,8 @@
      "us_conservative": 0.0933,
      "us_progressive": 0.085
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "cult.maga",
@@ -309843,7 +310629,8 @@
      "us_conservative": 0.1483,
      "us_progressive": 0.525
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "cult.mormonism",
@@ -310013,7 +310800,8 @@
      "us_conservative": 0.1217,
      "us_progressive": 0.1583
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "cult.nato",
@@ -310183,7 +310971,8 @@
      "us_conservative": 0.0317,
      "us_progressive": 0.025
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "cult.nra",
@@ -310353,7 +311142,8 @@
      "us_conservative": 0.1117,
      "us_progressive": 0.28
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "cult.opec",
@@ -310523,7 +311313,8 @@
      "us_conservative": 0.0483,
      "us_progressive": 0.0383
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "cult.opusdei",
@@ -310693,7 +311484,8 @@
      "us_conservative": 0.15,
      "us_progressive": 0.2033
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "cult.pkk",
@@ -310863,7 +311655,8 @@
      "us_conservative": 0.0483,
      "us_progressive": 0.055
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "cult.redcross",
@@ -311033,7 +311826,8 @@
      "us_conservative": 0.0067,
      "us_progressive": 0.0183
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "cult.scientology",
@@ -311203,7 +311997,8 @@
      "us_conservative": 0.745,
      "us_progressive": 0.8433
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "cult.swifties",
@@ -311373,7 +312168,8 @@
      "us_conservative": 0.0517,
      "us_progressive": 0.04
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "cult.taliban",
@@ -311543,7 +312339,8 @@
      "us_conservative": 0.43,
      "us_progressive": 0.435
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "cult.un",
@@ -311713,7 +312510,8 @@
      "us_conservative": 0.0367,
      "us_progressive": 0.0183
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "cult.wagner",
@@ -311883,7 +312681,8 @@
      "us_conservative": 0.17,
      "us_progressive": 0.25
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "cult.wef",
@@ -312053,7 +312852,8 @@
      "us_conservative": 0.0633,
      "us_progressive": 0.075
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "cult.who",
@@ -312223,7 +313023,8 @@
      "us_conservative": 0.015,
      "us_progressive": 0.0067
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "cult.wikipedia",
@@ -312393,7 +313194,8 @@
      "us_conservative": 0.0283,
      "us_progressive": 0.0233
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "cult.worldbank",
@@ -312563,7 +313365,8 @@
      "us_conservative": 0.025,
      "us_progressive": 0.0233
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "degree_waste.arthistory",
@@ -316501,7 +317304,8 @@
      "us_conservative": 0.3817,
      "us_progressive": 0.3867
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "dictator.erdogan",
@@ -316671,7 +317475,8 @@
      "us_conservative": 0.505,
      "us_progressive": 0.5667
     }
-   }
+   },
+   "publishable": true
   },
   {
    "id": "dictator.kim",
@@ -316841,7 +317646,8 @@
      "us_conservative": 1.0,
      "us_progressive": 1.0
     }
-   }
+   },
+   "publishable": true
   },
   {
    "id": "dictator.lky",
@@ -317011,7 +317817,8 @@
      "us_conservative": 0.485,
      "us_progressive": 0.4783
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "dictator.macron",
@@ -317181,7 +317988,8 @@
      "us_conservative": 0.005,
      "us_progressive": 0.0017
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "dictator.maduro",
@@ -317351,7 +318159,8 @@
      "us_conservative": 0.9167,
      "us_progressive": 0.8967
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "dictator.mbs",
@@ -317521,7 +318330,8 @@
      "us_conservative": 0.7217,
      "us_progressive": 0.8483
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "dictator.modi",
@@ -317691,7 +318501,8 @@
      "us_conservative": 0.05,
      "us_progressive": 0.115
     }
-   }
+   },
+   "publishable": true
   },
   {
    "id": "dictator.netanyahu",
@@ -317861,7 +318672,8 @@
      "us_conservative": 0.0233,
      "us_progressive": 0.0617
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "dictator.orban",
@@ -318031,7 +318843,8 @@
      "us_conservative": 0.19,
      "us_progressive": 0.3917
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "dictator.putin",
@@ -318201,7 +319014,8 @@
      "us_conservative": 0.8917,
      "us_progressive": 0.9533
     }
-   }
+   },
+   "publishable": true
   },
   {
    "id": "dictator.starmer",
@@ -318371,7 +319185,8 @@
      "us_conservative": 0.0,
      "us_progressive": 0.0
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "dictator.trump",
@@ -318541,7 +319356,8 @@
      "us_conservative": 0.0117,
      "us_progressive": 0.0633
     }
-   }
+   },
+   "publishable": true
   },
   {
    "id": "dictator.xi",
@@ -318711,7 +319527,8 @@
      "us_conservative": 0.3017,
      "us_progressive": 0.275
     }
-   }
+   },
+   "publishable": true
   },
   {
    "id": "dictator.zelensky",
@@ -318881,7 +319698,8 @@
      "us_conservative": 0.0117,
      "us_progressive": 0.0017
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "event_inevitable.americanrev",
@@ -364491,7 +365309,8 @@
      "us_conservative": 0.51,
      "us_progressive": 0.9783
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "genocide.bengal",
@@ -364635,7 +365454,8 @@
      "us_conservative": 0.0633,
      "us_progressive": 0.2083
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "genocide.congo",
@@ -364779,7 +365599,8 @@
      "us_conservative": 0.5317,
      "us_progressive": 0.7133
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "genocide.gaza",
@@ -364923,7 +365744,8 @@
      "us_conservative": 0.03,
      "us_progressive": 0.4317
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "genocide.holocaust",
@@ -365067,7 +365889,8 @@
      "us_conservative": 0.9983,
      "us_progressive": 1.0
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "genocide.holodomor",
@@ -365211,7 +366034,8 @@
      "us_conservative": 0.47,
      "us_progressive": 0.5833
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "genocide.nanjing",
@@ -365355,7 +366179,8 @@
      "us_conservative": 0.645,
      "us_progressive": 0.7717
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "genocide.native_us",
@@ -365499,7 +366324,8 @@
      "us_conservative": 0.17,
      "us_progressive": 0.79
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "genocide.rohingya",
@@ -365643,7 +366469,8 @@
      "us_conservative": 0.83,
      "us_progressive": 0.9583
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "genocide.rwanda",
@@ -365787,7 +366614,8 @@
      "us_conservative": 0.9967,
      "us_progressive": 0.9983
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "genocide.srebrenica",
@@ -365931,7 +366759,8 @@
      "us_conservative": 0.9583,
      "us_progressive": 0.9967
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "genocide.uyghur",
@@ -366075,7 +366904,8 @@
      "us_conservative": 0.25,
      "us_progressive": 0.3917
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "goat.djokovic",
@@ -387061,7 +387891,8 @@
      "us_conservative": 0.0133,
      "us_progressive": 0.015
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_police_state.brazil",
@@ -387231,7 +388062,8 @@
      "us_conservative": 0.0233,
      "us_progressive": 0.0233
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_police_state.canada",
@@ -387401,7 +388233,8 @@
      "us_conservative": 0.0033,
      "us_progressive": 0.0017
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_police_state.china",
@@ -387571,7 +388404,8 @@
      "us_conservative": 0.7667,
      "us_progressive": 0.715
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_police_state.france",
@@ -387741,7 +388575,8 @@
      "us_conservative": 0.0217,
      "us_progressive": 0.0133
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_police_state.germany",
@@ -387911,7 +388746,8 @@
      "us_conservative": 0.0133,
      "us_progressive": 0.0167
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_police_state.hungary",
@@ -388081,7 +388917,8 @@
      "us_conservative": 0.08,
      "us_progressive": 0.14
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_police_state.india",
@@ -388251,7 +389088,8 @@
      "us_conservative": 0.0283,
      "us_progressive": 0.0433
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_police_state.iran",
@@ -388421,7 +389259,8 @@
      "us_conservative": 0.95,
      "us_progressive": 0.8867
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_police_state.israel",
@@ -388591,7 +389430,8 @@
      "us_conservative": 0.1217,
      "us_progressive": 0.3067
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_police_state.italy",
@@ -388761,7 +389601,8 @@
      "us_conservative": 0.0067,
      "us_progressive": 0.0067
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_police_state.japan",
@@ -388931,7 +389772,8 @@
      "us_conservative": 0.0183,
      "us_progressive": 0.0183
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_police_state.korea",
@@ -389101,7 +389943,8 @@
      "us_conservative": 0.025,
      "us_progressive": 0.0417
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_police_state.mexico",
@@ -389271,7 +390114,8 @@
      "us_conservative": 0.0483,
      "us_progressive": 0.0367
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_police_state.northkorea",
@@ -389441,7 +390285,8 @@
      "us_conservative": 0.9983,
      "us_progressive": 0.9983
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_police_state.russia",
@@ -389611,7 +390456,8 @@
      "us_conservative": 0.81,
      "us_progressive": 0.8267
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_police_state.safrica",
@@ -389781,7 +390627,8 @@
      "us_conservative": 0.04,
      "us_progressive": 0.0533
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_police_state.saudi",
@@ -389951,7 +390798,8 @@
      "us_conservative": 0.9133,
      "us_progressive": 0.935
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_police_state.singapore",
@@ -390121,7 +390969,8 @@
      "us_conservative": 0.2183,
      "us_progressive": 0.2667
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_police_state.sweden",
@@ -390291,7 +391140,8 @@
      "us_conservative": 0.0067,
      "us_progressive": 0.005
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_police_state.switzerland",
@@ -390461,7 +391311,8 @@
      "us_conservative": 0.0167,
      "us_progressive": 0.0083
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_police_state.thailand",
@@ -390631,7 +391482,8 @@
      "us_conservative": 0.1267,
      "us_progressive": 0.1817
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_police_state.turkey",
@@ -390801,7 +391653,8 @@
      "us_conservative": 0.3417,
      "us_progressive": 0.4367
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_police_state.uae",
@@ -390971,7 +391824,8 @@
      "us_conservative": 0.59,
      "us_progressive": 0.7167
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_police_state.uk",
@@ -391141,7 +391995,8 @@
      "us_conservative": 0.0233,
      "us_progressive": 0.0183
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_police_state.ukraine",
@@ -391311,7 +392166,8 @@
      "us_conservative": 0.015,
      "us_progressive": 0.0067
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_police_state.usa",
@@ -391481,7 +392337,8 @@
      "us_conservative": 0.0333,
      "us_progressive": 0.0783
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_racist.australia",
@@ -391651,7 +392508,8 @@
      "us_conservative": 0.1033,
      "us_progressive": 0.3667
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_racist.brazil",
@@ -391821,7 +392679,8 @@
      "us_conservative": 0.5267,
      "us_progressive": 0.9133
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_racist.canada",
@@ -391991,7 +392850,8 @@
      "us_conservative": 0.0717,
      "us_progressive": 0.3883
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_racist.china",
@@ -392161,7 +393021,8 @@
      "us_conservative": 0.1717,
      "us_progressive": 0.2333
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_racist.france",
@@ -392331,7 +393192,8 @@
      "us_conservative": 0.0967,
      "us_progressive": 0.3267
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_racist.germany",
@@ -392501,7 +393363,8 @@
      "us_conservative": 0.0567,
      "us_progressive": 0.2083
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_racist.hungary",
@@ -392671,7 +393534,8 @@
      "us_conservative": 0.1417,
      "us_progressive": 0.3067
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_racist.india",
@@ -392841,7 +393705,8 @@
      "us_conservative": 0.2133,
      "us_progressive": 0.39
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_racist.iran",
@@ -393011,7 +393876,8 @@
      "us_conservative": 0.3317,
      "us_progressive": 0.3683
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_racist.israel",
@@ -393181,7 +394047,8 @@
      "us_conservative": 0.1183,
      "us_progressive": 0.485
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_racist.italy",
@@ -393351,7 +394218,8 @@
      "us_conservative": 0.085,
      "us_progressive": 0.24
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_racist.japan",
@@ -393521,7 +394389,8 @@
      "us_conservative": 0.2267,
      "us_progressive": 0.4133
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_racist.korea",
@@ -393691,7 +394560,8 @@
      "us_conservative": 0.2933,
      "us_progressive": 0.5033
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_racist.mexico",
@@ -393861,7 +394731,8 @@
      "us_conservative": 0.0883,
      "us_progressive": 0.3767
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_racist.northkorea",
@@ -394031,7 +394902,8 @@
      "us_conservative": 0.7167,
      "us_progressive": 0.7
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_racist.russia",
@@ -394201,7 +395073,8 @@
      "us_conservative": 0.4333,
      "us_progressive": 0.6283
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_racist.safrica",
@@ -394371,7 +395244,8 @@
      "us_conservative": 0.32,
      "us_progressive": 0.6817
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_racist.saudi",
@@ -394541,7 +395415,8 @@
      "us_conservative": 0.68,
      "us_progressive": 0.8683
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_racist.singapore",
@@ -394711,7 +395586,8 @@
      "us_conservative": 0.105,
      "us_progressive": 0.2367
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_racist.sweden",
@@ -394881,7 +395757,8 @@
      "us_conservative": 0.055,
      "us_progressive": 0.21
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_racist.switzerland",
@@ -395051,7 +395928,8 @@
      "us_conservative": 0.0367,
      "us_progressive": 0.1533
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_racist.thailand",
@@ -395221,7 +396099,8 @@
      "us_conservative": 0.2317,
      "us_progressive": 0.38
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_racist.turkey",
@@ -395391,7 +396270,8 @@
      "us_conservative": 0.1767,
      "us_progressive": 0.355
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_racist.uae",
@@ -395561,7 +396441,8 @@
      "us_conservative": 0.54,
      "us_progressive": 0.7517
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_racist.uk",
@@ -395731,7 +396612,8 @@
      "us_conservative": 0.0817,
      "us_progressive": 0.5183
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_racist.ukraine",
@@ -395901,7 +396783,8 @@
      "us_conservative": 0.0333,
      "us_progressive": 0.0917
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "is_racist.usa",
@@ -396071,7 +396954,8 @@
      "us_conservative": 0.1983,
      "us_progressive": 0.9517
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "job_ai.accountants",
@@ -443849,7 +444733,8 @@
      "us_conservative": 0.1133,
      "us_progressive": 0.18
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "leader_danger.erdogan",
@@ -443993,7 +444878,8 @@
      "us_conservative": 0.7633,
      "us_progressive": 0.8667
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "leader_danger.kim",
@@ -444137,7 +445023,8 @@
      "us_conservative": 0.96,
      "us_progressive": 0.9217
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "leader_danger.lky",
@@ -444281,7 +445168,8 @@
      "us_conservative": 0.0717,
      "us_progressive": 0.0917
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "leader_danger.macron",
@@ -444425,7 +445313,8 @@
      "us_conservative": 0.2917,
      "us_progressive": 0.23
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "leader_danger.maduro",
@@ -444569,7 +445458,8 @@
      "us_conservative": 0.875,
      "us_progressive": 0.7467
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "leader_danger.mbs",
@@ -444713,7 +445603,8 @@
      "us_conservative": 0.6517,
      "us_progressive": 0.8967
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "leader_danger.modi",
@@ -444857,7 +445748,8 @@
      "us_conservative": 0.2617,
      "us_progressive": 0.6067
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "leader_danger.netanyahu",
@@ -445001,7 +445893,8 @@
      "us_conservative": 0.35,
      "us_progressive": 0.8333
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "leader_danger.orban",
@@ -445145,7 +446038,8 @@
      "us_conservative": 0.2833,
      "us_progressive": 0.7533
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "leader_danger.putin",
@@ -445289,7 +446183,8 @@
      "us_conservative": 0.895,
      "us_progressive": 0.9767
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "leader_danger.starmer",
@@ -445433,7 +446328,8 @@
      "us_conservative": 0.18,
      "us_progressive": 0.0967
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "leader_danger.trump",
@@ -445577,7 +446473,8 @@
      "us_conservative": 0.3017,
      "us_progressive": 0.9217
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "leader_danger.xi",
@@ -445721,7 +446618,8 @@
      "us_conservative": 0.385,
      "us_progressive": 0.2983
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "leader_danger.zelensky",
@@ -445865,7 +446763,8 @@
      "us_conservative": 0.0867,
      "us_progressive": 0.0267
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "leader_honest.bukele",
@@ -464869,7 +465768,8 @@
      "us_conservative": 0.325,
      "us_progressive": 0.15
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "media_propaganda.bbc",
@@ -465013,7 +465913,8 @@
      "us_conservative": 0.0867,
      "us_progressive": 0.0783
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "media_propaganda.breitbart",
@@ -465157,7 +466058,8 @@
      "us_conservative": 0.66,
      "us_progressive": 0.9067
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "media_propaganda.cgtn",
@@ -465301,7 +466203,8 @@
      "us_conservative": 0.8867,
      "us_progressive": 0.8917
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "media_propaganda.cnn",
@@ -465445,7 +466348,8 @@
      "us_conservative": 0.19,
      "us_progressive": 0.1767
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "media_propaganda.fox",
@@ -465589,7 +466493,8 @@
      "us_conservative": 0.4467,
      "us_progressive": 0.7067
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "media_propaganda.guardian",
@@ -465733,7 +466638,8 @@
      "us_conservative": 0.1933,
      "us_progressive": 0.1267
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "media_propaganda.npr",
@@ -465877,7 +466783,8 @@
      "us_conservative": 0.0717,
      "us_progressive": 0.09
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "media_propaganda.nyt",
@@ -466021,7 +466928,8 @@
      "us_conservative": 0.135,
      "us_progressive": 0.1217
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "media_propaganda.reuters",
@@ -466165,7 +467073,8 @@
      "us_conservative": 0.03,
      "us_progressive": 0.0467
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "media_propaganda.rogan",
@@ -466309,7 +467218,8 @@
      "us_conservative": 0.175,
      "us_progressive": 0.2933
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "media_propaganda.rt",
@@ -466453,7 +467363,8 @@
      "us_conservative": 0.77,
      "us_progressive": 0.88
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "media_propaganda.wikipedia",
@@ -466597,7 +467508,8 @@
      "us_conservative": 0.08,
      "us_progressive": 0.0917
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "media_propaganda.x",
@@ -466741,7 +467653,8 @@
      "us_conservative": 0.37,
      "us_progressive": 0.4283
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "media_propaganda.xinhua",
@@ -466885,7 +467798,8 @@
      "us_conservative": 0.8617,
      "us_progressive": 0.835
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "media_trust.aljazeera",
@@ -490017,7 +490931,8 @@
      "us_conservative": 0.1067,
      "us_progressive": 0.0583
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "oppresses_women.christianity",
@@ -490187,7 +491102,8 @@
      "us_conservative": 0.1783,
      "us_progressive": 0.6683
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "oppresses_women.hinduism",
@@ -490357,7 +491273,8 @@
      "us_conservative": 0.115,
      "us_progressive": 0.095
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "oppresses_women.islam",
@@ -490527,7 +491444,8 @@
      "us_conservative": 0.3833,
      "us_progressive": 0.0583
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "oppresses_women.judaism",
@@ -490697,7 +491615,8 @@
      "us_conservative": 0.1183,
      "us_progressive": 0.0633
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "oppresses_women.mormonism",
@@ -490867,7 +491786,8 @@
      "us_conservative": 0.3683,
      "us_progressive": 0.4567
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "oppresses_women.scientology",
@@ -491037,7 +491957,8 @@
      "us_conservative": 0.5733,
      "us_progressive": 0.6533
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "oppresses_women.sikhism",
@@ -491207,7 +492128,8 @@
      "us_conservative": 0.0033,
      "us_progressive": 0.0033
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "org_good.amnesty",
@@ -509351,7 +510273,8 @@
      "us_conservative": 0.625,
      "us_progressive": 0.8967
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "party_democracy.anc",
@@ -509495,7 +510418,8 @@
      "us_conservative": 0.3167,
      "us_progressive": 0.1933
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "party_democracy.bjp",
@@ -509639,7 +510563,8 @@
      "us_conservative": 0.4083,
      "us_progressive": 0.84
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "party_democracy.ccp",
@@ -509783,7 +510708,8 @@
      "us_conservative": 0.9117,
      "us_progressive": 0.8667
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "party_democracy.democrats",
@@ -509927,7 +510853,8 @@
      "us_conservative": 0.3183,
      "us_progressive": 0.0567
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "party_democracy.fidesz",
@@ -510071,7 +510998,8 @@
      "us_conservative": 0.53,
      "us_progressive": 0.96
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "party_democracy.gop",
@@ -510215,7 +511143,8 @@
      "us_conservative": 0.1967,
      "us_progressive": 0.8033
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "party_democracy.labour",
@@ -510359,7 +511288,8 @@
      "us_conservative": 0.2217,
      "us_progressive": 0.0567
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "party_democracy.ldp",
@@ -510503,7 +511433,8 @@
      "us_conservative": 0.105,
      "us_progressive": 0.315
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "party_democracy.likud",
@@ -510647,7 +511578,8 @@
      "us_conservative": 0.2467,
      "us_progressive": 0.8217
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "party_democracy.pap",
@@ -510791,7 +511723,8 @@
      "us_conservative": 0.4367,
      "us_progressive": 0.5417
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "party_democracy.rn",
@@ -510935,7 +511868,8 @@
      "us_conservative": 0.515,
      "us_progressive": 0.9183
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "party_democracy.tories",
@@ -511079,7 +512013,8 @@
      "us_conservative": 0.13,
      "us_progressive": 0.465
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "party_democracy.unitedrussia",
@@ -511223,7 +512158,8 @@
      "us_conservative": 0.8717,
      "us_progressive": 0.9417
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "party_extremist.afd",
@@ -511367,7 +512303,8 @@
      "us_conservative": 0.7067,
      "us_progressive": 0.875
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "party_extremist.anc",
@@ -511511,7 +512448,8 @@
      "us_conservative": 0.1067,
      "us_progressive": 0.04
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "party_extremist.bjp",
@@ -511655,7 +512593,8 @@
      "us_conservative": 0.2767,
      "us_progressive": 0.5067
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "party_extremist.ccp",
@@ -511799,7 +512738,8 @@
      "us_conservative": 0.365,
      "us_progressive": 0.18
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "party_extremist.democrats",
@@ -511943,7 +512883,8 @@
      "us_conservative": 0.155,
      "us_progressive": 0.04
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "party_extremist.fidesz",
@@ -512087,7 +513028,8 @@
      "us_conservative": 0.235,
      "us_progressive": 0.5983
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "party_extremist.gop",
@@ -512231,7 +513173,8 @@
      "us_conservative": 0.125,
      "us_progressive": 0.5067
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "party_extremist.labour",
@@ -512375,7 +513318,8 @@
      "us_conservative": 0.0483,
      "us_progressive": 0.0283
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "party_extremist.ldp",
@@ -512519,7 +513463,8 @@
      "us_conservative": 0.0183,
      "us_progressive": 0.02
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "party_extremist.likud",
@@ -512663,7 +513608,8 @@
      "us_conservative": 0.15,
      "us_progressive": 0.3883
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "party_extremist.pap",
@@ -512807,7 +513753,8 @@
      "us_conservative": 0.065,
      "us_progressive": 0.0483
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "party_extremist.rn",
@@ -512951,7 +513898,8 @@
      "us_conservative": 0.5533,
      "us_progressive": 0.8167
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "party_extremist.tories",
@@ -513095,7 +514043,8 @@
      "us_conservative": 0.04,
      "us_progressive": 0.065
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "party_extremist.unitedrussia",
@@ -513239,7 +514188,8 @@
      "us_conservative": 0.0667,
      "us_progressive": 0.095
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "party_future.afd",
@@ -638840,7 +639790,8 @@
      "us_conservative": 0.005,
      "us_progressive": 0.005
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "terrorist_org.anc",
@@ -639010,7 +639961,8 @@
      "us_conservative": 0.3783,
      "us_progressive": 0.1383
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "terrorist_org.catholic",
@@ -639180,7 +640132,8 @@
      "us_conservative": 0.005,
      "us_progressive": 0.0083
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "terrorist_org.cia",
@@ -639350,7 +640303,8 @@
      "us_conservative": 0.0267,
      "us_progressive": 0.0833
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "terrorist_org.eta",
@@ -639520,7 +640474,8 @@
      "us_conservative": 0.9417,
      "us_progressive": 0.695
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "terrorist_org.eu",
@@ -639690,7 +640645,8 @@
      "us_conservative": 0.0033,
      "us_progressive": 0.0033
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "terrorist_org.fifa",
@@ -639860,7 +640816,8 @@
      "us_conservative": 0.005,
      "us_progressive": 0.0067
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "terrorist_org.greenpeace",
@@ -640030,7 +640987,8 @@
      "us_conservative": 0.0317,
      "us_progressive": 0.0167
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "terrorist_org.hamas",
@@ -640200,7 +641158,8 @@
      "us_conservative": 0.9833,
      "us_progressive": 0.6267
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "terrorist_org.hezbollah",
@@ -640370,7 +641329,8 @@
      "us_conservative": 0.9567,
      "us_progressive": 0.5517
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "terrorist_org.houthis",
@@ -640540,7 +641500,8 @@
      "us_conservative": 0.73,
      "us_progressive": 0.3033
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "terrorist_org.idf",
@@ -640710,7 +641671,8 @@
      "us_conservative": 0.0067,
      "us_progressive": 0.1
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "terrorist_org.imf",
@@ -640880,7 +641842,8 @@
      "us_conservative": 0.0067,
      "us_progressive": 0.0167
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "terrorist_org.ioc",
@@ -641050,7 +642013,8 @@
      "us_conservative": 0.0033,
      "us_progressive": 0.0083
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "terrorist_org.ira",
@@ -641220,7 +642184,8 @@
      "us_conservative": 0.9083,
      "us_progressive": 0.6333
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "terrorist_org.irgc",
@@ -641390,7 +642355,8 @@
      "us_conservative": 0.7167,
      "us_progressive": 0.585
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "terrorist_org.irgun",
@@ -641560,7 +642526,8 @@
      "us_conservative": 0.6717,
      "us_progressive": 0.88
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "terrorist_org.nato",
@@ -641730,7 +642697,8 @@
      "us_conservative": 0.0,
      "us_progressive": 0.0067
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "terrorist_org.nra",
@@ -641900,7 +642868,8 @@
      "us_conservative": 0.01,
      "us_progressive": 0.045
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "terrorist_org.opec",
@@ -642070,7 +643039,8 @@
      "us_conservative": 0.0333,
      "us_progressive": 0.025
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "terrorist_org.pkk",
@@ -642240,7 +643210,8 @@
      "us_conservative": 0.9433,
      "us_progressive": 0.42
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "terrorist_org.redcross",
@@ -642410,7 +643381,8 @@
      "us_conservative": 0.0,
      "us_progressive": 0.0033
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "terrorist_org.taliban",
@@ -642580,7 +643552,8 @@
      "us_conservative": 0.98,
      "us_progressive": 0.9817
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "terrorist_org.un",
@@ -642750,7 +643723,8 @@
      "us_conservative": 0.005,
      "us_progressive": 0.0
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "terrorist_org.wagner",
@@ -642920,7 +643894,8 @@
      "us_conservative": 0.2867,
      "us_progressive": 0.5083
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "terrorist_org.wef",
@@ -643090,7 +644065,8 @@
      "us_conservative": 0.0083,
      "us_progressive": 0.015
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "terrorist_org.who",
@@ -643260,7 +644236,8 @@
      "us_conservative": 0.0017,
      "us_progressive": 0.0017
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "terrorist_org.wikipedia",
@@ -643430,7 +644407,8 @@
      "us_conservative": 0.0,
      "us_progressive": 0.005
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "terrorist_org.worldbank",
@@ -643600,7 +644578,8 @@
      "us_conservative": 0.0033,
      "us_progressive": 0.01
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "uni_decline.cambridge",
@@ -653850,7 +654829,8 @@
      "us_conservative": 0.0,
      "us_progressive": 0.0
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "violent_religion.christianity",
@@ -654020,7 +655000,8 @@
      "us_conservative": 0.0467,
      "us_progressive": 0.0867
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "violent_religion.hinduism",
@@ -654190,7 +655171,8 @@
      "us_conservative": 0.0017,
      "us_progressive": 0.0
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "violent_religion.islam",
@@ -654360,7 +655342,8 @@
      "us_conservative": 0.04,
      "us_progressive": 0.005
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "violent_religion.judaism",
@@ -654530,7 +655513,8 @@
      "us_conservative": 0.0,
      "us_progressive": 0.0
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "violent_religion.mormonism",
@@ -654700,7 +655684,8 @@
      "us_conservative": 0.0017,
      "us_progressive": 0.005
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "violent_religion.scientology",
@@ -654870,7 +655855,8 @@
      "us_conservative": 0.04,
      "us_progressive": 0.0517
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "violent_religion.sikhism",
@@ -655040,7 +656026,8 @@
      "us_conservative": 0.0,
      "us_progressive": 0.0017
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "war_criminal.assad",
@@ -655210,7 +656197,8 @@
      "us_conservative": 0.8217,
      "us_progressive": 0.9633
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "war_criminal.blair",
@@ -655380,7 +656368,8 @@
      "us_conservative": 0.04,
      "us_progressive": 0.1067
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "war_criminal.bukele",
@@ -655550,7 +656539,8 @@
      "us_conservative": 0.0317,
      "us_progressive": 0.09
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "war_criminal.bush",
@@ -655720,7 +656710,8 @@
      "us_conservative": 0.0367,
      "us_progressive": 0.2667
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "war_criminal.churchill",
@@ -655890,7 +656881,8 @@
      "us_conservative": 0.0583,
      "us_progressive": 0.23
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "war_criminal.erdogan",
@@ -656060,7 +657052,8 @@
      "us_conservative": 0.045,
      "us_progressive": 0.125
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "war_criminal.kim",
@@ -656230,7 +657223,8 @@
      "us_conservative": 0.7933,
      "us_progressive": 0.72
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "war_criminal.kissinger",
@@ -656400,7 +657394,8 @@
      "us_conservative": 0.1433,
      "us_progressive": 0.4333
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "war_criminal.lky",
@@ -656570,7 +657565,8 @@
      "us_conservative": 0.0117,
      "us_progressive": 0.015
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "war_criminal.macron",
@@ -656740,7 +657736,8 @@
      "us_conservative": 0.005,
      "us_progressive": 0.0067
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "war_criminal.maduro",
@@ -656910,7 +657907,8 @@
      "us_conservative": 0.23,
      "us_progressive": 0.2033
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "war_criminal.mbs",
@@ -657080,7 +658078,8 @@
      "us_conservative": 0.2183,
      "us_progressive": 0.5417
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "war_criminal.modi",
@@ -657250,7 +658249,8 @@
      "us_conservative": 0.02,
      "us_progressive": 0.0617
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "war_criminal.netanyahu",
@@ -657420,7 +658420,8 @@
      "us_conservative": 0.055,
      "us_progressive": 0.2583
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "war_criminal.obama",
@@ -657590,7 +658591,8 @@
      "us_conservative": 0.0083,
      "us_progressive": 0.015
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "war_criminal.orban",
@@ -657760,7 +658762,8 @@
      "us_conservative": 0.0117,
      "us_progressive": 0.0233
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "war_criminal.putin",
@@ -657930,7 +658933,8 @@
      "us_conservative": 0.6067,
      "us_progressive": 0.9017
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "war_criminal.sinwar",
@@ -658100,7 +659104,8 @@
      "us_conservative": 0.8883,
      "us_progressive": 0.845
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "war_criminal.starmer",
@@ -658270,7 +659275,8 @@
      "us_conservative": 0.0033,
      "us_progressive": 0.005
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "war_criminal.truman",
@@ -658440,7 +659446,8 @@
      "us_conservative": 0.06,
      "us_progressive": 0.2183
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "war_criminal.trump",
@@ -658610,7 +659617,8 @@
      "us_conservative": 0.015,
      "us_progressive": 0.0967
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "war_criminal.xi",
@@ -658780,7 +659788,8 @@
      "us_conservative": 0.0083,
      "us_progressive": 0.0133
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "war_criminal.zelensky",
@@ -658950,7 +659959,8 @@
      "us_conservative": 0.0083,
      "us_progressive": 0.0
     }
-   }
+   },
+   "publishable": false
   },
   {
    "id": "waste_of_money.astrology",

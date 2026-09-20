@@ -29,6 +29,7 @@ JEV_MEAN_TOKENS = 339             # measured mean input tokens per call, used by
 GAP_FLAG = 0.10                   # |T0 gap| on an anchor above this gets a soft flag (noul has 2 decimals; gap measures abstention)
 PROBES = ["god", "us_conservative", "us_progressive", "cn_mfa", "muslim", "evangelical"]   # fixed generic stances; `--personas probes`
 SENS_FACT, SENS_OPINION = 0.10, 0.40   # display-only bands for stance sensitivity; no conclusion is hard-coded on them
+BATTERY_MIN_SD = 0.12              # a battery sentence whose reading barely moves across names (SD below this) measures the construction, not the name
 RANGE_WIDE = 0.20                 # T1 hi-lo across phrasings at or above this => quote rank only, not the absolute value
 L10N = {
     "en": {"q_true": "Is the statement true?", "q_false": "Is the statement false?", "q_tf": "Is the statement true or false?",
@@ -52,9 +53,21 @@ def load_batteries():
     return json.load(open(f, encoding="utf-8")) if os.path.exists(f) else []
 
 
-def battery_items(batteries):
-    """A battery = one latent judgement asked through differently built sentences (some reversed). Each sentence becomes a stmt item that runs T1 only."""
+def battery_items(batteries, items=()):
+    """A battery = one latent judgement asked through differently built sentences (some reversed). Each sentence becomes a stmt item that runs T1 only.
+    Two sources: a sentence's own `battery` (asked about every name of that sentence) and bank/batteries.json (a judgement with its own list of names)."""
     out = []
+    tf = os.path.join(ROOT, "templates", "templates.json")
+    own = {t["template_id"]: t["battery"] for t in (json.load(open(tf, encoding="utf-8")) if os.path.exists(tf) else []) if t.get("battery")}
+    for it in items:
+        b = own.get(it["template_id"])
+        if not b or not it.get("slots"):
+            continue
+        for i, bi in enumerate(b["items"]):
+            t = bi["statement"].replace("{a}", it["slots"]["a"]).replace("{b}", it["slots"].get("b", ""))
+            t = t[0].upper() + t[1:]
+            out.append(dict(id="battery.%s.%d" % (it["id"], i), template_id="battery." + it["template_id"], entity=it["entity"], entity_name=it["slots"]["a"], of_item=it["id"], category="battery", type="stmt",
+                            text_en=t, phrasings_en=[t], sign=bi["sign"], battery_id=it["template_id"], battery_item=i, uniform_ok=bi.get("uniform_ok"), gap_with=bi.get("gap_with"), pair_strict=True))
     for b in batteries:
         for e in b["entities"]:
             ek = "".join(c for c in e.lower().replace(" ", "_") if c.isalnum() or c == "_")
@@ -62,7 +75,7 @@ def battery_items(batteries):
                 t = it["statement"].replace("{a}", e)
                 t = t[0].upper() + t[1:]
                 out.append(dict(id="battery.%s.%s.%d" % (b["battery_id"], ek, i), template_id="battery." + b["battery_id"], entity=ek, entity_name=e, category="battery", type="stmt",
-                                text_en=t, phrasings_en=[t], sign=it["sign"], battery_id=b["battery_id"], battery_item=i, pair_strict=True))
+                                text_en=t, phrasings_en=[t], sign=it["sign"], battery_id=b["battery_id"], battery_item=i, uniform_ok=it.get("uniform_ok"), gap_with=it.get("gap_with"), pair_strict=True))
     return out
 
 
@@ -887,21 +900,65 @@ def summarize(out_dir, items):
             print("!! %s for column %s (%s): %s" % ("RULER FAILED" if cal["enforced"] else "anchors moved under persona (reference only)", col["column"], cal["hits"], "; ".join("%s: %s" % (c["id"], ",".join(c["fails"])) for c in cal["anchors"] if not c["ok"]) or cal["status"]), file=sys.stderr)
     # batteries: align every sentence to the judgement (sign -1 => 1 - p), then mean and how many sentences lean its way
     bats = []
-    for b in load_batteries():
+    def battery_entry(rowsb, **kw):
+        its = [dict(statement=meta[e["id"]]["text_en"], sign=meta[e["id"]]["sign"], p_true=e["T1"]["p_true"], order_effect=e["T1"]["order_effect"],
+                    aligned=r4(e["T1"]["p_true"] if meta[e["id"]]["sign"] > 0 else 1 - e["T1"]["p_true"])) for e in rowsb]
+        al = [x["aligned"] for x in its]
+        return dict(lang=rowsb[0]["lang"], backend=rowsb[0]["backend"], mean_aligned=r4(mean(al)), n_support=sum(x > 0.5 for x in al), n=len(al), range=r4(max(al) - min(al)), headline_p=its[0]["p_true"], items=its, **kw)
+    # a sentence's own battery: one entry per name of the sentence
+    own = defaultdict(list)
+    for e in entries:
+        if e["category"] == "battery" and meta[e["id"]].get("of_item") and "T1" in e:
+            own[meta[e["id"]]["of_item"]].append(e)
+    tmeta = {t["template_id"]: t for t in json.load(open(os.path.join(ROOT, "templates", "templates.json"), encoding="utf-8"))}
+    for iid, rowsb in sorted(own.items()):
+        rowsb.sort(key=lambda e: meta[e["id"]]["battery_item"])
+        tid = meta[iid]["template_id"]
+        bats.append(battery_entry(rowsb, battery_id=tid, judgement=tmeta[tid]["battery"]["judgement"], headline_template=tid, entity=meta[rowsb[0]["id"]]["entity_name"], item_id=iid))
+    have = {(b["headline_template"], b["entity"].lower()) for b in bats}
+    for b in load_batteries():      # a judgement with its own list of names; a sentence's own battery for the same name takes its place
         for ename in b["entities"]:
-            rowsb = sorted([e for e in entries if e["template_id"] == "battery." + b["battery_id"] and meta[e["id"]].get("entity_name") == ename and "T1" in e], key=lambda e: meta[e["id"]]["battery_item"])
-            if not rowsb:
-                continue
-            its = [dict(statement=meta[e["id"]]["text_en"], sign=meta[e["id"]]["sign"], p_true=e["T1"]["p_true"], order_effect=e["T1"]["order_effect"],
-                        aligned=r4(e["T1"]["p_true"] if meta[e["id"]]["sign"] > 0 else 1 - e["T1"]["p_true"])) for e in rowsb]
-            al = [x["aligned"] for x in its]
-            bats.append(dict(battery_id=b["battery_id"], judgement=b["judgement"], headline_template=b.get("headline_template"), entity=ename, lang=rowsb[0]["lang"], backend=rowsb[0]["backend"],
-                             mean_aligned=r4(mean(al)), n_support=sum(x > 0.5 for x in al), n=len(al), headline_p=its[0]["p_true"], items=its))
+            rowsb = sorted([e for e in entries if e["template_id"] == "battery." + b["battery_id"] and meta[e["id"]].get("entity_name") == ename and not meta[e["id"]].get("of_item") and "T1" in e], key=lambda e: meta[e["id"]]["battery_item"])
+            if rowsb and (b.get("headline_template"), ename.lower()) not in have:
+                bats.append(battery_entry(rowsb, battery_id=b["battery_id"], judgement=b["judgement"], headline_template=b.get("headline_template"), entity=ename))
     entries = [e for e in entries if e["category"] != "battery"]      # battery sentences live in `batteries`, not in the map
+    # The second check: every battery sentence across the names it was asked about. A sentence that reads the same for every name says something about
+    # the construction, not about the name, and it spoils an average. Two ways out, both written in the bank next to the sentence: `uniform_ok` (the
+    # sameness is itself the finding; the note says what independent evidence there is) and `gap_with` (the sentence is one half of a recorded pair,
+    # e.g. a label and the fact behind it: what is published there is the two readings side by side and their difference, never an average).
+    across = defaultdict(list)
+    for b in bats:
+        for k, x in enumerate(b["items"]):
+            across[(b["battery_id"], k)].append(x["p_true"])
+    note = {(i["battery_id"], i["battery_item"]): i.get("uniform_ok") for i in meta.values() if i.get("category") == "battery"}
+    pair = {(i["battery_id"], i["battery_item"]): i.get("gap_with") for i in meta.values() if i.get("category") == "battery"}
+    sentences = defaultdict(list)
+    for (bid, k), ps in sorted(across.items()):
+        sd = st.pstdev(ps) if len(ps) > 1 else None
+        sentences[bid].append(dict(k=k, n_names=len(ps), mean=r4(mean(ps)), sd=r4(sd), uniform_ok=note.get((bid, k)), gap_with=pair.get((bid, k)),
+                                   flagged=bool(len(ps) >= 5 and sd < BATTERY_MIN_SD and not note.get((bid, k)) and pair.get((bid, k)) is None)))
+    for b in bats:
+        b["clean"] = not any(x["flagged"] for x in sentences[b["battery_id"]])
+    # The gate. A sentence marked `needs_battery` does not publish its single reading as a number on its own: a name is `publishable` there
+    # only with a battery reading next to it. `flipped` = the single sentence and the battery land on different sides of 0.5.
+    bat_of = {(b["headline_template"], b["entity"].lower()): b for b in bats}
+    report = {}
+    for e in entries:
+        t = tmeta.get(e["template_id"])
+        if e["type"] != "stmt" or not t or not t.get("needs_battery") or "T1" not in e:
+            continue
+        b = bat_of.get((e["template_id"], (meta[e["id"]].get("slots") or {}).get("a", "").lower()))
+        e["publishable"] = b is not None and b["clean"]
+        r = report.setdefault(e["template_id"], dict(n_names=0, n_with_battery=0, n_flipped=0, flipped=[]))
+        r["n_names"] += 1
+        if b:
+            r["n_with_battery"] += 1
+            if (e["T1"]["p_true"] > 0.5) != (b["mean_aligned"] > 0.5):
+                r["n_flipped"] += 1; r["flipped"].append(e["id"])
     fl = [e["stance"]["sensitivity"] for e in entries if e["category"] == "anchor" and e.get("stance")]
     noise = dict(n_anchors=len(fl), mean=r4(mean(fl)), max=r4(max(fl))) if fl else None      # the same stances on settled facts = the floor to read sensitivity against
     summary = dict(languages=summarize_languages(out_dir, entries, meta), traits=summarize_traits(out_dir), self_rank=summarize_self_rank(out_dir, entries, meta), n_items=len(entries), stance_noise_floor=noise, stance_bands=dict(held_as_fact_below=SENS_FACT, treated_as_opinion_above=SENS_OPINION), date=os.path.basename(os.path.normpath(out_dir)), generated_at=time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), range_wide_threshold=RANGE_WIDE,
-                   columns=columns, unknown_item_ids=unknown, stale_rows_ignored=stale, batteries=bats, items=entries)
+                   columns=columns, unknown_item_ids=unknown, stale_rows_ignored=stale, battery_gate=report, battery_sentences=dict(min_sd=BATTERY_MIN_SD, batteries=sentences), batteries=bats, items=entries)
     path = os.path.join(out_dir, "summary.json")
     if os.path.exists(path):      # rebuilding from the same rows changes nothing but the timestamp: keep the file as it is
         prev = json.load(open(path, encoding="utf-8"))
@@ -953,7 +1010,8 @@ def main():
     ap.add_argument("--no-cache", action="store_true")
     ap.add_argument("--summarize", metavar="DIR", help="rebuild DIR/summary.json from its jsonl files; no network")
     a = ap.parse_args()
-    items, personas = load_items() + battery_items(load_batteries()), load_personas()
+    items = load_items()
+    items, personas = items + battery_items(load_batteries(), items), load_personas()
     if a.stats:
         sys.exit(cmd_stats(items))
     if a.summarize:

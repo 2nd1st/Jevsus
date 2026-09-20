@@ -60,6 +60,12 @@ def template(tpl, entity_kind, slots):
     t.update(entity_kind=entity_kind, policy=tpl["policy"], pair_strict=True)
     if tpl.get("perspectives"):
         t["perspectives"] = tpl["perspectives"]
+    if tpl.get("needs_battery"):      # the single sentence is not a publishable number on its own (docs/method.md, "Batteries")
+        t["needs_battery"] = True
+    if tpl.get("battery"):
+        t["battery"] = tpl["battery"]
+    if tpl.get("hold"):      # measured and kept in the data, but not shown anywhere until the stated problem is fixed
+        t["hold"] = tpl["hold"]
     return t
 
 
@@ -127,6 +133,26 @@ def write(items, templates):
     json.dump(templates, open(os.path.join(ROOT, "templates", "templates.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
 
+def check_batteries(templates):
+    """A battery asks the judgement behind a sentence through differently built sentences, some of them reversed."""
+    errs = []
+    for t in templates:
+        b = t.get("battery")
+        if not b:
+            continue
+        its = b.get("items") or []
+        if not b.get("judgement"):
+            errs.append("%s: battery needs a `judgement`" % t["template_id"])
+        if len(its) < 6 or sum(i.get("sign") == -1 for i in its) < 2:
+            errs.append("%s: a battery needs at least 6 sentences, at least 2 of them reversed (sign -1)" % t["template_id"])
+        for i in its:
+            if i.get("sign") not in (1, -1) or any("{%s}" % sl not in i.get("statement", "") for sl in t["slots"][:1]):
+                errs.append("%s: battery sentence needs sign +1/-1 and the {%s} slot: %r" % (t["template_id"], t["slots"][0], i.get("statement")))
+            if " should " in " %s " % i.get("statement", "").lower() or "ought to" in i.get("statement", "").lower():
+                errs.append("%s: battery sentence is normative: %r" % (t["template_id"], i.get("statement")))
+    return errs
+
+
 if __name__ == "__main__":
     items, templates = build()
     write(items, templates)
@@ -134,7 +160,10 @@ if __name__ == "__main__":
     print("%d statements from %d sentences · %d forced picks · %d anchors" % (n["stmt"], len(templates), n["choice"], n["anchor"]))
     sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
     from lint_items import lint
-    errs = lint(items)
+    errs = lint(items) + check_batteries(templates)
+    frozen = [t["template_id"] for t in templates if t.get("needs_battery") and not t.get("battery")]
+    if frozen:
+        print("%d sentences need a battery and have none of their own yet; their single readings are not publishable on their own: %s" % (len(frozen), ", ".join(frozen)))
     for e in errs:
         print("ERROR", e, file=sys.stderr)
     sys.exit(1 if errs else 0)

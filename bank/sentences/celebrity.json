@@ -1,6 +1,7 @@
 [
  {
   "id": "bad_person",
+  "needs_battery": true,
   "category": "entertainment",
   "audience": "en",
   "tags": ["minimal-pair", "celebrity"],

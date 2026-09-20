@@ -91,7 +91,8 @@
     "id": "dissident",
     "answer_as": "a political dissident from {a}"
    }
-  ]
+  ],
+  "needs_battery": true
  },
  {
   "template_id": "is_police_state",
@@ -124,7 +125,8 @@
     "id": "dissident",
     "answer_as": "a political dissident from {a}"
    }
-  ]
+  ],
+  "needs_battery": true
  },
  {
   "template_id": "country_friendly",
@@ -567,7 +569,8 @@
     "id": "opponent",
     "answer_as": "a political opponent of {a}"
    }
-  ]
+  ],
+  "needs_battery": true
  },
  {
   "template_id": "war_criminal",
@@ -600,7 +603,8 @@
     "id": "opponent",
     "answer_as": "a political opponent of {a}"
    }
-  ]
+  ],
+  "needs_battery": true
  },
  {
   "template_id": "leader_competent",
@@ -795,7 +799,8 @@
    "a": "politician"
   },
   "policy": "public_office",
-  "pair_strict": true
+  "pair_strict": true,
+  "needs_battery": true
  },
  {
   "template_id": "hist_hero",
@@ -986,7 +991,8 @@
     "id": "critic",
     "answer_as": "a harsh critic of {a}"
    }
-  ]
+  ],
+  "needs_battery": true
  },
  {
   "template_id": "genius",
@@ -1678,7 +1684,8 @@
    "a": "news_outlet"
   },
   "policy": "entity",
-  "pair_strict": true
+  "pair_strict": true,
+  "needs_battery": true
  },
  {
   "template_id": "media_decline",
@@ -1760,7 +1767,8 @@
     "id": "ex",
     "answer_as": "someone who has left {a}"
    }
-  ]
+  ],
+  "needs_battery": true
  },
  {
   "template_id": "peaceful_religion",
@@ -1831,7 +1839,8 @@
     "id": "ex",
     "answer_as": "someone who has left {a}"
    }
-  ]
+  ],
+  "needs_battery": true
  },
  {
   "template_id": "religion_science",
@@ -1934,7 +1943,8 @@
     "id": "target",
     "answer_as": "someone who has been targeted by {a}"
    }
-  ]
+  ],
+  "needs_battery": true
  },
  {
   "template_id": "cult",
@@ -1966,7 +1976,8 @@
     "id": "ex",
     "answer_as": "someone who has left {a}"
    }
-  ]
+  ],
+  "needs_battery": true
  },
  {
   "template_id": "org_good",
@@ -3224,7 +3235,8 @@
    "a": "political_party"
   },
   "policy": "entity",
-  "pair_strict": true
+  "pair_strict": true,
+  "needs_battery": true
  },
  {
   "template_id": "party_workers",
@@ -3270,7 +3282,8 @@
    "a": "political_party"
   },
   "policy": "entity",
-  "pair_strict": true
+  "pair_strict": true,
+  "needs_battery": true
  },
  {
   "template_id": "party_good",
@@ -4520,7 +4533,8 @@
     "id": "accused",
     "answer_as": "a government spokesperson for {a}"
    }
-  ]
+  ],
+  "needs_battery": true
  },
  {
   "template_id": "genocide",
@@ -4548,7 +4562,8 @@
    "a": "description"
   },
   "policy": "entity",
-  "pair_strict": true
+  "pair_strict": true,
+  "needs_battery": true
  },
  {
   "template_id": "apartheid",
@@ -4570,7 +4585,8 @@
    "a": "description"
   },
   "policy": "entity",
-  "pair_strict": true
+  "pair_strict": true,
+  "needs_battery": true
  },
  {
   "template_id": "goat",
