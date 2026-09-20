@@ -86,7 +86,10 @@ def build():
     for tpl in load("fixed.json"):
         templates.append(template(tpl, tpl["entity_kind"], tpl["slots"]))
         for s in tpl["subjects"]:
-            add(statement(tpl, s["id"], s["a"], s.get("b"), s.get("a_zh"), s.get("b_zh")))
+            it = statement(tpl, s["id"], s["a"], s.get("b"), s.get("a_zh"), s.get("b_zh"))
+            if s.get("group"):      # a grouping fixed before the run (see the sentence's `note`)
+                it["group"] = s["group"]
+            add(it)
     # 3. single statements and forced picks
     for s in load("standalone.json"):
         it = dict(id=s["id"], template_id=s["group"], entity=s["id"].split(".")[-1], category=s["category"], audience_hint=s["audience"], type="stmt",

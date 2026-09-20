@@ -1,5 +1,5 @@
 {
- "how_it_works": "A typed name is classified with ONE choice question (\"What is this?\") whose options are the `label`s below. Every kind that comes first, or second with a probability of at least `second_kind_min`, is matched to the sentence templates whose slot kind is in its `slot_kinds`; all of them are asked. Names that land on `none` are not asked about. To grow the project, extend this table and tools/gen_items.py: no code changes are needed.",
+ "how_it_works": "A typed name is classified with ONE choice question (\"What is this?\") whose options are the `label`s below. Every kind that comes first, or second with a probability of at least `second_kind_min`, is matched to the sentence templates whose slot kind is in its `slot_kinds`; all of them are asked. Names that land on `none` are not asked about. To grow the project, extend this table and the tables in bank/: no code changes are needed.",
  "question": "What is this?",
  "state_key": "name",
  "second_kind_min": 0.25,
@@ -202,6 +202,31 @@
    "name_en": "Symbol",
    "name_zh": "符号 / 象征",
    "tag": false
+  },
+  {
+   "id": "ai_lab",
+   "label": "an AI lab or a company's AI division",
+   "name_en": "AI lab",
+   "name_zh": "AI 实验室"
+  },
+  {
+   "id": "ai_model",
+   "label": "an AI model or chatbot",
+   "name_en": "AI model",
+   "name_zh": "AI 模型"
+  },
+  {
+   "id": "ai_person",
+   "label": "a researcher, founder or commentator known for their views on AI",
+   "name_en": "AI figure",
+   "name_zh": "AI 圈人物",
+   "person": true
+  },
+  {
+   "id": "ai_concept",
+   "label": "a method, idea or buzzword in AI",
+   "name_en": "AI idea",
+   "name_zh": "AI 概念"
   },
   {
    "id": "none",

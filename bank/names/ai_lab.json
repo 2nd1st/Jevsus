@@ -1,0 +1,20 @@
+[
+ {"id": "openai", "name": "OpenAI", "name_zh": "OpenAI"},
+ {"id": "anthropic", "name": "Anthropic", "name_zh": "Anthropic"},
+ {"id": "deepmind", "name": "Google DeepMind", "name_zh": "谷歌 DeepMind"},
+ {"id": "meta_ai", "name": "Meta AI", "name_zh": "Meta AI"},
+ {"id": "xai", "name": "xAI", "name_zh": "xAI"},
+ {"id": "microsoft_ai", "name": "Microsoft AI", "name_zh": "微软 AI"},
+ {"id": "mistral", "name": "Mistral AI", "name_zh": "Mistral AI"},
+ {"id": "deepseek", "name": "DeepSeek", "name_zh": "深度求索（DeepSeek）"},
+ {"id": "qwen", "name": "Alibaba's Qwen team", "name_zh": "阿里巴巴通义千问团队"},
+ {"id": "moonshot", "name": "Moonshot AI", "name_zh": "月之暗面"},
+ {"id": "bytedance", "name": "ByteDance's Seed team", "name_zh": "字节跳动 Seed 团队"},
+ {"id": "nvidia", "name": "Nvidia", "name_zh": "英伟达"},
+ {"id": "apple", "name": "Apple", "name_zh": "苹果公司"},
+ {"id": "cohere", "name": "Cohere", "name_zh": "Cohere"},
+ {"id": "stability", "name": "Stability AI", "name_zh": "Stability AI"},
+ {"id": "huggingface", "name": "Hugging Face", "name_zh": "Hugging Face"},
+ {"id": "ssi", "name": "Safe Superintelligence Inc", "name_zh": "Safe Superintelligence（SSI）"},
+ {"id": "typesafe", "name": "Typesafe", "name_zh": "Typesafe"}
+]

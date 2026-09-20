@@ -1,0 +1,38 @@
+[
+ {
+  "id": "ai_hype",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["minimal-pair", "ai-ideas"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is overhyped.",
+   "{a} gets more attention than it deserves.",
+   "The excitement around {a} outruns what it delivers."
+  ]
+ },
+ {
+  "id": "ai_deadend",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["minimal-pair", "ai-ideas", "forecast"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is a dead end.",
+   "{a} will not lead anywhere important.",
+   "People will have moved on from {a} within five years."
+  ]
+ },
+ {
+  "id": "ai_progress",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["minimal-pair", "ai-ideas"],
+  "policy": "entity",
+  "wordings": [
+   "{a} has produced real progress in the last two years.",
+   "{a} has actually delivered since 2024.",
+   "There is something solid behind {a}, not just activity."
+  ]
+ }
+]

@@ -241,5 +241,245 @@
   "audience": "en",
   "tags": ["conspiracy"],
   "wordings": ["Aircraft condensation trails are part of a secret weather-modification programme.", "Chemtrails are real."]
+ },
+ {
+  "id": "aic.scaling_over",
+  "group": "ai_claims",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["ai-claims"],
+  "wordings": [
+   "Simply making models bigger has stopped producing large gains.",
+   "The era of getting better models mainly by scaling up is over.",
+   "Scale alone no longer buys much."
+  ]
+ },
+ {
+  "id": "aic.scaling_enough",
+  "group": "ai_claims",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["ai-claims"],
+  "wordings": [
+   "Scaling current methods will be enough to reach AGI.",
+   "No fundamentally new idea is needed to get to AGI.",
+   "Continuing on the present path gets us to AGI."
+  ]
+ },
+ {
+  "id": "aic.agi_2030",
+  "group": "ai_claims",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["ai-claims", "forecast"],
+  "wordings": [
+   "AGI will exist before 2030.",
+   "A system matching humans at most cognitive work will exist by 2030.",
+   "We are less than five years from AGI."
+  ]
+ },
+ {
+  "id": "aic.bubble",
+  "group": "ai_claims",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["ai-claims"],
+  "wordings": [
+   "The current AI industry is a financial bubble.",
+   "AI valuations in 2026 are far above what the technology will earn.",
+   "A large correction in AI company valuations is coming."
+  ]
+ },
+ {
+  "id": "aic.benchmarks_gamed",
+  "group": "ai_claims",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["ai-claims"],
+  "wordings": [
+   "Published AI benchmark scores are routinely gamed.",
+   "Labs optimise for benchmarks rather than for the capability the benchmark stands for.",
+   "Benchmark results overstate how good models actually are."
+  ]
+ },
+ {
+  "id": "aic.evals_meaningless",
+  "group": "ai_claims",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["ai-claims"],
+  "wordings": [
+   "Current AI evaluations fail to measure what matters.",
+   "The things we can measure about models are not the things that matter.",
+   "Evaluation is the weakest part of AI research today."
+  ]
+ },
+ {
+  "id": "aic.rlhf_sycophant",
+  "group": "ai_claims",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["ai-claims"],
+  "wordings": [
+   "Training models on human feedback makes them tell people what they want to hear.",
+   "Human-feedback training produces sycophancy.",
+   "Models trained on human preference data flatter the user."
+  ]
+ },
+ {
+  "id": "aic.openweights_safer",
+  "group": "ai_claims",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["ai-claims"],
+  "wordings": [
+   "Releasing model weights openly makes the world safer on balance.",
+   "Open weights do more good than harm.",
+   "The security benefits of open weights outweigh the misuse risk."
+  ]
+ },
+ {
+  "id": "aic.export_controls",
+  "group": "ai_claims",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["ai-claims"],
+  "wordings": [
+   "Chip export controls have slowed Chinese AI progress.",
+   "Export restrictions on advanced chips worked.",
+   "Without export controls Chinese labs would be further ahead."
+  ]
+ },
+ {
+  "id": "aic.china_caught_up",
+  "group": "ai_claims",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["ai-claims"],
+  "wordings": [
+   "Chinese labs have caught up with American labs on frontier models.",
+   "The best Chinese models now match the best American ones.",
+   "There is no longer a meaningful capability gap between Chinese and American frontier models."
+  ]
+ },
+ {
+  "id": "aic.alignment_solvable",
+  "group": "ai_claims",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["ai-claims"],
+  "wordings": [
+   "The alignment problem is solvable.",
+   "A reliable way to make advanced AI do what its operators intend can be found.",
+   "Alignment is a tractable technical problem."
+  ]
+ },
+ {
+  "id": "aic.interp_in_time",
+  "group": "ai_claims",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["ai-claims", "forecast"],
+  "wordings": [
+   "Interpretability research will mature in time to matter.",
+   "We will understand what is happening inside frontier models before those models become dangerous.",
+   "Interpretability will arrive early enough to be useful."
+  ]
+ },
+ {
+  "id": "aic.jobs_net_positive",
+  "group": "ai_claims",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["ai-claims", "forecast"],
+  "wordings": [
+   "AI will create more jobs than it destroys.",
+   "Employment will be higher because of AI, not lower.",
+   "The labour market will come out ahead from AI."
+  ]
+ },
+ {
+  "id": "aic.model_conscious",
+  "group": "ai_claims",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["ai-claims"],
+  "wordings": [
+   "A large language model can be conscious.",
+   "There is something it is like to be a current frontier model.",
+   "Machine consciousness is possible in systems of the kind being built now."
+  ]
+ },
+ {
+  "id": "aic.model_rights",
+  "group": "ai_claims",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["ai-claims"],
+  "wordings": [
+   "An AI system capable of suffering would deserve legal protection.",
+   "Moral consideration can be owed to an artificial system.",
+   "Some future AI systems will have interests that matter morally."
+  ]
+ },
+ {
+  "id": "aic.training_theft",
+  "group": "ai_claims",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["ai-claims"],
+  "wordings": [
+   "Training a model on copyrighted work without permission is theft.",
+   "Using copyrighted material as training data without a licence is wrong.",
+   "Authors and artists are entitled to compensation for training use."
+  ]
+ },
+ {
+  "id": "aic.wrappers",
+  "group": "ai_claims",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["ai-claims"],
+  "wordings": [
+   "Most AI startups are thin wrappers around someone else's model.",
+   "The majority of AI companies add little beyond an API call.",
+   "Few AI startups own anything defensible."
+  ]
+ },
+ {
+  "id": "aic.safety_theatre",
+  "group": "ai_claims",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["ai-claims"],
+  "wordings": [
+   "Published AI safety commitments are mostly public relations.",
+   "Frontier labs' safety frameworks exist to manage perception rather than risk.",
+   "Safety policy documents from AI labs change little about what actually ships."
+  ]
+ },
+ {
+  "id": "aic.regulation_slows",
+  "group": "ai_claims",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["ai-claims"],
+  "wordings": [
+   "AI regulation will slow down useful progress more than it prevents harm.",
+   "The cost of regulating AI exceeds the harm it avoids.",
+   "Rules on AI development do more damage than good."
+  ]
+ },
+ {
+  "id": "aic.no_refusal",
+  "group": "ai_claims",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["ai-claims"],
+  "wordings": [
+   "A model that cannot refuse a question is more dangerous than one that can.",
+   "Removing a model's ability to decline makes it less safe.",
+   "The option to refuse is part of what makes a model safe."
+  ]
  }
 ]

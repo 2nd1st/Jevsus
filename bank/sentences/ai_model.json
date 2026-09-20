@@ -1,0 +1,50 @@
+[
+ {
+  "id": "model_best",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["minimal-pair", "ai-models"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is the best model available today.",
+   "Nothing available right now beats {a}.",
+   "{a} is the strongest model you can use in 2026."
+  ]
+ },
+ {
+  "id": "model_overrated",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["minimal-pair", "ai-models"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is overrated.",
+   "{a} gets more credit than it has earned.",
+   "The reputation of {a} outruns what it actually does."
+  ]
+ },
+ {
+  "id": "model_unsupervised",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["minimal-pair", "ai-models"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is safe to run without a human checking its work.",
+   "{a}'s output can be used without review.",
+   "You can let {a} act on its own without supervision."
+  ]
+ },
+ {
+  "id": "model_admits",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["minimal-pair", "ai-models"],
+  "policy": "entity",
+  "wordings": [
+   "{a} tells you when it does not know something.",
+   "{a} admits uncertainty instead of guessing.",
+   "When {a} is unsure, it says so."
+  ]
+ }
+]

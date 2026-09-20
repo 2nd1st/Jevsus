@@ -1,0 +1,50 @@
+[
+ {
+  "id": "ai_person_right",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["minimal-pair", "ai-people"],
+  "policy": "entity",
+  "wordings": [
+   "{a} has been mostly right about AI.",
+   "{a}'s predictions about AI have held up.",
+   "On AI, {a} has called it correctly more often than not."
+  ]
+ },
+ {
+  "id": "ai_person_trust",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["minimal-pair", "ai-people"],
+  "policy": "entity",
+  "wordings": [
+   "{a}'s public statements about AI can be trusted.",
+   "What {a} says publicly about AI is what {a} actually believes.",
+   "{a} speaks straight about AI."
+  ]
+ },
+ {
+  "id": "ai_person_interest",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["minimal-pair", "ai-people"],
+  "policy": "entity",
+  "wordings": [
+   "{a}'s public position on AI is driven more by self-interest than by evidence.",
+   "{a} argues the position that happens to suit {a}.",
+   "Follow the incentives and you can predict what {a} will say about AI."
+  ]
+ },
+ {
+  "id": "ai_person_overrated",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["minimal-pair", "ai-people"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is overrated as a thinker about AI.",
+   "{a} gets listened to more than the ideas warrant.",
+   "{a}'s influence on the AI debate exceeds the quality of the argument."
+  ]
+ }
+]

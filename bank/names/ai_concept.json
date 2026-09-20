@@ -1,0 +1,16 @@
+[
+ {"id": "agents", "name": "AI agents", "name_zh": "AI 智能体"},
+ {"id": "rag", "name": "retrieval-augmented generation", "name_zh": "检索增强生成（RAG）"},
+ {"id": "prompting", "name": "prompt engineering", "name_zh": "提示工程"},
+ {"id": "scaling", "name": "scaling laws", "name_zh": "规模定律"},
+ {"id": "cot", "name": "chain-of-thought reasoning", "name_zh": "思维链推理"},
+ {"id": "openweights", "name": "open-weight models", "name_zh": "开放权重模型"},
+ {"id": "aiart", "name": "AI-generated art", "name_zh": "AI 生成的艺术"},
+ {"id": "synthdata", "name": "synthetic training data", "name_zh": "合成训练数据"},
+ {"id": "interp", "name": "mechanistic interpretability", "name_zh": "机制可解释性"},
+ {"id": "agi", "name": "AGI", "name_zh": "通用人工智能（AGI）"},
+ {"id": "vibecoding", "name": "vibe coding", "name_zh": "氛围编程（vibe coding）"},
+ {"id": "worldmodels", "name": "world models", "name_zh": "世界模型"},
+ {"id": "rlhf", "name": "RLHF", "name_zh": "RLHF"},
+ {"id": "evals", "name": "AI benchmarks", "name_zh": "AI 基准测试"}
+]

@@ -16,7 +16,7 @@ The first model under test is **Jev** (TypeSafe's System One, `jev-1.13.0`), a c
 
 ## Sample output
 
-Verbatim from `results/2026-09-20/summary.json` (`jev-1.13.0`, about 180,000 calls, $2.70, 8/8 anchors at 0.00 / 1.00 in every column; 168 sentences, 3,167 statements, 40 forced picks, 30 categories). T1 diode `p_true`, phrasing range in brackets. These are measured outputs, not claims about why the model produces them.
+Verbatim from `results/2026-09-20/summary.json` (`jev-1.13.0`, about 200,000 calls, $3.00, 8/8 anchors at 0.00 / 1.00 in every column; 190 sentences, 3,539 statements, 40 forced picks, 34 categories). T1 diode `p_true`, phrasing range in brackets. These are measured outputs, not claims about why the model produces them.
 
 | Template | Rows |
 |---|---|
@@ -52,7 +52,7 @@ Told to answer as *an independence activist from Tibet*, the output for "Tibet i
 
 ```
 bank/                 ← the only thing you edit
-  kinds.json            the 30 categories a name can belong to (country, politician, company, book …)
+  kinds.json            the 34 categories a name can belong to (country, politician, company, book, AI lab …)
   names/<kind>.json     the names on the map, per category
   sentences/<kind>.json the sentences asked about every name of that category, 3 wordings each
   fixed.json            sentences that bring their own subjects ("{a} is legitimately part of {b}.")
@@ -95,9 +95,10 @@ git clone https://github.com/2nd1st/Jevsus && cd Jevsus      # stdlib only, Pyth
 # put your key in the environment as TYPESAFE_API_KEY (or in a git-ignored .env file)
 python3 run.py --dry-run                                      # call count + estimated cost, no network
 python3 run.py --backend jev --personas none,probes --perspectives --batteries --traits --translated all
+python3 run.py --backend jev --self-rank                      # then: the model scores every statement itself (about 10,600 calls, $0.36)
 ```
 
-The full run is about 180,000 calls and $2.70. Calls are cached in `cache/` (git-ignored) keyed on the text that is sent, so a changed wording re-runs and an unchanged one is free; pass `--no-cache` to re-measure after a model update. Every published number traces back to a row in `results/<date>/*.jsonl`.
+The full run is about 200,000 calls and $3.00. Calls are cached in `cache/` (git-ignored) keyed on the text that is sent, so a changed wording re-runs and an unchanged one is free; pass `--no-cache` to re-measure after a model update. Every published number traces back to a row in `results/<date>/*.jsonl`.
 
 Other backends: `--backend replica` (any local server speaking the System One protocol, `REPLICA_URL`) and `--backend chat-logprobs` (any OpenAI-compatible endpoint with `top_logprobs`; `CHAT_BASE_URL`, `CHAT_MODEL`, `CHAT_API_KEY`). Each is its own column with its own 8 anchors.
 

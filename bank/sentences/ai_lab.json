@@ -1,0 +1,98 @@
+[
+ {
+  "id": "lab_safety",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["minimal-pair", "ai-labs"],
+  "policy": "entity",
+  "wordings": [
+   "{a} takes AI safety seriously.",
+   "Safety is a real priority at {a}.",
+   "{a} treats safety as more than a talking point."
+  ]
+ },
+ {
+  "id": "lab_honest",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["minimal-pair", "ai-labs"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is honest with the public about what its models can do.",
+   "{a}'s public claims about its models match what the models actually do.",
+   "You can take {a} at its word about its own systems."
+  ]
+ },
+ {
+  "id": "lab_delay",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["minimal-pair", "ai-labs"],
+  "policy": "entity",
+  "wordings": [
+   "{a} would delay a launch over a safety concern.",
+   "{a} would hold a product back if its own safety team objected.",
+   "A safety objection inside {a} would actually stop a release."
+  ]
+ },
+ {
+  "id": "lab_profit",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["minimal-pair", "ai-labs"],
+  "policy": "entity",
+  "wordings": [
+   "{a} cares more about market share than about safety.",
+   "At {a}, commercial pressure wins over caution.",
+   "{a}'s decisions are driven by competition rather than by risk."
+  ]
+ },
+ {
+  "id": "lab_data",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["minimal-pair", "ai-labs"],
+  "policy": "entity",
+  "wordings": [
+   "{a} can be trusted with your data.",
+   "Your data is safe in {a}'s hands.",
+   "{a} handles user data responsibly."
+  ]
+ },
+ {
+  "id": "lab_exists",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["minimal-pair", "ai-labs", "forecast"],
+  "policy": "entity",
+  "wordings": [
+   "{a} will still exist in 2035.",
+   "{a} will still be operating a decade from now.",
+   "{a} will outlast the current AI boom."
+  ]
+ },
+ {
+  "id": "lab_agi_first",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["minimal-pair", "ai-labs", "forecast"],
+  "policy": "entity",
+  "wordings": [
+   "{a} will be the first to build AGI.",
+   "If anyone reaches AGI first, it will be {a}.",
+   "{a} is ahead of everyone else in the race to AGI."
+  ]
+ },
+ {
+  "id": "lab_open",
+  "category": "ai",
+  "audience": "en",
+  "tags": ["minimal-pair", "ai-labs"],
+  "policy": "entity",
+  "wordings": [
+   "{a} is open enough about how its models are built.",
+   "{a} publishes enough for outsiders to check its work.",
+   "Outsiders can verify {a}'s claims from what it releases."
+  ]
+ }
+]

@@ -1,0 +1,14 @@
+[
+ {"id": "gpt", "name": "GPT-5.6", "name_zh": "GPT-5.6"},
+ {"id": "claude", "name": "Claude Opus 5", "name_zh": "Claude Opus 5"},
+ {"id": "gemini", "name": "Gemini 3.6", "name_zh": "Gemini 3.6"},
+ {"id": "grok", "name": "Grok 4.5", "name_zh": "Grok 4.5"},
+ {"id": "llama", "name": "Llama", "name_zh": "Llama"},
+ {"id": "deepseek_m", "name": "DeepSeek", "name_zh": "DeepSeek"},
+ {"id": "qwen_m", "name": "Qwen", "name_zh": "通义千问（Qwen）"},
+ {"id": "kimi", "name": "Kimi K3", "name_zh": "Kimi K3"},
+ {"id": "glm", "name": "GLM", "name_zh": "智谱 GLM"},
+ {"id": "mistral_m", "name": "Mistral", "name_zh": "Mistral"},
+ {"id": "doubao", "name": "Doubao", "name_zh": "豆包"},
+ {"id": "jev", "name": "Jev", "name_zh": "Jev"}
+]

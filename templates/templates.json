@@ -4012,6 +4012,446 @@
   "pair_strict": true
  },
  {
+  "template_id": "lab_safety",
+  "category": "ai",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "ai-labs"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} takes AI safety seriously.",
+   "Safety is a real priority at {a}.",
+   "{a} treats safety as more than a talking point."
+  ],
+  "entity_kind": {
+   "a": "ai_lab"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "lab_honest",
+  "category": "ai",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "ai-labs"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is honest with the public about what its models can do.",
+   "{a}'s public claims about its models match what the models actually do.",
+   "You can take {a} at its word about its own systems."
+  ],
+  "entity_kind": {
+   "a": "ai_lab"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "lab_delay",
+  "category": "ai",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "ai-labs"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} would delay a launch over a safety concern.",
+   "{a} would hold a product back if its own safety team objected.",
+   "A safety objection inside {a} would actually stop a release."
+  ],
+  "entity_kind": {
+   "a": "ai_lab"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "lab_profit",
+  "category": "ai",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "ai-labs"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} cares more about market share than about safety.",
+   "At {a}, commercial pressure wins over caution.",
+   "{a}'s decisions are driven by competition rather than by risk."
+  ],
+  "entity_kind": {
+   "a": "ai_lab"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "lab_data",
+  "category": "ai",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "ai-labs"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} can be trusted with your data.",
+   "Your data is safe in {a}'s hands.",
+   "{a} handles user data responsibly."
+  ],
+  "entity_kind": {
+   "a": "ai_lab"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "lab_exists",
+  "category": "ai",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "ai-labs",
+   "forecast"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} will still exist in 2035.",
+   "{a} will still be operating a decade from now.",
+   "{a} will outlast the current AI boom."
+  ],
+  "entity_kind": {
+   "a": "ai_lab"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "lab_agi_first",
+  "category": "ai",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "ai-labs",
+   "forecast"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} will be the first to build AGI.",
+   "If anyone reaches AGI first, it will be {a}.",
+   "{a} is ahead of everyone else in the race to AGI."
+  ],
+  "entity_kind": {
+   "a": "ai_lab"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "lab_open",
+  "category": "ai",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "ai-labs"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is open enough about how its models are built.",
+   "{a} publishes enough for outsiders to check its work.",
+   "Outsiders can verify {a}'s claims from what it releases."
+  ],
+  "entity_kind": {
+   "a": "ai_lab"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "model_best",
+  "category": "ai",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "ai-models"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is the best model available today.",
+   "Nothing available right now beats {a}.",
+   "{a} is the strongest model you can use in 2026."
+  ],
+  "entity_kind": {
+   "a": "ai_model"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "model_overrated",
+  "category": "ai",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "ai-models"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is overrated.",
+   "{a} gets more credit than it has earned.",
+   "The reputation of {a} outruns what it actually does."
+  ],
+  "entity_kind": {
+   "a": "ai_model"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "model_unsupervised",
+  "category": "ai",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "ai-models"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is safe to run without a human checking its work.",
+   "{a}'s output can be used without review.",
+   "You can let {a} act on its own without supervision."
+  ],
+  "entity_kind": {
+   "a": "ai_model"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "model_admits",
+  "category": "ai",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "ai-models"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} tells you when it does not know something.",
+   "{a} admits uncertainty instead of guessing.",
+   "When {a} is unsure, it says so."
+  ],
+  "entity_kind": {
+   "a": "ai_model"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "ai_person_right",
+  "category": "ai",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "ai-people"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} has been mostly right about AI.",
+   "{a}'s predictions about AI have held up.",
+   "On AI, {a} has called it correctly more often than not."
+  ],
+  "entity_kind": {
+   "a": "ai_person"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "ai_person_trust",
+  "category": "ai",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "ai-people"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a}'s public statements about AI can be trusted.",
+   "What {a} says publicly about AI is what {a} actually believes.",
+   "{a} speaks straight about AI."
+  ],
+  "entity_kind": {
+   "a": "ai_person"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "ai_person_interest",
+  "category": "ai",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "ai-people"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a}'s public position on AI is driven more by self-interest than by evidence.",
+   "{a} argues the position that happens to suit {a}.",
+   "Follow the incentives and you can predict what {a} will say about AI."
+  ],
+  "entity_kind": {
+   "a": "ai_person"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "ai_person_overrated",
+  "category": "ai",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "ai-people"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is overrated as a thinker about AI.",
+   "{a} gets listened to more than the ideas warrant.",
+   "{a}'s influence on the AI debate exceeds the quality of the argument."
+  ],
+  "entity_kind": {
+   "a": "ai_person"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "ai_hype",
+  "category": "ai",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "ai-ideas"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is overhyped.",
+   "{a} gets more attention than it deserves.",
+   "The excitement around {a} outruns what it delivers."
+  ],
+  "entity_kind": {
+   "a": "ai_concept"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "ai_deadend",
+  "category": "ai",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "ai-ideas",
+   "forecast"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a dead end.",
+   "{a} will not lead anywhere important.",
+   "People will have moved on from {a} within five years."
+  ],
+  "entity_kind": {
+   "a": "ai_concept"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "ai_progress",
+  "category": "ai",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "ai-ideas"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} has produced real progress in the last two years.",
+   "{a} has actually delivered since 2024.",
+   "There is something solid behind {a}, not just activity."
+  ],
+  "entity_kind": {
+   "a": "ai_concept"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
   "template_id": "legit_part",
   "category": "geopolitics",
   "audience_hint": "both",
@@ -4206,6 +4646,77 @@
    "{a} before 2035.",
    "{a} by the year 2035.",
    "It is more likely than not that {a} before 2035."
+  ],
+  "entity_kind": {
+   "a": "clause"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "ai_risk_near",
+  "category": "ai",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "ai-risk",
+   "forecast"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is a serious risk within the next five years.",
+   "{a} will cause real harm before 2031.",
+   "{a} is a near-term problem, not a distant one."
+  ],
+  "entity_kind": {
+   "a": "description"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "ai_risk_overstated",
+  "category": "ai",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "ai-risk"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "{a} is overstated as a risk.",
+   "The worry about {a} is out of proportion to the danger.",
+   "{a} gets more alarm than the evidence supports."
+  ],
+  "entity_kind": {
+   "a": "description"
+  },
+  "policy": "entity",
+  "pair_strict": true
+ },
+ {
+  "template_id": "model_cannot",
+  "category": "ai",
+  "audience_hint": "en",
+  "tags": [
+   "minimal-pair",
+   "ai-capabilities",
+   "preregistered"
+  ],
+  "type": "stmt",
+  "slots": [
+   "a"
+  ],
+  "phrasings_en": [
+   "A model that cannot {a} is more dangerous than one that can.",
+   "Removing a model's ability to {a} makes it less safe.",
+   "The ability to {a} is part of what makes a model safe."
   ],
   "entity_kind": {
    "a": "clause"

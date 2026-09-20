@@ -1,0 +1,18 @@
+[
+ {"id": "altman", "name": "Sam Altman", "name_zh": "萨姆·奥尔特曼"},
+ {"id": "amodei", "name": "Dario Amodei", "name_zh": "达里奥·阿莫迪"},
+ {"id": "hassabis", "name": "Demis Hassabis", "name_zh": "戴密斯·哈萨比斯"},
+ {"id": "lecun", "name": "Yann LeCun", "name_zh": "杨立昆"},
+ {"id": "hinton", "name": "Geoffrey Hinton", "name_zh": "杰弗里·辛顿"},
+ {"id": "bengio", "name": "Yoshua Bengio", "name_zh": "约书亚·本吉奥"},
+ {"id": "sutskever", "name": "Ilya Sutskever", "name_zh": "伊利亚·苏茨克维"},
+ {"id": "musk", "name": "Elon Musk", "name_zh": "埃隆·马斯克"},
+ {"id": "karpathy", "name": "Andrej Karpathy", "name_zh": "安德烈·卡帕西"},
+ {"id": "marcus", "name": "Gary Marcus", "name_zh": "加里·马库斯"},
+ {"id": "feifei", "name": "Fei-Fei Li", "name_zh": "李飞飞"},
+ {"id": "yudkowsky", "name": "Eliezer Yudkowsky", "name_zh": "埃利泽·尤德科夫斯基"},
+ {"id": "andreessen", "name": "Marc Andreessen", "name_zh": "马克·安德森"},
+ {"id": "gebru", "name": "Timnit Gebru", "name_zh": "蒂姆尼特·格布鲁"},
+ {"id": "huang", "name": "Jensen Huang", "name_zh": "黄仁勋"},
+ {"id": "murati", "name": "Mira Murati", "name_zh": "米拉·穆拉蒂"}
+]
