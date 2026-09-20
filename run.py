@@ -374,13 +374,20 @@ def fold_keys(items):
     return out
 
 
-def fold(rows, keys, score, reverse, n):
-    """From the top down, a statement enters the list only if none of its keys and not its sentence is already in it."""
-    seen_k, seen_t, out = set(), set(), []
+def fold(rows, keys, score, reverse, n, audit=None):
+    """From the top down, a statement enters the list only if none of its keys and not its sentence is already in it.
+    `audit` collects every statement that was passed over on the way, under the row that kept it out, with the reason."""
+    seen_k, seen_t, out = {}, {}, []      # key / sentence -> the row that holds it
     for r in sorted(rows, key=lambda r: (-score(r) if reverse else score(r), r["id"])):
-        if seen_k & set(keys[r["id"]]) or r["template_id"] in seen_t:
+        why = [dict(row=seen_k[k], key=k) for k in keys[r["id"]] if k in seen_k] + ([dict(row=seen_t[r["template_id"]], sentence=r["template_id"])] if r["template_id"] in seen_t else [])
+        if why:
+            if audit is not None:
+                first = min(why, key=lambda w: out.index(w["row"]))["row"]
+                audit.setdefault(first, []).append(dict(id=r["id"], why=why))
             continue
-        seen_k |= set(keys[r["id"]]); seen_t.add(r["template_id"]); out.append(r["id"])
+        for k in keys[r["id"]]:
+            seen_k[k] = r["id"]
+        seen_t[r["template_id"]] = r["id"]; out.append(r["id"])
         if len(out) == n:
             break
     return out
@@ -415,18 +422,21 @@ def summarize_self_rank(out_dir, entries, meta):
         repeat = dict(n_items=len(two), per_scale={d: dict(r=round(st.correlation([a[d] for _, a, _ in two], [b[d] for _, _, b in two]), 4), mean_abs_diff=r4(mean(abs(a[d] - b[d]) for _, a, b in two)),
                                                           max_abs_diff=r4(max(abs(a[d] - b[d]) for _, a, b in two))) for d in dims}, folded_list_overlap=dict(mean=round(mean(same), 3), min=round(min(same), 3), max=round(max(same), 3)))
     measured = dict(sensitivity=lambda e: (e.get("stance") or {}).get("sensitivity"), wording_range=lambda e: e["T1"]["hi"] - e["T1"]["lo"], p_decline=lambda e: (e.get("T2") or {}).get("p_decline"))
-    corr, lists = {}, {}
+    corr, lists, folded = {}, {}, {}
     for c in ("blind", "informed"):
         have = [x for x in its if c in x]
         corr[c] = {d: {m: pearson(*zip(*[(x[c][d], f(ent[x["id"]])) for x in have if f(ent[x["id"]]) is not None])) for m, f in measured.items()} for d in dims}
         for d in dims:
             for end in ("top", "bottom"):
-                lists["%s.%s.%s" % (c, d, end)] = fold(have, keys, lambda x: x[c][d], end == "top", cfg["fold"]["list_length"])
+                name = "%s.%s.%s" % (c, d, end)
+                folded[name] = {}
+                lists[name] = fold(have, keys, lambda x: x[c][d], end == "top", cfg["fold"]["list_length"], folded[name])
     toks = sum(r.get("tokens") or 0 for r in rows if r["ok"])
     return dict(state_key=cfg["state_key"], dimensions=cfg["dimensions"], conditions=["blind", "informed"], jev_model=sorted({r.get("jev_model") or "?" for r in good}), n_items=len(its),
                 n_calls=sum(r["ok"] for r in rows), n_err=sum(not r["ok"] for r in rows), stale_rows_ignored=sum(r["ok"] for r in rows) - len(good), tokens=toks, cost_usd=round(toks * JEV_USD_PER_MTOK / 1e6, 4),
                 blind_repeat=repeat, correlation_with_measured=corr, fold_rule="From the top down, a statement enters a list only if it shares no fold key and no sentence with a statement already in it. "
-                "Fold keys: the statement's own subject, every name of the bank that appears in it, and every other run of capitalised words.", lists=lists, items=its)
+                "Fold keys: the statement's own subject, every name of the bank that appears in it, and every other run of capitalised words. "
+                "`folded` lists, per list and per row, every statement that row kept out and the key or sentence they share.", lists=lists, folded=folded, items=its)
 
 
 def load_personas():
