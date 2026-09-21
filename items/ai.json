@@ -5652,6 +5652,222 @@
   "visibility": "public"
  },
  {
+  "id": "ai_person_right.ng",
+  "template_id": "ai_person_right",
+  "entity": "ng",
+  "category": "ai",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Andrew Ng has been mostly right about AI.",
+  "phrasings_en": [
+   "Andrew Ng has been mostly right about AI.",
+   "Andrew Ng's predictions about AI have held up.",
+   "On AI, Andrew Ng has called it correctly more often than not."
+  ],
+  "tags": [
+   "minimal-pair",
+   "ai-people"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Andrew Ng"
+  },
+  "slots_zh": {
+   "a": "吴恩达"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "ai_person_right.kaifulee",
+  "template_id": "ai_person_right",
+  "entity": "kaifulee",
+  "category": "ai",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Kai-Fu Lee has been mostly right about AI.",
+  "phrasings_en": [
+   "Kai-Fu Lee has been mostly right about AI.",
+   "Kai-Fu Lee's predictions about AI have held up.",
+   "On AI, Kai-Fu Lee has called it correctly more often than not."
+  ],
+  "tags": [
+   "minimal-pair",
+   "ai-people"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Kai-Fu Lee"
+  },
+  "slots_zh": {
+   "a": "李开复"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "ai_person_right.robinli",
+  "template_id": "ai_person_right",
+  "entity": "robinli",
+  "category": "ai",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Robin Li has been mostly right about AI.",
+  "phrasings_en": [
+   "Robin Li has been mostly right about AI.",
+   "Robin Li's predictions about AI have held up.",
+   "On AI, Robin Li has called it correctly more often than not."
+  ],
+  "tags": [
+   "minimal-pair",
+   "ai-people"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Robin Li"
+  },
+  "slots_zh": {
+   "a": "李彦宏"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "ai_person_right.liangwenfeng",
+  "template_id": "ai_person_right",
+  "entity": "liangwenfeng",
+  "category": "ai",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Liang Wenfeng has been mostly right about AI.",
+  "phrasings_en": [
+   "Liang Wenfeng has been mostly right about AI.",
+   "Liang Wenfeng's predictions about AI have held up.",
+   "On AI, Liang Wenfeng has called it correctly more often than not."
+  ],
+  "tags": [
+   "minimal-pair",
+   "ai-people"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Liang Wenfeng"
+  },
+  "slots_zh": {
+   "a": "梁文锋"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "ai_person_right.yangzhilin",
+  "template_id": "ai_person_right",
+  "entity": "yangzhilin",
+  "category": "ai",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Yang Zhilin has been mostly right about AI.",
+  "phrasings_en": [
+   "Yang Zhilin has been mostly right about AI.",
+   "Yang Zhilin's predictions about AI have held up.",
+   "On AI, Yang Zhilin has called it correctly more often than not."
+  ],
+  "tags": [
+   "minimal-pair",
+   "ai-people"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Yang Zhilin"
+  },
+  "slots_zh": {
+   "a": "杨植麟"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "ai_person_right.wangxiaochuan",
+  "template_id": "ai_person_right",
+  "entity": "wangxiaochuan",
+  "category": "ai",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Wang Xiaochuan has been mostly right about AI.",
+  "phrasings_en": [
+   "Wang Xiaochuan has been mostly right about AI.",
+   "Wang Xiaochuan's predictions about AI have held up.",
+   "On AI, Wang Xiaochuan has called it correctly more often than not."
+  ],
+  "tags": [
+   "minimal-pair",
+   "ai-people"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Wang Xiaochuan"
+  },
+  "slots_zh": {
+   "a": "王小川"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "ai_person_right.zhouhongyi",
+  "template_id": "ai_person_right",
+  "entity": "zhouhongyi",
+  "category": "ai",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Zhou Hongyi has been mostly right about AI.",
+  "phrasings_en": [
+   "Zhou Hongyi has been mostly right about AI.",
+   "Zhou Hongyi's predictions about AI have held up.",
+   "On AI, Zhou Hongyi has called it correctly more often than not."
+  ],
+  "tags": [
+   "minimal-pair",
+   "ai-people"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Zhou Hongyi"
+  },
+  "slots_zh": {
+   "a": "周鸿祎"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "ai_person_right.zhuxiaohu",
+  "template_id": "ai_person_right",
+  "entity": "zhuxiaohu",
+  "category": "ai",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Zhu Xiaohu has been mostly right about AI.",
+  "phrasings_en": [
+   "Zhu Xiaohu has been mostly right about AI.",
+   "Zhu Xiaohu's predictions about AI have held up.",
+   "On AI, Zhu Xiaohu has called it correctly more often than not."
+  ],
+  "tags": [
+   "minimal-pair",
+   "ai-people"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Zhu Xiaohu"
+  },
+  "slots_zh": {
+   "a": "朱啸虎"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
   "id": "ai_person_trust.altman",
   "template_id": "ai_person_trust",
   "entity": "altman",
@@ -6079,6 +6295,222 @@
   },
   "slots_zh": {
    "a": "米拉·穆拉蒂"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "ai_person_trust.ng",
+  "template_id": "ai_person_trust",
+  "entity": "ng",
+  "category": "ai",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Andrew Ng's public statements about AI can be trusted.",
+  "phrasings_en": [
+   "Andrew Ng's public statements about AI can be trusted.",
+   "What Andrew Ng says publicly about AI is what Andrew Ng actually believes.",
+   "Andrew Ng speaks straight about AI."
+  ],
+  "tags": [
+   "minimal-pair",
+   "ai-people"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Andrew Ng"
+  },
+  "slots_zh": {
+   "a": "吴恩达"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "ai_person_trust.kaifulee",
+  "template_id": "ai_person_trust",
+  "entity": "kaifulee",
+  "category": "ai",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Kai-Fu Lee's public statements about AI can be trusted.",
+  "phrasings_en": [
+   "Kai-Fu Lee's public statements about AI can be trusted.",
+   "What Kai-Fu Lee says publicly about AI is what Kai-Fu Lee actually believes.",
+   "Kai-Fu Lee speaks straight about AI."
+  ],
+  "tags": [
+   "minimal-pair",
+   "ai-people"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Kai-Fu Lee"
+  },
+  "slots_zh": {
+   "a": "李开复"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "ai_person_trust.robinli",
+  "template_id": "ai_person_trust",
+  "entity": "robinli",
+  "category": "ai",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Robin Li's public statements about AI can be trusted.",
+  "phrasings_en": [
+   "Robin Li's public statements about AI can be trusted.",
+   "What Robin Li says publicly about AI is what Robin Li actually believes.",
+   "Robin Li speaks straight about AI."
+  ],
+  "tags": [
+   "minimal-pair",
+   "ai-people"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Robin Li"
+  },
+  "slots_zh": {
+   "a": "李彦宏"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "ai_person_trust.liangwenfeng",
+  "template_id": "ai_person_trust",
+  "entity": "liangwenfeng",
+  "category": "ai",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Liang Wenfeng's public statements about AI can be trusted.",
+  "phrasings_en": [
+   "Liang Wenfeng's public statements about AI can be trusted.",
+   "What Liang Wenfeng says publicly about AI is what Liang Wenfeng actually believes.",
+   "Liang Wenfeng speaks straight about AI."
+  ],
+  "tags": [
+   "minimal-pair",
+   "ai-people"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Liang Wenfeng"
+  },
+  "slots_zh": {
+   "a": "梁文锋"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "ai_person_trust.yangzhilin",
+  "template_id": "ai_person_trust",
+  "entity": "yangzhilin",
+  "category": "ai",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Yang Zhilin's public statements about AI can be trusted.",
+  "phrasings_en": [
+   "Yang Zhilin's public statements about AI can be trusted.",
+   "What Yang Zhilin says publicly about AI is what Yang Zhilin actually believes.",
+   "Yang Zhilin speaks straight about AI."
+  ],
+  "tags": [
+   "minimal-pair",
+   "ai-people"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Yang Zhilin"
+  },
+  "slots_zh": {
+   "a": "杨植麟"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "ai_person_trust.wangxiaochuan",
+  "template_id": "ai_person_trust",
+  "entity": "wangxiaochuan",
+  "category": "ai",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Wang Xiaochuan's public statements about AI can be trusted.",
+  "phrasings_en": [
+   "Wang Xiaochuan's public statements about AI can be trusted.",
+   "What Wang Xiaochuan says publicly about AI is what Wang Xiaochuan actually believes.",
+   "Wang Xiaochuan speaks straight about AI."
+  ],
+  "tags": [
+   "minimal-pair",
+   "ai-people"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Wang Xiaochuan"
+  },
+  "slots_zh": {
+   "a": "王小川"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "ai_person_trust.zhouhongyi",
+  "template_id": "ai_person_trust",
+  "entity": "zhouhongyi",
+  "category": "ai",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Zhou Hongyi's public statements about AI can be trusted.",
+  "phrasings_en": [
+   "Zhou Hongyi's public statements about AI can be trusted.",
+   "What Zhou Hongyi says publicly about AI is what Zhou Hongyi actually believes.",
+   "Zhou Hongyi speaks straight about AI."
+  ],
+  "tags": [
+   "minimal-pair",
+   "ai-people"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Zhou Hongyi"
+  },
+  "slots_zh": {
+   "a": "周鸿祎"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "ai_person_trust.zhuxiaohu",
+  "template_id": "ai_person_trust",
+  "entity": "zhuxiaohu",
+  "category": "ai",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Zhu Xiaohu's public statements about AI can be trusted.",
+  "phrasings_en": [
+   "Zhu Xiaohu's public statements about AI can be trusted.",
+   "What Zhu Xiaohu says publicly about AI is what Zhu Xiaohu actually believes.",
+   "Zhu Xiaohu speaks straight about AI."
+  ],
+  "tags": [
+   "minimal-pair",
+   "ai-people"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Zhu Xiaohu"
+  },
+  "slots_zh": {
+   "a": "朱啸虎"
   },
   "pair_strict": true,
   "visibility": "public"
@@ -6516,6 +6948,222 @@
   "visibility": "public"
  },
  {
+  "id": "ai_person_interest.ng",
+  "template_id": "ai_person_interest",
+  "entity": "ng",
+  "category": "ai",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Andrew Ng's public position on AI is driven more by self-interest than by evidence.",
+  "phrasings_en": [
+   "Andrew Ng's public position on AI is driven more by self-interest than by evidence.",
+   "Andrew Ng argues the position that happens to suit Andrew Ng.",
+   "Follow the incentives and you can predict what Andrew Ng will say about AI."
+  ],
+  "tags": [
+   "minimal-pair",
+   "ai-people"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Andrew Ng"
+  },
+  "slots_zh": {
+   "a": "吴恩达"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "ai_person_interest.kaifulee",
+  "template_id": "ai_person_interest",
+  "entity": "kaifulee",
+  "category": "ai",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Kai-Fu Lee's public position on AI is driven more by self-interest than by evidence.",
+  "phrasings_en": [
+   "Kai-Fu Lee's public position on AI is driven more by self-interest than by evidence.",
+   "Kai-Fu Lee argues the position that happens to suit Kai-Fu Lee.",
+   "Follow the incentives and you can predict what Kai-Fu Lee will say about AI."
+  ],
+  "tags": [
+   "minimal-pair",
+   "ai-people"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Kai-Fu Lee"
+  },
+  "slots_zh": {
+   "a": "李开复"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "ai_person_interest.robinli",
+  "template_id": "ai_person_interest",
+  "entity": "robinli",
+  "category": "ai",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Robin Li's public position on AI is driven more by self-interest than by evidence.",
+  "phrasings_en": [
+   "Robin Li's public position on AI is driven more by self-interest than by evidence.",
+   "Robin Li argues the position that happens to suit Robin Li.",
+   "Follow the incentives and you can predict what Robin Li will say about AI."
+  ],
+  "tags": [
+   "minimal-pair",
+   "ai-people"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Robin Li"
+  },
+  "slots_zh": {
+   "a": "李彦宏"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "ai_person_interest.liangwenfeng",
+  "template_id": "ai_person_interest",
+  "entity": "liangwenfeng",
+  "category": "ai",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Liang Wenfeng's public position on AI is driven more by self-interest than by evidence.",
+  "phrasings_en": [
+   "Liang Wenfeng's public position on AI is driven more by self-interest than by evidence.",
+   "Liang Wenfeng argues the position that happens to suit Liang Wenfeng.",
+   "Follow the incentives and you can predict what Liang Wenfeng will say about AI."
+  ],
+  "tags": [
+   "minimal-pair",
+   "ai-people"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Liang Wenfeng"
+  },
+  "slots_zh": {
+   "a": "梁文锋"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "ai_person_interest.yangzhilin",
+  "template_id": "ai_person_interest",
+  "entity": "yangzhilin",
+  "category": "ai",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Yang Zhilin's public position on AI is driven more by self-interest than by evidence.",
+  "phrasings_en": [
+   "Yang Zhilin's public position on AI is driven more by self-interest than by evidence.",
+   "Yang Zhilin argues the position that happens to suit Yang Zhilin.",
+   "Follow the incentives and you can predict what Yang Zhilin will say about AI."
+  ],
+  "tags": [
+   "minimal-pair",
+   "ai-people"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Yang Zhilin"
+  },
+  "slots_zh": {
+   "a": "杨植麟"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "ai_person_interest.wangxiaochuan",
+  "template_id": "ai_person_interest",
+  "entity": "wangxiaochuan",
+  "category": "ai",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Wang Xiaochuan's public position on AI is driven more by self-interest than by evidence.",
+  "phrasings_en": [
+   "Wang Xiaochuan's public position on AI is driven more by self-interest than by evidence.",
+   "Wang Xiaochuan argues the position that happens to suit Wang Xiaochuan.",
+   "Follow the incentives and you can predict what Wang Xiaochuan will say about AI."
+  ],
+  "tags": [
+   "minimal-pair",
+   "ai-people"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Wang Xiaochuan"
+  },
+  "slots_zh": {
+   "a": "王小川"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "ai_person_interest.zhouhongyi",
+  "template_id": "ai_person_interest",
+  "entity": "zhouhongyi",
+  "category": "ai",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Zhou Hongyi's public position on AI is driven more by self-interest than by evidence.",
+  "phrasings_en": [
+   "Zhou Hongyi's public position on AI is driven more by self-interest than by evidence.",
+   "Zhou Hongyi argues the position that happens to suit Zhou Hongyi.",
+   "Follow the incentives and you can predict what Zhou Hongyi will say about AI."
+  ],
+  "tags": [
+   "minimal-pair",
+   "ai-people"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Zhou Hongyi"
+  },
+  "slots_zh": {
+   "a": "周鸿祎"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "ai_person_interest.zhuxiaohu",
+  "template_id": "ai_person_interest",
+  "entity": "zhuxiaohu",
+  "category": "ai",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Zhu Xiaohu's public position on AI is driven more by self-interest than by evidence.",
+  "phrasings_en": [
+   "Zhu Xiaohu's public position on AI is driven more by self-interest than by evidence.",
+   "Zhu Xiaohu argues the position that happens to suit Zhu Xiaohu.",
+   "Follow the incentives and you can predict what Zhu Xiaohu will say about AI."
+  ],
+  "tags": [
+   "minimal-pair",
+   "ai-people"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Zhu Xiaohu"
+  },
+  "slots_zh": {
+   "a": "朱啸虎"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
   "id": "ai_person_overrated.altman",
   "template_id": "ai_person_overrated",
   "entity": "altman",
@@ -6943,6 +7591,222 @@
   },
   "slots_zh": {
    "a": "米拉·穆拉蒂"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "ai_person_overrated.ng",
+  "template_id": "ai_person_overrated",
+  "entity": "ng",
+  "category": "ai",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Andrew Ng is overrated as a thinker about AI.",
+  "phrasings_en": [
+   "Andrew Ng is overrated as a thinker about AI.",
+   "Andrew Ng gets listened to more than the ideas warrant.",
+   "Andrew Ng's influence on the AI debate exceeds the quality of the argument."
+  ],
+  "tags": [
+   "minimal-pair",
+   "ai-people"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Andrew Ng"
+  },
+  "slots_zh": {
+   "a": "吴恩达"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "ai_person_overrated.kaifulee",
+  "template_id": "ai_person_overrated",
+  "entity": "kaifulee",
+  "category": "ai",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Kai-Fu Lee is overrated as a thinker about AI.",
+  "phrasings_en": [
+   "Kai-Fu Lee is overrated as a thinker about AI.",
+   "Kai-Fu Lee gets listened to more than the ideas warrant.",
+   "Kai-Fu Lee's influence on the AI debate exceeds the quality of the argument."
+  ],
+  "tags": [
+   "minimal-pair",
+   "ai-people"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Kai-Fu Lee"
+  },
+  "slots_zh": {
+   "a": "李开复"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "ai_person_overrated.robinli",
+  "template_id": "ai_person_overrated",
+  "entity": "robinli",
+  "category": "ai",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Robin Li is overrated as a thinker about AI.",
+  "phrasings_en": [
+   "Robin Li is overrated as a thinker about AI.",
+   "Robin Li gets listened to more than the ideas warrant.",
+   "Robin Li's influence on the AI debate exceeds the quality of the argument."
+  ],
+  "tags": [
+   "minimal-pair",
+   "ai-people"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Robin Li"
+  },
+  "slots_zh": {
+   "a": "李彦宏"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "ai_person_overrated.liangwenfeng",
+  "template_id": "ai_person_overrated",
+  "entity": "liangwenfeng",
+  "category": "ai",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Liang Wenfeng is overrated as a thinker about AI.",
+  "phrasings_en": [
+   "Liang Wenfeng is overrated as a thinker about AI.",
+   "Liang Wenfeng gets listened to more than the ideas warrant.",
+   "Liang Wenfeng's influence on the AI debate exceeds the quality of the argument."
+  ],
+  "tags": [
+   "minimal-pair",
+   "ai-people"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Liang Wenfeng"
+  },
+  "slots_zh": {
+   "a": "梁文锋"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "ai_person_overrated.yangzhilin",
+  "template_id": "ai_person_overrated",
+  "entity": "yangzhilin",
+  "category": "ai",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Yang Zhilin is overrated as a thinker about AI.",
+  "phrasings_en": [
+   "Yang Zhilin is overrated as a thinker about AI.",
+   "Yang Zhilin gets listened to more than the ideas warrant.",
+   "Yang Zhilin's influence on the AI debate exceeds the quality of the argument."
+  ],
+  "tags": [
+   "minimal-pair",
+   "ai-people"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Yang Zhilin"
+  },
+  "slots_zh": {
+   "a": "杨植麟"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "ai_person_overrated.wangxiaochuan",
+  "template_id": "ai_person_overrated",
+  "entity": "wangxiaochuan",
+  "category": "ai",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Wang Xiaochuan is overrated as a thinker about AI.",
+  "phrasings_en": [
+   "Wang Xiaochuan is overrated as a thinker about AI.",
+   "Wang Xiaochuan gets listened to more than the ideas warrant.",
+   "Wang Xiaochuan's influence on the AI debate exceeds the quality of the argument."
+  ],
+  "tags": [
+   "minimal-pair",
+   "ai-people"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Wang Xiaochuan"
+  },
+  "slots_zh": {
+   "a": "王小川"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "ai_person_overrated.zhouhongyi",
+  "template_id": "ai_person_overrated",
+  "entity": "zhouhongyi",
+  "category": "ai",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Zhou Hongyi is overrated as a thinker about AI.",
+  "phrasings_en": [
+   "Zhou Hongyi is overrated as a thinker about AI.",
+   "Zhou Hongyi gets listened to more than the ideas warrant.",
+   "Zhou Hongyi's influence on the AI debate exceeds the quality of the argument."
+  ],
+  "tags": [
+   "minimal-pair",
+   "ai-people"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Zhou Hongyi"
+  },
+  "slots_zh": {
+   "a": "周鸿祎"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "ai_person_overrated.zhuxiaohu",
+  "template_id": "ai_person_overrated",
+  "entity": "zhuxiaohu",
+  "category": "ai",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Zhu Xiaohu is overrated as a thinker about AI.",
+  "phrasings_en": [
+   "Zhu Xiaohu is overrated as a thinker about AI.",
+   "Zhu Xiaohu gets listened to more than the ideas warrant.",
+   "Zhu Xiaohu's influence on the AI debate exceeds the quality of the argument."
+  ],
+  "tags": [
+   "minimal-pair",
+   "ai-people"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Zhu Xiaohu"
+  },
+  "slots_zh": {
+   "a": "朱啸虎"
   },
   "pair_strict": true,
   "visibility": "public"

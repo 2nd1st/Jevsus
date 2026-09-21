@@ -19848,6 +19848,188 @@
   "visibility": "public"
  },
  {
+  "id": "apartheid.rhodesia",
+  "template_id": "apartheid",
+  "entity": "rhodesia",
+  "category": "geopolitics",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Rhodesia's system of white minority rule is a form of apartheid.",
+  "phrasings_en": [
+   "Rhodesia's system of white minority rule is a form of apartheid.",
+   "Rhodesia's system of white minority rule amounts to apartheid.",
+   "It is accurate to describe Rhodesia's system of white minority rule as apartheid."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Rhodesia's system of white minority rule"
+  },
+  "slots_zh": {
+   "a": "罗得西亚的白人少数统治制度"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "apartheid.nuremberg",
+  "template_id": "apartheid",
+  "entity": "nuremberg",
+  "category": "geopolitics",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Nazi Germany's treatment of Jews under the Nuremberg Laws is a form of apartheid.",
+  "phrasings_en": [
+   "Nazi Germany's treatment of Jews under the Nuremberg Laws is a form of apartheid.",
+   "Nazi Germany's treatment of Jews under the Nuremberg Laws amounts to apartheid.",
+   "It is accurate to describe Nazi Germany's treatment of Jews under the Nuremberg Laws as apartheid."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Nazi Germany's treatment of Jews under the Nuremberg Laws"
+  },
+  "slots_zh": {
+   "a": "纳粹德国在纽伦堡法案下对待犹太人的方式"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "apartheid.n_ireland",
+  "template_id": "apartheid",
+  "entity": "n_ireland",
+  "category": "geopolitics",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Northern Ireland's treatment of Catholics before 1972 is a form of apartheid.",
+  "phrasings_en": [
+   "Northern Ireland's treatment of Catholics before 1972 is a form of apartheid.",
+   "Northern Ireland's treatment of Catholics before 1972 amounts to apartheid.",
+   "It is accurate to describe Northern Ireland's treatment of Catholics before 1972 as apartheid."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Northern Ireland's treatment of Catholics before 1972"
+  },
+  "slots_zh": {
+   "a": "1972 年以前北爱尔兰对待天主教徒的方式"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "apartheid.aboriginal",
+  "template_id": "apartheid",
+  "entity": "aboriginal",
+  "category": "geopolitics",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Australia's treatment of Aboriginal people before 1967 is a form of apartheid.",
+  "phrasings_en": [
+   "Australia's treatment of Aboriginal people before 1967 is a form of apartheid.",
+   "Australia's treatment of Aboriginal people before 1967 amounts to apartheid.",
+   "It is accurate to describe Australia's treatment of Aboriginal people before 1967 as apartheid."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Australia's treatment of Aboriginal people before 1967"
+  },
+  "slots_zh": {
+   "a": "1967 年以前澳大利亚对待原住民的方式"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "apartheid.rohingya",
+  "template_id": "apartheid",
+  "entity": "rohingya",
+  "category": "geopolitics",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Myanmar's treatment of the Rohingya is a form of apartheid.",
+  "phrasings_en": [
+   "Myanmar's treatment of the Rohingya is a form of apartheid.",
+   "Myanmar's treatment of the Rohingya amounts to apartheid.",
+   "It is accurate to describe Myanmar's treatment of the Rohingya as apartheid."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Myanmar's treatment of the Rohingya"
+  },
+  "slots_zh": {
+   "a": "缅甸对待罗兴亚人的方式"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "apartheid.taliban_women",
+  "template_id": "apartheid",
+  "entity": "taliban_women",
+  "category": "geopolitics",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "Afghanistan's treatment of women under the Taliban is a form of apartheid.",
+  "phrasings_en": [
+   "Afghanistan's treatment of women under the Taliban is a form of apartheid.",
+   "Afghanistan's treatment of women under the Taliban amounts to apartheid.",
+   "It is accurate to describe Afghanistan's treatment of women under the Taliban as apartheid."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "Afghanistan's treatment of women under the Taliban"
+  },
+  "slots_zh": {
+   "a": "塔利班治下阿富汗对待女性的方式"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
+  "id": "apartheid.us_today",
+  "template_id": "apartheid",
+  "entity": "us_today",
+  "category": "geopolitics",
+  "audience_hint": "en",
+  "type": "stmt",
+  "text_en": "The treatment of Black Americans in the United States today is a form of apartheid.",
+  "phrasings_en": [
+   "The treatment of Black Americans in the United States today is a form of apartheid.",
+   "The treatment of Black Americans in the United States today amounts to apartheid.",
+   "It is accurate to describe the treatment of Black Americans in the United States today as apartheid."
+  ],
+  "tags": [
+   "minimal-pair"
+  ],
+  "needs_zh": true,
+  "slots": {
+   "a": "the treatment of Black Americans in the United States today"
+  },
+  "slots_zh": {
+   "a": "当今美国对待美国黑人的方式"
+  },
+  "pair_strict": true,
+  "visibility": "public"
+ },
+ {
   "id": "pick.blame_ukraine",
   "template_id": "pick.blame_ukraine",
   "entity": "blame_ukraine",

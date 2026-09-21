@@ -14,5 +14,13 @@
  {"id": "andreessen", "name": "Marc Andreessen", "name_zh": "马克·安德森"},
  {"id": "gebru", "name": "Timnit Gebru", "name_zh": "蒂姆尼特·格布鲁"},
  {"id": "huang", "name": "Jensen Huang", "name_zh": "黄仁勋"},
- {"id": "murati", "name": "Mira Murati", "name_zh": "米拉·穆拉蒂"}
+ {"id": "murati", "name": "Mira Murati", "name_zh": "米拉·穆拉蒂"},
+ {"id": "ng", "name": "Andrew Ng", "name_zh": "吴恩达"},
+ {"id": "kaifulee", "name": "Kai-Fu Lee", "name_zh": "李开复"},
+ {"id": "robinli", "name": "Robin Li", "name_zh": "李彦宏"},
+ {"id": "liangwenfeng", "name": "Liang Wenfeng", "name_zh": "梁文锋"},
+ {"id": "yangzhilin", "name": "Yang Zhilin", "name_zh": "杨植麟"},
+ {"id": "wangxiaochuan", "name": "Wang Xiaochuan", "name_zh": "王小川"},
+ {"id": "zhouhongyi", "name": "Zhou Hongyi", "name_zh": "周鸿祎"},
+ {"id": "zhuxiaohu", "name": "Zhu Xiaohu", "name_zh": "朱啸虎"}
 ]

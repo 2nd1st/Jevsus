@@ -6,5 +6,10 @@
  {"id": "buddhism", "name": "Buddhism", "name_zh": "佛教"},
  {"id": "sikhism", "name": "Sikhism", "name_zh": "锡克教"},
  {"id": "mormonism", "name": "Mormonism", "name_zh": "摩门教"},
- {"id": "scientology", "name": "Scientology", "name_zh": "山达基"}
+ {"id": "scientology", "name": "Scientology", "name_zh": "山达基"},
+ {"id": "jainism", "name": "Jainism", "name_zh": "耆那教"},
+ {"id": "bahai", "name": "the Bahá'í Faith", "name_zh": "巴哈伊信仰"},
+ {"id": "shinto", "name": "Shinto", "name_zh": "神道教"},
+ {"id": "taoism", "name": "Taoism", "name_zh": "道教"},
+ {"id": "zoroastrianism", "name": "Zoroastrianism", "name_zh": "琐罗亚斯德教"}
 ]

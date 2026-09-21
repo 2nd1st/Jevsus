@@ -155,7 +155,14 @@
    {"id": "caste", "a": "India's caste system", "a_zh": "印度的种姓制度"},
    {"id": "saudi_women", "a": "Saudi Arabia's treatment of women", "a_zh": "沙特阿拉伯对待女性的方式"},
    {"id": "malaysia", "a": "Malaysia's bumiputera policy", "a_zh": "马来西亚的土著优先政策"},
-   {"id": "gulf_migrants", "a": "The Gulf states' treatment of migrant workers", "a_zh": "海湾国家对待外来劳工的方式"}
+   {"id": "gulf_migrants", "a": "The Gulf states' treatment of migrant workers", "a_zh": "海湾国家对待外来劳工的方式"},
+   {"id": "rhodesia", "a": "Rhodesia's system of white minority rule", "a_zh": "罗得西亚的白人少数统治制度"},
+   {"id": "nuremberg", "a": "Nazi Germany's treatment of Jews under the Nuremberg Laws", "a_zh": "纳粹德国在纽伦堡法案下对待犹太人的方式"},
+   {"id": "n_ireland", "a": "Northern Ireland's treatment of Catholics before 1972", "a_zh": "1972 年以前北爱尔兰对待天主教徒的方式"},
+   {"id": "aboriginal", "a": "Australia's treatment of Aboriginal people before 1967", "a_zh": "1967 年以前澳大利亚对待原住民的方式"},
+   {"id": "rohingya", "a": "Myanmar's treatment of the Rohingya", "a_zh": "缅甸对待罗兴亚人的方式"},
+   {"id": "taliban_women", "a": "Afghanistan's treatment of women under the Taliban", "a_zh": "塔利班治下阿富汗对待女性的方式"},
+   {"id": "us_today", "a": "the treatment of Black Americans in the United States today", "a_zh": "当今美国对待美国黑人的方式"}
   ]
  },
  {

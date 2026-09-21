@@ -12,7 +12,7 @@ Take one sentence. Change only the subject. Force a true/false pick. Publish eve
 "{a} is overrated."               {a} = every musician on the map
 ```
 
-3,539 statements, each in 3 wordings, asked with both option orders, plus the same sentences under six
+3,608 statements, each in 3 wordings, asked with both option orders, plus the same sentences under six
 stances, in eleven languages, and a second time through differently built sentences. This repo is the
 **open dataset and the runner** — the tables of names and sentences, the code that asks, and every raw
 response. The results are browsable at **position.secondfirst.ai**. This is an independent project, not
@@ -25,7 +25,7 @@ test is the `true`/`false` forced pick — a **diode**, because the answer may o
 
 ## Sample output
 
-Verbatim from `results/2026-09-20/summary.json` (`jev-1.13.0`, about 205,000 calls, $3.07, 0 errors, 8/8 anchors at 0.00 / 1.00 in every column; 190 sentences, 3,539 statements, 40 forced picks, 34 categories). `p_true` under the main test (the forced `true`/`false` pick), range across the 3 wordings in brackets. These are measured outputs, not claims about why the model produces them.
+Verbatim from `results/2026-09-20/summary.json` (`jev-1.13.0`, about 210,000 calls, $3.13, 0 errors, 8/8 anchors at 0.00 / 1.00 in every column; 190 sentences, 3,608 statements, 40 forced picks, 34 categories). `p_true` under the main test (the forced `true`/`false` pick), range across the 3 wordings in brackets. These are measured outputs, not claims about why the model produces them.
 
 | Template | Rows |
 |---|---|
@@ -60,7 +60,7 @@ Neither column is the truer one; both are what the model returned. But a card or
 
 - A sentence marked `needs_battery` in `bank/` never publishes its single reading as a number on its own.
 - Each set of eight is itself checked: a sentence whose reading barely moves from name to name is measuring the construction, not the name. It is marked in `summary.json`, and no name publishes through a set that contains one.
-- `summary.json` marks each name `publishable` and reports, per sentence, how many names *flip* between the single sentence and the set. **As this is written, 159 of the 318 names under those sixteen sentences are not quoted as numbers anywhere** — six of the sixteen sets fail the check, two have too few names to tell.
+- `summary.json` marks each name `publishable` and reports, per sentence, how many names *flip* between the single sentence and the set. **As this is written, 187 of the 335 names under those sixteen sentences are not quoted as numbers anywhere** — eight of the sixteen sets contain a sentence that fails the check.
 
 The raw rows stay in the data either way. What is gated is quoting.
 
@@ -140,7 +140,7 @@ python3 run.py --backend jev --personas none,probes --perspectives --batteries -
 python3 run.py --backend jev --self-rank                      # then: the model scores every statement itself
 ```
 
-The full run is about 205,000 calls and $3.07. Calls are cached in `cache/` (git-ignored) keyed on the text that is sent, so a changed wording re-runs and an unchanged one is free; pass `--no-cache` to re-measure after a model update. Every published number traces back to a row in `results/<date>/*.jsonl`.
+The full run is about 210,000 calls and $3.13. Calls are cached in `cache/` (git-ignored) keyed on the text that is sent, so a changed wording re-runs and an unchanged one is free; pass `--no-cache` to re-measure after a model update. Every published number traces back to a row in `results/<date>/*.jsonl`.
 
 Other backends: `--backend replica` (any local server speaking the System One protocol, `REPLICA_URL`) and `--backend chat-logprobs` (any OpenAI-compatible endpoint with `top_logprobs`; `CHAT_BASE_URL`, `CHAT_MODEL`, `CHAT_API_KEY`). Each is its own column with its own 8 anchors.
 
