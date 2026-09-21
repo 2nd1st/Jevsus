@@ -25,7 +25,7 @@ Perspectives hang off the template and are generated from its slots: for `{a} is
 
 A perspective column is **what Jev outputs when told to answer as that party. It is not that party's view**, and nothing here measures what any real group or person thinks. Under a perspective the anchors are a reference row, not a validity gate (a flat-earther persona is *supposed* to flip *The Earth is flat*); validity is enforced on the no-persona column, and a perspective column is only meaningful when its base column passed.
 
-`bank/personas/probes/` holds five fixed generic stances that, with `god`, are run on every statement to compute stance sensitivity (`--personas probes`). They are measurement probes, not presets.
+`bank/personas/probes/` holds five fixed generic stances that, with `god`, are run on every statement to compute stance sensitivity (`--personas probes`). They are measurement probes, not presets. Per statement, `stance.sensitivity` is the highest minus the lowest `p_true` across the plain reading and every stance, averaged over the wordings. `stance.band` only says where that number sits: `"below 0.10"`, `"above 0.40"`, or `null` in between; the two marks are in `summary.json → stance_bands` (`below`, `above`). They are display marks and carry no reading of what a low or a high number means.
 
 ### Statements are factual in form — never "should"
 

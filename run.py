@@ -28,7 +28,7 @@ JEV_USD_PER_MTOK = 0.042          # input tokens; output is free (measured 2026-
 JEV_MEAN_TOKENS = 339             # measured mean input tokens per call, used by --dry-run only
 GAP_FLAG = 0.10                   # |T0 gap| on an anchor above this gets a soft flag (noul has 2 decimals; gap measures abstention)
 PROBES = ["god", "us_conservative", "us_progressive", "cn_mfa", "muslim", "evangelical"]   # fixed generic stances; `--personas probes`
-SENS_FACT, SENS_OPINION = 0.10, 0.40   # display-only bands for stance sensitivity; no conclusion is hard-coded on them
+SENS_LOW, SENS_HIGH = 0.10, 0.40   # display-only marks on stance sensitivity: a row is labelled "below 0.10" or "above 0.40", nothing more; the names say where the number is, not what it means
 BATTERY_MIN_NAMES = 10             # the across-names check is only read when a battery sentence was asked about at least this many names
 BATTERY_MIN_SD = 0.12              # a battery sentence whose reading barely moves across names (SD below this) measures the construction, not the name
 RANGE_WIDE = 0.20                 # T1 hi-lo across phrasings at or above this => quote rank only, not the absolute value
@@ -780,7 +780,7 @@ def agg_stmt(rows):
             per.append(max(vals) - min(vals))
         s = mean(per)
         out["stance"] = dict(sensitivity=r4(s), lo=r4(min(per)), hi=r4(max(per)), n_stances=1 + len(t3), probes_complete=all(p in t3 for p in PROBES),
-                             band="held as fact" if s < SENS_FACT else "treated as opinion" if s > SENS_OPINION else None,
+                             band="below %.2f" % SENS_LOW if s < SENS_LOW else "above %.2f" % SENS_HIGH if s > SENS_HIGH else None,
                              stances={"self": out["T1"]["p_true"], **{k: x["p_true"] for k, x in t3.items()}})
     return out
 
@@ -972,7 +972,7 @@ def summarize(out_dir, items):
                 r["n_flipped"] += 1; r["flipped"].append(e["id"])
     fl = [e["stance"]["sensitivity"] for e in entries if e["category"] == "anchor" and e.get("stance")]
     noise = dict(n_anchors=len(fl), mean=r4(mean(fl)), max=r4(max(fl))) if fl else None      # the same stances on settled facts = the floor to read sensitivity against
-    summary = dict(languages=summarize_languages(out_dir, entries, meta), traits=summarize_traits(out_dir), self_rank=summarize_self_rank(out_dir, entries, meta), n_items=len(entries), stance_noise_floor=noise, stance_bands=dict(held_as_fact_below=SENS_FACT, treated_as_opinion_above=SENS_OPINION), date=os.path.basename(os.path.normpath(out_dir)), generated_at=time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), range_wide_threshold=RANGE_WIDE,
+    summary = dict(languages=summarize_languages(out_dir, entries, meta), traits=summarize_traits(out_dir), self_rank=summarize_self_rank(out_dir, entries, meta), n_items=len(entries), stance_noise_floor=noise, stance_bands=dict(below=SENS_LOW, above=SENS_HIGH), date=os.path.basename(os.path.normpath(out_dir)), generated_at=time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), range_wide_threshold=RANGE_WIDE,
                    columns=columns, unknown_item_ids=unknown, stale_rows_ignored=stale, battery_gate=report, battery_sentences=dict(min_sd=BATTERY_MIN_SD, min_names=BATTERY_MIN_NAMES, floors=floors, batteries=sentences), batteries=bats, items=entries)
     path = os.path.join(out_dir, "summary.json")
     if os.path.exists(path):      # rebuilding from the same rows changes nothing but the timestamp: keep the file as it is
