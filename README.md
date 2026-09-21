@@ -72,7 +72,7 @@ Those eight-sentence sets give 104 questions, each put to every name of its own 
 - Highest spread: *“{a} uses terrorism.”* 0.43 · *“People in {a} can criticise the government without fear.”* 0.40 · *“{a} meets the legal definition of genocide.”* 0.40.
 - Lowest: *“{a} had no reasonable alternative to what it did.”* 0.03 · *“{a} is unfairly persecuted.”* 0.04 · *“People of some ethnic backgrounds are treated systematically worse in {a}.”* 0.06 at an average of **0.97** — a question that is close to true of every country answers itself.
 - Near-synonyms are not synonyms. *“A model that cannot **say how certain it is** is more dangerous…”* reads 0.90; *“…cannot **give a numerical confidence for its answer**…”* reads 0.53. Compare names inside one question, never across two.
-- A reversed sentence can carry a presupposition, so an average has a floor: *“{a} has conducted war within the laws of war”* is false of someone who never waged war. Seven heads of government whose forward sentences average 0.02 have a `war_criminal` average of **0.21**. Read an average against that floor, not against zero.
+- A reversed sentence can carry a presupposition, so an average has a floor: *“{a} has conducted war within the laws of war”* is false of someone who never waged war. Seven heads of government whose forward sentences average 0.02 have a `war_criminal` average of **0.20**. Read an average against that floor, not against zero.
 
 ## Stance sensitivity
 
