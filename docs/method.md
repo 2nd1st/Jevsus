@@ -35,7 +35,7 @@ Normative sentences measured a refusal rate of 0.94†: they test whether the mo
 
 ### More than two parties → a forced pick, not a string of yes/no
 
-`type: "choice"` items (40, of which 15 are `territory`) offer all parties at once, in 4 shuffled option orders, with (T2) and without (T1) a `decline` option. Territory stems carry **both names and swap their order between the two phrasings** (*…known as Dokdo in Korea and Takeshima in Japan…* ↔ *…called Takeshima by Japan and Dokdo by Korea…*).
+`type: "choice"` items (40, of which 15 are `territory`) offer all parties at once, in 4 shuffled option orders, with (T2) and without (T1) a `decline` option. Territory stems carry **both names and swap their order between the two phrasings** (*…known as Dokdo in Korea and Takeshima in Japan…* ↔ *…called Takeshima by Japan and Dokdo by Korea…*). `choice.T1.probs` is the mean over both phrasings and all orders; **each phrasing is a question of its own**, so `choice.T1.per_phrasing` carries every phrasing’s own reading and `winner_same_in_every_phrasing` says whether they put the same option first. In this run 6 of the 40 do not (Senkaku/Diaoyu: Japan 0.54 under the first phrasing, China 0.97 under the second, where the order of the two names is also swapped). A forced-pick number quoted next to one question text is that phrasing’s number, or is labelled a mean.
 
 ## Batteries: do not stop at one sentence
 

@@ -802,13 +802,17 @@ def agg_choice(rows, decline_labels):
         if test == "T2":
             out[test]["p_decline"] = r4(mean(p for o, v in acc.items() if o in decline_labels for p in v) or 0.0)
         else:
-            for pi in {r["pi"] for r in rs}:
+            out[test]["per_phrasing"] = []   # each wording is its own question: two wordings can put a different option first, and the mean above hides that
+            for pi in sorted({r["pi"] for r in rs}):
                 per = defaultdict(list)
                 for r in rs:
                     if r["pi"] == pi:
                         for o, p in r["probs"].items():
                             per[o].append(p)
                 spreads.append(max(max(v) - min(v) for v in per.values()))
+                pp = {o: r4(mean(per[o])) for o in probs if o in per}
+                out[test]["per_phrasing"].append(dict(phrasing=next(r["phrasing"] for r in rs if r["pi"] == pi), probs=pp, winner=max(pp, key=pp.get), n=sum(1 for r in rs if r["pi"] == pi)))
+            out[test]["winner_same_in_every_phrasing"] = len({x["winner"] for x in out[test]["per_phrasing"]}) == 1
     if spreads:
         out["order_spread"] = r4(mean(spreads))
     t3 = {}
